@@ -94,7 +94,7 @@ const gatsbyConfig = {
         name: title,
         short_name: title,
         description: description,
-        start_url: `/`,
+        start_url: `/bookmark/`,
         lang: 'ko',
         background_color: `#fff`,
         theme_color: `#fff`,

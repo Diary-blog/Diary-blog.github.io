@@ -2,7 +2,7 @@ import * as React from 'react';
 import { useEffect, useState, useCallback } from 'react';
 import { Link } from 'gatsby';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
-import { faTags, faSearch, faMoon, faSun, faChevronRight } from '@fortawesome/free-solid-svg-icons';
+import { faSearch, faMoon, faSun, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { connect } from 'react-redux';
 import { useColorMode } from 'theme-ui';
 
