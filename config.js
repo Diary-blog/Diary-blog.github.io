@@ -3,7 +3,7 @@ module.exports = {
   title: `📙`,
   description: `Bookmark`,
   author: `Author`,
-  siteUrl: 'https://diary-blog.github.io/bookmark',
+  siteUrl: 'https://diary-blog.github.io',
 
   /** Header */
   profileImageFileName: 'icecream.png',
