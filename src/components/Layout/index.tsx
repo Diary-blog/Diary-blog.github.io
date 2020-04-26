@@ -6,7 +6,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import MobileDetect from 'mobile-detect';
 import { config as FaConfig, dom as FaDom } from '@fortawesome/fontawesome-svg-core';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
-import { faAngleDoubleUp } from '@fortawesome/free-solid-svg-icons';
+import { faAngleUp } from '@fortawesome/free-solid-svg-icons';
 import { useColorMode } from 'theme-ui';
 
 import Header from '../Header';
@@ -83,7 +83,7 @@ const Layout = (props: LayoutPropsType) => {
             window.scrollTo({ top: 0, behavior: 'smooth' });
           }}
         >
-          <Fa icon={faAngleDoubleUp} />
+          <Fa icon={faAngleUp} />
         </div>
       </div>
     </>
