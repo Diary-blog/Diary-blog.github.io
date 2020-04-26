@@ -13,7 +13,7 @@ keywords: motivation
 https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC?fbclid=IwAR1iNtOvdnoPWMOJ_H-0z6Z4X03CuRujN2P94kvCgzWmf77OftwrF8GfMOM
 
 ```
----
+
 가장 빠르게 배우는 방법
 
 - 코딩에 관한 좋은 영상을 보고 강사나 발표자에게 연락해서
@@ -23,7 +23,7 @@ https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%
 - 좋아하는 것들을 백지 상태에서 따라 만들어보고 어떻게 작동하는지 살펴보세요.
 - 워크샵에서 강의를 해보세요.
 - 컨퍼런스에서 학습한 것들을 요약해보세요
----
+
 ```
 
 
