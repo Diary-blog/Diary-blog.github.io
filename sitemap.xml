@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://diary-blog.github.io/bookmark/two/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/bookmark/one/</loc> <lastmod>2020-04-26</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/bookmark/Motivation/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/bookmark/ReactJS/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/bookmark/Typescript/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/bookmark/front-end/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/bookmark/bookmark/</loc> <lastmod>2020-04-26</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/bookmark/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/bookmark/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/bookmark/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
