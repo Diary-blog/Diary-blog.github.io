@@ -1,5 +1,5 @@
 ---
-title: Typescript
+title: Typescript (5)
 date: 2020-04-26
 tags:
   - Typescript
