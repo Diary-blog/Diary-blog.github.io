@@ -3,7 +3,7 @@ module.exports = {
   title: `📙`,                           // (* Required)
   description: `Bookmark`,          // (* Required)
   author: `Author`,                         // (* Required)
-  siteUrl: 'https://github.com/Diary-blog/bookmark',                      // (* Required)
+  siteUrl: 'https://diary-blog.github.io/bookmark',                      // (* Required)
 
   /** Header */
   profileImageFileName: 'icecream.png',
