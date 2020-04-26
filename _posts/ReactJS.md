@@ -14,4 +14,3 @@ keywords: React,
 코드 : https://github.com/upmostly/react-chrome-extension
 영상 : https://youtu.be/4x0lQu1TOCQ
 
-## ReactJS
