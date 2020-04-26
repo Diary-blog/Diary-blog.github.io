@@ -1,7 +1,6 @@
 ---
 title: Facebook bookmark
 date: 2020-02-25
-update: 2020-04-25
 tags:
   - Bookmark
 keywords: Bookmark
@@ -9,18 +8,12 @@ keywords: Bookmark
 
 ![](./image/2020-04-26-04-25-40.png)
 
-## Title
+안녕하세요 Erin 입니다.
 
-### sub title
+이곳은 취미로 수집한 url을 정리하는 개인 저장소 입니다.  
+블로그 만들면서 임시로 포스팅 몇 개만 올려두었어요. 앞으로 조금씩 정리하려 해요.  
+기존에 모아두었던 포스팅 정리가 끝나면 필요한 기능도 업데이트 예정 입니다.
 
-`Markdown`
+감사합니다. :)
 
-```
----
-title: Title
-date: 2020-01-01
-tags:
-  - tag
-keywords: keyword
----
-```
+
