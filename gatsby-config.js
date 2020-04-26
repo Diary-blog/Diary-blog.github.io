@@ -22,7 +22,7 @@ const gatsbyConfig = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `markdown-pages`,
-        path: `${__dirname}/_posts`,
+        path: `${__dirname}/bookmark/_posts`,
       },
     },
 
@@ -80,7 +80,7 @@ const gatsbyConfig = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/bookmark/src/images`,
       },
     },
 
@@ -94,7 +94,7 @@ const gatsbyConfig = {
         name: title,
         short_name: title,
         description: description,
-        start_url: `/`,
+        start_url: `/bookmark/`,
         lang: 'ko',
         background_color: `#fff`,
         theme_color: `#fff`,
@@ -110,14 +110,14 @@ const gatsbyConfig = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography.ts`,
+        pathToConfigModule: `/bookmark/src/utils/typography.ts`,
       },
     },
 
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        output: `/sitemap.xml`,
+        output: `/bookmark/sitemap.xml`,
         query: `
           {
           site {
