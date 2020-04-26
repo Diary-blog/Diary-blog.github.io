@@ -12,7 +12,7 @@ module.exports = {
   comment: 'Facebook URL BookMark',
   name: '',
   company: '',
-  location: '',
+  location: '/bookmark/',
   email: '',
   website: '',
   linkedin: '',
