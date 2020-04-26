@@ -47,6 +47,7 @@ const Tags = (props: TagsPageProps) => {
             fontSize: g.fieldValue !== 'undefined' ? getFontSize() : '1rem',
             opacity: g.fieldValue === targetTag ? '0.9' : '0.5',
             fontWeight: g.fieldValue === targetTag ? 'bold' : 'normal',
+            color: g.fieldValue === targetTag ? '#f87325' : '#000',
           }}
           onClick={() => {
             setTargetTag(g.fieldValue);
