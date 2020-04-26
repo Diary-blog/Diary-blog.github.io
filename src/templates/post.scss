@@ -12,7 +12,12 @@
     padding: 1rem;
 
     a {
-      text-decoration-line: underline;
+      color: #a7a7a7;
+      // text-decoration-line: underline;
+    }
+
+    svg {
+      width: 24px;
     }
 
     .blog-post-title {
@@ -155,6 +160,7 @@
     .inside-toc-wrap {
       display: flex;
       justify-content: flex-end;
+      margin-top: 2rem;
     }
 
     .blog-post-content {
