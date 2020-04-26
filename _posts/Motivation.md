@@ -1,6 +1,7 @@
 ---
 title: Motivation (2)
 date: 2020-04-26
+update: 2020-04-27
 tags:
   - Motivation
 keywords: motivation
@@ -33,7 +34,7 @@ https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%
 https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3UBRIpCuHTLMvbVlLDE4Z5MTtSAWUkaaALdZEEo1hOpOPT-SCI
 
 ```
----
+
 - 자동화할 수 있는 검증의 책무를 사람이 아닌 기계에게 맡기는 것 또한 도움이 된다.
   사람이 ‘이 풀 리퀘스트는 기존의 기능을 깨먹지 않았습니다’고 말하는 것을 믿는 대신,
   자동화된 회귀 테스트가 검증하게 한다. 
@@ -49,5 +50,5 @@ https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3
   따라서 더 많은 소스 확보가 아니라 큐레이션에 집중해야 한다.
 
 -  받기만 하는 입장에서 주기도 하는 입장으로 가기 위해 넘어야 할 문턱은 생각보다 높지 않다.
----
+
 ```
