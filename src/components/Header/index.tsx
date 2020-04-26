@@ -63,18 +63,18 @@ const Header = (props: headerPropsType) => {
 
     if (profile) {
       if (currPath === prevPath) {
-        setPath(location.pathname, currPath !== '/bookmark/' ? '25px' : '50px');
+        setPath(location.pathname, currPath !== '/' ? '25px' : '50px');
       }
 
-      if (prevPath !== '/bookmark/' && currPath === '/bookmark/') {
+      if (prevPath !== '/' && currPath === '/') {
         setPath(location.pathname, '50px');
       }
 
-      if (prevPath === '/bookmark/' && currPath !== '/bookmark/') {
+      if (prevPath === '/' && currPath !== '/') {
         setPath(location.pathname, '25px');
       }
 
-      if (prevPath !== '/bookmark/' && currPath !== '/bookmark/') {
+      if (prevPath !== '/' && currPath !== '/') {
         setPath(location.pathname);
       }
     } else {
@@ -112,7 +112,7 @@ const Header = (props: headerPropsType) => {
           </div>
         </Link> */}
 
-        <Link to="/">
+        <Link to="/bookmark/">
           <h1 className="header-title-text">{siteTitle}</h1>
         </Link>
       </div>
