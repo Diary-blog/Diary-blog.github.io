@@ -74,7 +74,7 @@ const Header = (props: headerPropsType) => {
         setPath(location.pathname, '25px');
       }
 
-      if (prevPath !== '/' && currPath !== '/') {
+      if (prevPath !== '/bookmark/' && currPath !== '/bookmark/') {
         setPath(location.pathname);
       }
     } else {
