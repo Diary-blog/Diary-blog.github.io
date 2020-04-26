@@ -22,7 +22,7 @@ const gatsbyConfig = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `markdown-pages`,
-        path: `${__dirname}/bookmark/_posts`,
+        path: `${__dirname}/_posts`,
       },
     },
 
@@ -80,7 +80,7 @@ const gatsbyConfig = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/bookmark/src/images`,
+        path: `${__dirname}/src/images`,
       },
     },
 
@@ -94,7 +94,7 @@ const gatsbyConfig = {
         name: title,
         short_name: title,
         description: description,
-        start_url: `/bookmark/`,
+        start_url: `/`,
         lang: 'ko',
         background_color: `#fff`,
         theme_color: `#fff`,
@@ -110,14 +110,14 @@ const gatsbyConfig = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `/bookmark/src/utils/typography.ts`,
+        pathToConfigModule: `src/utils/typography.ts`,
       },
     },
 
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        output: `/bookmark/sitemap.xml`,
+        output: `/sitemap.xml`,
         query: `
           {
           site {
@@ -207,8 +207,8 @@ const gatsbyConfig = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: siteUrl,
-        sitemap: `${siteUrl}${siteUrl[siteUrl.length - 1] !== '/' ? '/bookmark/' : ''}sitemap.xml`,
-        policy: [{ userAgent: '*', allow: '/bookmark/' }],
+        sitemap: `${siteUrl}${siteUrl[siteUrl.length - 1] !== '/' ? '/' : ''}sitemap.xml`,
+        policy: [{ userAgent: '*', allow: '/' }],
       },
     },
   ],
@@ -218,7 +218,7 @@ if (process.env.NODE_ENV === 'development') {
   gatsbyConfig.plugins.push({
     resolve: `gatsby-source-filesystem`,
     options: {
-      path: `${__dirname}/bookmark/_drafts`,
+      path: `${__dirname}/_drafts`,
       name: 'markdown-pages',
     },
   });
