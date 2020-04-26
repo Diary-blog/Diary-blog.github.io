@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://diary-blog.github.io/bookmark/sitemap.xml
+Sitemap: https://diary-blog.github.io/sitemap.xml
 Host: https://diary-blog.github.io
