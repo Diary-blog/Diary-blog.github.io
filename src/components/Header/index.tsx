@@ -112,7 +112,7 @@ const Header = (props: headerPropsType) => {
           </div>
         </Link> */}
 
-        <Link to="/">
+        <Link to="/bookmark/">
           <h1 className="header-title-text">{siteTitle}</h1>
         </Link>
       </div>

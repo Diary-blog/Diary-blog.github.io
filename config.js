@@ -1,9 +1,9 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `📙`,                           // (* Required)
-  description: `Bookmark`,          // (* Required)
-  author: `Author`,                         // (* Required)
-  siteUrl: 'https://diary-blog.github.io/bookmark',                      // (* Required)
+  title: `📙`,
+  description: `Bookmark`,
+  author: `Author`,
+  siteUrl: 'https://diary-blog.github.io/bookmark',
 
   /** Header */
   profileImageFileName: 'icecream.png',
