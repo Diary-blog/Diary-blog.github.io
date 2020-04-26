@@ -6,7 +6,7 @@ tags:
 keywords: react, gatsby
 ---
 
-![](image/2020-04-26-04-25-40.png)
+![](./image/2020-04-26-04-25-40.png)
 
 ## Title
 
