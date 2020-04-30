@@ -1,6 +1,7 @@
 ---
-title: JavaScript (1)
+title: JavaScript (2)
 date: 2020-04-27
+update : 2020-04-30
 tags:
   - JavaScript
 keywords: javascript
@@ -14,3 +15,5 @@ keywords: javascript
 http://kangax.github.io/compat-table/es6/
 
 
+### 매끄러운 경험을 위한 JavaScript 비동기 처리
+https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/?fbclid=IwAR28giZgGYzTog7SCPbVJwyrg2lxopHFLOCKRH-mM846MeWStxgJHrwQ9rg

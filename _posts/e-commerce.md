@@ -1,6 +1,7 @@
 ---
-title: E-commerce (1)
+title: E-commerce (2)
 date: 2020-04-27
+update : 2020-04-30
 tags:
   - E-commerce
 keywords: E-commerce
@@ -20,3 +21,8 @@ CLV(고객생애가치)
 
 ```
 https://brunch.co.kr/@beusable/189?fbclid=IwAR1Hy2TcBp-4Sy4cMeVX_a7rSv5kbd-cKrOd_sHuz5rdVJ4rFzBVj53B-rM
+
+
+### e-커머스 서비스의 핵심, GNB로 통하는 페이지 분석
+
+https://brunch.co.kr/@beusable/170?fbclid=IwAR1KHWJqhIQRE2T4Y1aXBJQ0EWfpJVRxorpMnxqrADOl3-WDGQk8RMN3GZs
