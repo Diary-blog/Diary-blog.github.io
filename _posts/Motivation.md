@@ -1,9 +1,9 @@
 ---
-title: Motivation (2)
+title: Motivation (4)
 date: 2020-04-26
-update: 2020-04-27
+update: 2020-04-30
 tags:
-  - Motivation
+  - Motivation, 
 keywords: motivation
 ---
 
@@ -52,3 +52,14 @@ https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3
 -  받기만 하는 입장에서 주기도 하는 입장으로 가기 위해 넘어야 할 문턱은 생각보다 높지 않다.
 
 ```
+
+
+
+### 전문가나 훈장이 아니라 배움에 목마른 학생이 필요하다
+https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M
+
+
+### CEO를 위한 운영 및 내부 커뮤니케이션 전략
+https://news.hada.io/topic?id=1156&fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M
+
+

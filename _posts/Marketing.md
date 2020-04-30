@@ -1,9 +1,10 @@
 ---
-title: Marketing (1)
+title: Marketing (2)
 date: 2020-04-27
+update: 2020-04-30
 tags:
-  - Marketing
-keywords: Marketing
+  - Marketing, AD
+keywords: Marketing, AD
 ---
 
 
@@ -24,3 +25,8 @@ https://brunch.co.kr/@bizspring/24
 * 오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와  
   목표, 대상을 의미하는 타겟(Target)을 합친 단어
 https://blog.naver.com/wishmedia_korea/221505860481
+
+
+### 2020 트렌드 요약 정리(2019)
+https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q
+
