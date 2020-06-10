@@ -153,9 +153,9 @@ const Post = (props: postProps) => {
     return Array.from(resultKeywords) as string[];
   };
 
-  const goBack = () => {
-    window.history.back();
-  }
+  // const goBack = () => {
+  //   window.history.back();
+  // }
 
   return (
     <>
