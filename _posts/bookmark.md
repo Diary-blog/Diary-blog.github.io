@@ -48,7 +48,9 @@ Gatsbyjs로 만들고 Github page로 배포한 개인 블로그 입니다.
 </details>
 
 ```
-view 제공 안되는 사이트 : Youtube, Github, uxdesign, openads, medium, GeekNews
+view 제공 안되는 사이트 :
+ Youtube, Github, uxdesign, openads, medium, GeekNews, gitbook,
+ adobe, behance, ttimes, rightbrain, bridge.500startups, typographyseoul, hypebeast, sampartners, imgur, labdigital
 ```
 
 ### 3. 기타 기능

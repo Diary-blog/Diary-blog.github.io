@@ -58,9 +58,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [기업의 UX 성숙도 1~4단계: 우리는 어느 단계일까?](http://bahns.net/ux-maturity-stages-1-4?fbclid=IwAR0AsBAZwA9iBtlSYuaF8H-PD4ImF2WqfDPVTJFVZh5-nixqY8yprVsXKQA)
-<details><summary> view </summary>
-<iframe src="http://bahns.net/ux-maturity-stages-1-4?fbclid=IwAR0AsBAZwA9iBtlSYuaF8H-PD4ImF2WqfDPVTJFVZh5-nixqY8yprVsXKQA"></iframe>
-</details>
 
 ### [I’ve Consulted Over 150 Mobile Sites — Here’s What I Know About Effective UX](https://medium.com/google-design/10-ux-trends-at-google-6cac31deaea5)
 
@@ -69,9 +66,6 @@ keywords: Design, UI, UX
 ### [Netflix design patterns and flows](https://uxdesign.cc/design-patterns-and-flows-bcb174732ee)
 
 ### [Apple Human Interface Guidelines 번역](https://miniring.gitbook.io/hig/?fbclid=IwAR3dTd_kkdtucXqMFGD2XTq8av3cYcM6CgM1Rd5w1A29lQQqNHJCEMzjYEM)
-<details><summary> view </summary>
-<iframe src="https://miniring.gitbook.io/hig/?fbclid=IwAR3dTd_kkdtucXqMFGD2XTq8av3cYcM6CgM1Rd5w1A29lQQqNHJCEMzjYEM"></iframe>
-</details>
 
 ### [Ever wonder why the most popular apps are starting to look the same? It might be a good thing](https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5)
 
@@ -140,14 +134,8 @@ keywords: Design, UI, UX
 </details>
 
 ### [2018년 베스트 글로벌 브랜드를 통해 보는 최신 트렌드](https://blogs.adobe.com/digitaldialogue/customer-experience-ko/best_global_brands_2018/?sdid=R3B5NXPK&mv=social&mv2=ownsoc&fbclid=IwAR1yMTm3wlszuF8Y6M4bO-9rgjEvrUn9XS5ammOzs327wXvRgmry0R-anSY)
-<details><summary> view </summary>
-<iframe src="https://blogs.adobe.com/digitaldialogue/customer-experience-ko/best_global_brands_2018/?sdid=R3B5NXPK&mv=social&mv2=ownsoc&fbclid=IwAR1yMTm3wlszuF8Y6M4bO-9rgjEvrUn9XS5ammOzs327wXvRgmry0R-anSY"></iframe>
-</details>
 
 ### [2019 Design Trends Guide](https://www.behance.net/gallery/71481981/2019-Design-Trends-Guide?fbclid=IwAR19gUI4qqtvYDVJAsQuqP-nd19XcI7vQkK1NZrbUCgE8V5fC6q3JaRohpE)
-<details><summary> view </summary>
-<iframe src="https://www.behance.net/gallery/71481981/2019-Design-Trends-Guide?fbclid=IwAR19gUI4qqtvYDVJAsQuqP-nd19XcI7vQkK1NZrbUCgE8V5fC6q3JaRohpE"></iframe>
-</details>
 
 ### [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 
@@ -167,9 +155,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [브랜드가 뭔지 한 수 가르쳐준 노브랜드](http://www.ttimes.co.kr/view.html?no=2018080711197729170&fbclid=IwAR3a-jIrL4mR3Y_dY2u3aKTd00PG7ZQYCZ3sH6GJWf2BLIJxDo-tgaEI-Dc)
-<details><summary> view </summary>
-<iframe src="http://www.ttimes.co.kr/view.html?no=2018080711197729170&fbclid=IwAR3a-jIrL4mR3Y_dY2u3aKTd00PG7ZQYCZ3sH6GJWf2BLIJxDo-tgaEI-Dc"></iframe>
-</details>
 
 ### [네이버 디자인 콜로키움 2018 후기](https://brunch.co.kr/@jeannejieunlee/29?fbclid=IwAR0rG9zj80kma-jk9BI9voUROXMacORyE5yrTj_bN-91CIgZbW7v_SDHwsQ)
 <details><summary> view </summary>
@@ -177,9 +162,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [Product Designer의 역할과 갖춰야 할 책임감](http://blog.rightbrain.co.kr/?p=9273&fbclid=IwAR1cu_aUqKPfkQEvNvgCdWqwaS41k_luOUnyZ_c2--n9YHoKWL85_ODq8C8)
-<details><summary> view </summary>
-<iframe src="http://blog.rightbrain.co.kr/?p=9273&fbclid=IwAR1cu_aUqKPfkQEvNvgCdWqwaS41k_luOUnyZ_c2--n9YHoKWL85_ODq8C8"></iframe>
-</details>
 
 ### [구글의 인터랙션 디자이너, 프로토파이를 창업하다](https://ppss.kr/archives/169187?fbclid=IwAR3I7NnQHy-3SjtK17c6lrDg85C-gXLaIKPWpTUffsKcmPXeIq59KA2JPfg)
 <details><summary> view </summary>
@@ -192,9 +174,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [좋은 랜딩 페이지는 어떻게 만드나](http://bridge.500startups.co.kr/%ec%a2%8b%ec%9d%80-%eb%9e%9c%eb%94%a9-%ed%8e%98%ec%9d%b4%ec%a7%80%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%9c%eb%82%98/?fbclid=IwAR1YHJgUgRXZLJdphMYXr29Kko9jBH2YCMGV9nC_q0IMiBrPOmjFqp2-3nA)
-<details><summary> view </summary>
-<iframe src="http://bridge.500startups.co.kr/%ec%a2%8b%ec%9d%80-%eb%9e%9c%eb%94%a9-%ed%8e%98%ec%9d%b4%ec%a7%80%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%9c%eb%82%98/?fbclid=IwAR1YHJgUgRXZLJdphMYXr29Kko9jBH2YCMGV9nC_q0IMiBrPOmjFqp2-3nA"></iframe>
-</details>
 
 ### [김선관 Google / Creative Leader](https://brunch.co.kr/@superkimbob/45?fbclid=IwAR0CJPEb0N0vR-wlH1SHMniUYtXi8EOoYgjayuF0lYVyNk_cvkynDq6CTFU)
 <details><summary> view </summary>
@@ -214,14 +193,9 @@ keywords: Design, UI, UX
 ### [어떻게 데이터를 이용해 디자인할 수 있을까?[번역]](http://www.openads.co.kr/nTrend/article/4065/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EB%B2%88%EC%97%AD?fbclid=IwAR0PePM1aMcNIN5Punc-PmhDk_VlxPuCy63mm9ce-X9FOUgoWkEM0TET5n4)
 
 ### [‘대화’라는 키워드를 자주 반복했던 Thirst 디자이너들과의 인터뷰](http://www.typographyseoul.com/news/detail/1084?fbclid=IwAR0FjUDFvASpSyYYx_-MQTsbP7RqDOaEmLZVsA-4ZgenYI-43odQx2TB8dQ)
-<details><summary> view </summary>
-<iframe src="http://www.typographyseoul.com/news/detail/1084?fbclid=IwAR0FjUDFvASpSyYYx_-MQTsbP7RqDOaEmLZVsA-4ZgenYI-43odQx2TB8dQ"></iframe>
-</details>
 
 ### [샘바이펜 인터뷰 - 가짜 예술을 하는 진짜 예술가](https://hypebeast.kr/2018/10/sam-by-pen-monopoly-exhibit-interview?utm_source=facebook&utm_medium=social&utm_campaign=facebook_post&fbclid=IwAR03qIMZVPiQ8zyNlxcN2RVszQATY9rk-G289rStw2lllVWfTjzPwFF5xpU)
-<details><summary> view </summary>
-<iframe src="https://hypebeast.kr/2018/10/sam-by-pen-monopoly-exhibit-interview?utm_source=facebook&utm_medium=social&utm_campaign=facebook_post&fbclid=IwAR03qIMZVPiQ8zyNlxcN2RVszQATY9rk-G289rStw2lllVWfTjzPwFF5xpU"></iframe>
-</details>
+
 
 <br/>
 <hr>
@@ -265,16 +239,12 @@ keywords: Design, UI, UX
 <iframe src="https://brunch.co.kr/@ultra0034/110?fbclid=IwAR1j7VgNxe_3INC236wpvlVM_UINeVUaTJc4J52fm01uOAf20YR9_ci-GY4"></iframe>
 </details>
 
-
 ### [South Korean Road Signage — Designing for the Korean highway network](https://studiodumbar.com/work/south-korean-road-signage?fbclid=IwAR19gUI4qqtvYDVJAsQuqP-nd19XcI7vQkK1NZrbUCgE8V5fC6q3JaRohpE)
 <details><summary> view </summary>
 <iframe src="https://studiodumbar.com/work/south-korean-road-signage?fbclid=IwAR19gUI4qqtvYDVJAsQuqP-nd19XcI7vQkK1NZrbUCgE8V5fC6q3JaRohpE"></iframe>
 </details>
 
 ### [Lemona integrated branding project](http://sampartners.co.kr/portfolio-item/lemonaintegrated-brandingproject/?fbclid=IwAR3dTd_kkdtucXqMFGD2XTq8av3cYcM6CgM1Rd5w1A29lQQqNHJCEMzjYEM)
-<details><summary> view </summary>
-<iframe src="http://sampartners.co.kr/portfolio-item/lemonaintegrated-brandingproject/?fbclid=IwAR3dTd_kkdtucXqMFGD2XTq8av3cYcM6CgM1Rd5w1A29lQQqNHJCEMzjYEM"></iframe>
-</details>
 
 ### [2018 그래픽 디자인 트렌드 정리](https://brunch.co.kr/@thinkaboutlove/211?fbclid=IwAR34AJh49M4_EIBf0o15mIie4W2n3qlbjAK-JvEQhygKsef9-QmCdh-8P1k)
 <details><summary> view </summary>
@@ -307,9 +277,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [Samsung Fire & Marine Insurance Brand Book](https://www.behance.net/gallery/72068803/Samsung-Fire-Marine-Insurance-Brand-Book?fbclid=IwAR2TYAMY7XHHYrWnRBgCSrT8AlZKopLV-NMs9alf-tf3Wvn3SaQXY2pnHM8)
-<details><summary> view </summary>
-<iframe src="https://www.behance.net/gallery/72068803/Samsung-Fire-Marine-Insurance-Brand-Book?fbclid=IwAR2TYAMY7XHHYrWnRBgCSrT8AlZKopLV-NMs9alf-tf3Wvn3SaQXY2pnHM8"></iframe>
-</details>
 
 ### [10 Great Google Font Combinations For Your Next Design Project](https://digitalsynopsis.com/design/best-google-fonts-combinations-typeface-pairings/?fbclid=IwAR3-l4M0dH6wb_92l9ZS30ygbklks0WWJqVvJZHaFHtkyD4obBiK_Tt3Suc)
 <details><summary> view </summary>
@@ -317,9 +284,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [LA NOBILE ARTE – editorial](https://www.behance.net/gallery/95693693/LA-NOBILE-ARTE-editorial?fbclid=IwAR2C84yuF927fIEDJjxo39-biP03AQ0q3UDJwvwabUMo0RKLV5IoZyXhF5s)
-<details><summary> view </summary>
-<iframe src="https://www.behance.net/gallery/95693693/LA-NOBILE-ARTE-editorial?fbclid=IwAR2C84yuF927fIEDJjxo39-biP03AQ0q3UDJwvwabUMo0RKLV5IoZyXhF5s"></iframe>
-</details>
 
 ### [Design Memphis – editorial](https://www.designideas.pics/design-memphis-editorial/?fbclid=IwAR1wajDjxidgDl8uGyi3knD1NhW_dG9Cc8h3ggETeOA1_M6tpZl8mT7UH9g)
 <details><summary> view </summary>
@@ -327,9 +291,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [All of the Apple logos from the October 30th event invites](https://imgur.com/a/ufybGk6?fbclid=IwAR1nrPW5RmF4MwJpyO9oEYAfiG_3mD2292Vn6siinjf8tNvZSUQSKFpc7Bg)
-<details><summary> view </summary>
-<iframe src="https://imgur.com/a/ufybGk6?fbclid=IwAR1nrPW5RmF4MwJpyO9oEYAfiG_3mD2292Vn6siinjf8tNvZSUQSKFpc7Bg"></iframe>
-</details>
 
 ### [블루보틀과 애플 스토어를 디자인한 회사](https://brunch.co.kr/@acgroup/64?fbclid=IwAR1eCmFb4Tc7GzhvDeDPTVwhRFhWwUZzx-7QQHaGfnfH3SZzHl35NSR5zU8)
 <details><summary> view </summary>
@@ -343,9 +304,6 @@ keywords: Design, UI, UX
 ## 📄 Interaction & Motion
 
 ### [Motion in design: four conclusions](https://blog.labdigital.nl/motion-in-design-179a87f29514)
-<details><summary> view </summary>
-<iframe src="https://blog.labdigital.nl/motion-in-design-179a87f29514"></iframe>
-</details>
 
 ### [Adobe XD Auto-Animate](https://medium.com/hyuk/adobe-xd-auto-animate-be3839cc10d)
 
@@ -357,19 +315,10 @@ keywords: Design, UI, UX
 ## 📄 Resource
 
 ### [Everyone needs a base to start from. We are DesignBase.](https://www.felixjoy.co/designbase?fbclid=IwAR0AsBAZwA9iBtlSYuaF8H-PD4ImF2WqfDPVTJFVZh5-nixqY8yprVsXKQA)
-<details><summary> view </summary>
-<iframe src="https://www.felixjoy.co/designbase?fbclid=IwAR0AsBAZwA9iBtlSYuaF8H-PD4ImF2WqfDPVTJFVZh5-nixqY8yprVsXKQA"></iframe>
-</details>
 
 ### [A Library of 100 Downloadable Photoshop Textures](https://www.archdaily.com/900268/a-library-of-100-downloadable-photoshop-textures?fbclid=IwAR22v8EdxCcMPSn4EeT03m4tApNpoqg7FDHPyv712tw8vDN05dWsmGBOhUo)
-<details><summary> view </summary>
-<iframe src="https://www.archdaily.com/900268/a-library-of-100-downloadable-photoshop-textures?fbclid=IwAR22v8EdxCcMPSn4EeT03m4tApNpoqg7FDHPyv712tw8vDN05dWsmGBOhUo"></iframe>
-</details>
 
 ### [Auto-Animate UI Kit for Adobe XD](https://www.behance.net/gallery/72065227/Auto-Animate-UI-Kit?fbclid=IwAR0AsBAZwA9iBtlSYuaF8H-PD4ImF2WqfDPVTJFVZh5-nixqY8yprVsXKQA)
-<details><summary> view </summary>
-<iframe src="https://www.behance.net/gallery/72065227/Auto-Animate-UI-Kit?fbclid=IwAR0AsBAZwA9iBtlSYuaF8H-PD4ImF2WqfDPVTJFVZh5-nixqY8yprVsXKQA"></iframe>
-</details>
 
 ### [9,382 Mockups](https://www.uxfree.com/category/graphics/mockups/)
 <details><summary> view </summary>
