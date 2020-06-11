@@ -32,10 +32,9 @@ https://blog.naver.com/wishmedia_korea/221505860481
 
 ### [추천 알고리즘, 내 취향을 어떻게 그렇게 잘 알아](https://ppss.kr/archives/208811)
 
-### [[SW][페북입문3/4단원] 제가 쓰고 있는 페이스북 실전 광고 관리법](https://www.i-boss.co.kr/ab-6141-42230?utm_medium=social&utm_campaign=media_info&utm_term=jhkim&utm_content=191211_jh_19&ibfs=ZWI6ZY0C&fbclid=IwAR3aYTHRghTzqGLR7a8De1unxAZEU3mAnNW5-izS4xE9s_ONNLFSg2aKvRM
-)
+### [페이스북 실전 광고 관리법](https://www.i-boss.co.kr/ab-6141-42230?utm_medium=social&utm_campaign=media_info&utm_term=jhkim&utm_content=191211_jh_19&ibfs=ZWI6ZY0C&fbclid=IwAR3aYTHRghTzqGLR7a8De1unxAZEU3mAnNW5-izS4xE9s_ONNLFSg2aKvRM)
 
-### [[ 마케팅 ] 퍼널 마케팅(Funnel Marketing), 퍼널 분석 개념 이해와 디지털시대 전환율 상승 전략](https://blog.naver.com/mage7th/221452784843)
+### [퍼널 마케팅(Funnel Marketing), 퍼널 분석 개념 이해와 디지털시대 전환율 상승 전략](https://blog.naver.com/mage7th/221452784843)
 
 ### [2019 구글 인사이트 및 2020 전망](https://www.c-rocket.net/post/untitled-1)
 

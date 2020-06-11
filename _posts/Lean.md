@@ -79,7 +79,7 @@ keywords: motivation, Lean, startup
 ### [CEO를 위한 운영 및 내부 커뮤니케이션 전략](https://news.hada.io/topic?id=1156)
 
 ### [스타트업 조직문화 가이드 만들기](https://brunch.co.kr/@zorbayoun/12)
-s
+
 ### [트렐로에서 프로덕트 매니저가 일하는 방법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
 ### [[웹기획가이드] 화면설계서 양식 공유합니다.](https://www.yamestyle.com/431)
