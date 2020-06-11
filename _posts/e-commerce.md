@@ -40,7 +40,4 @@ CLV(고객생애가치)
 
 
 ### [상품상세페이지 개선해 성과내기](https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1)
-<details><summary> view </summary>
-<iframe src="https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1"></iframe>
-</details>
 
