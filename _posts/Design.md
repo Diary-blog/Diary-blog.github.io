@@ -9,7 +9,7 @@ keywords: Design, UI, UX
 
 |   |   |   |   |   |   |  
 |:---:|:---:|:---:|:---:|:---:|:---:|  
-|**[UIUX, HCI, Accessibility](./#-uiux-hci-accessibility)**|**[Design system](./#-design-system)**|**[Design story](./#-design-story)**|**[Graphic, Branding](./#-Graphic-Branding)**|**[Interaction, Motion](./#-Interaction-&-Motion)**|**[Resource](./#-resource)**|
+|**[UIUX, HCI, Accessibility](./#-uiux-hci-accessibility)**|**[Design system](./#-design-system)**|**[Design story](./#-design-story)**|**[Graphic, Branding](./#-graphic-branding)**|**[Interaction, Motion](./#-interaction--motion)**|**[Resource](./#-resource)**|
 
 <br/>
 <br/>
@@ -74,9 +74,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [Ever wonder why the most popular apps are starting to look the same? It might be a good thing](https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5)
-<details><summary> view </summary>
-<iframe src="https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5"></iframe>
-</details>
 
 ### [Forging a New Path for Disabled Design: An Interview with Liz Jackson](https://xd.adobe.com/ideas/perspectives/interviews/liz-jackson-accessibility-inclusive-design/?fbclid=IwAR2de7SIc_xJRGttMfNh9d8UAYIh7o9CHt85Y3eC8uIcD0F8ir-QySp7-JU)
 <details><summary> view </summary>
@@ -91,14 +88,8 @@ keywords: Design, UI, UX
 </details>
 
 ### [Snapchat: a UX case study](https://uxdesign.cc/snapchat-a-ux-case-study-8b8a520df7d1)
-<details><summary> view </summary>
-<iframe src="https://uxdesign.cc/snapchat-a-ux-case-study-8b8a520df7d1"></iframe>
-</details>
 
 ### [랜딩 페이지, 심리적 접근으로 설계하다.](http://www.openads.co.kr/nTrend/article/2141/%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8B%AC%EB%A6%AC%EC%A0%81-%EC%A0%91%EA%B7%BC%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%98%EB%8B%A4?fbclid=IwAR0LC6OggbTeVtRGBGEOnRNeUQhAjOHE96Z7DtFxFp2id3zHjfahU4PvLms)
-<details><summary> view </summary>
-<iframe src="http://www.openads.co.kr/nTrend/article/2141/%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8B%AC%EB%A6%AC%EC%A0%81-%EC%A0%91%EA%B7%BC%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%98%EB%8B%A4?fbclid=IwAR0LC6OggbTeVtRGBGEOnRNeUQhAjOHE96Z7DtFxFp2id3zHjfahU4PvLms"></iframe>
-</details>
 
 ### [UX디자인 케이스 스터디 하는 방법](https://brunch.co.kr/@thinkaboutlove/208?fbclid=IwAR08QOETYwukYavFC3kZQyU1SL2HS__2z5D1WK5ivkkbJaEoHSgSPonhPqI)
 <details><summary> view </summary>
@@ -159,9 +150,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
-<details><summary> view </summary>
-<iframe src="https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5"></iframe>
-</details>
 
 ### [이 시대 브랜드 가치는 '차별화' 아닌 '진정성' 에서 나온다](https://m.mk.co.kr/news/business/view/2018/04/219777/#mkmain)
 <details><summary> view </summary>
@@ -224,9 +212,6 @@ keywords: Design, UI, UX
 </details>
 
 ### [어떻게 데이터를 이용해 디자인할 수 있을까?[번역]](http://www.openads.co.kr/nTrend/article/4065/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EB%B2%88%EC%97%AD?fbclid=IwAR0PePM1aMcNIN5Punc-PmhDk_VlxPuCy63mm9ce-X9FOUgoWkEM0TET5n4)
-<details><summary> view </summary>
-<iframe src="http://www.openads.co.kr/nTrend/article/4065/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EB%B2%88%EC%97%AD?fbclid=IwAR0PePM1aMcNIN5Punc-PmhDk_VlxPuCy63mm9ce-X9FOUgoWkEM0TET5n4"></iframe>
-</details>
 
 ### [‘대화’라는 키워드를 자주 반복했던 Thirst 디자이너들과의 인터뷰](http://www.typographyseoul.com/news/detail/1084?fbclid=IwAR0FjUDFvASpSyYYx_-MQTsbP7RqDOaEmLZVsA-4ZgenYI-43odQx2TB8dQ)
 <details><summary> view </summary>
@@ -363,19 +348,10 @@ keywords: Design, UI, UX
 </details>
 
 ### [Adobe XD Auto-Animate](https://medium.com/hyuk/adobe-xd-auto-animate-be3839cc10d)
-<details><summary> view </summary>
-<iframe src="https://medium.com/hyuk/adobe-xd-auto-animate-be3839cc10d"></iframe>
-</details>
 
 ### [Time zones app, Medical ecommerce, Day statistics and more… Weekly interactions roundup](https://medium.muz.li/time-zones-app-medical-ecommerce-day-statistics-and-more-weekly-interactions-roundup-6a90863b940e)
-<details><summary> view </summary>
-<iframe src="https://medium.muz.li/time-zones-app-medical-ecommerce-day-statistics-and-more-weekly-interactions-roundup-6a90863b940e"></iframe>
-</details>
 
 ### [디자이너가 알아야 할 모바일 앱 인터렉션 11가지](http://www.openads.co.kr/nTrend/article/2763/%EC%84%B8%EA%B3%841%EC%A3%BC-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EC%9D%B8%ED%84%B0%EB%A0%89%EC%85%98-11%EA%B0%80%EC%A7%80?fbclid=IwAR3gKFRwjRTMlzBOi6TsaQOneXcu_7W1ua0dcWRsy-WCOpYdf_Wg_x_-T4c)
-<details><summary> view </summary>
-<iframe src="http://www.openads.co.kr/nTrend/article/2763/%EC%84%B8%EA%B3%841%EC%A3%BC-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EC%9D%B8%ED%84%B0%EB%A0%89%EC%85%98-11%EA%B0%80%EC%A7%80?fbclid=IwAR3gKFRwjRTMlzBOi6TsaQOneXcu_7W1ua0dcWRsy-WCOpYdf_Wg_x_-T4c"></iframe>
-</details>
 
 
 ## 📄 Resource
