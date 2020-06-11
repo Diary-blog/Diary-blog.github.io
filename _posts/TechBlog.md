@@ -18,9 +18,11 @@ keywords: TechBlog, Techstory
 
 ### [IT 기술블로그 모음](https://page.co.kr/@dev/bookmark)
 <details><summary> 요약 </summary>
+
 위젯 형태 https://page.co.kr/@dev/
 RSS모아보기 https://page.co.kr/@dev/2
 북마크 모음 https://page.co.kr/@dev/bookmark
+
 </details>
 <details><summary> view </summary>
 <iframe src="https://page.co.kr/@dev/2"></iframe>

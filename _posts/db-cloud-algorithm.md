@@ -21,11 +21,13 @@ keywords: Algorithm, DB, Cloud
 
 ### [알고리즘 초보자 어떻게 공부하면 좋을까](https://spellofstar.github.io/post/how_to_study_algorithms/)
 <details><summary> 요약 </summary>
+
 - 공통적으로 필요한 사항 (구현 능력의 필요성)
 - 백준에서 문제 고르는 팁
 - 백준 풀어볼 문제 결정하기
 - 알고리즘에 시간을 쓸 여유가 있는 경우 공부 방법
 - 알고리즘에 시간을 쓸 여유가 그리 없는 경우 공부 방법으로
+
 </details>
 <details><summary> view </summary>
 <iframe src="https://spellofstar.github.io/post/how_to_study_algorithms/"></iframe>
