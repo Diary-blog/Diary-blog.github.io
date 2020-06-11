@@ -11,6 +11,10 @@ a {
     transition: color 0.8s;
   }
 
+  &.dark {a:visited {color: var(--theme-ui-colors-text,#e4e4e4);}}
+  &.light{a:visited {color: #333;}}
+
+
   &.light {
     @media screen and (max-width: $break-l) {
       #Header {
