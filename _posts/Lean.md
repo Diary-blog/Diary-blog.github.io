@@ -24,10 +24,6 @@ keywords: motivation
 
 </details>
 
-<details><summary> view </summary>
-<iframe src="https://brunch.co.kr/@beusable/189?fbclid=IwAR1Hy2TcBp-4Sy4cMeVX_a7rSv5kbd-cKrOd_sHuz5rdVJ4rFzBVj53B-rM"></iframe>
-</details>
-
 <br/>
 
 ### [프로그래머로서의 성장을 도왔던 태도 (2018)](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3UBRIpCuHTLMvbVlLDE4Z5MTtSAWUkaaALdZEEo1hOpOPT-SCI)
@@ -52,9 +48,5 @@ keywords: motivation
 
 
 ### [전문가나 훈장이 아니라 배움에 목마른 학생이 필요하다](https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M)
-<details><summary> view </summary>
-<iframe src="https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M"></iframe>
-</details>
-
 
 ### [CEO를 위한 운영 및 내부 커뮤니케이션 전략](https://news.hada.io/topic?id=1156&fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M)

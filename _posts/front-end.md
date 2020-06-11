@@ -13,7 +13,6 @@ keywords: front-end, interview
 구직 팁, 이직 이야기, 이력서&포트폴리오 작성법, 면접 팁
 
 ### [프론트엔드 개발자 인터뷰 후기](https://j.mp/2XkKILy) 
-<details><summary> view </summary><iframe src="https://j.mp/2XkKILy"></iframe></details>
 
 ### [리액트 ReactJS 개발자 인터뷰 모음](https://j.mp/2yMdj2e)
 

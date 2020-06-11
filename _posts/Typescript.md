@@ -18,6 +18,3 @@ keywords: Typescript
 ### [클린코드 타입스크립트](https://github.com/738/clean-code-typescript/blob/master/README.md)
 
 ### [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
-<details><summary> view </summary>
-<iframe src="https://typescript-kr.github.io/"></iframe>
-</details>

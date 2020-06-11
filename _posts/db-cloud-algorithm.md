@@ -14,10 +14,6 @@ keywords: Algorithm, DB, Cloud
 ## 📄 Algorithm
 
 ### [문자열 검색 알고리즘](https://bowbowbow.tistory.com/6?fbclid=IwAR3WKTcKxPMUxOVrq3sy4KjwIzCe1aceKzchQeYUNiQjFtlS5ykZG5Czq7c)
-<details><summary> view </summary>
-<iframe src="https://bowbowbow.tistory.com/6?fbclid=IwAR3WKTcKxPMUxOVrq3sy4KjwIzCe1aceKzchQeYUNiQjFtlS5ykZG5Czq7c"></iframe>
-</details>
-
 
 ### [알고리즘 초보자 어떻게 공부하면 좋을까](https://spellofstar.github.io/post/how_to_study_algorithms/)
 <details><summary> 요약 </summary>
@@ -29,14 +25,8 @@ keywords: Algorithm, DB, Cloud
 - 알고리즘에 시간을 쓸 여유가 그리 없는 경우 공부 방법으로
 
 </details>
-<details><summary> view </summary>
-<iframe src="https://spellofstar.github.io/post/how_to_study_algorithms/"></iframe>
-</details>
 
 
 ## 📄 Database
 
 ### [메인 데이터베이스 IDC 탈출기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html?fbclid=IwAR0vYzSFIoj36FbUl7q1tuXori0ecU8SHT0ROhoacSSwjjTl5pwbTvxeiAU)
-<details><summary> view </summary>
-<iframe src="https://woowabros.github.io/experience/2019/12/19/ruby_database.html?fbclid=IwAR0vYzSFIoj36FbUl7q1tuXori0ecU8SHT0ROhoacSSwjjTl5pwbTvxeiAU"></iframe>
-</details>

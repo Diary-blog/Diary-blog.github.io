@@ -43,15 +43,14 @@ ex) [diary-blog 입니다](https://diary-blog.github.io)
 Gatsbyjs로 만들고 Github page로 배포한 개인 블로그 입니다.
 </details>
 
-4. view 를 클릭하여 제목에 해당하는 페이지를 미리 볼 수 있습니다.  <details><summary> view </summary>
-<iframe src="https://diary-blog.github.io/"></iframe>
-</details>
+<br/>
 
-```
-view 제공 안되는 사이트 :
+*Markdown에 iframe을 적용하면 무한루프가 생겨서 삭제하였습니다.*  
+
+~~4. view 를 클릭하여 제목에 해당하는 페이지를 미리 볼 수 있습니다.~~  
+~~view 제공 안되는 사이트 :
  Youtube, Github, uxdesign, openads, medium, GeekNews, gitbook,
- adobe, behance, ttimes, rightbrain, bridge.500startups, typographyseoul, hypebeast, sampartners, imgur, labdigital
-```
+ adobe, behance, ttimes, rightbrain, bridge.500startups, typographyseoul, hypebeast, sampartners, imgur, labdigital~~
 
 ### 3. 기타 기능
 

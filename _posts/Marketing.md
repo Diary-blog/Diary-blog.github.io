@@ -26,13 +26,5 @@ https://blog.naver.com/wishmedia_korea/221505860481
 
 </details>
 
-<details><summary> view </summary>
-<iframe src="https://brunch.co.kr/@bizspring/24"></iframe>
-</details>
-
-
-
 ### [2020 트렌드 요약 정리(2019)](https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q)
-<details><summary> view </summary>
-<iframe src="https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q"></iframe>
-</details>
+
