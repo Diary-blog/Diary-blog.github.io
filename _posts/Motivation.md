@@ -1,20 +1,16 @@
 ---
-title: Motivation (4)
+title: Lean
 date: 2020-04-26
-update: 2020-04-30
+update: 2020-06-11
 tags:
-  - Motivation, 
+  - Motivation, Lean
 keywords: motivation
 ---
 
+## 📄 배움, 학습, 성장, 동기부여
 
-## 배움, 학습, 성장, 동기부여
-
-### 공개적으로 학습
-https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC?fbclid=IwAR1iNtOvdnoPWMOJ_H-0z6Z4X03CuRujN2P94kvCgzWmf77OftwrF8GfMOM
-
-```
-
+### [공개적으로 학습](https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC?fbclid=IwAR1iNtOvdnoPWMOJ_H-0z6Z4X03CuRujN2P94kvCgzWmf77OftwrF8GfMOM)
+<details><summary> 요약 </summary>
 가장 빠르게 배우는 방법
 
 - 코딩에 관한 좋은 영상을 보고 강사나 발표자에게 연락해서
@@ -24,16 +20,16 @@ https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%
 - 좋아하는 것들을 백지 상태에서 따라 만들어보고 어떻게 작동하는지 살펴보세요.
 - 워크샵에서 강의를 해보세요.
 - 컨퍼런스에서 학습한 것들을 요약해보세요
+</details>
 
-```
-
+<details><summary> view </summary>
+<iframe src="https://brunch.co.kr/@beusable/189?fbclid=IwAR1Hy2TcBp-4Sy4cMeVX_a7rSv5kbd-cKrOd_sHuz5rdVJ4rFzBVj53B-rM"></iframe>
+</details>
 
 <br/>
 
-### 프로그래머로서의 성장을 도왔던 태도 (2018)
-https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3UBRIpCuHTLMvbVlLDE4Z5MTtSAWUkaaALdZEEo1hOpOPT-SCI
-
-```
+### [프로그래머로서의 성장을 도왔던 태도 (2018)](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3UBRIpCuHTLMvbVlLDE4Z5MTtSAWUkaaALdZEEo1hOpOPT-SCI)
+<details><summary> 요약 </summary>
 
 - 자동화할 수 있는 검증의 책무를 사람이 아닌 기계에게 맡기는 것 또한 도움이 된다.
   사람이 ‘이 풀 리퀘스트는 기존의 기능을 깨먹지 않았습니다’고 말하는 것을 믿는 대신,
@@ -50,16 +46,20 @@ https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3
   따라서 더 많은 소스 확보가 아니라 큐레이션에 집중해야 한다.
 
 -  받기만 하는 입장에서 주기도 하는 입장으로 가기 위해 넘어야 할 문턱은 생각보다 높지 않다.
-
-```
-
-
-
-### 전문가나 훈장이 아니라 배움에 목마른 학생이 필요하다
-https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M
+</details>
+<details><summary> view </summary>
+<iframe src="https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3UBRIpCuHTLMvbVlLDE4Z5MTtSAWUkaaALdZEEo1hOpOPT-SCI"></iframe>
+</details>
 
 
-### CEO를 위한 운영 및 내부 커뮤니케이션 전략
-https://news.hada.io/topic?id=1156&fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M
+### [전문가나 훈장이 아니라 배움에 목마른 학생이 필요하다](https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M)
+<details><summary> view </summary>
+<iframe src="https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M"></iframe>
+</details>
 
 
+### [CEO를 위한 운영 및 내부 커뮤니케이션 전략](https://news.hada.io/topic?id=1156&fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M)
+
+<details><summary> view </summary>
+<iframe src="https://news.hada.io/topic?id=1156&fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M"></iframe>
+</details>

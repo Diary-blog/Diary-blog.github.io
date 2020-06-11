@@ -27,7 +27,7 @@ keywords: Bookmark
 <p style="color: #333">https://diary-blog.github.io/</p>
 
 4. toc도 링크를 클릭했을때와 클릭하지 않았을때 텍스트 컬러로 구분 가능합니다.
-![](2020-06-11-07-46-35.png)
+![](./image/bookmark-2.png)
 
 <br>
 
@@ -54,7 +54,7 @@ view 제공 안되는 사이트 : Youtube, Github
 ### 3. 기타 기능
 
 1. 포스팅 내부 목차
-![](2020-06-11-07-43-22.png)
+![](./image/bookmark-1.png)
 
 2. 다크모드, 필터, 검색, RSS, TOP, 공유하기(페이스북, 트위터)
 
