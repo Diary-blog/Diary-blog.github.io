@@ -3,8 +3,8 @@ title: Lean
 date: 2020-04-26
 update: 2020-06-11
 tags:
-  - Motivation, Lean
-keywords: motivation
+  - Lean
+keywords: motivation, Lean
 ---
 
 ## 📄 배움, 학습, 성장, 동기부여
