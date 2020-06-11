@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2020-04-30
-update: 2020-06-11
+update: 2020-06-12
 tags:
   - Design
 keywords: Design, UI, UX
@@ -61,6 +61,7 @@ keywords: Design, UI, UX
 
 ### [UX디자인 케이스 스터디 하는 방법](https://brunch.co.kr/@thinkaboutlove/208)
 
+### [Unboxing Chrome](https://medium.com/@san_toki/unboxing-chrome-f6af7b8161a2)
 
 <br/>
 <hr>
@@ -174,6 +175,8 @@ keywords: Design, UI, UX
 ### [All of the Apple logos from the October 30th event invites](https://imgur.com/a/ufybGk6)
 
 ### [블루보틀과 애플 스토어를 디자인한 회사](https://brunch.co.kr/@acgroup/64)
+
+### [2020 Pentawards](https://pentawards.com/2020/en/page/home)
 
 <br/>
 <hr>

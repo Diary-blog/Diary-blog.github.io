@@ -1,7 +1,7 @@
 ---
 title: Marketing
 date: 2020-04-27
-update: 2020-06-11
+update: 2020-06-12
 tags:
   - Marketing
 keywords: Marketing, AD
@@ -27,4 +27,6 @@ https://blog.naver.com/wishmedia_korea/221505860481
 </details>
 
 ### [2020 트렌드 요약 정리(2019)](https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q)
+
+### [디지털 마케팅 2018 후기, 1편](https://story.pxd.co.kr/1342)
 

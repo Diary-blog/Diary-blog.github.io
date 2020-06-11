@@ -1,7 +1,7 @@
 ---
 title: JavaScript
 date: 2020-04-27
-update : 2020-06-11
+update : 2020-06-12
 tags:
   - JavaScript
 keywords: javascript, ReactJS, Nodejs, ECMA
@@ -32,9 +32,17 @@ keywords: javascript, ReactJS, Nodejs, ECMA
 코드 : https://github.com/upmostly/react-chrome-extension  
 영상 : https://youtu.be/4x0lQu1TOCQ
 
+### [An Introduction to Hooks in React](https://www.newline.co/fullstack-react/articles/an-introduction-to-hooks-in-react/)
+
+### [30 Days of Framer X](https://hermy0211.github.io/framer30/)
+
+### [framer ex](https://framer.cloud/CGisN/)
+
+
+
 <hr>
 
 ## 📄 NodeJS
 
-### nodejs
+### [nodejs의 내부 동작 원리 (libuv, 이벤트루프, 워커쓰레드, 비동기)](https://sjh836.tistory.com/149)
 

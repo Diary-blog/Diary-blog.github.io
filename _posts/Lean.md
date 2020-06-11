@@ -1,10 +1,10 @@
 ---
-title: Lean
+title: Lean, startup
 date: 2020-04-26
-update: 2020-06-11
+update: 2020-06-12
 tags:
-  - Lean
-keywords: motivation, Lean
+  - Lean, startup
+keywords: motivation, Lean, startup
 ---
 
 ## 📄 배움, 학습, 성장, 동기부여
@@ -46,7 +46,28 @@ keywords: motivation, Lean
 -  받기만 하는 입장에서 주기도 하는 입장으로 가기 위해 넘어야 할 문턱은 생각보다 높지 않다.
 </details>
 
+### [전문가나 훈장이 아니라 배움에 목마른 학생이 필요하다](https://brunch.co.kr/@jsyqa/43)
 
-### [전문가나 훈장이 아니라 배움에 목마른 학생이 필요하다](https://brunch.co.kr/@jsyqa/43?fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M)
+### [한국인 1호 구글러 “나 혼자서라도 바꿀 겁니다”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=008&aid=0003305230)
 
-### [CEO를 위한 운영 및 내부 커뮤니케이션 전략](https://news.hada.io/topic?id=1156&fbclid=IwAR2xD3nC4j6fofQd-wKivSD979Ey3Wne94CIPWX5aN2S4MkBYxTx27TlS4M)
+### [생산성 폭발하는 습관 기르기](https://brunch.co.kr/@sower/18)
+
+### [하루를 충실하게 보내고 싶으세요? 다음 13가지 원칙을 잊지 마세요](https://ppss.kr/archives/177654)
+
+### [피드백은 섬세한 기술이다](https://ppss.kr/archives/169177)
+
+### [네이버 지식인 조광현 할아버지 "모르는 게 더 많아야 합니다"](https://news.sbs.co.kr/news/endPage.do?news_id=N1004982608)
+
+<br/>
+<hr>
+
+
+## 📄 스타트업, 조직문화
+
+### [CEO를 위한 운영 및 내부 커뮤니케이션 전략](https://news.hada.io/topic?id=1156)
+
+### [스타트업 조직문화 가이드 만들기](https://brunch.co.kr/@zorbayoun/12)
+
+### [트렐로에서 프로덕트 매니저가 일하는 방법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+
+
