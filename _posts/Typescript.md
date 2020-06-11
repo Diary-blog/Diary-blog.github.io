@@ -10,9 +10,6 @@ keywords: Typescript
 ## 📄 Typescript
 
 ### [자바스크립트 개발자를 위한 타입스크립트 (2018)](https://ahnheejong.gitbook.io/ts-for-jsdev/?fbclid=IwAR2sWfWjGfcpvO-iPCS3wQPVDWx3s0uXelgmPqsx11gHL-X_1dEeoqtFqaA)
-<details><summary> view </summary>
-<iframe src="https://ahnheejong.gitbook.io/ts-for-jsdev/?fbclid=IwAR2sWfWjGfcpvO-iPCS3wQPVDWx3s0uXelgmPqsx11gHL-X_1dEeoqtFqaA"></iframe>
-</details>
 
 ### [자바스크립트 리액트 프로젝트를 타입스크립트로 변환하기 위한 안내서](https://github.com/gothinkster/react-mobx-realworld-example-app)
 
