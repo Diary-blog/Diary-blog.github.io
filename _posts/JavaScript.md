@@ -10,7 +10,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 |   |   |   |   |
 |:---:|:---:|:---:|:---:|  
 |**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](./#-reactjs)**|
-|**[Typescript](./#-typescript)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|
+|**[TypeScript](./#-typescript)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|
 
 <br/>
 
@@ -52,7 +52,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 코드 : https://github.com/upmostly/react-chrome-extension  
 영상 : https://youtu.be/4x0lQu1TOCQ
 
-<details>
+</details>
 
 ### [An Introduction to Hooks in React](https://www.newline.co/fullstack-react/articles/an-introduction-to-hooks-in-react/)
 
