@@ -59,7 +59,7 @@ const Search = (props: SearchProps) => {
                 in Title
               </span> */}
               <span
-                style={{ opacity: !isTitleOnly ? 0.8 : 0.15 }}
+                style={{ opacity: !isTitleOnly ? 0.8 : 1 }}
                 onClick={() => {
                   setIsTitleOnly(false);
                 }}
