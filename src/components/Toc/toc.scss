@@ -2,12 +2,12 @@
 
 .toc {
   font-size: 0.8rem;
-  max-width: 330px;
-  min-width: 330px;
+  max-width: 300px;
+  min-width: 300px;
   max-height: calc(100vh - 6rem);
   transition: opacity 0.3s;
   padding-right: 0.5rem;
-  margin-right: 2rem;
+  // margin-right: 2rem;
 
   &::-webkit-scrollbar {
     display: none;
@@ -52,7 +52,7 @@
   right: 0;
   overflow: auto;
   margin-top: 9rem;
-  opacity: 0.4;
+  opacity: 0.7;
   max-height: 85%;
 
   @media screen and (max-width: $break-toc) {
