@@ -63,6 +63,62 @@ keywords: Design, UI, UX
 
 ### [Unboxing Chrome](https://medium.com/@san_toki/unboxing-chrome-f6af7b8161a2)
 
+### [The Comprehensive 8pt Grid Guide](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+
+### [2018년의 UX세미나 후기 모음](https://brunch.co.kr/@uxhaaz/70)
+
+### [Top 10 UX Articles of 2019](https://www.nngroup.com/news/item/top-10-ux-articles-2019/)
+
+### [Fundamentals of Hierarchy in Interface Design (UI)](https://medium.com/swlh/fundamentals-of-hierarchy-in-interface-design-ui-ba8e3017dceb)
+
+### [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
+
+### [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, 피그마(Figma)](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
+
+### [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
+
+### [UX Week 2012 | Peter Merholz | UX is Strategy; Not Design](https://vimeo.com/52634329)
+
+### [일관된 UI를 더 빠르게 구축하기 위해 UI 구성 요소를 공유 (Sharing UI Components to Build Consistent UIs faster)](https://www.vobour.com/%EC%9D%BC%EA%B4%80%EB%90%9C-ui%EB%A5%BC-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-ui-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EB%A5%BC-%EA%B3%B5%EC%9C%A0-shar)
+
+### [SPA에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
+
+### [Ultimate resource list for mobile design](https://uxdesign.cc/ultimate-resource-list-for-mobile-design-c5a8aad17bd7)
+
+### [The Definitive Guide to Building Apps for Kids](https://www.toptal.com/designers/interactive/guide-to-apps-for-children)
+
+### [‘UX리서치 그리고 UX리서처’ with 디자인 테이블](https://brunch.co.kr/@coupangdesign/16)
+
+### [KBS의 웹 접근성 준수 방법론](http://www.kbs.co.kr/accessibility/)
+
+### [Information architecture: Definition, tips, and best practices](https://www.invisionapp.com/inside-design/information-architecture/)
+
+### [과연 UX/UI는 진짜로 사라질까?](https://brunch.co.kr/@jbkim8905/20)
+
+### [UX가 궁금한 개발자에게 보내는 편지](https://story.pxd.co.kr/1446)
+
+### [The State of UX in 2020](https://trends.uxdesign.cc/)
+
+### [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b)
+
+### [Creating a color algorithm with accessibility in mind](https://medium.com/swlh/creating-a-color-algorithm-with-accessibility-in-mind-60c5b8256e19)
+
+### [#07 UX/UI 디자인 가이드 모음집 - 기본편](https://chaef.tistory.com/9)
+
+### [#08 UX/UI 디자인 가이드 모음집 - 심화편](https://chaef.tistory.com/10)
+
+### [UI버튼의 둥근 모서리에 대한 이해](https://brunch.co.kr/@blackindigo-red/37?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+
+### [What’s the next UI design trend?](https://uxdesign.cc/whats-the-next-ui-design-trend-75c8b61f5c7c)
+
+### [드롭다운의 문제점](https://thinkofweb.net/127)
+
+### [키오스크 UI 설계 시 고려할 것들](https://story.pxd.co.kr/1332)
+
+### [20+ UI Design Concepts for Education on Web and Mobile](https://design4users.com/education-ui-design/)
+
+### [모바일 UI UX 기본가이드](https://brunch.co.kr/magazine/muxui)
+
 <br/>
 <hr>
 
@@ -71,6 +127,16 @@ keywords: Design, UI, UX
 ### [우버 디자인 플랫폼](https://medium.com/uber-design/uber-design-platform-1ebff86c89e7)
 
 ### [Airbnb의 디자인시스템](https://brunch.co.kr/@eunlune/15)
+
+### [State of Design Systems 2019](https://medium.com/google-design/state-of-design-systems-2019-ff5f26ada71)
+
+### [Fluent Design System](https://www.microsoft.com/design/fluent/)
+
+### [toss, design, system](https://www.notion.so/toss-design-system-959822692bec4f879450e361c623cf2a)
+
+### [The full stack design system](https://www.intercom.com/blog/the-full-stack-design-system)
+
+### [디자인 시스템 7편 - 컴포넌트를 디자인할 때 고려해야 할 것들](https://story.pxd.co.kr/1470)
 
 <br/>
 <hr>
@@ -113,8 +179,6 @@ keywords: Design, UI, UX
 
 ### [김선관 Google / Creative Leader](https://brunch.co.kr/@superkimbob/45)
 
-### [2018년의 UX세미나 후기 모음](https://brunch.co.kr/@uxhaaz/70)
-
 ### [지난 4년간 브랜딩을 하면서 느낀 10가지 것들](https://brunch.co.kr/@roysday/278)
 
 ### [어떻게 데이터를 이용해 디자인할 수 있을까?[번역]](http://www.openads.co.kr/nTrend/article/4065/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EB%B2%88%EC%97%AD)
@@ -122,6 +186,44 @@ keywords: Design, UI, UX
 ### [‘대화’라는 키워드를 자주 반복했던 Thirst 디자이너들과의 인터뷰](http://www.typographyseoul.com/news/detail/1084)
 
 ### [샘바이펜 인터뷰 - 가짜 예술을 하는 진짜 예술가](https://hypebeast.kr/2018/10/sam-by-pen-monopoly-exhibit-interview?utm_source=facebook&utm_medium=social&utm_campaign=facebook_post&fbclid=IwAR03qIMZVPiQ8zyNlxcN2RVszQATY9rk-G289rStw2lllVWfTjzPwFF5xpU)
+
+### [2019 상반기 웹디자인 트렌드(하)](https://brunch.co.kr/@thinkaboutlove/275)
+
+### [SPECTRUM CON 2019 : Joy of Design](https://www.notion.so/SPECTRUM-CON-2019-Joy-of-Design-812f22b52e76428fae29c69f9fd1647d)
+
+### [2020 트렌드 요약 정리](https://servicedesign.tistory.com/183)
+
+### [디터 람스는 어떻게 애플의 롤모델이 되었나](https://brunch.co.kr/@soundsgood/94)
+
+### [스페이스오디티의 핵심가치를 소개합니다](https://www.spaceoddity.me/odditymagazine/odditycorevalue)
+
+### [부릉 브랜드 로고 리뉴얼에 담긴 물류 혁신과 역동성 이야기](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27066947&memberNo=41723036)
+
+### [재미있고 기발하고 신기한 에러페이지 디자인 10가지](https://ppss.kr/archives/208297)
+
+### [2019 서울 디자인 페스티벌을 다녀와서 Part.1](https://insidestory.kr/21692)
+
+### [Web Tech Concert 2019 #6 후기](https://story.pxd.co.kr/1471)
+
+### [출판계 연봉 공개 (익명의 설문지)(응답)](https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815)
+<details><summary> 요약 </summary>
+
+설문지 : https://docs.google.com/forms/d/e/1FAIpQLSe0B-pZzjxevsYo9K6sBpsaAani1924VG5LzA01b2IX7y-x_Q/viewform
+설문지 결과 : https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815
+
+</details>
+
+### [한국에서 브랜드 경험 디자이너로 산다는 것 #1](https://brunch.co.kr/@choikiwoong/35)
+
+### [NAVER DESIGN Colloquium 2019](https://www.notion.so/NAVER-DESIGN-Colloquium-2019-336dff3718e94369b970f523fc49e69a)
+
+### [2020년 소셜 미디어 그래픽 디자인 트렌드](https://www.i-boss.co.kr/ab-6141-42139?utm_medium=social&utm_campaign=media_info&utm_term=jhkim&utm_content=191202_jh_20&ibfs=ZWI6ZY0C&fbclid=IwAR0nV6aXKCSW7_Y9OVj5zhxca_5PtPdCMLBTtTShiIkNW64fUCwBABpQ6Bc)
+
+### [2020년을 리드할 그래픽 디자인 트렌드 5가지](https://www.designsori.com/zero/1158466)
+
+### [2020년 로고 디자인 제작 트렌드 3가지!](https://m.blog.naver.com/louders33/221727049873)
+
+### [2020년 주목되는 그래픽 디자인의 최신 트렌드 10 개 정리](http://photoshopvip.net/118933)
 
 
 <br/>
@@ -178,6 +280,61 @@ keywords: Design, UI, UX
 
 ### [2020 Pentawards](https://pentawards.com/2020/en/page/home)
 
+### [빠르게 로고를 만들어보자](https://brunch.co.kr/@ayhhh1/15)
+
+### [typography](https://www.typography.com/)
+
+### [pentagram](https://www.pentagram.com/work)
+
+### [Luckit Golf of kakaopay](https://www.behance.net/gallery/89551299/Luckit-Golf-of-kakaopay)
+
+### [The new illustration system of kakaopay](https://www.behance.net/gallery/87370669/illustration-system-kakaopay)
+
+### [9가지 그래픽디자인 아이디어 툴](https://brunch.co.kr/@theh18/2)
+
+### [SOCAR INFORMATION FILM](https://superverymore.tv/socar-information-film?fbclid=IwAR1-alwnHo_hZnnsB-oC7S2Tpw9uP-ApnfDl6t91b7dxZOjbNfBuuhIWyvs)
+
+### [맥스봉으로 노란 에너지 충전! 맥스봉 인스타그램](https://ditoday.com/%EB%A7%A5%EC%8A%A4%EB%B4%89%EC%9C%BC%EB%A1%9C-%EB%85%B8%EB%9E%80-%EC%97%90%EB%84%88%EC%A7%80-%EC%B6%A9%EC%A0%84-%EB%A7%A5%EC%8A%A4%EB%B4%89-%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8/)
+
+### [principal](https://www.principal.studio/?fbclid=IwAR2gI9FddnlSKlxePxd_10aWhNoD6V9mBObsRhtzsm9-zIzmyoic9uHwhYc)
+
+### [기아차, 드디어 엠블럼 바꾼다..역대 로고 변천사](https://auto.v.daum.net/v/NAD1rF1F0v)
+
+### [[제작기]링글의 리플렛은 예쁘다.](https://brunch.co.kr/@roysday/436)
+
+### [INTRODUCING 15 BEST NEW PORTFOLIOS, NOVEMBER 2019](https://www.webdesignerdepot.com/2019/11/introducing-15-best-new-portfolios-november-2019/)
+
+### [[제작기]투자제안서는 말이 되게 만들어야지.](https://brunch.co.kr/@roysday/434)
+
+### [<딜카> 브랜드 리뉴얼 프로젝트](https://brunch.co.kr/@bat/51)
+
+### [sbsF!L Channel Branding](https://www.behance.net/gallery/88949535/sbsFL-Channel-Branding)
+
+### [20 FRESHEST WEB DESIGNS, OCTOBER 2019](https://www.webdesignerdepot.com/2019/10/20-freshest-web-designs-october-2019/)
+
+### [서른 살 빈폴의 새로운 공간 디자인](https://m.blog.naver.com/designpress2016/221731108960)
+
+### [BANDINLUNIS Brand Experience Design ( Concept , 2018 )](https://notefolio.net/kwonhyeonggi/117786)
+
+### [서비스 디자인이 공공의료와 만나면 어떤 모습일까?](https://brunch.co.kr/@euncse/14)
+
+### [14 inspiring UX designer portfolios](https://webflow.com/blog/ux-designer-portfolio)
+
+### [야후 브랜드 아이덴티티 변천사와 리뉴얼](https://brunch.co.kr/@zwang/41)
+
+### [포르투갈 '포르투(포루투)'는 도시를 어떻게 이야기할까? 포르투 여행 때 시선을 사로잡았던 '포르투'의 도시 브랜딩/디자인 커뮤니케이션](https://blog.naver.com/stussy9505/221717267387)
+
+### [총체적난국의 회사소개서 만드는 법 10가지를 소개해요](https://brunch.co.kr/@roysday/312?utm_source=facebook.brunch_co_kr&utm_campaign=daily)
+
+### [브랜드 일러스트 제작기, 그 이후](https://brunch.co.kr/@plusxadvancelab/8)
+
+### [생수통에 현대카드를 넣었다? 브랜드를 그대로 담은 디자인,아워 워터(Our Water)](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27005861&memberNo=21527483)
+
+### [하늘 아래 같은 레드는 없다](https://brunch.co.kr/@ayhhh1/4)
+
+### [Onboarding kit of kakaopay corp](https://www.behance.net/gallery/84154525/Onboarding-kit-of-kakaopay-corp)
+
+
 <br/>
 <hr>
 
@@ -192,6 +349,14 @@ keywords: Design, UI, UX
 
 ### [디자이너가 알아야 할 모바일 앱 인터렉션 11가지](http://www.openads.co.kr/nTrend/article/2763/%EC%84%B8%EA%B3%841%EC%A3%BC-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EC%9D%B8%ED%84%B0%EB%A0%89%EC%85%98-11%EA%B0%80%EC%A7%80)
 
+### [UI Interaction UI 인터랙션 — Web Tech Concert 2019](https://slides.com/yamoo9/ui-interaction-wtc)
+
+### [Disney’s motion principles in designing interface animations](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43)
+
+### [인터랙션 디자이너 미켈레 아퀼라와의 패널 토크](https://brunch.co.kr/@jinbread/162)
+
+<br/>
+<hr>
 
 ## 📄 Resource
 
@@ -202,5 +367,19 @@ keywords: Design, UI, UX
 ### [Auto-Animate UI Kit for Adobe XD](https://www.behance.net/gallery/72065227/Auto-Animate-UI-Kit)
 
 ### [9,382 Mockups](https://www.uxfree.com/category/graphics/mockups/)
+
+### [3D 목업](https://www.rotato.xyz/)
+
+### [디자이너의 서랍](https://www.notion.so/766928f6742141279a181efb98276502)
+
+### [누구나 사용할 수 있는 UX 리뷰 템플릿](https://brunch.co.kr/@miminammimi/11)
+
+### [Airbnb가 만든 Lottie를 기반으로 인터랙티브한 다양한 아이콘을 사용해 보세요.](https://lordicon.com/)
+
+### [400 FREE ANIMATED ICONS](https://icons8.com/animated-icons)
+
+
+
+
 
 

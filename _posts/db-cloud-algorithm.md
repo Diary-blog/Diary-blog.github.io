@@ -1,14 +1,14 @@
 ---
-title: Algorithm, DB, Cloud
-date : 2020-06-11
+title: Algorithm, DB, Cloud, system architecture
+date : 2020-06-12
 tags:
-  - Algorithm, DB, Cloud
-keywords: Algorithm, DB, Cloud
+  - Algorithm, DB, Cloud, system architecture
+keywords: Algorithm, DB, Cloud, system architecture
 ---
 
-|   |   |   |
-|:---:|:---:|:---:|  
-|**[Algorithm](./#-algorithm)**|**[Database](./#-database)**|**[Cloud](./#-cloud)**|
+|   |   |   |   |
+|:---:|:---:|:---:|:---:|  
+|**[Algorithm](./#-algorithm)**|**[Database](./#-database)**|**[Cloud, deploy](./#-cloud-deploy)**|**[System architecture](./#-system-architecture)**|
 
 
 ## 📄 Algorithm
@@ -26,7 +26,25 @@ keywords: Algorithm, DB, Cloud
 
 </details>
 
+<br/>
+<hr>
 
 ## 📄 Database
 
 ### [메인 데이터베이스 IDC 탈출기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html?fbclid=IwAR0vYzSFIoj36FbUl7q1tuXori0ecU8SHT0ROhoacSSwjjTl5pwbTvxeiAU)
+
+<br/>
+<hr>
+
+## 📄 cloud, deploy
+
+### [AWS ECS(with Fargate), GitHub, DockerHub, CircleCI를 활용해 서비스 자동 배포 하기(3)](https://medium.com/day34/deploy-automation-part-3-b9474e12e246)
+
+<br/>
+<hr>
+
+## 📄 system architecture
+
+### [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
+### [[DAP]전사아키텍처 아키텍처 매트릭스](https://m.blog.naver.com/oracledo/220587899230)
