@@ -9,7 +9,7 @@ keywords: TechBlog, Techstory
 
 |   |   |  
 |:---:|:---:|  
-|**[Tech Blog](./#techblog)**|**[Tech story](./#techstory)**|
+|**[Tech Blog](./#-tech-blog)**|**[Tech story](./#-tech-story)**|
 
 
 ## 📄 Tech Blog

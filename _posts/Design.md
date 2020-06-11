@@ -9,7 +9,7 @@ keywords: Design, UI, UX
 
 |   |   |  
 |:---:|:---:|  
-|**[UIUX](./#uiux)**|**[Design system](./#designsystem)**|
+|**[UIUX](./#-uiux-design-guide)**|**[Design system](./#-design-system)**|
 
 
 ## 📄 UIUX Design Guide

@@ -8,7 +8,7 @@ keywords: Algorithm, DB, Cloud
 
 |   |   |   |
 |:---:|:---:|:---:|  
-|**[Algorithm](./#algorithm)**|**[Database](./#database)**|**[Cloud](./#cloud)**|
+|**[Algorithm](./#-algorithm)**|**[Database](./#-database)**|**[Cloud](./#-cloud)**|
 
 
 ## 📄 Algorithm

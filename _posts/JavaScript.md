@@ -9,7 +9,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA
 
 |   |   |   |
 |:---:|:---:|:---:|  
-|**[![](./image/js.png) JavaScript](./#javascript)**|**[![](./image/react.png) ReactJS](./#reactjs)**|**[![](./image/node.png) NodeJS](./#nodejs)**|
+|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](./#-reactjs)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|
 
 <br/>
 
