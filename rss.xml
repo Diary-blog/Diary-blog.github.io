@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[📙 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 11 Jun 2020 08:09:41 GMT</lastBuildDate><item><title><![CDATA[Algorithm, DB, Cloud]]></title><description><![CDATA[Algorithm Database Cloud 📄 Algorithm 문자열 검색 알고리즘 알고리즘 초보자 어떻게 공부하면 좋을까 📄 Database 메인 데이터베이스 IDC 탈출기]]></description><link>https://diary-blog.github.io/db-cloud-algorithm/</link><guid isPermaLink="false">https://diary-blog.github.io/db-cloud-algorithm/</guid><pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[📙 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 11 Jun 2020 08:40:54 GMT</lastBuildDate><item><title><![CDATA[Algorithm, DB, Cloud]]></title><description><![CDATA[Algorithm Database Cloud 📄 Algorithm 문자열 검색 알고리즘 알고리즘 초보자 어떻게 공부하면 좋을까 📄 Database 메인 데이터베이스 IDC 탈출기]]></description><link>https://diary-blog.github.io/db-cloud-algorithm/</link><guid isPermaLink="false">https://diary-blog.github.io/db-cloud-algorithm/</guid><pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&quot;center&quot;&gt;&lt;/th&gt;
@@ -8,9 +8,9 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#algorithm&quot;&gt;Algorithm&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#database&quot;&gt;Database&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#cloud&quot;&gt;Cloud&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-algorithm&quot;&gt;Algorithm&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-database&quot;&gt;Database&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-cloud&quot;&gt;Cloud&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -43,8 +43,8 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#uiux&quot;&gt;UIUX&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#designsystem&quot;&gt;Design system&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-uiux-design-guide&quot;&gt;UIUX&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-design-system&quot;&gt;Design system&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -98,6 +98,31 @@ CLV(고객생애가치)
 &lt;h3 id=&quot;상품상세페이지-개선해-성과내기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0&quot; aria-label=&quot;상품상세페이지 개선해 성과내기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;상품상세페이지 개선해 성과내기&lt;/a&gt;&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; view &lt;/summary&gt;
 &lt;iframe src=&quot;https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1&quot;&gt;&lt;/iframe&gt;
+&lt;/details&gt;</content:encoded></item><item><title><![CDATA[Marketing]]></title><description><![CDATA[📄 Marketing Amazon의 광고방식 오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와 목표, 대상을 의미하는 타겟(Target)을 합친 단어
+https://blog.naver.com/wishmedia_korea…]]></description><link>https://diary-blog.github.io/Marketing/</link><guid isPermaLink="false">https://diary-blog.github.io/Marketing/</guid><pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;-marketing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-marketing&quot; aria-label=&quot; marketing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📄 Marketing&lt;/h2&gt;
+&lt;h3 id=&quot;amazon의-광고방식&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#amazon%EC%9D%98-%EA%B4%91%EA%B3%A0%EB%B0%A9%EC%8B%9D&quot; aria-label=&quot;amazon의 광고방식 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://brunch.co.kr/@bizspring/24&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Amazon의 광고방식&lt;/a&gt;&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; 요약 &lt;/summary&gt;
+- 구글은 소비자의 관심사를 알고 있으며, 페이스북은 소비자가 누구인지 알고있고,
+  아마존은 고객이 어떤 상품을 구매하는지 알고있다.
+- 고객 행동 데이터 수집
+- 잠재고객 목표 설정
+- 고객 스코어링 및 타깃 오디언스 분류(행동데이터 기반)
+- 타깃 오디언스 별 CTA를 위한 소재
+- 트리거(전환을 유도하기 위한 적절한 시점)
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와&lt;br&gt;
+목표, 대상을 의미하는 타겟(Target)을 합친 단어
+&lt;a href=&quot;https://blog.naver.com/wishmedia_korea/221505860481&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://blog.naver.com/wishmedia_korea/221505860481&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;&lt;summary&gt; view &lt;/summary&gt;
+&lt;iframe src=&quot;https://brunch.co.kr/@bizspring/24&quot;&gt;&lt;/iframe&gt;
+&lt;/details&gt;
+&lt;h3 id=&quot;2020-트렌드-요약-정리2019&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2020-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC2019&quot; aria-label=&quot;2020 트렌드 요약 정리2019 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;2020 트렌드 요약 정리(2019)&lt;/a&gt;&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; view &lt;/summary&gt;
+&lt;iframe src=&quot;https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q&quot;&gt;&lt;/iframe&gt;
 &lt;/details&gt;</content:encoded></item><item><title><![CDATA[JavaScript]]></title><description><![CDATA[JavaScript  ReactJS  NodeJS 📄 Javascript ECMA6 문법, 함수 호환성 테이블 (컴파일러, 폴리필, 데스크탑브라우저, 모바일, 서버, 런타임) 매끄러운 경험을 위한 JavaScript…]]></description><link>https://diary-blog.github.io/JavaScript/</link><guid isPermaLink="false">https://diary-blog.github.io/JavaScript/</guid><pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -108,7 +133,7 @@ CLV(고객생애가치)
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#javascript&quot;&gt;&lt;span
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-javascript&quot;&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 24px;&quot;
     &gt;
@@ -127,7 +152,7 @@ CLV(고객생애가치)
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt; JavaScript&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#reactjs&quot;&gt;&lt;span
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-reactjs&quot;&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 24px;&quot;
     &gt;
@@ -146,7 +171,7 @@ CLV(고객생애가치)
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt; ReactJS&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#nodejs&quot;&gt;&lt;span
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-nodejs&quot;&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 24px;&quot;
     &gt;
@@ -188,32 +213,7 @@ CLV(고객생애가치)
 영상 : &lt;a href=&quot;https://youtu.be/4x0lQu1TOCQ&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://youtu.be/4x0lQu1TOCQ&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;-nodejs&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-nodejs&quot; aria-label=&quot; nodejs permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📄 NodeJS&lt;/h2&gt;
-&lt;h3 id=&quot;nodejs&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#nodejs&quot; aria-label=&quot;nodejs permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;nodejs&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[Marketing]]></title><description><![CDATA[📄 Marketing Amazon의 광고방식 오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와 목표, 대상을 의미하는 타겟(Target)을 합친 단어
-https://blog.naver.com/wishmedia_korea…]]></description><link>https://diary-blog.github.io/Marketing/</link><guid isPermaLink="false">https://diary-blog.github.io/Marketing/</guid><pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;-marketing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-marketing&quot; aria-label=&quot; marketing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📄 Marketing&lt;/h2&gt;
-&lt;h3 id=&quot;amazon의-광고방식&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#amazon%EC%9D%98-%EA%B4%91%EA%B3%A0%EB%B0%A9%EC%8B%9D&quot; aria-label=&quot;amazon의 광고방식 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://brunch.co.kr/@bizspring/24&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Amazon의 광고방식&lt;/a&gt;&lt;/h3&gt;
-&lt;details&gt;&lt;summary&gt; 요약 &lt;/summary&gt;
-- 구글은 소비자의 관심사를 알고 있으며, 페이스북은 소비자가 누구인지 알고있고,
-  아마존은 고객이 어떤 상품을 구매하는지 알고있다.
-- 고객 행동 데이터 수집
-- 잠재고객 목표 설정
-- 고객 스코어링 및 타깃 오디언스 분류(행동데이터 기반)
-- 타깃 오디언스 별 CTA를 위한 소재
-- 트리거(전환을 유도하기 위한 적절한 시점)
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와&lt;br&gt;
-목표, 대상을 의미하는 타겟(Target)을 합친 단어
-&lt;a href=&quot;https://blog.naver.com/wishmedia_korea/221505860481&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://blog.naver.com/wishmedia_korea/221505860481&lt;/a&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;details&gt;&lt;summary&gt; view &lt;/summary&gt;
-&lt;iframe src=&quot;https://brunch.co.kr/@bizspring/24&quot;&gt;&lt;/iframe&gt;
-&lt;/details&gt;
-&lt;h3 id=&quot;2020-트렌드-요약-정리2019&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2020-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC2019&quot; aria-label=&quot;2020 트렌드 요약 정리2019 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;2020 트렌드 요약 정리(2019)&lt;/a&gt;&lt;/h3&gt;
-&lt;details&gt;&lt;summary&gt; view &lt;/summary&gt;
-&lt;iframe src=&quot;https://servicedesign.tistory.com/183?fbclid=IwAR1qarjDTEHfvEkmPbu7ivP-Rtt6DiV0VsiPKtS5BRGlTA-3eglgokw8T5Q&quot;&gt;&lt;/iframe&gt;
-&lt;/details&gt;</content:encoded></item><item><title><![CDATA[TechBlog]]></title><description><![CDATA[Tech Blog Tech story 📄 Tech Blog 고퀄리티 개발 컨텐츠 모음 IT 기술블로그 모음 📄 Tech story 카카오 브런치에서 기술블로그 2년 회고 중국 직구 서비스 개발 삽질기]]></description><link>https://diary-blog.github.io/TechBlog/</link><guid isPermaLink="false">https://diary-blog.github.io/TechBlog/</guid><pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
+&lt;h3 id=&quot;nodejs&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#nodejs&quot; aria-label=&quot;nodejs permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;nodejs&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[TechBlog]]></title><description><![CDATA[Tech Blog Tech story 📄 Tech Blog 고퀄리티 개발 컨텐츠 모음 IT 기술블로그 모음 📄 Tech story 카카오 브런치에서 기술블로그 2년 회고 중국 직구 서비스 개발 삽질기]]></description><link>https://diary-blog.github.io/TechBlog/</link><guid isPermaLink="false">https://diary-blog.github.io/TechBlog/</guid><pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&quot;center&quot;&gt;&lt;/th&gt;
@@ -222,8 +222,8 @@ https://blog.naver.com/wishmedia_korea…]]></description><link>https://diary-bl
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#techblog&quot;&gt;Tech Blog&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#techstory&quot;&gt;Tech story&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-tech-blog&quot;&gt;Tech Blog&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;&lt;a href=&quot;./#-tech-story&quot;&gt;Tech story&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
