@@ -286,9 +286,6 @@ keywords: Design, UI, UX
 ### [LA NOBILE ARTE – editorial](https://www.behance.net/gallery/95693693/LA-NOBILE-ARTE-editorial?fbclid=IwAR2C84yuF927fIEDJjxo39-biP03AQ0q3UDJwvwabUMo0RKLV5IoZyXhF5s)
 
 ### [Design Memphis – editorial](https://www.designideas.pics/design-memphis-editorial/?fbclid=IwAR1wajDjxidgDl8uGyi3knD1NhW_dG9Cc8h3ggETeOA1_M6tpZl8mT7UH9g)
-<details><summary> view </summary>
-<iframe src="https://www.designideas.pics/design-memphis-editorial/?fbclid=IwAR1wajDjxidgDl8uGyi3knD1NhW_dG9Cc8h3ggETeOA1_M6tpZl8mT7UH9g"></iframe>
-</details>
 
 ### [All of the Apple logos from the October 30th event invites](https://imgur.com/a/ufybGk6?fbclid=IwAR1nrPW5RmF4MwJpyO9oEYAfiG_3mD2292Vn6siinjf8tNvZSUQSKFpc7Bg)
 
