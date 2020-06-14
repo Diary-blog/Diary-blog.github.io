@@ -209,7 +209,8 @@
       }
       td {text-align: center;}
 
-      details {color: #ababab;}
+      details {color: #808080; margin-top: -20px; margin-bottom: 30px; cursor: pointer;}
+      details > summary {margin-bottom: 10px;}
       details > summary::-webkit-details-marker {
         display: none;
       }
