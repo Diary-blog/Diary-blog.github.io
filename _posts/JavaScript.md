@@ -66,13 +66,13 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 
 ### [The 2020 React.js Developer RoadMap - The Complete Guide to become a React Expert in 2020](https://javarevisited.blogspot.com/2018/10/the-2018-react-developer-roadmap.html)
 
-### [React Hooks EX](https://react-hooks-cheatsheet.com/usestate
+### [React Hooks EX](https://react-hooks-cheatsheet.com/usestate)
 
-### [React Hooks API가 도입된 이유](https://blog.rhostem.com/posts/2019-08-18-reason-whey-react-hooks-opt-in
+### [React Hooks API가 도입된 이유](https://blog.rhostem.com/posts/2019-08-18-reason-whey-react-hooks-opt-in)
 
-### [why React hooks](https://hg-pyun.github.io/why-react-hooks/
+### [why React hooks](https://hg-pyun.github.io/why-react-hooks/)
 
-### [Introduction to React hooks](https://www.newline.co/fullstack-react/articles/an-introduction-to-hooks-in-react/
+### [Introduction to React hooks](https://www.newline.co/fullstack-react/articles/an-introduction-to-hooks-in-react/)
 
 ### [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
 
