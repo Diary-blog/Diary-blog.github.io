@@ -516,7 +516,7 @@ keywords: Design, UI, UX
 
 ### [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
-### [인터랙션 디자인은 비즈니스, 사용자, 공감, 환경, 기술, 유용성 및 접근성과 같은 많은 요소를 고려하고, 인터랙션 디자인을 넘어서 비즈니스 성장을 위해서는 연결, 신뢰, 브랜드 구축 같은 더 많은 것이 있습니다.] (https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
+### [인터랙션 디자인은 비즈니스, 사용자, 공감, 환경, 기술, 유용성 및 접근성과 같은 많은 요소를 고려하고, 인터랙션 디자인을 넘어서 비즈니스 성장을 위해서는 연결, 신뢰, 브랜드 구축 같은 더 많은 것이 있습니다.](https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
 <details><summary> 요약 </summary>
 
 - To make a better interaction design, a designer has to consider a lot of factors such as the business, users, empathy, environment, technology, usability and accessibility. 

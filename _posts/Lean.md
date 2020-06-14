@@ -98,7 +98,7 @@ keywords: motivation, Lean, startup
 
 </details>
 
-### [](https://so-so.dev/essay/no-silver-bullet/)
+### [성장에 은탄환은 없다](https://so-so.dev/essay/no-silver-bullet/)
 <details><summary> 요약 </summary>
 
 - 중요한 것은 ‘내가 생각하는 성장 단계’가 무엇인지 나만의 관점을 가지는 것
