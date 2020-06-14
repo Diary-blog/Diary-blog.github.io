@@ -1,7 +1,7 @@
 ---
 title: Marketing, AD, GA, SEO
 date: 2020-04-27
-update: 2020-06-12
+update: 2020-06-14
 tags:
   - Marketing, AD, GA, SEO
 keywords: Marketing, AD, GA, SEO
@@ -20,9 +20,8 @@ keywords: Marketing, AD, GA, SEO
 - 타깃 오디언스 별 CTA를 위한 소재
 - 트리거(전환을 유도하기 위한 적절한 시점)
 
-* 오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와  
-  목표, 대상을 의미하는 타겟(Target)을 합친 단어
-https://blog.naver.com/wishmedia_korea/221505860481
+* [오디언스 타겟팅이란 청중,시청자를 의미하는 오디언스(Audience)와  
+  목표, 대상을 의미하는 타겟(Target)을 합친 단어](https://blog.naver.com/wishmedia_korea/221505860481)
 
 </details>
 
@@ -43,14 +42,14 @@ https://blog.naver.com/wishmedia_korea/221505860481
 ### 검색엔진 최적화 SEO 관련 모음
 <details><summary> 요약 </summary>
 
-- 주니어를 위한 SEO GUIDE https://www.slideshare.net/HakyungKim6/seo-seo-198630099?fbclid=IwAR0JCxqgYeWCCJvl2VpmXypc-DKfC_uT47ZmJ327d-qRD6f55w8SW27UesE
-- 검색엔진 최적화 SEO 초보자 가이드 https://support.google.com/webmasters/answer/7451184?hl=ko
-- SEO 마케팅 총정리 가이드 https://www.twinword.co.kr/blog/search-engine-optimization-guide/amp/
-- SEO Guide https://www.onely.com/blog/ultimate-guide-javascript-seo/
-- SEO 개선 사례 (번역) https://brunch.co.kr/@jowlee/107
-- 검색엔진최적화에서 구조화의 중요성 - URL https://social-marketing.tistory.com/m/entry/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%B5%9C%EC%A0%81%ED%99%94%EC%97%90%EC%84%9C-%EA%B5%AC%EC%A1%B0%ED%99%94%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-1-URL?category=371777
-- 검색엔진의 눈을 가리는 웹사이트 - 접근성 https://social-marketing.tistory.com/m/entry/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-%EB%88%88%EC%9D%84-%EA%B0%80%EB%A6%AC%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-2-%EC%A0%91%EA%B7%BC%EC%84%B1?category=371777
-- 검색엔진의 눈을 가리는 웹사이트 - 컨텐츠 https://social-marketing.tistory.com/m/entry/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-%EB%88%88%EC%9D%84-%EA%B0%80%EB%A6%AC%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-1-%EC%BB%A8%ED%85%90%EC%B8%A0?category=371777
+- [주니어를 위한 SEO GUIDE](https://www.slideshare.net/HakyungKim6/seo-seo-198630099)
+- [검색엔진 최적화 SEO 초보자 가이드](https://support.google.com/webmasters/answer/7451184?hl=ko)
+- [SEO 마케팅 총정리 가이드](https://www.twinword.co.kr/blog/search-engine-optimization-guide/amp/)
+- [SEO Guide](https://www.onely.com/blog/ultimate-guide-javascript-seo/)
+- [SEO 개선 사례 (번역)](https://brunch.co.kr/@jowlee/107)
+- [검색엔진최적화에서 구조화의 중요성 - URL](https://social-marketing.tistory.com/m/entry/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%B5%9C%EC%A0%81%ED%99%94%EC%97%90%EC%84%9C-%EA%B5%AC%EC%A1%B0%ED%99%94%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-1-URL?category=371777)
+- [검색엔진의 눈을 가리는 웹사이트 - 접근성](https://social-marketing.tistory.com/m/entry/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-%EB%88%88%EC%9D%84-%EA%B0%80%EB%A6%AC%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-2-%EC%A0%91%EA%B7%BC%EC%84%B1?category=371777)
+- [검색엔진의 눈을 가리는 웹사이트 - 컨텐츠](https://social-marketing.tistory.com/m/entry/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-%EB%88%88%EC%9D%84-%EA%B0%80%EB%A6%AC%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-1-%EC%BB%A8%ED%85%90%EC%B8%A0?category=371777)
 
 </details>
 

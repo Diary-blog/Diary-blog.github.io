@@ -1,7 +1,7 @@
 ---
 title: Lean, startup
 date: 2020-04-26
-update: 2020-06-12
+update: 2020-06-14
 tags:
   - Lean, startup
 keywords: motivation, Lean, startup
@@ -84,7 +84,7 @@ keywords: motivation, Lean, startup
 
 ### [[웹기획가이드] 화면설계서 양식 공유합니다.](https://www.yamestyle.com/431)
 
-### [SWOT분석, 제대로 이해하기]https://brunch.co.kr/@choihs0228/35
+### [SWOT분석, 제대로 이해하기](https://brunch.co.kr/@choihs0228/35)
 
 ### [구글과 페이스북을 제친, 가장 일하기 좋은 회사 1위?](https://www.hellodigital.kr/blog/best_working_condition_company/?utm_content=108948877)
 

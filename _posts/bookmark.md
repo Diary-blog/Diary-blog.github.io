@@ -1,10 +1,10 @@
 ---
 title: 🙌 intro
 date: 2020-02-25
-update: 2020-06-11
+update: 2020-06-14
 tags:
-  - Bookmark
-keywords: Bookmark
+  - intro
+keywords: Bookmark, intro
 ---
 
 
@@ -14,8 +14,9 @@ keywords: Bookmark
 
 몇가지 기능을 앞으로 계속 추가 할 예정 입니다.
 
-<br/>
-<br/>
+방문해주셔서 감사합니다.
+
+<br/><br/><br/>
 
 ### 1. 읽었던 링크와 읽지 않았던 링크를 컬러로 구분
 

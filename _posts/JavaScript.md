@@ -1,7 +1,7 @@
 ---
 title: JavaScript
 date: 2020-04-27
-update : 2020-06-12
+update : 2020-06-14
 tags:
   - JavaScript
 keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
@@ -79,9 +79,8 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 ### [React redux hooks graphql contextAPI](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 <details><summary> 요약 </summary>
 
-https://github.com/marvinxu99/crown-winter-saga-hook
-https://github.com/ZhangMYihua
-https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+- 유데미 : https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+- 강사님 : https://github.com/ZhangMYihua
 
 </details>
 

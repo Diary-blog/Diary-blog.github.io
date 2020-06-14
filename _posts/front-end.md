@@ -1,7 +1,7 @@
 ---
 title: Front-end
 date: 2020-04-26
-update: 2020-06-12
+update: 2020-06-14
 tags:
   - front-end
 keywords: front-end, interview
@@ -35,7 +35,11 @@ keywords: front-end, interview
 ## 📄 interview
 
 ### [주니어 개발자 채용 정보](https://j.mp/2VdXQPZ)  
+<details><summary> 요약 </summary>
+
 구직 팁, 이직 이야기, 이력서&포트폴리오 작성법, 면접 팁
+
+</details>
 
 ### [프론트엔드 개발자 인터뷰 후기](https://j.mp/2XkKILy) 
 

@@ -1,7 +1,7 @@
 ---
-title: 💻 TechBlog
+title: 💻 Tech Blog & Story
 date: 2020-04-27
-update : 2020-06-12
+update : 2020-06-14
 tags:
   - TechBlog, Techstory
 keywords: TechBlog, Techstory

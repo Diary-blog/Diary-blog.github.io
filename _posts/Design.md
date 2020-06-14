@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2020-04-30
-update: 2020-06-12
+update: 2020-06-14
 tags:
   - Design
 keywords: Design, UI, UX
@@ -208,8 +208,9 @@ keywords: Design, UI, UX
 ### [출판계 연봉 공개 (익명의 설문지)(응답)](https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815)
 <details><summary> 요약 </summary>
 
-설문지 : https://docs.google.com/forms/d/e/1FAIpQLSe0B-pZzjxevsYo9K6sBpsaAani1924VG5LzA01b2IX7y-x_Q/viewform
-설문지 결과 : https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815
+- 설문지 : https://docs.google.com/forms/d/e/1FAIpQLSe0B-pZzjxevsYo9K6sBpsaAani1924VG5LzA01b2IX7y-x_Q/viewform
+
+- 설문지 결과 : https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815
 
 </details>
 
