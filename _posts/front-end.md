@@ -1,7 +1,7 @@
 ---
 title: Front-end
 date: 2020-04-26
-update: 2020-06-14
+update: 2020-06-15
 tags:
   - front-end
 keywords: front-end, interview
@@ -28,6 +28,53 @@ keywords: front-end, interview
 ### [디자인 토큰 삽질기](https://imch.dev/posts/some-waste-of-times-for-design-token)
 
 ### [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
+
+### [웹팩 핸드북 웹팩을 가장 쉽고 빠르게 배우는 방법](https://joshua1988.github.io/webpack-guide/)
+
+### [nextJS 뭘로 배포할까? (Netlify, Vercel, Github page)](https://taeny.dev/javascript/nextjs-with-deployment-platform/)
+
+### [공공 API 모음 (Public APIs)](https://j.mp/36m2y39)
+
+### [Talk API list](https://develope.dev/apilist.php)
+
+### gitignore
+<details><summary> 요약 </summary>
+
+- [일반적으로 .gitignore에 등록하는 파일 [Git]](https://ghwlchlaks.github.io/gitignore-filelist)
+- [gitignore 템플릿 모음](https://github.com/github/gitignore)
+- [gitignore](http://gitignore.io/)
+
+</details>
+
+### [<section> 버리고 HTML5 <article> 써야 하는 이유](https://webactually.com/2020/03/%3Csection%3E%EC%9D%84-%EB%B2%84%EB%A6%AC%EA%B3%A0-HTML5-%3Carticle%3E%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+
+### [front end, back end 언어, 라이브러리, 프레임워크 블로그, CRUD 코드 비교](https://realworld.io/)
+
+### [웹사이트에서 Lottie를 사용하는 방법](https://tagilog.tistory.com/620)
+
+### [amCharts로 다홍치마 만들기](https://m.blog.naver.com/tmondev/220543006970)
+
+### [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
+
+### [Effective Git](https://www.slideshare.net/kexplo/ndc2016-effective-git)
+
+### [IE에서의 CSS 그리드 사용하기: 일반적인 IE 그리드 오해를 파헤치다](https://webactually.com/2020/01/ie%EC%97%90%EC%84%9C%EC%9D%98-css-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-ie-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EC%98%A4%ED%95%B4%EB%A5%BC/)
+
+### [Git 사용 중 자주 만나는 이슈 정리(코딩보다 어려운 버전 관리)](https://parksb.github.io/article/28.html)
+
+### [Best front-end tools and resources in one place.](https://frontbook.dev/)
+
+### [[번역] github 에서 자주 쓰이는 영어 정리해 봤습니다. ](https://tagilog.tistory.com/588)
+
+### [문제해결과 성능항샹을 위한 프론트엔드 모니터링](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+<details><summary> 요약 </summary>
+
+- 자바스크립트, 폰트, 이미지 렌더링, 서버사이드, 호이스팅, 코드분할, 로딩패턴 등
+
+### [Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+
+
+</details>
 
 <br/>
 <hr>

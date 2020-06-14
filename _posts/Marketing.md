@@ -1,7 +1,7 @@
 ---
 title: Marketing, AD, GA, SEO
 date: 2020-04-27
-update: 2020-06-14
+update: 2020-06-15
 tags:
   - Marketing, AD, GA, SEO
 keywords: Marketing, AD, GA, SEO
@@ -59,7 +59,66 @@ keywords: Marketing, AD, GA, SEO
 
 ### [8가지 키워드로 알아보는 2020년 콘텐츠 산업](https://www.venturesquare.net/797727)
 
+### 그로스해킹 관련
+<details><summary> 요약 </summary>
 
+- [광고 덕후가 그로스해커가 되기까지](https://docs.google.com/presentation/d/1LfBeu7hMBSJs--NcpiMYocQwPEhGHflNGMad4y-damA/edit#slide=id.p)
+- [그로스해킹 4개월차 해커의 스터디](https://brunch.co.kr/@levikim/31)
 
+</details>
 
+### [디지털 마케팅 자동화 툴 80개](https://contentsfree.com/%EB%94%94%EC%A7%80%ED%84%B8-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%9E%90%EB%8F%99%ED%99%94-%ED%88%B4-%EB%B6%84%EC%95%BC%EB%B3%84-%EC%B4%9D%EC%A0%95%EB%A6%AC/)
+<details><summary> 요약 </summary>
+
+- 소셜미디어 마케팅
+- SEO (Search Engine Optimization)
+- 이메일 마케팅
+- 콘텐츠 마케팅
+- 생산성
+- 글쓰기
+- 랜딩페이지
+- A/B Test
+- Analytics
+- 비디오 마케팅
+
+</details>
+
+### [고객 구매 동선에서 SNS 역할은 무엇인가](https://brunch.co.kr/@wlsalsdnek/69)
+
+### [‘10년이 지나도 부끄럽지 않은 콘텐츠를 만든다’ 29CM 김혜인 미디어 팀장](https://platum.kr/archives/136287)
+
+### # 리모트,원격,재택 근무 관련
+<details><summary> 요약 </summary>
+
+- [리모트워커 효율적인 커뮤니케이션](https://brunch.co.kr/@dooook/196?fbclid=IwAR1OWyNUmGkraePzLQlMH8QgAtBaiyyG5EozL-9-itwnLegvvVKEPkgDAsw)
+- [스마트스터디 재택근무](https://www.slideshare.net/mobile/KellyYun/smartstudy-fullremote201506-49674381)
+- [재택근무 도입이 쉬워지려면](https://brunch.co.kr/@jamess/29)
+- [리모트워크 핵심은 효율적 업무 진행](https://dbr.donga.com/article/view/1203/article_no/9045)
+- [스터디파이 원격근무](https://brunch.co.kr/@taewookim/9)
+- [로켓펀치 자율근무 가이드](https://www.notion.so/56ae1abe55af46548dec2c71617b4310#52d230fad8074491b39e40c30c5d77e6)
+- [한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요](https://github.com/milooy/remote-or-flexible-work-company-in-korea)
+- [재택근무는 이 회사들처럼(깃랩,인비전)](http://www.ttimes.co.kr/view.html?no=2020030212077739708&ref=face)
+- [원격근무 사례](https://brunch.co.kr/@taewookim/27)
+- [재택근무 단점, 효율성](https://brunch.co.kr/@curahee/120)
+- [지옥으로 변한 재택근무](https://news.v.daum.net/v/20200309050037084)
+- [가상 사무실 만들기](https://brunch.co.kr/@linus/35)
+- [노션의 리모트 근무](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+- [뱅크샐러드의 재택근무](https://blog.banksalad.com/tech/work-from-home/)
+- [온라인 라이브 강의에 구글 엑셀시트 활용](https://m.facebook.com/story.php?story_fbid=1624936570979956&id=100003908865055)
+- [화상회의 툴 추천](https://brunch.co.kr/@medibloc/136)
+- [메디블록 재택근무 아카이브](https://www.notion.so/feat-19-9b9a63ce84f848998630aa72ba02901a)
+- [슬로워크 고효율 재택근무](https://slowalk.tistory.com/2632)
+- [7년간 전직원 재택근무하는 한국의 스타트업 '딥서치'](http://www.ttimes.co.kr/view.html?no=2020042419277757583)
+
+</details>
+
+### [채용 공고를 통해 바라본 퍼포먼스 마케터 #4 결말](https://sijinii.com/contents/1595/)
+
+### [지워지는 SNS 좋아! 인스타로 보는 Z세대 심리학](http://www.openads.co.kr/nTrend/article/6837)
+
+### [데이터 분석의 핵심은 tool이 아닙니다](https://brunch.co.kr/@itschloe1/39)
+
+### [카카오톡 광고, 이렇게 고객을 사로 잡아보세요.](http://www.openads.co.kr/nTrend/article/6763)
+
+### [지도로 올리브영 매장의 ‘차별화 전략’ 알아보기](https://www.sphinfo.com/oliveyoung/)
 

@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2020-04-30
-update: 2020-06-14
+update: 2020-06-15
 tags:
   - Design
 keywords: Design, UI, UX
@@ -119,6 +119,78 @@ keywords: Design, UI, UX
 
 ### [모바일 UI UX 기본가이드](https://brunch.co.kr/magazine/muxui)
 
+### [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html?ref=uxdesignweekly)
+
+### 접근성 관련 자료
+<details><summary> 요약 </summary>
+
+- [웹 접근성 네이버 널리 세미나 2012-2019](https://nuli.navercorp.com/sharing/seminar/2019)
+- [모두를 위한 접근성 디자인](https://drive.google.com/file/d/1NsaKxxieZCdYzT-BFElMcOxvFPpgGMmc/view)
+- [Dialog Modal ReactJS 접근성 개선](https://m.facebook.com/story.php?story_fbid=10216228433636855&id=1032907716)
+- [SPA에서 접근성에 대해 배운것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
+
+</details>
+
+### [카드사 앱 UX 분석 (2018)](https://brunch.co.kr/@jeannejieunlee/16)
+
+### Figma 피그마 관련 자료🎨
+<details><summary> 요약 </summary>
+
+- [복잡한 플로우 구현 가능한 피그마 프로토타입](https://j.mp/39ORo7v)
+- [로티파일 + 피그마](https://j.mp/2JD6VMR)
+- [기획자, 디자이너, 퍼블리셔의 경계를 허무는 피그마](https://j.mp/2xQaAnI)
+- [피그마에서 커맨드B를 누르면 무슨일이 생길까](https://j.mp/2UKuDNI)
+- [2020 베스트 피그마 플러그인](https://j.mp/3aEbVg5)
+- [피그마 코리아 라이브 Q&A](https://www.notion.so/Q-A-cff06af4e94b43f48b41532a1fe6126e)
+- [깃헙 피그마 디자인 시스템](https://primer.style/design/tools/figma)
+- [피그마 2% 부족할때](https://medium.com/pixelic-korea/pixelic-for-figma-97d568032580)
+
+</details>
+
+### [앱스토어 반려 사유들](https://brunch.co.kr/@jamess/27)
+
+### [Windows95 UI](http://s.muz.li/MDc4ODQzZmY0)
+
+### [스케치와 버튼](https://brunch.co.kr/@pliossun/137)
+
+### [버튼 UI 변천사](https://brunch.co.kr/@blackindigo-red/10)
+
+### [보험 서비스 디자인 사례](https://invisiblemind.tistory.com/m/155)
+
+### [PickMe — perfecting the pickup experience ~ UX/UI Case Study](https://medium.muz.li/pickme-perfecting-the-pickup-experience-3cfd336bee0a)
+
+### [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
+
+### [Wireframe Examples for Websites and Mobile Apps](https://medium.com/thinking-design/wireframe-examples-for-websites-mobile-apps-b5fab9f9971b)
+
+### [UI Trends 2020: What's in Store?](https://www.toptal.com/designers/ui/ui-trends-2020)
+
+### [데이터 기반 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/108)
+
+### [아킬레 카스틸리오니의 디자인 관찰과 접근](http://www.detra.org/down/html_date/06-%EC%95%84%ED%82%AC%EB%A0%88.pdf)
+
+### [UX 아카데미 오픈프로젝트 [호갱노노 - UX/UI 개선]](https://www.slideshare.net/Rightbrain_lab/ux-uxui)
+
+### [멜론 피드 개선 디자인 이야기](https://brunch.co.kr/@design-melon/79)
+
+### [상품 상세페이지 디자인 개선해 성과내기](https://brunch.co.kr/@summer-bom/32)
+
+### [도서 상세 개선하기](https://brunch.co.kr/@milliedesign/1)
+
+### [인터페이스 디자인에 적용된 황금비율](https://uxdesign.cc/design-system-based-on-the-golden-ratio-ui-%C9%B8-e45eb98655cb)
+
+### [게이미피케이션과 인터페이스](https://brunch.co.kr/@cliche-cliche/27)
+
+### [텍스트 크기를 높이대신 각도로 권장하는 이유](https://uxdesign.cc/legibility-how-to-make-text-convenient-to-read-7f96b84bd8af)
+<details><summary> 요약 </summary>
+
+- This picture illustrates why it is a good idea to give recommendations for text size as an angle instead of height. The farther away the text is, the larger it has to be to be legible. The viewing angle is the height in relation to the viewing distance. 
+
+</details>
+
+### [시계 다이얼 속 시각언어](https://brunch.co.kr/@cliche-cliche/26)
+
+
 <br/>
 <hr>
 
@@ -137,6 +209,49 @@ keywords: Design, UI, UX
 ### [The full stack design system](https://www.intercom.com/blog/the-full-stack-design-system)
 
 ### [디자인 시스템 7편 - 컴포넌트를 디자인할 때 고려해야 할 것들](https://story.pxd.co.kr/1470)
+
+### [WEB DESIGN STYLE GUIDE](http://styleguide.co.kr/)
+
+### [디자인 시스템 설계 가이드](https://uxdesign.cc/starting-a-design-system-in-a-start-up-3359f2d4784b)
+<details><summary> 요약 </summary>
+
+1. Audit existing components - 기존에 사용하던 컴포넌트를 먼저 확인
+2. Research on other design systems - 다른 디자인시스템 사례를 검색
+3. List out components - 컴포넌트를 리스트로 정리
+4. Plan a timeline - 타이포,컬러,레이아웃을 정리하기 전에 기본 기능을 누가 작업할건지 타임라인으로 정리
+5. Research and discuss components - 컴포넌트를 조사하고 토론하는 과정을 문서에 기록 (사용사례, 모범사례, 타사의 컴포넌트 활용)
+6. Create design symbols - 스타일가이드 제작 (텍스트, 레이어스타일 라이브러리,UI 디자인키트 명명규칙 정리(크기, 무게, 색상, 정렬 및 선 높이) )
+7. “Design” design system - 디자인시스템을 Zeroheight를 사용하여 디자인과 쉽게 동기화 가능
+7. Implement design system - 디자인시스템을 구현하려면 관련 이해관계자와의 소통이 중요
+
+</details>
+
+### [Zeroheight](https://www.zeroheight.com/)
+
+### [Buzzvil Design System](https://design.buzzvil.com/7648e7ec8/p/619673-introduction)
+
+### [Study*(Designers+Engineers)= ❤️](https://uxdesign.cc/study-designers-engineers-%EF%B8%8F-2d7849c15051)
+
+### [10분만에 읽는 디자인시스템](https://brunch.co.kr/@thinkaboutlove/320)
+
+### [디자인 시스템 박스4단계로 설명](https://blog.prototypr.io/unboxing-a-design-system-component-a-step-by-step-guide-to-quality-assurance-106df86b60d6)
+
+### [멜론 디자인시스템](https://brunch.co.kr/@design-melon/83)
+
+### [Building a design systems with figma](https://eng.lyft.com/building-a-design-systems-library-with-figma-scripter-c046df0a895c)
+
+### [Zomato design system (2018)](https://uxdesign.cc/developing-the-zomato-design-system-438357188904)
+
+### [라인 아토믹 디자인 (3단계)]
+<details><summary> 요약 </summary>
+
+- [영상](https://youtu.be/33yj-Q5v8mQ)
+- [슬라이드](https://www.slideshare.net/mobile/NaverEngineering/line-entry-atomic-design)
+
+</details>
+
+### [컴포넌트 디자인으로 재사용성 극대화하기(컴포넌트 디자인의 생성과 활용, 협업하기)](https://blog.gangnamunni.com/post/Maximize-reusability-with-component-design)
+
 
 <br/>
 <hr>
@@ -225,6 +340,32 @@ keywords: Design, UI, UX
 ### [2020년 로고 디자인 제작 트렌드 3가지!](https://m.blog.naver.com/louders33/221727049873)
 
 ### [2020년 주목되는 그래픽 디자인의 최신 트렌드 10 개 정리](http://photoshopvip.net/118933)
+
+### [외국인들과 진행한 국내 금융 서비스 디자인 인터뷰](https://brunch.co.kr/@mrlees/44)
+
+### [기획과 디자인기획 차이](https://brunch.co.kr/@twopointthree/50)
+
+### [새로운 스큐어모피즘과 트렌드](https://brunch.co.kr/@pliossun/134)
+
+### [How to redesign, step by step guide](https://uxdesign.cc/how-to-redesign-step-by-step-guide-869379604734)
+<details><summary> 요약 </summary>
+
+- 리디자인은 경험을 적절하게 유지하기 위한 지속적인 노력
+- A redesign is never really done;
+- it’s a continuous effort to keep experience relevant
+- double diamond” process
+- Discovery — building shared understanding and empathy
+- Definition — identifying key flows, challenges and pain points
+- Exploration — ideate, sketch, low fi prototype
+- Execution —iterative design, test, and implementation
+
+</details>
+
+### [관찰을 통해 발견한 직관적인 디자인](https://brunch.co.kr/@choikiwoong/32)
+
+### [같이 일하고 싶은 디자이너](https://brunch.co.kr/@forchoon/360)
+
+### [브런치의 다움에 대하여: 디자인적 관점](https://brunch.co.kr/@henryj/8)
 
 
 <br/>
@@ -335,6 +476,21 @@ keywords: Design, UI, UX
 
 ### [Onboarding kit of kakaopay corp](https://www.behance.net/gallery/84154525/Onboarding-kit-of-kakaopay-corp)
 
+### [한국의 코로나 바이러스 인포그래픽 시각화](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
+
+### [나눔손글씨 109종](https://clova.ai/m/handwriting/list.html?page=2)
+
+### [코카콜라의 새로운 시도! 코카콜라 시그니처 믹서](https://m.blog.naver.com/PostView.nhn?blogId=kimjumal&logNo=221580100132&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
+
+### [구글 기념일 로고 모음](https://www.google.com/doodles#archive)
+
+### [네이버 스페셜 로고 모음](http://logoproject.naver.com/)
+
+### [젯브레인 폰트](https://www.jetbrains.com/lp/mono/)
+
+### [Facebook Birthdays: Way to Reconnect People through Birthdays](https://medium.muz.li/facebook-birthdays-celebrating-more-meaningful-birthdays-48181cc09f2f)
+
+### [프레젠테이션 문서 디자인 하기 feat. Keynote](https://brunch.co.kr/@sabumbyun/39)
 
 <br/>
 <hr>
@@ -355,6 +511,21 @@ keywords: Design, UI, UX
 ### [Disney’s motion principles in designing interface animations](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43)
 
 ### [인터랙션 디자이너 미켈레 아퀼라와의 패널 토크](https://brunch.co.kr/@jinbread/162)
+
+### [100 days of motion design](https://uxdesign.cc/100-days-of-motion-design-463526af852f)
+
+### [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+
+### [인터랙션 디자인은 비즈니스, 사용자, 공감, 환경, 기술, 유용성 및 접근성과 같은 많은 요소를 고려하고, 인터랙션 디자인을 넘어서 비즈니스 성장을 위해서는 연결, 신뢰, 브랜드 구축 같은 더 많은 것이 있습니다.] (https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
+<details><summary> 요약 </summary>
+
+- To make a better interaction design, a designer has to consider a lot of factors such as the business, users, empathy, environment, technology, usability and accessibility. 
+- Will the easy-usable and meaningful interfaces help the business grow?
+- So, there are a lot more things to be worked which are beyond interaction design. There should be a connection built, a trust built, a brand built.
+
+</details>
+
+### [Motion Design Doesn’t Have to be Hard](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2)
 
 <br/>
 <hr>
@@ -379,8 +550,22 @@ keywords: Design, UI, UX
 
 ### [400 FREE ANIMATED ICONS](https://icons8.com/animated-icons)
 
+### [UX 관련 리소스 (UX Resources Database)](https://www.notion.so/UX-Resources-Database-f41f9080b0a54eb8a8bf927dcf38b1d9)
+<details><summary> 요약 </summary>
 
+- Research
+- Synthesis & Ideation
+- Prototyping & Design
+- Productivity & Management
+- Professional Improvement
+- Learning
+- Multimedia
+- Unorganized
 
+</details>
 
+### [전세계 그래픽 포스터 리소스](https://www.typographicposters.com/?country=kr)
+
+### [2019 가장 트렌디한 PPT 디자인 + 무료 소스](https://simplep.net/2019-ppt-design-trend-and-freebies/)
 
 

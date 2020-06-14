@@ -1,7 +1,7 @@
 ---
 title: E-commerce
 date: 2020-04-27
-update : 2020-06-12
+update : 2020-06-15
 tags:
   - E-commerce
 keywords: E-commerce
@@ -23,11 +23,12 @@ keywords: E-commerce
 
 ### [e-커머스 서비스의 핵심, GNB로 통하는 페이지 분석](https://brunch.co.kr/@beusable/170?fbclid=IwAR1KHWJqhIQRE2T4Y1aXBJQ0EWfpJVRxorpMnxqrADOl3-WDGQk8RMN3GZs)
 
-
 ### [추천의 원리 더 깊게 보기](https://imyeonn.github.io/blog/e-commerce/209/?fbclid=IwAR2nheP4B819OaDMOhUQzzZ1CnKKKeGMBeY9BcYVYY41toY_Y2_b2A5kLY4)
-```
+<details><summary> 요약 </summary>
+
 협업필터링, 프로파일링
-```
+
+</details>
 
 ### [상품상세페이지 개선해 성과내기](https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1)
 
@@ -44,6 +45,18 @@ keywords: E-commerce
 ### [2019/11/1일부 변경된 네이버 검색노출 알고리즘](https://www.i-boss.co.kr/ab-6141-42018?utm_medium=social&utm_campaign=media_info&utm_term=jhkim&utm_content=191117_jh_15&ibfs=ZWI6ZY0C)
 
 ### [29CM의 미디어커머스와 브랜딩](https://brunch.co.kr/@hyunsoo-kim/40)
+
+### [e-커머스의 성공을 좌우하는 재구매 분석의 모든 것!](https://brunch.co.kr/@beusable/189)
+
+### [6개의 이커머스 어플 상품 리스트 비교/분석하기](https://brunch.co.kr/@wlgp2096/7?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+
+### [현대백화점 매장상품을 네이버쇼핑에서 실시간 판매](https://m.mk.co.kr/news/business/view/2020/03/241964/#)
+
+### [10명 중 7명이 확인하는 리뷰, 서비스에서는 어떻게 활용하면 좋을까?](https://www.mobiinside.co.kr/2020/01/17/servicereview-review/)
+
+### [추천의 원리 더 깊게 보기: 협업필터링, 프로파일링](https://imyeonn.github.io/blog/e-commerce/209/)
+
+
 
 
 
