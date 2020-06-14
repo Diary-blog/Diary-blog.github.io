@@ -305,8 +305,7 @@ N개의 법인이 가로막는 데이터 통합
 
 </details>
 
-### [A급 인재를 붙잡는 4C 전략](https://www.i-boss.co.kr/ab-74668-1578?utm_source=facebook&utm_medium=social&utm_campaign=media_info&utm_term=jhkim&utm_content=200313_jh_18&ibfs=ZWI6ZY0CA%EA%B8%89
-)
+### [A급 인재를 붙잡는 4C 전략](https://www.i-boss.co.kr/ab-74668-1578?utm_source=facebook&utm_medium=social&utm_campaign=media_info&utm_term=jhkim&utm_content=200313_jh_18&ibfs=ZWI6ZY0CA%EA%B8%89)
 
 ### [엔지니어와 스타트업을 매칭해주는 휴먼캐피탈](http://www.ttimes.co.kr/view.html?no=2020040714247797193)
 

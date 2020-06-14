@@ -46,7 +46,7 @@ keywords: front-end, interview
 
 </details>
 
-### [<section> 버리고 HTML5 <article> 써야 하는 이유](https://webactually.com/2020/03/%3Csection%3E%EC%9D%84-%EB%B2%84%EB%A6%AC%EA%B3%A0-HTML5-%3Carticle%3E%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+### [section 버리고 HTML5 article을 써야 하는 이유](https://webactually.com/2020/03/%3Csection%3E%EC%9D%84-%EB%B2%84%EB%A6%AC%EA%B3%A0-HTML5-%3Carticle%3E%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 
 ### [front end, back end 언어, 라이브러리, 프레임워크 블로그, CRUD 코드 비교](https://realworld.io/)
 
