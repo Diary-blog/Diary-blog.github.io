@@ -38,7 +38,7 @@ keywords: front-end, interview
 ### [Talk API list](https://develope.dev/apilist.php)
 
 ### gitignore
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - [일반적으로 .gitignore에 등록하는 파일 [Git]](https://ghwlchlaks.github.io/gitignore-filelist)
 - [gitignore 템플릿 모음](https://github.com/github/gitignore)
@@ -67,7 +67,7 @@ keywords: front-end, interview
 ### [[번역] github 에서 자주 쓰이는 영어 정리해 봤습니다. ](https://tagilog.tistory.com/588)
 
 ### [문제해결과 성능항샹을 위한 프론트엔드 모니터링](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 자바스크립트, 폰트, 이미지 렌더링, 서버사이드, 호이스팅, 코드분할, 로딩패턴 등
 
@@ -82,7 +82,7 @@ keywords: front-end, interview
 ## 📄 interview
 
 ### [주니어 개발자 채용 정보](https://j.mp/2VdXQPZ)  
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 구직 팁, 이직 이야기, 이력서&포트폴리오 작성법, 면접 팁
 

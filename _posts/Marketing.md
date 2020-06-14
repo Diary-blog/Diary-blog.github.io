@@ -10,7 +10,7 @@ keywords: Marketing, AD, GA, SEO
 ## 📄 Marketing
 
 ### [Amazon의 광고방식](https://brunch.co.kr/@bizspring/24)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 구글은 소비자의 관심사를 알고 있으며, 페이스북은 소비자가 누구인지 알고있고,
   아마존은 고객이 어떤 상품을 구매하는지 알고있다.
@@ -40,7 +40,7 @@ keywords: Marketing, AD, GA, SEO
 ### [굿닥 평점을 올려 보자꾸나](https://docs.google.com/presentation/d/1p8Nmn2HcvX4Hx3QNOTuz7VZWIu1LlluBqop3T5v9Dpc/edit)
 
 ### 검색엔진 최적화 SEO 관련 모음
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - [주니어를 위한 SEO GUIDE](https://www.slideshare.net/HakyungKim6/seo-seo-198630099)
 - [검색엔진 최적화 SEO 초보자 가이드](https://support.google.com/webmasters/answer/7451184?hl=ko)
@@ -60,7 +60,7 @@ keywords: Marketing, AD, GA, SEO
 ### [8가지 키워드로 알아보는 2020년 콘텐츠 산업](https://www.venturesquare.net/797727)
 
 ### 그로스해킹 관련
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - [광고 덕후가 그로스해커가 되기까지](https://docs.google.com/presentation/d/1LfBeu7hMBSJs--NcpiMYocQwPEhGHflNGMad4y-damA/edit#slide=id.p)
 - [그로스해킹 4개월차 해커의 스터디](https://brunch.co.kr/@levikim/31)
@@ -68,7 +68,7 @@ keywords: Marketing, AD, GA, SEO
 </details>
 
 ### [디지털 마케팅 자동화 툴 80개](https://contentsfree.com/%EB%94%94%EC%A7%80%ED%84%B8-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%9E%90%EB%8F%99%ED%99%94-%ED%88%B4-%EB%B6%84%EC%95%BC%EB%B3%84-%EC%B4%9D%EC%A0%95%EB%A6%AC/)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 소셜미디어 마케팅
 - SEO (Search Engine Optimization)
@@ -88,7 +88,7 @@ keywords: Marketing, AD, GA, SEO
 ### [‘10년이 지나도 부끄럽지 않은 콘텐츠를 만든다’ 29CM 김혜인 미디어 팀장](https://platum.kr/archives/136287)
 
 ### # 리모트,원격,재택 근무 관련
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - [리모트워커 효율적인 커뮤니케이션](https://brunch.co.kr/@dooook/196?fbclid=IwAR1OWyNUmGkraePzLQlMH8QgAtBaiyyG5EozL-9-itwnLegvvVKEPkgDAsw)
 - [스마트스터디 재택근무](https://www.slideshare.net/mobile/KellyYun/smartstudy-fullremote201506-49674381)

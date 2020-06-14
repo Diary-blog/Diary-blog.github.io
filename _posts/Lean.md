@@ -10,7 +10,7 @@ keywords: motivation, Lean, startup
 ## 📄 배움, 학습, 성장, 동기부여
 
 ### [스스로 질문하며 학습하기 (Question Driven Thinking)](https://evan-moon.github.io/2020/02/11/question-driven-thinking/)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 현실을 먼저 파악
   : 이 많은 걸 친절하게 다 알려줄 수 있는 사람은 없음
@@ -25,7 +25,7 @@ keywords: motivation, Lean, startup
 </details>
 
 ### [공개적으로 학습](https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC?fbclid=IwAR1iNtOvdnoPWMOJ_H-0z6Z4X03CuRujN2P94kvCgzWmf77OftwrF8GfMOM)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 가장 빠르게 배우는 방법
 
@@ -42,7 +42,7 @@ keywords: motivation, Lean, startup
 <br/>
 
 ### [프로그래머로서의 성장을 도왔던 태도 (2018)](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0snO3_C3UBRIpCuHTLMvbVlLDE4Z5MTtSAWUkaaALdZEEo1hOpOPT-SCI)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 자동화할 수 있는 검증의 책무를 사람이 아닌 기계에게 맡기는 것 또한 도움이 된다.
   사람이 ‘이 풀 리퀘스트는 기존의 기능을 깨먹지 않았습니다’고 말하는 것을 믿는 대신,
@@ -86,7 +86,7 @@ keywords: motivation, Lean, startup
 ### [프로덕트 매니저의 커리어 성장에 대한 고찰](https://brunch.co.kr/@fromjayden/10)
 
 ### [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 시행착오는 시간 낭비가 아니다.
 - 모르는 것은 당연하니 ‘이걸 혼자서 얼마나 시도해 본 뒤 물어봐야할까’
@@ -99,7 +99,7 @@ keywords: motivation, Lean, startup
 </details>
 
 ### [성장에 은탄환은 없다](https://so-so.dev/essay/no-silver-bullet/)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 중요한 것은 ‘내가 생각하는 성장 단계’가 무엇인지 나만의 관점을 가지는 것
 - 다른 사람이 쉽게 프로젝트를 파악하려면 어떤 것들이 필요할까
@@ -109,7 +109,7 @@ keywords: motivation, Lean, startup
 </details>
 
 ### [퍼스널 브랜딩 후기 글 (디자이너)](https://www.notion.so/Wanted-Career-Talk-4-9f71a051176547e6a9b09c40089b1e29)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 개인 프로젝트 성공의 세 가지 원칙
   Direction - 내게 맞는 옷을 입어야 함
@@ -123,7 +123,7 @@ keywords: motivation, Lean, startup
 </details>
 
 ### [수많은 업무에 대처하는 자세](https://brunch.co.kr/@wnsaud524/125)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 지금의 모습은 과거의 습관에 의해 만들어진 것
 - 행동으로써 책임을 다하지 않으면 한때 가졌던 욕심에 지나지 않음
@@ -131,7 +131,7 @@ keywords: motivation, Lean, startup
 </details>
 
 ### [글쓰기가 어려운 이유](https://brunch.co.kr/@ssmile777/102)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 글을 많이 쓰지 않음 (쓰기와 말하기)
 - 글쓰기를 배우지 않아서 못씀 (어휘력,문장력,구성력,퇴고력)
@@ -202,7 +202,7 @@ keywords: motivation, Lean, startup
 ### [어떻게 우리는 좋은 결정을 내릴 수 있는 환경과 상태를 만들 수 있을까](https://www.chrischae.kr/decisions/)
 
 ### [문제해결 관점의 팀의 데이터 리터러시 역량 높이기](https://www.thinkingpartner.pro/?p=column_view&idx=46)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 (Boost Your Team’s Data Literacy)
 
@@ -216,7 +216,7 @@ keywords: motivation, Lean, startup
 </details>
 
 ### [대체 불가능한 기획자 (전문 기획자는 미드필더 역할)](https://yslab.kr/135?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - MVP 프로젝트 팀 기획자
 - 중대형 프로젝트 팀 기획자
@@ -230,7 +230,7 @@ keywords: motivation, Lean, startup
 ### [OKR을 도입하는 과정에서 겪은 고민(OKR : Objective Key Results)](https://brunch.co.kr/@simmani2013/131)
 
 ### [오프라인 유통이 생각보다 데이터를 못 모으는 이유](https://brunch.co.kr/@windydog/299)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 이원화된 영수증과 데이터, 분리된 멤버쉽,
 N개의 법인이 가로막는 데이터 통합
@@ -246,7 +246,7 @@ N개의 법인이 가로막는 데이터 통합
 ### [브랜드가 망가지는 9단계](https://brunch.co.kr/@lunarshore/44)
 
 ### DevRel (Developer Relations)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - [LINE](http://j.mp/386RvtS)
 - [지식공유 시작하려는 개발자에게](http://j.mp/32x3CQ5)
@@ -258,7 +258,7 @@ N개의 법인이 가로막는 데이터 통합
 </details>
 
 ### 전략기획 문제 해결 프로세스 1~5
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - [1편](https://blog.lgcns.com/1343)
 - [2편](https://blog.lgcns.com/1367)
@@ -277,7 +277,7 @@ N개의 법인이 가로막는 데이터 통합
 ### [랜딩페이지 리뉴얼](https://brunch.co.kr/@blackindigo-red/33)
 
 ### [직원들에게 '피드백’하지 마라. '조언'하라](https://infuture.kr/m/1734)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 피드백을 요청 받은 그룹보다 조언을 요청받은 그룹이 부족한 부분을 구체적으로 지적하고, 개선할 수 있는 방법을 더 많이 제안하는 경향을 보임
 - 피드백은 과거를 심사하는 것이 아니라 미래지향적인 조언이어야 함
@@ -299,7 +299,7 @@ N개의 법인이 가로막는 데이터 통합
 ### [스타트업 조직문화에 부딫히다](https://brunch.co.kr/@mobiinside/2064)
 
 ### [멋사의 코딩 교육 방법](https://brunch.co.kr/@likelion/17)
-<details><summary> 요약 </summary>
+<details><summary> └  요약 </summary>
 
 - 협력을 해 나가는 과정을 학습 때부터 익혀놓는 것은 필수적
 

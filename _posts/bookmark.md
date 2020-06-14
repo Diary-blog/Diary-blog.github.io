@@ -39,7 +39,7 @@ ex) 📄 ReactJS
 2. 제목을 클릭하여 새창으로 바로 이동할 수 있습니다.
 ex) [diary-blog 입니다](https://diary-blog.github.io)
 
-3. 요약 을 클릭하여 해당 링크의 요약정리를 볼 수 있습니다. <details><summary> 요약 </summary>
+3. 요약 을 클릭하여 해당 링크의 요약정리를 볼 수 있습니다. <details><summary> └ 요약 </summary>
 Gatsbyjs로 만들고 Github page로 배포한 개인 블로그 입니다.
 </details>
 
