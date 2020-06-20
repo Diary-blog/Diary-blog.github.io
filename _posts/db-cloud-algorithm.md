@@ -1,10 +1,14 @@
 ---
-title: Algorithm, DB, sql, Cloud, system architecture
+title: Algorithm, DB, SQL, Cloud, System architecture
 date : 2020-06-12
-update : 2020-06-15
+update : 2020-06-20
 tags:
-  - Algorithm, DB, sql, Cloud, system architecture
-keywords: Algorithm, DB, sql, Cloud, system architecture
+  - Algorithm
+  - DB
+  - SQL
+  - Cloud
+  - System architecture
+keywords: Algorithm, DB, SQL, Cloud, System architecture
 ---
 
 |   |   |   |   |
@@ -17,7 +21,7 @@ keywords: Algorithm, DB, sql, Cloud, system architecture
 ### [문자열 검색 알고리즘](https://bowbowbow.tistory.com/6?fbclid=IwAR3WKTcKxPMUxOVrq3sy4KjwIzCe1aceKzchQeYUNiQjFtlS5ykZG5Czq7c)
 
 ### [알고리즘 초보자 어떻게 공부하면 좋을까](https://spellofstar.github.io/post/how_to_study_algorithms/)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - 공통적으로 필요한 사항 (구현 능력의 필요성)
 - 백준에서 문제 고르는 팁
@@ -30,12 +34,12 @@ keywords: Algorithm, DB, sql, Cloud, system architecture
 <br/>
 <hr>
 
-## 📄 Database, sql
+## 📄 Database, SQL
 
 ### [메인 데이터베이스 IDC 탈출기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html?fbclid=IwAR0vYzSFIoj36FbUl7q1tuXori0ecU8SHT0ROhoacSSwjjTl5pwbTvxeiAU)
 
 ### [RDB부터 검색엔진까지 DB 고르기](http://www.ciokorea.com/news/38041)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - 관계형 데이터베이스 관리 시스템(Oracle, MySQL, MS Server, PostgreSQL)
 - 문서 저장소(MongoDB, 카우치베이스(Couchbase))
@@ -63,7 +67,7 @@ keywords: Algorithm, DB, sql, Cloud, system architecture
 ### [엣시(Etsy)의 클라우드 네이티브 전환](http://www.itworld.co.kr/news/146186)
 
 ### 도커Docker 관련 자료 🐳
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [도커를 보다 쉽게 이해하기](https://m.facebook.com/groups/395603913908659?view=permalink&id=1747944695341234)
 - [SSL을 사용하여 리액트를 도커에 적용](https://codeburst.io/serve-react-apps-with-docker-and-ssl-like-a-boss-e2d6d18553b7)
@@ -82,7 +86,7 @@ keywords: Algorithm, DB, sql, Cloud, system architecture
 ### [[DAP]전사아키텍처 아키텍처 매트릭스](https://m.blog.naver.com/oracledo/220587899230)
 
 ### Microservices with JS
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [Microservices with NodeJS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 
@@ -108,7 +112,7 @@ keywords: Algorithm, DB, sql, Cloud, system architecture
 
 ### [천만 사용자를 위한 클라우드 아키텍처](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 
-
+### [Understanding the Background of Microservice Architecture](https://medium.com/sw-d/microservice-4609d656ccf8)
 
 
 
