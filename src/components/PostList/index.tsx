@@ -48,10 +48,11 @@ const PostList = memo((props: PostListProps) => {
     const { node } = post;
     const { excerpt, fields, frontmatter } = node;
     const { slug } = fields;
-    const { date, title, tags } = frontmatter;
+    const { date, title } = frontmatter; // tag 삭제
     let update = frontmatter.update;
     if (Number(update.split(',')[1]) === 1) update = null;
 
+    /* 메인 목록에서 태그 삭제
     const mapTag = tags.map((tag: string) => {
       if (tag === 'undefined') return;
 
@@ -63,6 +64,7 @@ const PostList = memo((props: PostListProps) => {
         </li>
       );
     });
+    */
 
     return (
       <li key={slug} className={`post ${i < showCnt ? 'show' : 'hide'}`}>
