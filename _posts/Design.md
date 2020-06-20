@@ -1,5 +1,5 @@
 ---
-title: 🎨 Design
+title: 🧭 Design
 date: 2020-04-30
 update: 2020-06-20
 tags:
