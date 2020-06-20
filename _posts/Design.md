@@ -323,9 +323,9 @@ keywords: Design, UI, UX
 ### [출판계 연봉 공개 (익명의 설문지)(응답)](https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815)
 <details><summary> └  🔗 </summary>
 
-- 설문지 : https://docs.google.com/forms/d/e/1FAIpQLSe0B-pZzjxevsYo9K6sBpsaAani1924VG5LzA01b2IX7y-x_Q/viewform
+- [설문지](https://docs.google.com/forms/d/e/1FAIpQLSe0B-pZzjxevsYo9K6sBpsaAani1924VG5LzA01b2IX7y-x_Q/viewform)
 
-- 설문지 결과 : https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815
+- [설문지 결과](https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815)
 
 </details>
 
@@ -351,7 +351,7 @@ keywords: Design, UI, UX
 <details><summary> └  📝 </summary>
 
 - 리디자인은 경험을 적절하게 유지하기 위한 지속적인 노력
-- A redesign is never really done;
+- A redesign is never really done
 - it’s a continuous effort to keep experience relevant
 - double diamond” process
 - Discovery — building shared understanding and empathy
