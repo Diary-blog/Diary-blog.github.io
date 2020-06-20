@@ -3,7 +3,9 @@ title: 📚 Lean, Startup
 date: 2020-04-26
 update: 2020-06-20
 tags:
-  - Lean, startup
+  - Lean
+  - startup
+  - Motivation
 keywords: motivation, Lean, startup
 ---
 
