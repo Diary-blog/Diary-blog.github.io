@@ -9,7 +9,7 @@ module.exports = {
   profileImageFileName: 'icecream.png',
 
   /** info */
-  comment: 'Facebook URL BookMark',
+  comment: 'BookMark',
   name: '',
   company: '',
   location: '',
