@@ -1,7 +1,7 @@
 ---
 title: 💻 Tech Blog & Story
 date: 2020-04-27
-update : 2020-06-15
+update : 2020-06-20
 tags:
   - TechBlog, Techstory
 keywords: TechBlog, Techstory
@@ -17,11 +17,11 @@ keywords: TechBlog, Techstory
 ### [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 
 ### [IT 기술블로그 모음](https://page.co.kr/@dev/bookmark)
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
-- 위젯 형태 https://page.co.kr/@dev/
-- RSS모아보기 https://page.co.kr/@dev/2
-- 북마크 모음 https://page.co.kr/@dev/bookmark
+- [위젯 형태](https://page.co.kr/@dev/)
+- [RSS모아보기](https://page.co.kr/@dev/2)
+- [북마크 모음](https://page.co.kr/@dev/bookmark)
 
 </details>
 <details><summary> view </summary>
@@ -29,7 +29,7 @@ keywords: TechBlog, Techstory
 </details>
 
 ### 국내 업체 기술블로그 모음
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [네이버](https://d2.naver.com/)
 - [우아한형제들](http://woowabros.github.io/)
@@ -44,7 +44,7 @@ keywords: TechBlog, Techstory
 </details>
 
 ### 해외 업체 기술블로그 모음
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [Facebook](https://engineering.fb.com/)
 - [Microsoft](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
@@ -65,9 +65,9 @@ keywords: TechBlog, Techstory
 </details>
 
 ### [스타트업 기술 블로그 모음](https://j.mp/2QBlPa7)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
-(작업동기와 후기, 회사목록 구하기, 글을 모으는 과정)
+작업동기와 후기, 회사목록 구하기, 글을 모으는 과정
 
 </details>
 
@@ -126,7 +126,7 @@ keywords: TechBlog, Techstory
 ### [B2B/B2C SaaS에 관한 "거의 모든 것"을 함께 고민해보고 토론하며 성장을 목표로하는 스터디 그룹](https://www.notion.so/KR-SaaS-Study-Group-63e287472239447c80e584c61176c015)
 
 ### [How to Become a Full Stack Web Developer in 2020]
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - 번역 : https://dev-dain.tistory.com/m/39?category=851787
 - 원문 : https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/
@@ -134,7 +134,7 @@ keywords: TechBlog, Techstory
 </details>
 
 ### [IT전문서 라이브러리](https://www.notion.so/ReadIT-Letter-IT-85b693f175a74991a363f779a6d3c032)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - 이번 달 개발자가 가장 많이 구매한 책
 - 관심작가 출간소식 구독
@@ -147,9 +147,9 @@ keywords: TechBlog, Techstory
 </details>
 
 ### [개발자를 위한 면접 지침](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
-(개발자를 위한 질문, 관리자를 위한 질문, 경영진을 위한 질문)
+<b>개발자를 위한 질문, 관리자를 위한 질문, 경영진을 위한 질문</b>
 
 - 개발자를 위한 질문
 1. 오늘 해야 할 일을 어떻게 파악하십니까
@@ -203,7 +203,7 @@ keywords: TechBlog, Techstory
 ### [금융권에서 기획 (2019)](https://brunch.co.kr/@sylviasolution/28)
 
 ### [소프트웨어 개발자의 종류 (2017)](https://subokim.wordpress.com/2011/05/20/it-develop-step/)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 1. IT 컨설턴트
 2. 기술 영업 Technical Sales
@@ -220,23 +220,24 @@ keywords: TechBlog, Techstory
 </details>
 
 ### [개발자의 효율성](https://brunch.co.kr/@hika/7)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 텐션, 짝프로그래밍(시니어+주니어), 노하우관리, 텐션유지 근무시간
 
 </details>
 
 ### [CTO/VPE 가 첫 90일 동안 해야할 일](https://news.hada.io/weekly/202011)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
-(CTO : Chief Technology Officer, VPE : Vice President Engineering)
+- CTO : Chief Technology Officer
+- VPE : Vice President Engineering
 
 </details>
 
 ### [실리콘밸리 기업 견학 (페이스북)](https://medium.com/code-states/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC-%EA%B8%B0%EC%97%85-%EA%B2%AC%ED%95%99-4-a46e1312022f)
 
-### 알고리즘으로 만든 멜로디 687억 곡 600GB이상
-<details><summary> └  요약 </summary>
+### [알고리즘으로 만든 멜로디 687억 곡 600GB이상](http://allthemusic.info)
+<details><summary> └  🔗 </summary>
 
 - CC0(Creative Commons Zero) license
 - 멜로디 데이터 세트 :  http://allthemusic.info
@@ -249,7 +250,7 @@ keywords: TechBlog, Techstory
 ### [2015-2019 AI 보고서 98편](https://brunch.co.kr/@kakao-it/276)
 
 ### [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - 누군가의 희생으로 채워지는 완벽함은 복제 및 재현이 불가능
 - 확장가능한 조직모델이 아니기 때문에 지속가능하지 않음
@@ -257,7 +258,7 @@ keywords: TechBlog, Techstory
 </details>
 
 ### 코드리뷰 관련 자료
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [코드리뷰로 시작하는 건강한 개발문화](https://blog.shiren.dev/2020-01-11-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/)
 - [코드리뷰(개발문화)](https://brunch.co.kr/@seonology/23)
@@ -283,7 +284,7 @@ keywords: TechBlog, Techstory
 ### [이렇게 개발하는 회사는 처음 봅니다](https://brunch.co.kr/@jamess/24)
 
 ### Map 맵 지도 관련 자료 
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [구글맵,네이버맵,카카오맵 비교](https://platum.kr/archives/136193)
 - [네이버지도 & 카카오맵 사용자 경험 비교](https://sijinii.com/marketing/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%A7%80%EB%8F%84-vs-%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%A7%B5-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98-%EB%B9%84%EA%B5%90/)
@@ -305,7 +306,7 @@ keywords: TechBlog, Techstory
 ### [Antman 프로젝트 개발기](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
 
 ### [당근마켓은 중고거래 앱이 아니다](https://byline.network/2020/02/26-89/)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 방문 빈도, 앱체류시간, 커뮤니티
 

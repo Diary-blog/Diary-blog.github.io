@@ -1,7 +1,7 @@
 ---
-title: Design
+title: 🎨 Design
 date: 2020-04-30
-update: 2020-06-15
+update: 2020-06-20
 tags:
   - Design
 keywords: Design, UI, UX
@@ -122,7 +122,7 @@ keywords: Design, UI, UX
 ### [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html?ref=uxdesignweekly)
 
 ### 접근성 관련 자료
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [웹 접근성 네이버 널리 세미나 2012-2019](https://nuli.navercorp.com/sharing/seminar/2019)
 - [모두를 위한 접근성 디자인](https://drive.google.com/file/d/1NsaKxxieZCdYzT-BFElMcOxvFPpgGMmc/view)
@@ -133,8 +133,8 @@ keywords: Design, UI, UX
 
 ### [카드사 앱 UX 분석 (2018)](https://brunch.co.kr/@jeannejieunlee/16)
 
-### Figma 피그마 관련 자료🎨
-<details><summary> └  요약 </summary>
+### Figma 피그마 관련 자료
+<details><summary> └  🔗 </summary>
 
 - [복잡한 플로우 구현 가능한 피그마 프로토타입](https://j.mp/39ORo7v)
 - [로티파일 + 피그마](https://j.mp/2JD6VMR)
@@ -182,7 +182,7 @@ keywords: Design, UI, UX
 ### [게이미피케이션과 인터페이스](https://brunch.co.kr/@cliche-cliche/27)
 
 ### [텍스트 크기를 높이대신 각도로 권장하는 이유](https://uxdesign.cc/legibility-how-to-make-text-convenient-to-read-7f96b84bd8af)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - This picture illustrates why it is a good idea to give recommendations for text size as an angle instead of height. The farther away the text is, the larger it has to be to be legible. The viewing angle is the height in relation to the viewing distance. 
 
@@ -213,7 +213,7 @@ keywords: Design, UI, UX
 ### [WEB DESIGN STYLE GUIDE](http://styleguide.co.kr/)
 
 ### [디자인 시스템 설계 가이드](https://uxdesign.cc/starting-a-design-system-in-a-start-up-3359f2d4784b)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 1. Audit existing components - 기존에 사용하던 컴포넌트를 먼저 확인
 2. Research on other design systems - 다른 디자인시스템 사례를 검색
@@ -243,7 +243,7 @@ keywords: Design, UI, UX
 ### [Zomato design system (2018)](https://uxdesign.cc/developing-the-zomato-design-system-438357188904)
 
 ### 라인 아토믹 디자인 (3단계)
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [영상](https://youtu.be/33yj-Q5v8mQ)
 - [슬라이드](https://www.slideshare.net/mobile/NaverEngineering/line-entry-atomic-design)
@@ -321,7 +321,7 @@ keywords: Design, UI, UX
 ### [Web Tech Concert 2019 #6 후기](https://story.pxd.co.kr/1471)
 
 ### [출판계 연봉 공개 (익명의 설문지)(응답)](https://docs.google.com/spreadsheets/d/1TZlS7RrTteo0nZdR0ZfEtcICQQ5RK1TZcXsC-TxdQSs/edit#gid=770305815)
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - 설문지 : https://docs.google.com/forms/d/e/1FAIpQLSe0B-pZzjxevsYo9K6sBpsaAani1924VG5LzA01b2IX7y-x_Q/viewform
 
@@ -348,7 +348,7 @@ keywords: Design, UI, UX
 ### [새로운 스큐어모피즘과 트렌드](https://brunch.co.kr/@pliossun/134)
 
 ### [How to redesign, step by step guide](https://uxdesign.cc/how-to-redesign-step-by-step-guide-869379604734)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - 리디자인은 경험을 적절하게 유지하기 위한 지속적인 노력
 - A redesign is never really done;
@@ -517,7 +517,7 @@ keywords: Design, UI, UX
 ### [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
 ### [인터랙션 디자인은 비즈니스, 사용자, 공감, 환경, 기술, 유용성 및 접근성과 같은 많은 요소를 고려하고, 인터랙션 디자인을 넘어서 비즈니스 성장을 위해서는 연결, 신뢰, 브랜드 구축 같은 더 많은 것이 있습니다.](https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - To make a better interaction design, a designer has to consider a lot of factors such as the business, users, empathy, environment, technology, usability and accessibility. 
 - Will the easy-usable and meaningful interfaces help the business grow?
@@ -551,7 +551,7 @@ keywords: Design, UI, UX
 ### [400 FREE ANIMATED ICONS](https://icons8.com/animated-icons)
 
 ### [UX 관련 리소스 (UX Resources Database)](https://www.notion.so/UX-Resources-Database-f41f9080b0a54eb8a8bf927dcf38b1d9)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - Research
 - Synthesis & Ideation

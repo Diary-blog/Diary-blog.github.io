@@ -1,7 +1,7 @@
 ---
 title: E-commerce
 date: 2020-04-27
-update : 2020-06-15
+update : 2020-06-20
 tags:
   - E-commerce
 keywords: E-commerce
@@ -10,7 +10,7 @@ keywords: E-commerce
 ## 📄 E-commerce
 
 ### [e-커머스의 재구매율을 높이는 방법 알아보기](https://brunch.co.kr/@beusable/189?fbclid=IwAR1Hy2TcBp-4Sy4cMeVX_a7rSv5kbd-cKrOd_sHuz5rdVJ4rFzBVj53B-rM)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - (+재구매 분석 템플릿 pdf)
 - 고객의 최초 구매 시기(전체,상품군별)
@@ -24,7 +24,7 @@ keywords: E-commerce
 ### [e-커머스 서비스의 핵심, GNB로 통하는 페이지 분석](https://brunch.co.kr/@beusable/170?fbclid=IwAR1KHWJqhIQRE2T4Y1aXBJQ0EWfpJVRxorpMnxqrADOl3-WDGQk8RMN3GZs)
 
 ### [추천의 원리 더 깊게 보기](https://imyeonn.github.io/blog/e-commerce/209/?fbclid=IwAR2nheP4B819OaDMOhUQzzZ1CnKKKeGMBeY9BcYVYY41toY_Y2_b2A5kLY4)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 협업필터링, 프로파일링
 

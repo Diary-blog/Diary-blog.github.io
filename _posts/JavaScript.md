@@ -1,7 +1,7 @@
 ---
 title: JavaScript
 date: 2020-04-27
-update : 2020-06-15
+update : 2020-06-20
 tags:
   - JavaScript
 keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
@@ -19,9 +19,9 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 <br/>
 
 ### [ECMA6 문법, 함수 호환성 테이블](http://kangax.github.io/compat-table/es6/)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
-(컴파일러, 폴리필, 데탑브라우저, 모바일, 서버, 런타임)
+컴파일러, 폴리필, 데탑브라우저, 모바일, 서버, 런타임
 
 </details>
 
@@ -68,10 +68,10 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 ## 📄 ReactJS
 
 ### [React로 만드는 크롬 익스텐션 (2020)](https://github.com/upmostly/react-chrome-extension)
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
-- 코드 : https://github.com/upmostly/react-chrome-extension  
-- 영상 : https://youtu.be/4x0lQu1TOCQ
+- [코드](https://github.com/upmostly/react-chrome-extension)
+- [영상](https://youtu.be/4x0lQu1TOCQ)
 
 </details>
 
@@ -98,7 +98,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 ### [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
 
 ### [React redux hooks graphql contextAPI](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - 유데미 : https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 - 강사님 : https://github.com/ZhangMYihua
@@ -114,59 +114,58 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 ### [Airframe – Free Open Source High Quality Dashboard](https://coding17.com/airframe-free-open-source-high-quality-dashboard/)
 
 ### ReactJS 스터디를 위한 github모음 (한글)
-<details><summary> └ 프로젝트 </summary>
+<details><summary> └ 🔗 프로젝트 </summary>
 
-[리액트 + 스프링부트 게시판](https://github.com/JEONGSSO/sboot-react-board)
-[리액트 (+리덕스) + 타입스크립트 익히기](https://github.com/jodnddus/reactype)
-[리액트 + 아폴로 + 그래프큐엘](https://github.com/azxca1731/shopping-recommend)
-[리액트 + NoSQL 로만들어보는 웹 게시판](https://github.com/HamSungJun/React-Board)
-[리액트 + 노드 트렐로 클론코딩](https://github.com/JEONGSSO/node-react-trello)
-[리액트 + 리덕스 가계부](https://github.com/novaray/ManageAccounts)
-[리액트 + 파이어베이스 연습](https://github.com/parkoon/react-firebase)
-[리액트 반응형 웹 메모장](https://github.com/Lilian-Kim/portfolio)
-[리액트 기초를 다지는 주소록 프로젝트](https://github.com/vlpt-playground/phone-book)
-[리액트 블로그 프론트엔드 예제](https://github.com/PureAppCrystal/blog_frontend)
-[리액트 기반의 지하철,교통 실시간 정보 프로젝트](https://github.com/gwanhyeon/knut-database-project)
-[두잇! 리액트 프로그래밍 정석](https://github.com/justinpark/justin-do-it-react)
-
-</details>
-
-<details><summary> └ API </summary>
-
-[구글지도 Web API React](https://github.com/tomchentw/react-google-maps)
-[네이버지도 Web API React](https://github.com/zeakd/react-naver-maps)
-[카카오맵 Web API React](https://github.com/Musma/react-kakao-maps)
-[Daum 우편번호 검색 서비스](https://github.com/bernard-kms/react-daum-postcode)
-[Daum 우편번호 검색 서비스 npm](https://www.npmjs.com/package/react-daum-postcode)
-
-[ES6 RESTful Express API](https://github.com/developit/express-es6-rest-api)
-[React SPA 뒤로가기 API Cache 적용 (axios-extensions)](https://dohoons.com/blog/1810/)
+- [리액트 + 스프링부트 게시판](https://github.com/JEONGSSO/sboot-react-board)
+- [리액트 (+리덕스) + 타입스크립트 익히기](https://github.com/jodnddus/reactype)
+- [리액트 + 아폴로 + 그래프큐엘](https://github.com/azxca1731/shopping-recommend)
+- [리액트 + NoSQL 로만들어보는 웹 게시판](https://github.com/HamSungJun/React-Board)
+- [리액트 + 노드 트렐로 클론코딩](https://github.com/JEONGSSO/node-react-trello)
+- [리액트 + 리덕스 가계부](https://github.com/novaray/ManageAccounts)
+- [리액트 + 파이어베이스 연습](https://github.com/parkoon/react-firebase)
+- [리액트 반응형 웹 메모장](https://github.com/Lilian-Kim/portfolio)
+- [리액트 기초를 다지는 주소록 프로젝트](https://github.com/vlpt-playground/phone-book)
+- [리액트 블로그 프론트엔드 예제](https://github.com/PureAppCrystal/blog_frontend)
+- [리액트 기반의 지하철,교통 실시간 정보 프로젝트](https://github.com/gwanhyeon/knut-database-project)
+- [두잇! 리액트 프로그래밍 정석](https://github.com/justinpark/justin-do-it-react)
 
 </details>
 
-<details><summary> └ 초기화, 스타터 </summary>
+<details><summary> └ 🔗 API </summary>
 
-[CRA(create-react-app) IE9 IE11](https://devhyun.com/blog/post/16)
-[React Starter Kit — Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync](https://github.com/kriasoft/react-starter-kit)
-[리액트 프로젝트 Boilerplate](https://github.com/zx6658/react-project-kit)
-[프로젝트 초기화 기본 font (NotoSans)](https://github.com/bucheon-IOT-Makers/react-front/tree/master/src/statics)
-[웹팩 환경설정](https://github.com/yzzeee/webpack-environment)
-[타입스크립트 베이스 템플릿](https://github.com/joys1006/react-typescript-template)
-[게츠비 스타터](https://github.com/gatsbyjs/gatsby-starter-default)
+- [구글지도 Web API React](https://github.com/tomchentw/react-google-maps)
+- [네이버지도 Web API React](https://github.com/zeakd/react-naver-maps)
+- [카카오맵 Web API React](https://github.com/Musma/react-kakao-maps)
+- [Daum 우편번호 검색 서비스](https://github.com/bernard-kms/react-daum-postcode)
+- [Daum 우편번호 검색 서비스 npm](https://www.npmjs.com/package/react-daum-postcode)
+- [ES6 RESTful Express API](https://github.com/developit/express-es6-rest-api)
+- [React SPA 뒤로가기 API Cache 적용 (axios-extensions)](https://dohoons.com/blog/1810/)
 
 </details>
 
-<details><summary> └ 기초 </summary>
+<details><summary> └ 🔗 초기화, 스타터 </summary>
 
-[리액트 훅 개념 정리](https://github.com/JunH-K/react-gitbook)
-[react-tutorial](https://github.com/gojaebeom/react-tutorial
-[reactStudy](https://github.com/superDaramGG/reactStudy)
-[the-road-to-learn-react-korean](https://github.com/the-road-to-learn-react/the-road-to-learn-react-korean)
-[리액트 서버사이드렌더링](https://github.com/qkdrnvhrrur/react_ssr)
-[Button 클릭시 스크롤 끝으로 화면이동](https://github.com/s2jeong/react-scrollBox)
-[리액트 Styled Components](https://github.com/hiroki0h/Styled_Components)
-[리액트 인피니티 스크롤](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
-[IntersectionObserver](https://velog.io/@doondoony/IntersectionObserver)
+- [CRA(create-react-app) IE9 IE11](https://devhyun.com/blog/post/16)
+- [React Starter Kit — Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync](https://github.com/kriasoft/react-starter-kit)
+- [리액트 프로젝트 Boilerplate](https://github.com/zx6658/react-project-kit)
+- [프로젝트 초기화 기본 font (NotoSans)](https://github.com/bucheon-IOT-Makers/react-front/tree/master/src/statics)
+- [웹팩 환경설정](https://github.com/yzzeee/webpack-environment)
+- [타입스크립트 베이스 템플릿](https://github.com/joys1006/react-typescript-template)
+- [게츠비 스타터](https://github.com/gatsbyjs/gatsby-starter-default)
+
+</details>
+
+<details><summary> └ 🔗 기초 </summary>
+
+- [리액트 훅 개념 정리](https://github.com/JunH-K/react-gitbook)
+- [react-tutorial](https://github.com/gojaebeom/react-tutorial
+- [reactStudy](https://github.com/superDaramGG/reactStudy)
+- [the-road-to-learn-react-korean](https://github.com/the-road-to-learn-react/the-road-to-learn-react-korean)
+- [리액트 서버사이드렌더링](https://github.com/qkdrnvhrrur/react_ssr)
+- [Button 클릭시 스크롤 끝으로 화면이동](https://github.com/s2jeong/react-scrollBox)
+- [리액트 Styled Components](https://github.com/hiroki0h/Styled_Components)
+- [리액트 인피니티 스크롤](https://y0c.github.io/2019/06/30/react-infinite-scroll/)
+- [IntersectionObserver](https://velog.io/@doondoony/IntersectionObserver)
 
 </details>
 
@@ -175,7 +174,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 
 
 ### Recoil
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - [Recoil (A state management library for React)](https://recoiljs.org/)
 - [Recoil State Management for Today's React - React Europe 2020](https://youtu.be/_ISAA_Jt9kI)
@@ -186,16 +185,9 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 
 </details>
 
-### [React로 만드는 크롬 익스텐션 (2020)](https://github.com/upmostly/react-chrome-extension)
-<details><summary> └  요약 </summary>
-
-- [코드](https://github.com/upmostly/react-chrome-extension)
-- [영상](https://youtu.be/4x0lQu1TOCQ)
-
-</details>
 
 ### [에러 처리를 어떻게 하면 좋을까](https://rinae.dev/posts/how-to-handle-errors-3)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - React + Hooks + MST(mobx-state-tree) 사용 시 데이터와 UI 결합 에 대한 고민 및 아이디어
 
@@ -217,7 +209,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 </details>
 
 ### [Components Should Be Focused, Independent, Reusable, Small & Testable (FIRST)](https://addyosmani.com/first/)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - 컴포넌트 단위 개발
 - 독립적, 재사용 가능, 소규모의 테스트 가능
@@ -256,7 +248,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 ### [nodejs의 내부 동작 원리 (libuv, 이벤트루프, 워커쓰레드, 비동기)](https://sjh836.tistory.com/149)
 
 ### [NodeJS (양재동코드랩 강의)](http://jeonghwan-kim.github.io/series/2018/12/01/node-web-0_index.html)
-<details><summary> └  요약 </summary>
+<details><summary> └  📝 </summary>
 
 - [ 목차 ]
 - 기본모듈 http
@@ -279,7 +271,7 @@ keywords: javascript, ReactJS, Nodejs, ECMA, Typescript
 </details>
 
 ### [노드 기반 브라우저 인스턴스 자동화 (크롬, 엣지, 오페라)](https://news.hada.io/topic?id=1559)
-<details><summary> └  요약 </summary>
+<details><summary> └  🔗 </summary>
 
 - https://github.com/getgauge/taiko
 - https://news.hada.io/topic?id=1559
