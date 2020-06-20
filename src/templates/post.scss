@@ -37,6 +37,7 @@
       align-items: flex-start;
       justify-content: space-between;
       flex-direction: column;
+      position: relative;
 
       & > .dot {
         margin: 0 0.5rem;
@@ -89,6 +90,7 @@
 
         @media screen and (max-width: $break-toc) {
           display: inline-block;
+          position: absolute;
         }
 
         .toc-button {
