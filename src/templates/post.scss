@@ -36,6 +36,7 @@
       font-size: 0.84rem;
       align-items: flex-start;
       justify-content: space-between;
+      flex-direction: column;
 
       & > .dot {
         margin: 0 0.5rem;
@@ -70,10 +71,14 @@
             opacity: 0.7;
             text-decoration: none;
             transition: opacity 0.3s;
+            color: var(--theme-ui-colors-text, #e4e4e4);
 
             &:hover {
               opacity: 1;
             }
+          }
+          a:visited {
+            color: var(--theme-ui-colors-text, #e4e4e4);
           }
         }
       }
