@@ -1,5 +1,5 @@
 ---
-title: Marketing, AD, GA, SEO
+title: 📊 Marketing, AD, GA, SEO
 date: 2020-04-27
 update: 2020-06-20
 tags:

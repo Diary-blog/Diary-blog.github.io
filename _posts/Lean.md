@@ -1,5 +1,5 @@
 ---
-title: Lean, Startup
+title: 📚 Lean, Startup
 date: 2020-04-26
 update: 2020-06-20
 tags:
