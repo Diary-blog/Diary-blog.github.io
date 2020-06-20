@@ -16,18 +16,16 @@ keywords: Bookmark, intro
 
 방문해주셔서 감사합니다.
 
-
-
-<br/><br/><br/>
+<br/><br/>
 
 ***
 
 ### 1. 읽었던 링크와 읽기 전 링크를 컬러로 구분
 
-2. 링크를 클릭하지 않았을 때 Color : ![](./image/color-o.png)  
+2. 링크를 클릭하지 않았을 때  
 <p style="color: #f87325">https://diary-blog.github.io/</p>
 
-3. 링크를 한번 클릭 했을 때 Color : ![](./image/color-b.png)  
+3. 링크를 한번 클릭 했을 때  
 <p style="color: #333">https://diary-blog.github.io/</p>
 
 4. 우측에 작은 텍스트(toc)도 링크를 클릭했을때와 클릭하지 않았을때 컬러로 구분 가능합니다.
