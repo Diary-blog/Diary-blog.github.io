@@ -219,6 +219,7 @@ const Post = (props: postProps) => {
               {tags.length && tags[0] !== 'undefined' ? (
                 <>
                   <span className="dot">·</span>
+                  <br/>
                   <ul className="blog-post-tag-list">{mapTags}</ul>
                 </>
               ) : null}

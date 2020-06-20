@@ -72,7 +72,7 @@ const PostList = memo((props: PostListProps) => {
           </h2>
           <div className="info">
             <div className="date-wrap">
-              <span className="date">{date}</span>
+              <span className="date">{date}</span><br/>
               {update ? <span className="update">&nbsp;{`(Updated: ${update})`}</span> : null}
             </div>
             {tags.length && tags[0] !== 'undefined' ? <span className="info-dot">·</span> : null}
