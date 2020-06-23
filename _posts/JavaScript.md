@@ -13,8 +13,8 @@ keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 
 |   |   |  
 |:---:|:---:|  
-|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](./#-reactjs)**|
-|**[TypeScript](./#-typescript)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|
+|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](./#-reactjs)**|  
+|**[![](./image/ts.png) TypeScript](./#-typescript)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|  
 
 <br/>
 
