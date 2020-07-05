@@ -1,7 +1,7 @@
 ---
 title: 📦 System architecture
 date : 2020-06-12
-update : 2020-06-20
+update : 2020-07-05
 tags:
   - Algorithm
   - DB
@@ -77,6 +77,8 @@ keywords: Algorithm, DB, SQL, Cloud, System architecture
 
 </details>
 
+### [AWS, GCP, Azure Cloud 자료 모음](http://it.serverchk.com/)
+
 <br/>
 <hr>
 
@@ -115,7 +117,26 @@ keywords: Algorithm, DB, SQL, Cloud, System architecture
 
 ### [Understanding the Background of Microservice Architecture](https://medium.com/sw-d/microservice-4609d656ccf8)
 
+### [마이크로서비스 이너 아키텍처(Microservices inner Architectue)](https://bernardokang.blog.me/221949068123)
 
+<details><summary> └  📝 </summary>
+- Application Architecture 
+- Layered Architecture
+- Hexagonal Architecture 
+- Presentation Layer (MVC)
+- Business Logic(Transaction Script, Domain Model)
+- Data Access
+</details>
 
+### [마이크로 프런트엔드](https://j.mp/31oxBuM)
 
+### [마이크로 서비스 아키텍처에서 프런트 엔드 관리](https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
+
+### [기존 SI와 MSA의 테스트는 뭐가 다를까](https://stmshra.blog.me/221502282484)
+
+### [MSA를 적용하고자 하는 비즈니스 목적은 무엇인가](https://stmshra.blog.me/221975832271)
+
+### [메시징 시스템을 활용하는 방법](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
+
+### [넷플릭스 마이크로 서비스 가이드](https://dong-life.tistory.com/90)
 

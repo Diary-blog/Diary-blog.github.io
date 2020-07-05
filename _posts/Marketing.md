@@ -1,7 +1,7 @@
 ---
 title: 📊 Marketing, AD, GA, SEO
 date: 2020-04-27
-update: 2020-06-20
+update: 2020-07-05
 tags:
   - Marketing
   - AD
@@ -124,4 +124,6 @@ keywords: Marketing, AD, GA, SEO
 ### [카카오톡 광고, 이렇게 고객을 사로 잡아보세요.](http://www.openads.co.kr/nTrend/article/6763)
 
 ### [지도로 올리브영 매장의 ‘차별화 전략’ 알아보기](https://www.sphinfo.com/oliveyoung/)
+
+### [페이스북 광고와 스마트스토어 마케팅의 궁합](https://m.blog.naver.com/denis_ahn/221995230548)
 

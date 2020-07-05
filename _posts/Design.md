@@ -1,7 +1,7 @@
 ---
 title: 🧭 Design
 date: 2020-04-30
-update: 2020-06-20
+update: 2020-07-05
 tags:
   - Design
   - UI
@@ -199,6 +199,22 @@ keywords: Design, UI, UX
 
 ### [시계 다이얼 속 시각언어](https://brunch.co.kr/@cliche-cliche/26)
 
+### [세상은 넓고 디자인 프로세스도 많다.](https://brunch.co.kr/@yuneuichoi/9)
+
+### [UI를 위한 레이아웃](https://brunch.co.kr/@blckschrl/65)
+<details><summary> └  📝 </summary>
+
+게슈탈트 이론, 근접성, 유사성, 연속성, 폐쇄성, 공동요소, 전경, 배경, 공동 영역, 스크린, 공간, 단위, 그리드, 
+패턴, 스크린 사이즈, 고정영역, 가변영역, 밀도, 구조, 네비게이션
+
+</details>
+
+### [UX팀이 사용자 인터뷰를 준비하는 과정](https://brunch.co.kr/@plusx/52)
+<details><summary> └  📝 </summary>
+
+킥오프미팅, 데스크리서치, 임직원 인터뷰, 사용자인터뷰 대상자 분류, 질문지 작성, 대상자 섭외
+
+</details>
 
 <br/>
 <hr>
@@ -260,6 +276,9 @@ keywords: Design, UI, UX
 </details>
 
 ### [컴포넌트 디자인으로 재사용성 극대화하기(컴포넌트 디자인의 생성과 활용, 협업하기)](https://blog.gangnamunni.com/post/Maximize-reusability-with-component-design)
+
+### [쏘카 디자인 시스템 구축 과정](https://tech.socarcorp.kr/design/2020/06/23/socar-design-system-01.html)
+
 
 
 <br/>
@@ -375,6 +394,7 @@ keywords: Design, UI, UX
 ### [같이 일하고 싶은 디자이너](https://brunch.co.kr/@forchoon/360)
 
 ### [브런치의 다움에 대하여: 디자인적 관점](https://brunch.co.kr/@henryj/8)
+
 
 
 <br/>

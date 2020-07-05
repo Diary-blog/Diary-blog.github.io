@@ -1,7 +1,7 @@
 ---
 title: 📚 Lean, Startup
 date: 2020-04-26
-update: 2020-06-20
+update: 2020-07-05
 tags:
   - Lean
   - startup
@@ -142,6 +142,21 @@ keywords: motivation, Lean, startup
 ### [GTD 일처리(할일) 관리시스템이란? #2/ 일거리의 가공방법](https://nmain.tistory.com/84)
 
 ### [문제해결의 3단계 접근방법](https://brunch.co.kr/@hvnpoet/14)
+
+### [달인이되는 비결](http://agile.egloos.com/m/5612585)
+<details><summary> └  📝 </summary>
+
+특정 영역에서 꾸준한 반복을 통해
+실력을 향상시키고 싶은 사람이라면
+1. 실력을 개선하려는 동기가 있어야 하고
+2. 구체적인 피드백을
+     적절한 시기에 받을 수 있는 상황을 찾아야 함
+
+</details>
+
+### [이력서 작성 체크리스트](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
+
+### [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
 
 
 
@@ -338,6 +353,49 @@ N개의 법인이 가로막는 데이터 통합
 ### [스타트업 대표는 한 달 정도 다른 일 하지 말고 KPI만 파고 들어 보자](https://medium.com/translink/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8C%80%ED%91%9C%EB%8A%94-%ED%95%9C-%EB%8B%AC-%EC%A0%95%EB%8F%84-%EB%8B%A4%EB%A5%B8-%EC%9D%BC-%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-kpi%EB%A7%8C-%ED%8C%8C%EA%B3%A0-%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90-c54745adf37c)
 
 ### [B2C보다 엔터프라이즈 스타트업에 투자 몰린다 …왜?](https://www.bloter.net/archives/367550)
+
+### [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
+
+### [한국과 미국은 브레인스토밍이 다르다](https://brunch.co.kr/@believeinurself/105)
+
+### [600개 이상의 스타트업 투자 유치 발표 자료](https://starthouse.xyz/)
+
+### [IT 개발자와 일할 때 필요한 개발지식](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+
+### [초기 스타트업의 5가지 조직 체계](https://brunch.co.kr/@goodgdg/83)
+
+### [SaaS의 홍수 시대에서 Data Warehouse/Lake 구축은 어떻게 해야 할까](https://blog.doosikbae.com/128)
+
+### [프로젝트 관리 방법론 17선](http://www.ciokorea.com/news/134998)
+<details><summary> └  📝 </summary>
+워터폴(Waterfall), 애자일(Agile),
+하이브리드(Hybrid), CPM(Critical Path Method),
+CCPM(Critical Chain Project Management),
+식스 시그마(Six Sigma), 린 개발(Lean Development, LD),
+린 식스 시그마(Lean Six Sigma), 스크럼(Scrum), 칸반(Kanban)
+</details>
+
+### [2019 디자인 노임단가 공표](https://www.dsninfo.or.kr/cost/standard.do?type=PRICE&category=WAGE)
+
+### [2020년 적용 SW기술자 평균임금 공표](https://www.sw.or.kr/site/sw/ex/board/View.do?cbIdx=304&bcIdx=44509&searchExt1=)
+
+### [(공공부문) SW사업 대가산정 가이드 (2020년 개정판) 공표](https://www.sw.or.kr/site/sw/ex/board/View.do?cbIdx=276&bcIdx=46149&searchExt1=)
+
+### [1020이 온라인에서 바로 이탈하는 이유](https://www.careet.net/107)
+<details><summary> └  📝 </summary>
+1. 간편결제가 안되면 최저가라도 구매를 포기
+2. 회원가입 과정에서 귀찮음을 느끼면 가차없이 이탈
+3. 읽음 확인이 안되는 소통창구를 답답해함
+4. 스캔본 제출, 문서 형식 통일을 불편해함
+</details>
+
+### [딸내미 친구랑 했던 약속이 회사가 됐습니다](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27333646&memberNo=27908841)
+
+### [Business Origami](https://medium.com/touchpoint/business-origami-693ee2ba5d87)
+
+### [실리콘밸리가 가르쳐준 것들](https://brunch.co.kr/@doberman/47)
+
+### [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 
 
 

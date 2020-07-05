@@ -1,7 +1,7 @@
 ---
 title: 💻 Tech Blog & Story
 date: 2020-04-27
-update : 2020-06-20
+update : 2020-07-05
 tags:
   - TechBlog
   - TechStory
@@ -318,4 +318,20 @@ keywords: TechBlog, TechStory
 ### [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6)
 
 ### [유비유넷 트렌드톡 맵 2019](https://drive.google.com/file/d/10JKMEBXWmijpY1m10TfTM9HWoTkXbjCE/view)
+
+### [개발자 회고 모음 2016~2020](https://github.com/oaksong/developers-retrospective)
+
+### [개발팀 TDD 후기](https://www.notion.so/TDD-d457bdec53f742f58ad94dc7b25cb8c5)](https://www.notion.so/TDD-d457bdec53f742f58ad94dc7b25cb8c5)
+
+### [일일 커밋의 효용성](https://jojoldu.tistory.com/402)
+<details><summary> └  📝 </summary>
+
+프로 스포츠 선수들이 재미있든 없든 매일 하는 것이 훈련이라면
+코드를 작성하는 것이 훈련의 대상 아닐까 싶다.
+일일커밋은 반복속에서 나름의 재미를 주는 장치
+
+</details>
+
+### [개발문화 칸반 이야기](https://brunch.co.kr/@seonology/6)
+
 

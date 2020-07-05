@@ -1,7 +1,7 @@
 ---
 title: 🛒 E-commerce
 date: 2020-04-27
-update : 2020-06-20
+update : 2020-07-05
 tags:
   - E-commerce
 keywords: E-commerce
@@ -55,6 +55,8 @@ keywords: E-commerce
 ### [10명 중 7명이 확인하는 리뷰, 서비스에서는 어떻게 활용하면 좋을까?](https://www.mobiinside.co.kr/2020/01/17/servicereview-review/)
 
 ### [추천의 원리 더 깊게 보기: 협업필터링, 프로파일링](https://imyeonn.github.io/blog/e-commerce/209/)
+
+### [커머스가 품절 상태를 대하는 방법, 차량 호출 서비스의 평가 기능, 숙소 예약 시 지도뷰의 역할에 대하여](http://icunow.co.kr/mobileapps15/)
 
 
 
