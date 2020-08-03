@@ -11,10 +11,10 @@ import { faListUl, faLayerGroup, faAngleLeft } from '@fortawesome/free-solid-svg
 import {
   FacebookShareButton,
   TwitterShareButton,
-  EmailShareButton,
+  // EmailShareButton,
   FacebookIcon,
   TwitterIcon,
-  EmailIcon,
+  // EmailIcon,
 } from 'react-share';
 
 import Layout from '../components/Layout';
@@ -111,13 +111,15 @@ const Post = (props: postProps) => {
     };
   }, [yList]);
 
-  const mapTags = tags.map((tag: string) => {
-    return (
-      <li key={tag} className="blog-post-tag">
-        <Link to={`/tags#${tag}`}>{`#${tag}`}</Link>
-      </li>
-    );
-  });
+
+  // 포스트 태그 삭제
+  // const mapTags = tags.map((tag: string) => {
+  //   return (
+  //     <li key={tag} className="blog-post-tag">
+  //       <Link to={`/tags#${tag}`}>{`#${tag}`}</Link>
+  //     </li>
+  //   );
+  // });
 
   const mapSeries = series.map((s: any) => {
     return (
