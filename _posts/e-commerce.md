@@ -1,5 +1,5 @@
 ---
-title: 🛒 E-commerce
+title: 🛒 E-commerce, Retail
 date: 2020-04-27
 update : 2020-07-05
 tags:
@@ -7,7 +7,7 @@ tags:
 keywords: E-commerce
 ---
 
-## 📄 E-commerce
+## 📄 E-commerce / Retail
 
 ### [e-커머스의 재구매율을 높이는 방법 알아보기](https://brunch.co.kr/@beusable/189?fbclid=IwAR1Hy2TcBp-4Sy4cMeVX_a7rSv5kbd-cKrOd_sHuz5rdVJ4rFzBVj53B-rM)
 <details><summary> └  📝 </summary>

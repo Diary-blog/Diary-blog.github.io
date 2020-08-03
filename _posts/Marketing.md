@@ -127,3 +127,4 @@ keywords: Marketing, AD, GA, SEO
 
 ### [페이스북 광고와 스마트스토어 마케팅의 궁합](https://m.blog.naver.com/denis_ahn/221995230548)
 
+### [디자이너를 위한 SEO](https://designshack.net/articles/business-articles/seo-for-designers/)

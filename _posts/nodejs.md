@@ -1,7 +1,6 @@
 ---
-title: 💡 JavaScript
-date: 2020-04-27
-update : 2020-07-05
+title: NodeJS
+date: 2020-08-03
 tags:
   - JS
   - JavaScript
@@ -11,13 +10,6 @@ tags:
   - Typescript
 keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 ---
-
-|   |   |  
-|:---:|:---:|  
-|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](./#-reactjs)**|  
-|**[![](./image/ts.png) TypeScript](./#-typescript)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|  
-
-<br/>
 
 ## 📄 Javascript
 
@@ -66,6 +58,3 @@ keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 
 ### [The 10 best javascript libraries for SVG animation](http://noeticforce.com/Javascript-libraries-for-svg-animation)
 
-
-<br/>
-<hr>
