@@ -11,6 +11,8 @@ export interface TagsPageProps {
   data: any;
 }
 
+
+
 const Tags = (props: TagsPageProps) => {
   const { data } = props;
   const { group } = data.allMarkdownRemark;
@@ -32,6 +34,9 @@ const Tags = (props: TagsPageProps) => {
     return 0;
   });
 
+
+
+  // tag list
   const tagList: any[] = group.map((g: groupItem) => {
     const getFontSize = () => {
       let fontSize = Math.round(50 / (largeCount / g.totalCount)).toString();
@@ -64,6 +69,9 @@ const Tags = (props: TagsPageProps) => {
     return 0;
   });
 
+  
+  
+  // post list 
   const getPostList: () => any[] = () => {
     if (group.filter((g: groupItem) => g.fieldValue === targetTag).length) {
       return group.filter((g: groupItem) => g.fieldValue === targetTag)[0].edges;
@@ -74,6 +82,8 @@ const Tags = (props: TagsPageProps) => {
     return [];
   };
 
+  
+  
   useEffect(() => {
     let large = 0;
     for (const g of group) {
@@ -93,9 +103,10 @@ const Tags = (props: TagsPageProps) => {
     <Layout>
       <SEO title="Tags" />
       <div id="tags">
+        {/* 태그 리스트 잠시 숨겨둠
         <div className="tag-list-wrap">
           <ul>{tagList}</ul>
-        </div>
+        </div> */}
 
         <PostList posts={getPostList()} />
       </div>
