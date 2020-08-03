@@ -48,9 +48,9 @@ const Post = (props: postProps) => {
     enableSocialShare: boolean;
     disqusShortname?: string;
   }
-  const { enablePostOfContents, disqusShortname, enableSocialShare }: iConfig = config;
+  const { enablePostOfContents, enableSocialShare }: iConfig = config; // disqusShortname, del
 
-  const [yList, setYList] = useState();
+  // const [yList, setYList] = useState();
   const [isInsideToc, setIsInsideToc] = useState(false);
 
   const isTableOfContents = enablePostOfContents && tableOfContents !== '';
@@ -85,31 +85,31 @@ const Post = (props: postProps) => {
     }
   }, [isMobile]);
 
-  useEffect(() => {
-    const setYPos = () => {
-      if (yList) {
-        const index =
-          yList.filter((v: number) => {
-            return v < window.pageYOffset;
-          }).length - 1;
+  // useEffect(() => {
+  //   const setYPos = () => {
+  //     if (yList) {
+  //       const index =
+  //         yList.filter((v: number) => {
+  //           return v < window.pageYOffset;
+  //         }).length - 1;
 
-        const aList = document.querySelectorAll('.toc.outside li a') as NodeListOf<HTMLAnchorElement>;
+  //       const aList = document.querySelectorAll('.toc.outside li a') as NodeListOf<HTMLAnchorElement>;
 
-        for (const i in Array.from(aList)) {
-          if (parseInt(i, 10) === index) {
-            aList[i].style.opacity = '1';
-          } else {
-            aList[i].style.opacity = '0.4';
-          }
-        }
-      }
-    };
+  //       for (const i in Array.from(aList)) {
+  //         if (parseInt(i, 10) === index) {
+  //           aList[i].style.opacity = '1';
+  //         } else {
+  //           aList[i].style.opacity = '0.4';
+  //         }
+  //       }
+  //     }
+  //   };
 
-    if (isTableOfContents) document.addEventListener('scroll', setYPos);
-    return () => {
-      if (isTableOfContents) document.removeEventListener('scroll', setYPos);
-    };
-  }, [yList]);
+  //   if (isTableOfContents) document.addEventListener('scroll', setYPos);
+  //   return () => {
+  //     if (isTableOfContents) document.removeEventListener('scroll', setYPos);
+  //   };
+  // }, [yList]);
 
 
   // 포스트 태그 삭제

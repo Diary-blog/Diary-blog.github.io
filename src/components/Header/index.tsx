@@ -2,12 +2,12 @@ import * as React from 'react';
 import { useEffect, useState, useCallback } from 'react';
 import { Link } from 'gatsby';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
-import { faBook, faSearch, faMoon, faSun, faChevronRight } from '@fortawesome/free-solid-svg-icons';
+import { faSearch, faMoon, faSun, faChevronRight } from '@fortawesome/free-solid-svg-icons'; // faBook del
 import { connect } from 'react-redux';
 import { useColorMode } from 'theme-ui';
 
 import './header.scss';
-const config = require('../../../config');
+// const config = require('../../../config');
 
 export interface headerPropsType {
   siteTitle: string;
@@ -18,7 +18,7 @@ export interface headerPropsType {
 }
 
 const Header = (props: headerPropsType) => {
-  const { siteTitle, path, setPath, size, isMobile } = props;
+  const { siteTitle, path, setPath, isMobile } = props; // size, del
   const [, setYPos] = useState(0);
   const [isHide, setIsHide] = useState(false);
   const [colorMode, setColorMode] = useColorMode();
