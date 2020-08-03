@@ -43,14 +43,14 @@ a {
 #content {
   display: flex;
   flex-direction: column;
-  padding-top: $header-height;
-  min-height: 100vh;
+  padding-top: $content-header-height;
+  min-height: 90vh;
 
   @media screen and (max-width: $break-m) {
-    padding-top: $header-height-m;
+    padding-top: $content-header-height-m;
   }
   @media screen and (max-width: $break-s) {
-    padding-top: $header-height-s;
+    padding-top: $content-header-height-s;
   }
 
   main {
