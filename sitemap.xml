@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://diary-blog.github.io/System-architecture/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/Css/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/Design/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/designsystem/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/designstory/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/graphic-branding/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/interaction-motion/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/nodejs/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/reactjs/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/tech-story/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/typescript/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/uiux-hci-accessibility/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/css/</loc> <lastmod>2001-01-01</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/system-architecture/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/design/</loc> <lastmod>2020-08-03</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/e-commerce/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/JavaScript/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/Marketing/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/TechBlog/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diary-blog.github.io/Lean/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/javascript/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/marketing/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/tech-blog/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/front-end/</loc> <lastmod>2020-06-20</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diary-blog.github.io/lean-startup/</loc> <lastmod>2020-07-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/intro/</loc> <lastmod>2020-06-20</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diary-blog.github.io/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
