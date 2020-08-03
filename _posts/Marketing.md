@@ -1,7 +1,7 @@
 ---
 title: 📊 Marketing, AD, GA, SEO
 date: 2020-04-27
-update: 2020-07-05
+update: 2020-08-03
 tags:
   - Marketing
   - AD

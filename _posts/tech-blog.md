@@ -9,11 +9,6 @@ tags:
 keywords: TechBlog, TechStory
 ---
 
-|   |   |  
-|:---:|:---:|  
-|**[Tech Blog](./#-tech-blog)**|**[Tech story](./#-tech-story)**|
-
-
 ## 📄 Tech Blog
 
 ### [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
@@ -83,6 +78,3 @@ keywords: TechBlog, TechStory
 
 ### [카카오 브런치"에서의 기술블로그 2년 회고](https://brunch.co.kr/@springboot/338)
 
-
-<br/>
-<hr>

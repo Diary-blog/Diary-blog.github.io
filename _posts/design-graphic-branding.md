@@ -15,16 +15,6 @@ tags:
 keywords: Design, UI, UX
 ---
 
-|   |   |   |  
-|:---:|:---:|:---:|  
-|**[UIUX, HCI, Accessibility](./#-uiux-hci-accessibility)**|**[Design system](./#-design-system)**|**[Design story](./#-design-story)**|
-|**[Graphic, Branding](./#-graphic-branding)**|**[Interaction, Motion](./#-interaction--motion)**|**[Resource](./#-resource)**|
-
-<br/>
-<br/>
-
-
-
 <br/>
 <hr>
 

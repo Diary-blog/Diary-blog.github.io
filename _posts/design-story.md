@@ -15,15 +15,6 @@ tags:
 keywords: Design, UI, UX
 ---
 
-|   |   |   |  
-|:---:|:---:|:---:|  
-|**[UIUX, HCI, Accessibility](./#-uiux-hci-accessibility)**|**[Design system](./#-design-system)**|**[Design story](./#-design-story)**|
-|**[Graphic, Branding](./#-graphic-branding)**|**[Interaction, Motion](./#-interaction--motion)**|**[Resource](./#-resource)**|
-
-<br/>
-<br/>
-
-
 ## 📄 Design Story
 
 ### [디자이너가 알아두면 좋은 인하우스와 에이전시의 차이점](https://brunch.co.kr/@sangster/102)

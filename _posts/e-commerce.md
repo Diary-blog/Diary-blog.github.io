@@ -4,7 +4,8 @@ date: 2020-04-27
 update : 2020-07-05
 tags:
   - E-commerce
-keywords: E-commerce
+  - Retail
+keywords: E-commerce, Retail
 ---
 
 ## 📄 E-commerce / Retail

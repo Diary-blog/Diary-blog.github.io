@@ -15,15 +15,6 @@ tags:
 keywords: Design, UI, UX
 ---
 
-|   |   |   |  
-|:---:|:---:|:---:|  
-|**[UIUX, HCI, Accessibility](./#-uiux-hci-accessibility)**|**[Design system](./#-design-system)**|**[Design story](./#-design-story)**|
-|**[Graphic, Branding](./#-graphic-branding)**|**[Interaction, Motion](./#-interaction--motion)**|**[Resource](./#-resource)**|
-
-<br/>
-<br/>
-
-
 ## 📄 Design System
 
 ### [우버 디자인 플랫폼](https://medium.com/uber-design/uber-design-platform-1ebff86c89e7)
