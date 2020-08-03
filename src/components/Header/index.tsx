@@ -99,7 +99,7 @@ const Header = (props: headerPropsType) => {
   /* Nav link */
   const Category = [
     { pathname: '/front-end', title: '✨', class: 'dev'},
-    { pathname: '/css', title: '🎨', class: 'dev'},
+    { pathname: '/css-style', title: '🎨', class: 'dev'},
   ];
   const CategoryA = [
     { pathname: '/tags#design', title: '🧭', class: 'dev'},
