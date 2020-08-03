@@ -219,7 +219,8 @@ const Post = (props: postProps) => {
               {tags.length && tags[0] !== 'undefined' ? (
                 <>
                   <span className="dot">·</span>
-                  <ul className="blog-post-tag-list">{mapTags}</ul>
+                  {/* 페이지에 태그 삭제 */}
+                  {/* <ul className="blog-post-tag-list">{mapTags}</ul> */}
                 </>
               ) : null}
 
