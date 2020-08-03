@@ -94,10 +94,36 @@ const Header = (props: headerPropsType) => {
     return () => document.removeEventListener('scroll', setVisible);
   }, []);
 
+
+
+  /* Nav link */
+  const Category = [
+    { pathname: '/front-end', title: '✨', class: 'dev'},
+    { pathname: '/css', title: '🎨', class: 'dev'},
+  ];
+  const CategoryA = [
+    { pathname: '/tags#design', title: '🧭', class: 'dev'},
+    { pathname: '/tags#JS', title: '💡', class: 'dev'},
+    { pathname: '/tags#tech', title: '💻', class: 'dev'},
+  ];
+  const CategoryB = [
+    { pathname: '/system-architecture', title: '📦', class: 'dev'},
+    { pathname: '/lean-startup', title: '📚', class: 'it'},
+    { pathname: '/marketing', title: '📊', class: 'it'},
+    { pathname: '/e-commerce', title: '🛒', class: 'it'},
+  ];
+  const CategoryC = [
+    { pathname: '/tags#mystory', title: '🍦', class: 'dev'},
+  ];
+
+
+
+
   return (
     <header id="Header" className={`${isHide ? 'hide' : 'show'} ${isMobile ? 'mobile' : ''}`}>
       <div className="header-title">
-        {/* <Link to="/">
+        {/* 메인 thumnail 삭제
+        <Link to="/">
           <div className="header-profile-image-wrap">
             <img
               src={
@@ -118,18 +144,71 @@ const Header = (props: headerPropsType) => {
       </div>
 
       <nav id="nav">
+        <div className="category">
+              {Category.map((i) => (
+                <Link
+                  key={i.pathname}
+                  to={i.pathname}
+                  title={i.title}
+                  className={i.class}
+                >{i.title}</Link>
+              ))}
+            {/*
+              이슈에 기록)
+              -> a tag는 page가 reloading 되면서 postList를 재출력하게 되니까
+              1. Route로 tag filter page 만들어서 출력
+              2. switch로 link url과 postlist를 sub page route로 적용하여
+                 sub title에 tab 형식으로 지정한 link에 post contents를 출력
+            */}
+              {CategoryA.map((i) => (
+                <a
+                  key={i.pathname}
+                  href={i.pathname}
+                  title={i.title}
+                  className={i.class}
+                >{i.title}</a>
+              ))}
+              {CategoryB.map((i) => (
+                <Link
+                  key={i.pathname}
+                  to={i.pathname}
+                  title={i.title}
+                  className={i.class}
+                >{i.title}</Link>
+              ))}
+              {CategoryC.map((i) => (
+                <a
+                  key={i.pathname}
+                  href={i.pathname}
+                  title={i.title}
+                  className={i.class}
+                >{i.title}</a>
+              ))}
+
+          {/* link 대신 map 으로 적용          
+          <Link className="dev" to="/design">🧭</Link>
+          <Link className="dev" to="/front-end">✨</Link>
+          <Link className="dev" to="/css">🎨</Link>
+          <a className="dev" href="/tags#JS">💡</a>
+          <a className="dev" href="/tags#tech">💻</a>
+          <Link className="dev" to="/system-architecture">📦</Link>
+          <Link className="it" to="/lean-startup">📚</Link>
+          <Link className="it" to="/marketing">📊</Link>
+          <Link className="it" to="/e-commerce">🛒</Link>
+          <a className="my" href="/tags#mystory">🍦</a> */}
+        </div>
         <div className="theme-toggle">
           <div className="theme-toggle-description" style={{ display: isMobile ? 'none' : 'flex' }}>
             <Fa
               icon={colorMode === 'dark' ? faMoon : faSun}
-              style={{ fontSize: colorMode === 'dark' ? '1.1rem' : '1.2rem' }}
+              style={{ fontSize: colorMode === 'dark' ? '1rem' : '1.2rem' }}
             />
             <Fa icon={faChevronRight} style={{ fontSize: '0.9rem' }} />
           </div>
 
           <Fa
             icon={colorMode === 'dark' ? faSun : faMoon}
-            style={{ fontSize: colorMode === 'dark' ? '1.2rem' : '1.1rem' }}
+            style={{ fontSize: colorMode === 'dark' ? '1.2rem' : '1rem' }}
             onMouseEnter={() => {
               const toggle: HTMLDivElement | null = document.querySelector('.theme-toggle-description');
               if (toggle) toggle.style.opacity = '0.5';
@@ -145,13 +224,14 @@ const Header = (props: headerPropsType) => {
         </div>
 
         <ul>
+          {/* 태그페이지 사용안함
           <li>
             <div className="tag-wrap">
               <Link to="/tags">
                 <Fa icon={faBook} />
               </Link>
             </div>
-          </li>
+          </li> */}
 
           <li>
             <div className="search-wrap">
