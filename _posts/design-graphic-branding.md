@@ -1,5 +1,5 @@
 ---
-title: Graphic Design, Brand Design
+title: 🧭 Graphic Design, Brand Design
 date: 2020-08-03
 tags:
   - design

@@ -1,5 +1,5 @@
 ---
-title: Interaction Design, Motion
+title: 🧭 Interaction Design, Motion
 date: 2020-08-03
 tags:
   - design

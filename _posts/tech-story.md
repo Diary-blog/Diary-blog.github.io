@@ -1,5 +1,5 @@
 ---
-title: Tech Story
+title: 💻 Tech Story
 date: 2020-08-03
 tags:
   - tech

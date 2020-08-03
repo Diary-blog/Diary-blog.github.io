@@ -1,5 +1,5 @@
 ---
-title: TypeScript
+title: 💡 TypeScript
 date: 2020-08-03
 tags:
   - JS

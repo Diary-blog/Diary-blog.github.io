@@ -1,5 +1,5 @@
 ---
-title: UIUX, HCI, Accesibility
+title: 🧭 UIUX, HCI, Accesibility
 date: 2020-08-03
 tags:
   - design
