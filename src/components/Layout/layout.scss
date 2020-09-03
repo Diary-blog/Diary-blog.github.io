@@ -11,9 +11,12 @@ a {
     transition: color 0.8s;
   }
 
-  &.dark {a:visited {color: var(--theme-ui-colors-text,#e4e4e4);}}
   &.light{a:visited {color: #333;}}
-
+  &.dark {
+    a:visited {color: var(--theme-ui-colors-text,#e4e4e4);}
+    u {background-color: #401700;}
+    u:hover {background-color: #290f00;}
+  }
 
   &.light {
     @media screen and (max-width: $break-l) {
@@ -31,6 +34,15 @@ a {
     @media screen and (max-width: $break-l) {
       #Header {
         background-color: $background-color-d;
+        .category {
+          background-color: $background-color-d;
+        }
+      }
+      .blog-post-container {
+        .blog-post {
+          u {background-color: #401700;}
+          u:hover {background-color: #692700;}
+        }
       }
     }
   }
@@ -50,9 +62,9 @@ a {
     padding-top: $content-header-height-m;
   }
   @media screen and (max-width: $break-s) {
-    padding-top: $content-header-height-s;
+    padding-top: 2.5rem;
   }
-
+  
   main {
     flex-grow: 1;
   }
