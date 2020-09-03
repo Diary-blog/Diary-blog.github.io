@@ -27,10 +27,12 @@ a {
   }
 
   &.dark {
-    svg {
-      color: #a3aab3;
+    svg path {
+      fill: #3c3c3c;
     }
-
+    .blog-post-info {border-bottom: 1px solid #3c3c3c;}
+    .blog-post-title {color: #ddd;}
+    .blog-post hr {background: #3c3c3c;}
     @media screen and (max-width: $break-l) {
       #Header {
         background-color: $background-color-d;
