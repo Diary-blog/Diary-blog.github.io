@@ -34,7 +34,7 @@
       word-break: keep-all;
       font-family: 'Noto Serif KR';
       @media screen and (max-width: 559px) {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
       }
     }
 
@@ -46,6 +46,9 @@
       justify-content: space-between;
       flex-direction: column;
       position: relative;
+
+      border-bottom: 1px solid #eee;
+      padding-bottom: 20px;
 
       & > .dot {
         margin: 0 0.5rem;
