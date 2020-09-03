@@ -51,7 +51,7 @@
 
     .post-list {
       margin: 100px auto 0;
-      @media screen and (max-width: 559px) {
+      @media screen and (max-width: $break-s) {
         margin: 40px auto 0;
       }
     }

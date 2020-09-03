@@ -7,7 +7,7 @@
     margin-top: 0.5rem;
   }
   @media screen and (max-width: $break-m) {
-    margin-top: 3rem;
+    margin-top: 0rem;
   }
 
   .bio {
@@ -28,8 +28,11 @@
 
     & > div {
       margin: 100px auto 0;
-      @media screen and (max-width: 559px) {
+      @media screen and (max-width: $break-m) {
         margin: 40px auto 0;
+      }
+      @media screen and (max-width: $break-s) {
+        margin: 70px auto 0;
       }
     }
 

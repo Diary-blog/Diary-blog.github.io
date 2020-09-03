@@ -9,6 +9,10 @@
   padding-right: 0.5rem;
   // margin-right: 2rem;
 
+  @media screen and (max-width: $break-s) {
+    max-width: 340px;
+  }
+
   &::-webkit-scrollbar {
     display: none;
   }
@@ -17,6 +21,9 @@
     margin-top: 0;
     margin-left: 1.4rem;
     padding: 0.2rem;
+    @media screen and (max-width: $break-s) {
+      margin-left: .5rem;
+    }
     li {
       list-style: none;
       margin: 0;

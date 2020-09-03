@@ -2,7 +2,7 @@
 
 #tags {
   max-width: 1000px;
-  margin: 100px auto 0;
+  margin: 0 auto;
 
   .tag-list-wrap {
     margin-bottom: 5rem;
@@ -48,8 +48,8 @@
 
   .post-list {
     margin: 100px auto 0;
-    @media screen and (max-width: 559px) {
-      margin: 40px auto 0;
+    @media screen and (max-width: $break-m) {
+      margin: 70px auto 0;
     }
   }
 }
