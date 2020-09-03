@@ -11,7 +11,7 @@
   .blog-post {
     padding: 0 1rem;
     hr {margin: 4rem 0;}
-    u {background-color: #ffebe0;}
+    u {background-color: #ffebe0; text-underline-position: under;}
     u:hover {background-color: #ffcbac;}
     a {
       color: #f87325;
