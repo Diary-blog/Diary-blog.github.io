@@ -1,5 +1,5 @@
 ---
-title: 📦 System architecture
+title: 🧩 System architecture
 date : 2020-06-12
 update : 2020-07-05
 tags:
@@ -13,8 +13,8 @@ keywords: Algorithm, DB, SQL, Cloud, System architecture
 
 |   |   |
 |:---:|:---:|  
-|**[Algorithm](./#-algorithm)**|**[Database, sql](./#-database-sql)**|
-|**[Cloud, deploy](./#-cloud-deploy)**|**[System architecture](./#-system-architecture)**|
+|**[🧶 Algorithm](./#-algorithm)**|**[📦 Database, SQL](./#-database-sql)**|
+|**[☁️ Cloud, deploy](./#-cloud-deploy)**|**[🧩 System architecture](./#-system-architecture)**|
 
 
 ## 📄 Algorithm

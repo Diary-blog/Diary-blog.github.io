@@ -3,6 +3,7 @@ title: 💡 JavaScript
 date: 2020-04-27
 update : 2020-07-05
 tags:
+  - front-end
   - JS
   - JavaScript
   - ReactJS
@@ -14,8 +15,8 @@ keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 
 |   |   |  
 |:---:|:---:|  
-|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](./#-reactjs)**|  
-|**[![](./image/ts.png) TypeScript](./#-typescript)**|**[![](./image/node.png) NodeJS](./#-nodejs)**|  
+|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](/js-reactjs)**|  
+|**[![](./image/ts.png) TypeScript](/js-typescript)**|**[![](./image/node.png) NodeJS](/js-nodejs)**|  
 
 <br/>
 

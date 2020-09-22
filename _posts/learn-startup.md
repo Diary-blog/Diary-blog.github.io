@@ -1,15 +1,19 @@
 ---
-title: 📚 Lean, Startup
+title: 📚 Learn, Startup
 date: 2020-04-26
 update: 2020-07-05
 tags:
-  - Lean
+  - Learn
   - startup
   - Motivation
-keywords: motivation, Lean, startup
+keywords: motivation, Learn, startup
 ---
 
-## 📄 배움, 학습, 성장, 동기부여
+|   |   |
+|:---:|:---:|  
+|**[🔥 Learn 배움, 학습, 성장, 동기부여](./learn-startup)**|**[🚀 StartUp 스타트업, 조직문화, 기획](./#-startup)**|
+
+## 📄 Learn
 
 ### [스스로 질문하며 학습하기 (Question Driven Thinking)](https://evan-moon.github.io/2020/02/11/question-driven-thinking/)
 <details><summary> └  📝 </summary>
@@ -164,7 +168,7 @@ keywords: motivation, Lean, startup
 <hr>
 
 
-## 📄 스타트업, 조직문화, 기획
+## 📄 Startup
 
 ### [CEO를 위한 운영 및 내부 커뮤니케이션 전략](https://news.hada.io/topic?id=1156)
 

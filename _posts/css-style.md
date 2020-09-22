@@ -3,6 +3,7 @@ title: 🎨 CSS
 date: 2020-06-12
 update: 2020-08-03
 tags:
+  - front-end
   - css
   - styled-components
   - sass
