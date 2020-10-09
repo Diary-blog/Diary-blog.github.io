@@ -17,27 +17,32 @@
   user-select: none;
 
   @media screen and (max-width: $break-l) {
-    padding: 0 2rem 0rem;
+    // padding: 0 2rem 0rem;
   }
   @media screen and (max-width: $break-m) {
-    padding: 0 1rem 0.5rem 1rem;
-    height: $header-height-m;
+    // padding: 0 1rem 0.5rem 1rem;
+    height: $header-height;
     .category {
       position: absolute;
-      right: 0;
-      top: 32px;
+      right: 15px;
+      top: 38px;
       width: 100%;
-      text-align: center;
+      text-align: right;
+      padding-right: 80px;
     }
   }
   @media screen and (max-width: $break-s) {
     height: $header-height-s;
     padding: 0 1rem 0.25rem 1rem;
     .category {
+      right: 0;
       top: 40px;
-      background-color: #fff;
       width: 100%;
       padding: 15px 0 10px;
+      @media screen and (max-width: $break-s) {
+        top: 0px;
+        padding: 15px 70px 10px 0;
+      }
     }
   }
 
@@ -50,7 +55,7 @@
     // position: relative;
   }
   &.hide {
-    top: -$header-height;
+    top: -$header-height !important;
   }
 
   .header-title {
@@ -119,7 +124,7 @@
       }
 
       @media screen and (max-width: $break-s) {
-        font-size: 1.1rem;
+        font-size: 1rem;
       }
     }
   }
@@ -137,6 +142,10 @@
     transition: opacity 0.3s;
     align-items: center;
 
+    @media screen and (max-width: $break-s) {
+      margin: 15px 10px 0px 10px;
+    }
+
     &:hover {
       opacity: 0.9;
     }
@@ -153,10 +162,10 @@
     }
 
     svg {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       margin: 0;
-      color: #6a737d !important;
-      width: 17px;
+      color: #FFC107 !important;
+      width: 18px;
     }
 
     & > svg {
@@ -185,7 +194,7 @@
         }
 
         @media screen and (max-width: $break-s) {
-          font-size: 1rem;
+          font-size: 1.1rem;
         }
       }
 
@@ -201,6 +210,9 @@
 
         svg {
           margin-top: 4px;
+          @media screen and (max-width: $break-s) {
+            margin-top: 21px;
+          }
         }
       }
     }
@@ -209,7 +221,7 @@
   .category a {
     padding: 0 10px;
     @media screen and (max-width: $break-s) {
-      padding: 0 8px;
+      padding: 0 5px;
     }
   }
 
