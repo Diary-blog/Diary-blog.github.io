@@ -7,7 +7,7 @@ a {
 
 #layout {
   svg {
-    color: #6a737d;
+    color: #cacaca;
     transition: color 0.8s;
   }
 
@@ -24,22 +24,25 @@ a {
         background-color: $background-color;
       }
     }
+    .date, .update {color: $c33;}
   }
 
   &.dark {
     svg path {
       fill: #3c3c3c;
     }
+    .date,
+    .update {color: $cdd;}
     .blog-post-info {border-bottom: 1px solid #3c3c3c;}
     .blog-post-title {color: #ddd;}
     .blog-post hr {background: #3c3c3c;}
     @media screen and (max-width: $break-l) {
-      #Header {
-        background-color: $background-color-d;
-        .category {
-          background-color: $background-color-d;
-        }
-      }
+      // #Header {
+      //   background-color: $background-color-d;
+      //   .category {
+      //     background-color: $background-color-d;
+      //   }
+      // }
       .blog-post-container {
         .blog-post {
           u {background-color: #401700;}
