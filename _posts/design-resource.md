@@ -1,5 +1,5 @@
 ---
-title: 🧭 Design
+title: 🧭 Design resource
 date: 2020-04-30
 update: 2020-08-03
 tags:
@@ -14,6 +14,8 @@ tags:
   - Motion
   - Design resource
 keywords: Design, UI, UX
+read: random
+cover: ./image/cover/de.png
 ---
 
 ## 📄 Resource

@@ -1,11 +1,13 @@
 ---
 title: 🙌 intro
 date: 2020-02-25
-update: 2020-06-20
+# update: 2020-06-20
 tags:
   - mystory
   - intro
 keywords: Bookmark, intro
+read: 1m 10s
+cover: ./image/cover/it.png
 ---
 
 

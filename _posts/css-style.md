@@ -1,7 +1,7 @@
 ---
 title: 🎨 CSS
 date: 2020-06-12
-update: 2020-08-03
+update: 2020-10-09
 tags:
   - front-end
   - css
@@ -9,6 +9,8 @@ tags:
   - sass
   - scss
 keywords: css
+read: 3m 10s
+cover: ./image/cover/css.png
 ---
 
 ## 📄 CSS
