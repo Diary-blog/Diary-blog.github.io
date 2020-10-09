@@ -103,10 +103,10 @@ const Tags = (props: TagsPageProps) => {
     <Layout>
       <SEO title="Tags" />
       <div id="tags">
-        {/* 태그 리스트 잠시 숨겨둠
-        <div className="tag-list-wrap">
+        {/* 태그 리스트 잠시 숨겨둠*/}
+        {/* <div className="tag-list-wrap">
           <ul>{tagList}</ul>
-        </div> */}
+        </div>  */}
 
         <PostList posts={getPostList()} />
       </div>
@@ -131,6 +131,15 @@ export const pageQuery = graphql`
               update(formatString: "MMM DD, YYYY")
               title
               tags
+              cover {
+                childImageSharp {
+                  resolutions{
+                    src
+                    srcSet
+                  }
+                }
+              }
+              read
             }
           }
         }

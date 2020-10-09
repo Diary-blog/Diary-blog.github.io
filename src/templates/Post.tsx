@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
 import { graphql, Link } from 'gatsby';
+// import { Utterences } from './comment';
 // import { DiscussionEmbed } from 'disqus-react';
 import moment from 'moment';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
@@ -113,13 +114,13 @@ const Post = (props: postProps) => {
 
 
   // 포스트 태그 삭제
-  // const mapTags = tags.map((tag: string) => {
-  //   return (
-  //     <li key={tag} className="blog-post-tag">
-  //       <Link to={`/tags#${tag}`}>{`#${tag}`}</Link>
-  //     </li>
-  //   );
-  // });
+  const mapTags = tags.map((tag: string) => {
+    return (
+      <li key={tag} className="blog-post-tag">
+        <Link to={`/tags#${tag}`}>{`#${tag}`}</Link>
+      </li>
+    );
+  });
 
   const mapSeries = series.map((s: any) => {
     return (
@@ -158,6 +159,28 @@ const Post = (props: postProps) => {
   // const goBack = () => {
   //   window.history.back();
   // }
+
+  // const commentBox = React.createRef()
+
+  // useEffect(() => {
+  //   const scriptEl = document.createElement('script')
+  //   scriptEl.async = true
+  //   scriptEl.src = 'https://utteranc.es/client.js'
+  //   scriptEl.setAttribute('repo', 'creativcoder/creativcoder.dev-comments')
+  //   scriptEl.setAttribute('issue-term', 'title')
+  //   scriptEl.setAttribute('id', 'utterances')
+  //   scriptEl.setAttribute('theme', 'github-light')
+  //   scriptEl.setAttribute('crossorigin', 'anonymous')
+  //   if (commentBox && commentBox.current) {
+  //     commentBox.current.appendChild(scriptEl)
+  //   } else {
+  //     console.log(`Error adding utterances comments on: ${commentBox}`)
+  //   }
+  // }, [])
+
+  // const Comment = ({commentBox}) => (<div ref={commentBox} className="comments"></div>)
+  // const { utterances } = comment;
+
 
   return (
     <>
@@ -220,9 +243,9 @@ const Post = (props: postProps) => {
 
               {tags.length && tags[0] !== 'undefined' ? (
                 <>
+                  {/* 페이지 태그 삭제 */}
                   <span className="dot">·</span>
-                  {/* 페이지에 태그 삭제 */}
-                  {/* <ul className="blog-post-tag-list">{mapTags}</ul> */}
+                  <ul className="blog-post-tag-list">{mapTags}</ul>
                 </>
               ) : null}
 
@@ -265,6 +288,9 @@ const Post = (props: postProps) => {
 
             <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: html }} />
           </div>
+
+          {/* {!!utterances && <Utterences repo={utterances} />} */}
+            {/* { excerpt? <></>: <Comment commentBox={commentBox} />} */}
 
           {isSocialShare ? (
             <div className="social-share">
@@ -341,6 +367,7 @@ export const pageQuery = graphql`
         tags
         keywords
         update(formatString: "MMM DD, YYYY")
+        read
       }
     }
   }

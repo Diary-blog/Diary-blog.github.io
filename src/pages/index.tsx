@@ -13,6 +13,9 @@ export interface IndexPageProps {
   path: string;
   location: any;
   data: any;
+  read: string;
+  tag: string;
+  cover: any;
 }
 
 const IndexPage = (props: IndexPageProps) => {
@@ -56,6 +59,15 @@ export const pageQuery = graphql`
             update(formatString: "MMM DD, YYYY")
             title
             tags
+            cover {
+              childImageSharp {
+                resolutions{
+                  src
+                  srcSet
+                }
+              }
+            }
+            read
           }
         }
       }

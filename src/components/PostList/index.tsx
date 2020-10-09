@@ -48,11 +48,11 @@ const PostList = memo((props: PostListProps) => {
     const { node } = post;
     const { excerpt, fields, frontmatter } = node;
     const { slug } = fields;
-    const { date, title } = frontmatter; // tag 삭제
+    const { date, title, tags, cover, read } = frontmatter; // tags 삭제
     let update = frontmatter.update;
     if (Number(update.split(',')[1]) === 1) update = null;
 
-    /* 메인 목록에서 태그 삭제
+    /* 메인 목록에서 태그 삭제*/
     const mapTag = tags.map((tag: string) => {
       if (tag === 'undefined') return;
 
@@ -64,26 +64,49 @@ const PostList = memo((props: PostListProps) => {
         </li>
       );
     });
-    */
+    
 
     return (
       <li key={slug} className={`post ${i < showCnt ? 'show' : 'hide'}`}>
         <article>
-          <h2 className="title">
-            <Link to={slug}>{title}</Link>
-          </h2>
-          <div className="info">
-            <div className="date-wrap">
-              <span className="date">{date}</span>
-              {update ? <span className="update">&nbsp;{`(Updated: ${update})`}</span> : null}
-            </div>
-            {/* {tags.length && tags[0] !== 'undefined' ? <span className="info-dot">·</span> : null} */}
-            {/* <ul className="tag-list">{mapTag}</ul> */}
+          <div className = "cover">
+            <Link to = {slug}>
+              {
+                cover === null ? (<img src = {require('./thumnail.png')} alt = {title} />) :
+              ( <img src = {cover.childImageSharp.resolutions.src} alt = {title} /> )
+              }
+            </Link>
           </div>
-          <span className="excerpt">
-            <Link to={slug}>{excerpt}</Link>
-          </span>
+          <div className="info-box">
+            <h2 className="title">
+              <Link to={slug}>{title}</Link>
+            </h2>
+            <span className="excerpt">
+              <Link to={slug}>{excerpt}</Link>
+            </span>
+            <div className="info">
+              <div className="date-wrap">
+                <ul className="sub-title">
+                  <li>DATE</li>
+                  <li>READ</li>
+                  <li>TAG</li>
+                </ul>
+              </div>
+              <div className="date-wrap">
+                <ul className="sub-title">
+                  <li><span className="date">{date}</span>{update ? <span className="update"><span className="line"></span>{`${update}`}</span> : null}</li>
+                  <li><span className="sub-contents">{read ? <span>{`${read}`}</span> : <span>　</span>}</span></li>
+                  <li>
+                    {/* 태그 부분 삭제 */}
+                    {tags.length && tags[0] !== 'undefined'}
+                    <ul className="tag-list">{mapTag}</ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </article>
+        <div className="underline"></div>
       </li>
     );
   });
