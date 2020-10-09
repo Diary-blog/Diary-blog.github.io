@@ -7,7 +7,7 @@
     max-width: 900px;
     margin: 100px auto 0;
     @media screen and (max-width: $break-m) {
-      margin: 70px auto 0;
+      margin: 40px auto 0;
     }
   }
 
@@ -36,6 +36,7 @@
       line-height: 1.5;
       word-break: keep-all;
       font-family: 'Noto Serif KR';
+      color: #333;
       @media screen and (max-width: $break-s) {
         font-size: 1.2rem;
       }
@@ -210,7 +211,9 @@
         margin-top: 1rem;
       }
 
-      p {margin-bottom: 1rem;}
+      p {margin-bottom: 1rem; line-height: 30px;
+        .gatsby-resp-image-wrapper {margin-left: 0 !important;}
+      }
 
       li {
         margin-bottom: 1rem;
@@ -233,7 +236,8 @@
       }
       td {text-align: center; padding-right: 25px;}
 
-      details {color: #808080; margin-top: -10px; margin-bottom: 30px; cursor: pointer;}
+      details {color: #808080; margin-top: -10px; margin-bottom: 30px; cursor: help;
+      }
       details > summary {margin-bottom: 10px;}
       details > summary::-webkit-details-marker {
         display: none;
