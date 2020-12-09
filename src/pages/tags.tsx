@@ -6,19 +6,21 @@ import Layout from '../components/Layout';
 import SEO from '../components/seo';
 import './styles/tags.scss';
 import PostList from '../components/PostList';
+import { useLocation } from "@reach/router"
 
 export interface TagsPageProps {
   data: any;
 }
 
-
-
 const Tags = (props: TagsPageProps) => {
   const { data } = props;
   const { group } = data.allMarkdownRemark;
 
+  const location = useLocation();
+  
+
   const [largeCount, setLargeCount] = useState(0);
-  const [targetTag, setTargetTag] = useState(location.hash.split('#')[1]);
+  const [targetTag, setTargetTag] = useState(typeof window !== "undefined" ? window.location.hash.split('#')[1] : "");
   const [posts, setPosts] = useState([])
   interface groupItem {
     fieldValue: string;
@@ -33,10 +35,6 @@ const Tags = (props: TagsPageProps) => {
     if (y < x) return 1;
     return 0;
   });
-
-  useEffect(() => {
-    setTargetTag(location.hash.split('#')[1]);
-  },[location.hash])
 
   // tag list
   const tagList: any[] = group.map((g: groupItem) => {
@@ -71,8 +69,6 @@ const Tags = (props: TagsPageProps) => {
     return 0;
   });
 
-
-  
   // post list 
   const getPostList: () => any[] = () => {
     if (group.filter((g: groupItem) => g.fieldValue === targetTag).length) {
@@ -83,7 +79,7 @@ const Tags = (props: TagsPageProps) => {
   };
 
   useEffect(() => {
-    setPosts(getPostList() as any)
+    setPosts(getPostList() as any);
   }, [targetTag])
   
   
@@ -98,9 +94,8 @@ const Tags = (props: TagsPageProps) => {
   }, [group]);
 
   useEffect(() => {
-    if (location.hash) setTargetTag(location.hash.split('#')[1]);
-    return () => {};
-  }, []);
+    setTargetTag(location.hash.split('#')[1]);
+  },[location.hash])
 
   return (
     <Layout>
