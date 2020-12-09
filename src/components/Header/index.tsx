@@ -98,19 +98,15 @@ const Header = (props: headerPropsType) => {
 
   /* Nav link */
   const Category = [
-    { pathname: '/front-end', title: '✨', class: 'dev'},
-    { pathname: '/css-style', title: '🎨', class: 'dev'},
-  ];
-  const CategoryA = [
+    { pathname: '/tags#front-end', title: '✨', class: 'dev'},
     { pathname: '/tags#design', title: '🧭', class: 'dev'},
-    { pathname: '/tags#JS', title: '💡', class: 'dev'},
     { pathname: '/tags#tech', title: '💻', class: 'dev'},
   ];
   const CategoryB = [
-    { pathname: '/system-architecture', title: '📦', class: 'dev'},
-    { pathname: '/lean-startup', title: '📚', class: 'it'},
-    { pathname: '/marketing', title: '📊', class: 'it'},
-    { pathname: '/e-commerce', title: '🛒', class: 'it'},
+    { pathname: '/system-architecture/', title: '🧩', class: 'dev'},
+    { pathname: '/learn-startup/', title: '📚', class: 'it'},
+    { pathname: '/marketing/', title: '📊', class: 'it'},
+    { pathname: '/e-commerce/', title: '🛒', class: 'it'},
   ];
   const CategoryC = [
     { pathname: '/tags#mystory', title: '🍦', class: 'dev'},
@@ -160,14 +156,6 @@ const Header = (props: headerPropsType) => {
               2. switch로 link url과 postlist를 sub page route로 적용하여
                  sub title에 tab 형식으로 지정한 link에 post contents를 출력
             */}
-              {CategoryA.map((i) => (
-                <a
-                  key={i.pathname}
-                  href={i.pathname}
-                  title={i.title}
-                  className={i.class}
-                >{i.title}</a>
-              ))}
               {CategoryB.map((i) => (
                 <Link
                   key={i.pathname}
@@ -177,12 +165,12 @@ const Header = (props: headerPropsType) => {
                 >{i.title}</Link>
               ))}
               {CategoryC.map((i) => (
-                <a
+                <Link
                   key={i.pathname}
-                  href={i.pathname}
+                  to={i.pathname}
                   title={i.title}
                   className={i.class}
-                >{i.title}</a>
+                >{i.title}</Link>
               ))}
 
           {/* link 대신 map 으로 적용          
@@ -201,14 +189,14 @@ const Header = (props: headerPropsType) => {
           <div className="theme-toggle-description" style={{ display: isMobile ? 'none' : 'flex' }}>
             <Fa
               icon={colorMode === 'dark' ? faMoon : faSun}
-              style={{ fontSize: colorMode === 'dark' ? '1rem' : '1.2rem' }}
+              style={{ fontSize: colorMode === 'dark' ? '1.05rem' : '1.2rem' }}
             />
             <Fa icon={faChevronRight} style={{ fontSize: '0.9rem' }} />
           </div>
 
           <Fa
             icon={colorMode === 'dark' ? faSun : faMoon}
-            style={{ fontSize: colorMode === 'dark' ? '1.2rem' : '1rem' }}
+            style={{ fontSize: colorMode === 'dark' ? '1.2rem' : '1.05rem' }}
             onMouseEnter={() => {
               const toggle: HTMLDivElement | null = document.querySelector('.theme-toggle-description');
               if (toggle) toggle.style.opacity = '0.5';
@@ -224,14 +212,14 @@ const Header = (props: headerPropsType) => {
         </div>
 
         <ul>
-          {/* 태그페이지 사용안함
-          <li>
+          {/* 태그페이지 사용안함*/}
+          {/* <li>
             <div className="tag-wrap">
               <Link to="/tags">
                 <Fa icon={faBook} />
               </Link>
             </div>
-          </li> */}
+          </li>  */}
 
           <li>
             <div className="search-wrap">

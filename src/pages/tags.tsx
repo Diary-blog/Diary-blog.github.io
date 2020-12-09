@@ -18,8 +18,8 @@ const Tags = (props: TagsPageProps) => {
   const { group } = data.allMarkdownRemark;
 
   const [largeCount, setLargeCount] = useState(0);
-  const [targetTag, setTargetTag] = useState('undefined');
-
+  const [targetTag, setTargetTag] = useState(location.hash.split('#')[1]);
+  const [posts, setPosts] = useState([])
   interface groupItem {
     fieldValue: string;
     totalCount: number;
@@ -34,7 +34,9 @@ const Tags = (props: TagsPageProps) => {
     return 0;
   });
 
-
+  useEffect(() => {
+    setTargetTag(location.hash.split('#')[1]);
+  },[location.hash])
 
   // tag list
   const tagList: any[] = group.map((g: groupItem) => {
@@ -69,19 +71,20 @@ const Tags = (props: TagsPageProps) => {
     return 0;
   });
 
-  
+
   
   // post list 
   const getPostList: () => any[] = () => {
     if (group.filter((g: groupItem) => g.fieldValue === targetTag).length) {
       return group.filter((g: groupItem) => g.fieldValue === targetTag)[0].edges;
     }
-    if (group.filter((g: groupItem) => g.fieldValue === 'undefined').length) {
-      return group.filter((g: groupItem) => g.fieldValue === 'undefined')[0].edges;
-    }
+    
     return [];
   };
 
+  useEffect(() => {
+    setPosts(getPostList() as any)
+  }, [targetTag])
   
   
   useEffect(() => {
@@ -106,9 +109,8 @@ const Tags = (props: TagsPageProps) => {
         {/* 태그 리스트 잠시 숨겨둠*/}
         {/* <div className="tag-list-wrap">
           <ul>{tagList}</ul>
-        </div>  */}
-
-        <PostList posts={getPostList()} />
+        </div> */}
+        <PostList posts={posts} />
       </div>
     </Layout>
   );
@@ -133,7 +135,12 @@ export const pageQuery = graphql`
               tags
               cover {
                 childImageSharp {
+                  fixed(width: 150) {
+                    ...GatsbyImageSharpFixed
+                  }
                   resolutions{
+                    width
+                    height
                     src
                     srcSet
                   }
