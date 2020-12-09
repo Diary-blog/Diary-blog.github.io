@@ -15,6 +15,7 @@
       justify-content: center;
       margin-bottom: 4rem;
       padding: 1rem;
+      border-bottom: 1px solid #FF9800;
 
       @media screen and (max-width: $break-s) {
         margin-bottom: 2rem;
@@ -22,9 +23,10 @@
 
       input {
         all: unset;
-        width: 12.5rem;
+        width: 35rem;
         margin: 0 1rem;
         margin-top: 0.1rem;
+        color: #FF9800;
       }
 
       .search-toggle {
@@ -45,6 +47,7 @@
 
         span:nth-child(1) {
           margin-right: 0.5rem;
+          color: #898989;
         }
       }
     }

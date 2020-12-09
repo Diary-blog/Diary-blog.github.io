@@ -6,6 +6,8 @@
 
   .tag-list-wrap {
     margin-bottom: 5rem;
+    opacity: 1;
+    transition : opacity 0.3s;
 
     @media screen and (max-width: $break-s) {
       margin-bottom: 3rem;
