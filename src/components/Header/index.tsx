@@ -149,13 +149,6 @@ const Header = (props: headerPropsType) => {
                   className={i.class}
                 >{i.title}</Link>
               ))}
-            {/*
-              이슈에 기록)
-              -> a tag는 page가 reloading 되면서 postList를 재출력하게 되니까
-              1. Route로 tag filter page 만들어서 출력
-              2. switch로 link url과 postlist를 sub page route로 적용하여
-                 sub title에 tab 형식으로 지정한 link에 post contents를 출력
-            */}
               {CategoryB.map((i) => (
                 <Link
                   key={i.pathname}
