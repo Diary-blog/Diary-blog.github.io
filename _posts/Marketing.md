@@ -8,7 +8,7 @@ tags:
   - GA
   - SEO
 keywords: Marketing, AD, GA, SEO
-read: random
+read: Random
 cover: ./image/cover/mk.png
 ---
 

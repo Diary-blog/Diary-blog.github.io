@@ -6,6 +6,8 @@ tags:
   - front-end
   - interview
 keywords: front-end, interview
+read: Random
+cover: ./image/cover/fe1.png
 ---
 
 ## 📄 Front-End

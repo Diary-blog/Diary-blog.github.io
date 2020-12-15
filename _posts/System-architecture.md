@@ -9,6 +9,8 @@ tags:
   - Cloud
   - System architecture
 keywords: Algorithm, DB, SQL, Cloud, System architecture
+read: Random
+cover: ./image/cover/sa.png
 ---
 
 |   |   |

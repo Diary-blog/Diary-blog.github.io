@@ -6,6 +6,8 @@ tags:
   - E-commerce
   - Retail
 keywords: E-commerce, Retail
+read: Random
+cover: ./image/cover/ec1.png
 ---
 
 ## 📄 E-commerce / Retail

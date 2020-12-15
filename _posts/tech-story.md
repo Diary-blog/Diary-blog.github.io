@@ -6,6 +6,8 @@ tags:
   - TechBlog
   - TechStory
 keywords: TechBlog, TechStory
+read: Random
+cover: ./image/cover/ths4.png
 ---
 
 ## 📄 Tech storys

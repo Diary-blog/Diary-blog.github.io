@@ -5,10 +5,9 @@ update: 2020-10-09
 tags:
   - front-end
   - css
-  - styled-components
-  - sass
   - scss
-keywords: css
+  - styled-components
+keywords: css, scss, sass, styled-components
 read: 3m 10s
 cover: ./image/cover/css.png
 ---

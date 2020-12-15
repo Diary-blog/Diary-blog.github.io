@@ -13,6 +13,8 @@ tags:
   - Motion
   - Design resource
 keywords: Design, UI, UX
+read: Random
+cover: ./image/cover/im1.png
 ---
 
 ## 📄 Interaction & Motion

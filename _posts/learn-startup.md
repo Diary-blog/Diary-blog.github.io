@@ -7,6 +7,8 @@ tags:
   - startup
   - Motivation
 keywords: motivation, Learn, startup
+read: Random
+cover: ./image/cover/ls.png
 ---
 
 |   |   |

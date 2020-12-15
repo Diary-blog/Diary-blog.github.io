@@ -10,6 +10,8 @@ tags:
   - ECMA
   - Typescript
 keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
+read: Random
+cover: ./image/cover/rs3.png
 ---
 
 ## 📄 ReactJS
