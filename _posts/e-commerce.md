@@ -5,6 +5,7 @@ update : 2020-07-05
 tags:
   - E-commerce
   - Retail
+  - marketing
 keywords: E-commerce, Retail
 read: Random
 cover: ./image/cover/ec1.png

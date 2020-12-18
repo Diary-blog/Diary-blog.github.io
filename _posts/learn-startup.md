@@ -6,6 +6,7 @@ tags:
   - Learn
   - startup
   - Motivation
+  - marketing
 keywords: motivation, Learn, startup
 read: Random
 cover: ./image/cover/ls.png
