@@ -3,8 +3,8 @@ import { useEffect, useState } from 'react';
 import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
 import { graphql, Link } from 'gatsby';
-// import { Utterences } from './comment';
-// import { DiscussionEmbed } from 'disqus-react';
+import Utterances from '../components/Utterances'
+
 import moment from 'moment';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
 import { faListUl, faLayerGroup, faAngleLeft } from '@fortawesome/free-solid-svg-icons';
@@ -49,29 +49,12 @@ const Post = (props: postProps) => {
     enableSocialShare: boolean;
     disqusShortname?: string;
   }
-  const { enablePostOfContents, enableSocialShare }: iConfig = config; // disqusShortname, del
+  const { enablePostOfContents, enableSocialShare }: iConfig = config;
 
-  // const [yList, setYList] = useState();
   const [isInsideToc, setIsInsideToc] = useState(false);
 
   const isTableOfContents = enablePostOfContents && tableOfContents !== '';
-  // const isDevelopment = process.env.NODE_ENV === 'development';
-  // const isDisqus: boolean = disqusShortname ? true : false;
   const isSocialShare = enableSocialShare;
-
-  // useEffect(() => {
-  //   const hs = Array.from(document.querySelectorAll('h2, h3')) as HTMLHeadingElement[];
-
-  //   const minusValue = window.innerHeight < 500 ? 100 : Math.floor(window.innerHeight / 5);
-
-  //   const foo = hs.map(h => {
-  //     return h.offsetTop - minusValue;
-  //   });
-
-  //   setYList(foo);
-
-  //   return () => {};
-  // }, []);
 
   useEffect(() => {
     if (isMobile) {
@@ -85,33 +68,6 @@ const Post = (props: postProps) => {
       }
     }
   }, [isMobile]);
-
-  // useEffect(() => {
-  //   const setYPos = () => {
-  //     if (yList) {
-  //       const index =
-  //         yList.filter((v: number) => {
-  //           return v < window.pageYOffset;
-  //         }).length - 1;
-
-  //       const aList = document.querySelectorAll('.toc.outside li a') as NodeListOf<HTMLAnchorElement>;
-
-  //       for (const i in Array.from(aList)) {
-  //         if (parseInt(i, 10) === index) {
-  //           aList[i].style.opacity = '1';
-  //         } else {
-  //           aList[i].style.opacity = '0.4';
-  //         }
-  //       }
-  //     }
-  //   };
-
-  //   if (isTableOfContents) document.addEventListener('scroll', setYPos);
-  //   return () => {
-  //     if (isTableOfContents) document.removeEventListener('scroll', setYPos);
-  //   };
-  // }, [yList]);
-
 
   // 포스트 태그 삭제
   const mapTags = tags.map((tag: string) => {
@@ -133,16 +89,6 @@ const Post = (props: postProps) => {
     );
   });
 
-  //disqus
-  // const disqusConfig = {
-  //   shortname: config.disqusShortname,
-  //   config: {
-  //     url: `${config.siteUrl + slug}`,
-  //     identifier: slug,
-  //     title,
-  //   },
-  // };
-
   const metaKeywords: (keywordList: string[], tagList: string[]) => string[] = (
     keywordList: string[],
     tagList: string[]
@@ -159,28 +105,6 @@ const Post = (props: postProps) => {
   // const goBack = () => {
   //   window.history.back();
   // }
-
-  // const commentBox = React.createRef()
-
-  // useEffect(() => {
-  //   const scriptEl = document.createElement('script')
-  //   scriptEl.async = true
-  //   scriptEl.src = 'https://utteranc.es/client.js'
-  //   scriptEl.setAttribute('repo', 'creativcoder/creativcoder.dev-comments')
-  //   scriptEl.setAttribute('issue-term', 'title')
-  //   scriptEl.setAttribute('id', 'utterances')
-  //   scriptEl.setAttribute('theme', 'github-light')
-  //   scriptEl.setAttribute('crossorigin', 'anonymous')
-  //   if (commentBox && commentBox.current) {
-  //     commentBox.current.appendChild(scriptEl)
-  //   } else {
-  //     console.log(`Error adding utterances comments on: ${commentBox}`)
-  //   }
-  // }, [])
-
-  // const Comment = ({commentBox}) => (<div ref={commentBox} className="comments"></div>)
-  // const { utterances } = comment;
-
 
   return (
     <>
@@ -288,9 +212,8 @@ const Post = (props: postProps) => {
 
             <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: html }} />
           </div>
-
-          {/* {!!utterances && <Utterences repo={utterances} />} */}
-            {/* { excerpt? <></>: <Comment commentBox={commentBox} />} */}
+          
+          <Utterances repo="Diary-blog/co" />
 
           {isSocialShare ? (
             <div className="social-share">
