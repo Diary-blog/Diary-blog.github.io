@@ -19,7 +19,7 @@ cover: ./image/cover/it.png
 
 방문해주셔서 감사합니다.
 
-<br/><br/>
+<br/>
 
 ***
 
@@ -66,20 +66,6 @@ cover: ./image/cover/it.png
 
 2. 다크모드, 필터, 검색, RSS, TOP, 공유하기(페이스북, 트위터)
 
-
 <br/>
-<br/>
-<br/>
-
-***
-
-*Markdown에 iframe을 적용하면 무한루프가 생겨서 삭제하였습니다.  
-추후 다른방법을 적용 할 예정입니다.*  
-~~4. view 를 클릭하여 제목에 해당하는 페이지를 미리 볼 수 있습니다.~~  
-~~view 제공 안되는 사이트 :
- Youtube, Github, uxdesign, openads, medium, GeekNews, gitbook,
- adobe, behance, ttimes, rightbrain, bridge.500startups, typographyseoul, hypebeast, sampartners, imgur, labdigital~~
-
-
 
 
