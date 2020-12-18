@@ -11,10 +11,11 @@
     }
   }
 
-
-
   .blog-post {
     padding: 0 1rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 50px;
+
     hr {margin: 4rem 0; background: hsla(0,0%,0%,0.1);}
     u {background-color: #ffebe0; text-underline-position: under; padding: 0 5px 5px; border-radius: 3px;}
     u:hover {background-color: #ffcbac;}
