@@ -103,10 +103,7 @@ const Header = (props: headerPropsType) => {
     { pathname: '/tags#tech', title: '💻', class: 'dev'},
   ];
   const CategoryB = [
-    { pathname: '/system-architecture/', title: '🧩', class: 'dev'},
-    { pathname: '/learn-startup/', title: '📚', class: 'it'},
-    { pathname: '/marketing/', title: '📊', class: 'it'},
-    { pathname: '/e-commerce/', title: '🛒', class: 'it'},
+    { pathname: '/tags#marketing', title: '📊', class: 'it'},
   ];
   const CategoryC = [
     { pathname: '/tags#mystory', title: '🍦', class: 'dev'},
@@ -165,18 +162,6 @@ const Header = (props: headerPropsType) => {
                   className={i.class}
                 >{i.title}</Link>
               ))}
-
-          {/* link 대신 map 으로 적용          
-          <Link className="dev" to="/design">🧭</Link>
-          <Link className="dev" to="/front-end">✨</Link>
-          <Link className="dev" to="/css">🎨</Link>
-          <a className="dev" href="/tags#JS">💡</a>
-          <a className="dev" href="/tags#tech">💻</a>
-          <Link className="dev" to="/system-architecture">📦</Link>
-          <Link className="it" to="/lean-startup">📚</Link>
-          <Link className="it" to="/marketing">📊</Link>
-          <Link className="it" to="/e-commerce">🛒</Link>
-          <a className="my" href="/tags#mystory">🍦</a> */}
         </div>
         <div className="theme-toggle">
           <div className="theme-toggle-description" style={{ display: isMobile ? 'none' : 'flex' }}>

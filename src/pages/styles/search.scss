@@ -18,17 +18,18 @@
       border-bottom: 1px solid #FF9800;
 
       @media screen and (max-width: $break-s) {
+        justify-content: space-between;
         margin-bottom: 2rem;
       }
 
       input {
         all: unset;
-        width: 35rem;
+        width: 80%;
         margin: 0 1rem;
         margin-top: 0.1rem;
         color: #FF9800;
         @media screen and (max-width: $break-s) {
-          width: auto;
+          width: 60%;
         }
       }
 

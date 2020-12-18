@@ -17,6 +17,7 @@
     transition: opacity 0.2s;
     transition-timing-function: ease-in-out;
     transition-delay: 0.1s;
+    margin-top: 30px;
 
     @media screen and (max-width: $break-l) {
       display: none;
