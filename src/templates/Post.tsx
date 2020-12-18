@@ -213,7 +213,7 @@ const Post = (props: postProps) => {
             <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: html }} />
           </div>
           
-          <Utterances repo="Diary-blog/comment" />
+          <Utterances repo="Diary-blog/comments" />
 
           {isSocialShare ? (
             <div className="social-share">
