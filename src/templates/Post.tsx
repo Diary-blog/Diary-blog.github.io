@@ -69,7 +69,7 @@ const Post = (props: postProps) => {
     }
   }, [isMobile]);
 
-  // 포스트 태그 삭제
+  // 포스트 태그
   const mapTags = tags.map((tag: string) => {
     return (
       <li key={tag} className="blog-post-tag">
@@ -213,7 +213,7 @@ const Post = (props: postProps) => {
             <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: html }} />
           </div>
           
-          <Utterances repo="Diary-blog/co" />
+          <Utterances repo="Diary-blog/comment" />
 
           {isSocialShare ? (
             <div className="social-share">
