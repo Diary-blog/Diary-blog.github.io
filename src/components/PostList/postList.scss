@@ -15,6 +15,9 @@
 
   li {
     list-style: none;
+    *:last-child {
+      word-break: keep-all;
+    }
   }
 
   .post {
@@ -24,11 +27,6 @@
     margin: 0rem 1rem;
     opacity: 0.85;
     transition: opacity 0.2s;
-    min-height: 272px;
-
-    @media screen and (max-width: $break-s) {
-      min-height: 192px;
-    }
 
     &:hover {
       opacity: 1;
@@ -55,8 +53,15 @@
     }
 
     .underline {
-      border-top: 1px solid $cdd;
-      margin: 30px 0;
+      display: inline-flex;
+      border-bottom: 1px solid $cdd;
+      padding: 30px;
+      padding-top: 40px;
+
+      @media screen and (max-width: $break-s) {
+        padding: 16px 0;
+        padding-top: 24px;
+      }
     }
 
     article {
@@ -68,10 +73,11 @@
         min-height: 200px;
       }
       @media screen and (max-width: $break-s) {
-        width: 90px;
+        width: auto;
         min-height: 100px;
         border: 0;
         padding: 0;
+        display: inline-flex;
       }
 
       @media screen and (max-width: 320px) {
@@ -82,25 +88,23 @@
       img {
         min-height: 200px;
         @media screen and (max-width: $break-m) {
+          max-width: 100px;
           min-height: 100px;
         }
       }
     }
 
     .info-box {
-      position: absolute;
-      top: 16px;
-      left: 180px;
+      margin-left: 24px;
+      margin-top: 16px;
 
-      @media screen and (max-width: $break-s) {
-        top: 5px;
-        left: 100px;
+      @media screen and (max-width: $break-m) {
+        margin-top: 4px;
+        margin-left: 16px;
       }
-
-      @media screen and (max-width: 320px) {
-        top: 8px;
-        left: 90px;
-        width: 200px;
+      
+      @media screen and (max-width: $break-s) {
+        width: 225px;
       }
 
       .title {
@@ -128,7 +132,7 @@
 
         @media screen and (max-width: $break-s) {
           font-size: 0.84rem;
-          margin-top: 10px;
+          margin-top: 8px;
         }
 
         .date-wrap {
@@ -158,7 +162,7 @@
 
         }
 
-        .sub-title {
+        .post-list-title {
           color: $c82;
           margin-right: 16px;
           font-weight: bold;
@@ -170,8 +174,20 @@
 
           li {
             display: flex;
-            padding-right: 5px;
-            padding-bottom: 5px;
+            padding: 2px;
+            padding-top: 0;
+            
+            @media screen and (max-width: $break-s) {
+              padding: 0;
+              padding-bottom: 4px;
+            }
+            .sub-title {
+              width: 50px;
+              margin:0;
+              @media screen and (max-width: $break-s) {
+                width: 40px;
+              }
+            }
           }
         }
 
@@ -181,18 +197,23 @@
       }
 
       .tag-list {
-        display: flex;
+        display: inline-flex;
         flex-wrap: wrap;
-        width: 430px;
+        width: 100%;
+
 
         @media screen and (max-width: $break-s) {
-          width: 180px;
+          width: 200px;
         }
 
-        li:nth-of-type(6)~li {
+        li:nth-of-type(8)~li {
           display: none;
         }
-
+        li:nth-of-type(6)~li {
+          @media screen and (max-width: $break-s) {
+            display: none;
+          }
+        }
         .tag {
           margin: 0;
           margin-right: 0.5rem;
@@ -218,8 +239,6 @@
         margin: 10px 0;
         display: -webkit-box;
         overflow: hidden;
-        // color: rgba(0, 0, 0, 0.74);
-        // max-width: calc(900px - 2rem);
         max-width: 650px;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;

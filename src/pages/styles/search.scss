@@ -27,6 +27,9 @@
         margin: 0 1rem;
         margin-top: 0.1rem;
         color: #FF9800;
+        @media screen and (max-width: $break-s) {
+          width: auto;
+        }
       }
 
       .search-toggle {

@@ -68,8 +68,8 @@ const PostList = memo((props: PostListProps) => {
 
     return (
       <li key={slug} className={`post ${i < showCnt ? 'show' : 'hide'}`}>
-        <article>
-          <div className = "cover">
+        <article className="underline">
+          <div className="cover">
             <Link to = {slug}>
               {
                 cover === null ? (<img src = {require('./thumnail.png')} alt = {title} />) :
@@ -85,28 +85,26 @@ const PostList = memo((props: PostListProps) => {
               <Link to={slug}>{excerpt}</Link>
             </span>
             <div className="info">
-              <div className="date-wrap">
-                <ul className="sub-title">
-                  <li>DATE</li>
-                  <li>READ</li>
-                  <li>TAG</li>
-                </ul>
-              </div>
-              <div className="date-wrap">
-                <ul className="sub-title">
-                  <li><span className="date">{date}</span>{update ? <span className="update"><span className="line"></span>{`${update}`}</span> : null}</li>
-                  <li><span className="sub-contents">{read ? <span>{`${read}`}</span> : <span>　</span>}</span></li>
+            <div className="date-wrap">
+                <ul className="post-list-title">
                   <li>
-                    {/* 태그 부분 삭제 */}
+                    <p className="sub-title">DATE</p>
+                    <span className="date">{date}</span>{update ? <span className="update"><span className="line"></span>{`${update}`}</span> : null}
+                  </li>
+                  <li>
+                    <p className="sub-title">READ</p>
+                    <span className="sub-contents">{read ? <span>{`${read}`}</span> : <span>　</span>}</span>
+                  </li>
+                  <li>
+                    <p className="sub-title">TAG</p>
                     {tags.length && tags[0] !== 'undefined'}
-                    <ul className="tag-list">{mapTag}</ul>
+                    <li className="tag-list">{mapTag}</li>  
                   </li>
                 </ul>
               </div>
             </div>
           </div>
         </article>
-        <div className="underline"></div>
       </li>
     );
   });
