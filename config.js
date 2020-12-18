@@ -9,7 +9,7 @@ module.exports = {
   profileImageFileName: 'icecream.png',
 
   /** info */
-  comment: 'BookMark',
+  comment: 'Develop Blog',
   name: '',
   company: '',
   location: '',
@@ -18,7 +18,7 @@ module.exports = {
   linkedin: '',
   facebook: '',
   instagram: '',
-  github: '',
+  github: 'https://github.com/wfedev',
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
