@@ -153,12 +153,11 @@ $break-m: 768px;
 }
 
 /* [2] body에 폰트 추가하고
-   백그라운드에 벽지 이미지 적용해줍니다.
-   Wall의 질감이 자연스럽게 표현되어있어서
-   background-position은 따로 주지 않았습니다. */
+   백그라운드에 벽지 이미지 적용해줍니다. */
 body {
   font-family: 'Poppins', sans-serif;
   background: url('./img/bg.jpg'); overflow: hidden;
+  background-size: cover;
 }
 
 /* [3] 샐러드 타이틀, 부제 설명, 민트잎 중앙으로 위치 잡기 */
@@ -425,6 +424,8 @@ https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad
 
 ## [5] 참고자료
 
+[- Poppins font](https://fonts.google.com/specimen/Poppins)
+
 [- SwiperJS](https://swiperjs.com/)
 
 [- Swiper 3D Coverflow Effect](https://github.com/nolimits4web/Swiper/blob/master/demos/240-effect-coverflow.html)
@@ -440,3 +441,8 @@ https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad
 [- 3번 샐러드 이미지](https://www.freepik.com/free-photo/flat-lay-salad-with-chicken-sesame-seeds_10414044.htm#position=5)
 
 [- 4번 샐러드 이미지](https://www.freepik.com/free-photo/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-food-vegetarian-dinner-table-top-view-flat-lay_6713750.htm#position=1)
+
+[- 백그라운드에 사용된 이미지](https://www.freepik.com/premium-photo/white-background-texture_8664336.htm#page=5&query=white+texture&position=1)
+
+
+
