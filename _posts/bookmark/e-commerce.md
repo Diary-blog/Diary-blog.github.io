@@ -8,7 +8,7 @@ tags:
   - marketing
 keywords: E-commerce, Retail
 read: Random
-cover: ./image/cover/ec1.png
+cover: ./img/ec1.png
 ---
 
 ## 📄 E-commerce / Retail

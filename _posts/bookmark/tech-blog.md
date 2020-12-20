@@ -8,7 +8,7 @@ tags:
   - TechStory
 keywords: TechBlog, TechStory
 read: Random
-cover: ./image/cover/tb1.png
+cover: ./img/tb1.png
 ---
 
 ## 📄 Tech Blog

@@ -15,7 +15,7 @@ tags:
   - Design resource
 keywords: Design, UI, UX
 read: Random
-cover: ./image/cover/dr.png
+cover: ./img/dr.png
 ---
 
 ## 📄 Resource

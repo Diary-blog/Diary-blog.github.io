@@ -12,15 +12,8 @@ tags:
   - Typescript
 keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 read: Random
-cover: ./image/cover/js.png
+cover: ./img/js.png
 ---
-
-|   |   |  
-|:---:|:---:|  
-|**[![](./image/js.png) JavaScript](./#-javascript)**|**[![](./image/react.png) ReactJS](/js-reactjs)**|  
-|**[![](./image/ts.png) TypeScript](/js-typescript)**|**[![](./image/node.png) NodeJS](/js-nodejs)**|  
-
-<br/>
 
 ## 📄 Javascript
 

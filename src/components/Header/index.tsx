@@ -110,13 +110,11 @@ const Header = (props: headerPropsType) => {
   ];
 
 
-
-
   return (
     <header id="Header" className={`${isHide ? 'hide' : 'show'} ${isMobile ? 'mobile' : ''}`}>
       <div className="header-title">
-        {/* 메인 thumnail 삭제
-        <Link to="/">
+        {/* 메인 thumnail 삭제 */}
+        {/* <Link to="/">
           <div className="header-profile-image-wrap">
             <img
               src={

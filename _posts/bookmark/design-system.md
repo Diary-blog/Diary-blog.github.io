@@ -14,7 +14,7 @@ tags:
   - Design resource
 keywords: Design, UI, UX
 read: Random
-cover: ./image/cover/ds.png
+cover: ./img/ds.png
 ---
 
 ## 📄 Design System

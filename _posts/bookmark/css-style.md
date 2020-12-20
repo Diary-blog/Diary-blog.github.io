@@ -9,7 +9,7 @@ tags:
   - styled-components
 keywords: css, scss, sass, styled-components
 read: 3m 10s
-cover: ./image/cover/css.png
+cover: ./img/css.png
 ---
 
 ## 📄 CSS

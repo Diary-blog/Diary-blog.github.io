@@ -14,7 +14,7 @@ tags:
   - Design resource
 keywords: Design, UI, UX
 read: Random
-cover: ./image/cover/dst1.png
+cover: ./img/dst1.png
 ---
 
 ## 📄 Design Story

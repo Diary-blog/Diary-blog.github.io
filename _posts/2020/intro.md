@@ -7,7 +7,7 @@ tags:
   - intro
 keywords: Bookmark, intro
 read: 1m 10s
-cover: ./image/cover/it.png
+cover: ./img/it.png
 ---
 
 
@@ -32,7 +32,7 @@ cover: ./image/cover/it.png
 <p style="color: #333">https://diary-blog.github.io/</p>
 
 4. 우측에 작은 텍스트(toc)도 링크를 클릭했을때와 클릭하지 않았을때 컬러로 구분 가능합니다.
-![](./image/bookmark-2.png)
+![](./img/bookmark-2.png)
 
 <br>
 
@@ -62,7 +62,7 @@ cover: ./image/cover/it.png
 ### 3. 기타 기능
 
 1. 포스팅 내부 목차 및 이동
-![](./image/bookmark-1.png)
+![](./img/bookmark-1.png)
 
 2. 다크모드, 필터, 검색, RSS, TOP, 공유하기(페이스북, 트위터)
 

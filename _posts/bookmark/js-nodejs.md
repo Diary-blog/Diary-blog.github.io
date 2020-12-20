@@ -11,7 +11,7 @@ tags:
   - Typescript
 keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 read: Random
-cover: ./image/cover/nd1.png
+cover: ./img/nd1.png
 ---
 
 ## 📄 Javascript
