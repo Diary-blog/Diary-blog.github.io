@@ -695,7 +695,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
 <span class="token punctuation">}</span>
 
 <span class="token comment">/* [2] body에 폰트 추가하고
-   백그라운드에 벽지 이미지 적용해줍니다. */</span>
+   백그라운드에 벽지 이미지를 적용해줍니다. */</span>
 <span class="token selector">body</span> <span class="token punctuation">{</span>
   <span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token string">'Poppins'</span><span class="token punctuation">,</span> sans-serif<span class="token punctuation">;</span>
   <span class="token property">background</span><span class="token punctuation">:</span> <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">'./img/bg.jpg'</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span> <span class="token property">overflow</span><span class="token punctuation">:</span> hidden<span class="token punctuation">;</span>
@@ -709,7 +709,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
      타이틀의 포지션은 absolute로 슬라이드보다 아래 레이어로 적용 */</span>
   <span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span>
   
-  <span class="token comment">/* 텍스트 중앙 정렬 */</span>
+  <span class="token comment">/* 텍스트 세로로 중앙 정렬 */</span>
   <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token punctuation">;</span> <span class="token property">flex-direction</span><span class="token punctuation">:</span> column<span class="token punctuation">;</span>
   <span class="token property">justify-content</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span> <span class="token property">align-items</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span>
   <span class="token property">text-align</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span>
@@ -726,7 +726,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
     <span class="token property">width</span><span class="token punctuation">:</span> 70px<span class="token punctuation">;</span>
     <span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span>
     <span class="token property">left</span><span class="token punctuation">:</span> 400px<span class="token punctuation">;</span> <span class="token property">right</span><span class="token punctuation">:</span> 0px<span class="token punctuation">;</span> <span class="token property">top</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span> <span class="token property">bottom</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span> <span class="token property">margin</span><span class="token punctuation">:</span> auto<span class="token punctuation">;</span>
-    <span class="token comment">/* [3-3] 반응형으로 화면이 작아지면 숨김처리 */</span>
+    <span class="token comment">/* 반응형으로 화면이 작아지면 민트잎을 안보이게 숨겨두었습니다. */</span>
     <span class="token atrule"><span class="token rule">@media</span> screen <span class="token keyword">and</span> <span class="token punctuation">(</span><span class="token property">max-width</span><span class="token punctuation">:</span> $break-m<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
       <span class="token property">display</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span>
     <span class="token punctuation">}</span>
@@ -759,23 +759,24 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
         <span class="token property">width</span><span class="token punctuation">:</span> 400px<span class="token punctuation">;</span>
         <span class="token property">position</span><span class="token punctuation">:</span> relative<span class="token punctuation">;</span>
 
-        <span class="token comment">/* 메뉴 텍스트와 이미지를 가운데 정렬로 배치해줍니다. */</span>
-        <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token punctuation">;</span>
-        <span class="token property">flex-direction</span><span class="token punctuation">:</span> column<span class="token punctuation">;</span>
+        <span class="token comment">/* 메뉴 텍스트와 이미지를
+           세로로 가운데 정렬로 배치해줍니다. */</span>
+        <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token punctuation">;</span> <span class="token property">flex-direction</span><span class="token punctuation">:</span> column<span class="token punctuation">;</span>
         <span class="token property">justify-content</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span>
         <span class="token property">text-align</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span>
 
         <span class="token comment">/* [4-1-1] 메뉴 텍스트 스타일 적용 */</span>
         <span class="token selector">.menu</span> <span class="token punctuation">{</span>
-          <span class="token comment">/* 메뉴 높이는 &lt;p>&lt;/p> 텍스트에 따라서 높이가 달라지기에 auto로 주었습니다. */</span>
+          <span class="token comment">/* 메뉴의 높이는 &lt;p>&lt;/p> 텍스트에 따라서
+             높이가 달라지기에 auto로 주었습니다. */</span>
           <span class="token property">height</span><span class="token punctuation">:</span> auto<span class="token punctuation">;</span>
 
           <span class="token comment">/* 텍스트를 세로로 배치하고 중앙으로 정렬해줍니다. */</span>
-          <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token punctuation">;</span>
-          <span class="token property">flex-direction</span><span class="token punctuation">:</span> column<span class="token punctuation">;</span>
+          <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token punctuation">;</span> <span class="token property">flex-direction</span><span class="token punctuation">:</span> column<span class="token punctuation">;</span>
           <span class="token property">align-items</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span>
 
-          <span class="token comment">/* 텍스트의 사이즈를 지정해줍니다. (반응형시 더 작은사이즈로 적용)*/</span>
+          <span class="token comment">/* 텍스트의 사이즈를 지정해줍니다.
+             (반응형시 더 작은 폰트사이즈로 적용)*/</span>
           <span class="token selector">p</span> <span class="token punctuation">{</span>
             <span class="token property">font-size</span><span class="token punctuation">:</span> 0.875rem<span class="token punctuation">;</span>
             <span class="token atrule"><span class="token rule">@media</span> screen <span class="token keyword">and</span> <span class="token punctuation">(</span><span class="token property">max-width</span><span class="token punctuation">:</span> $break-m<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
@@ -784,9 +785,9 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
           <span class="token punctuation">}</span>
           <span class="token comment">/* 제목이 되는 첫번째 텍스트에 컬러와 line 스타일을 정해주었습니다.
              현재는 제목 텍스트 길이에 맞게 라인의 길이가 지정되어있습니다.
-             만약 width를 원하는 길이대로 주고 싶다면 border-bottom 말고
+             만약 라인의 width를 원하는 길이대로 주고 싶다면 border-bottom 말고
              가상요소 속성인 ::before로 스타일을 적용하는것을 추천합니다.
-             p:nth-of-type(1)::before {} 으로 주거나
+             예를들어 p:nth-of-type(1)::before {} 으로 주거나
              직접 제목 클래스를 지정해줘서 (ex: .menu-title)
              .menu-title::before {} 으로 작성하시면 됩니다.
              */</span>
@@ -828,7 +829,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
               <span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span> <span class="token property">right</span><span class="token punctuation">:</span> -100px<span class="token punctuation">;</span>
               <span class="token property">width</span><span class="token punctuation">:</span> 600px<span class="token punctuation">;</span> <span class="token property">height</span><span class="token punctuation">:</span> 600px<span class="token punctuation">;</span>
 
-              <span class="token comment">/* 모바일에서는 이미지의 가로를 고정픽셀을 해제하고
+              <span class="token comment">/* 모바일에서는 이미지의 가로 고정픽셀을 해제하고
                  100%로 주어서 샐러드가 화면에 맞춰서 잘나오게 해줍니다. */</span>
               <span class="token atrule"><span class="token rule">@media</span> screen <span class="token keyword">and</span> <span class="token punctuation">(</span><span class="token property">max-width</span><span class="token punctuation">:</span> $break-m<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
                 <span class="token property">right</span><span class="token punctuation">:</span> 0px<span class="token punctuation">;</span>
@@ -840,7 +841,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
       <span class="token punctuation">}</span>
     <span class="token punctuation">}</span>
     <span class="token comment">/* 가운데 보이는 슬라이드를 양쪽에 있는 슬라이드보다
-    강조되어 보이도록 스케일을 1.5로 적용해주었습니다. */</span>
+        강조되어 보이도록 스케일을 1.5로 적용해주었습니다. */</span>
     <span class="token selector">.swiper-slide-active</span> <span class="token punctuation">{</span>
       <span class="token property">transform</span><span class="token punctuation">:</span> <span class="token function">scale</span><span class="token punctuation">(</span>1.5<span class="token punctuation">)</span><span class="token important">!important</span><span class="token punctuation">;</span>
     <span class="token punctuation">}</span>
@@ -862,7 +863,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
                          <span class="token comment">// rotate 속성을 0 으로 주어서 각도가 회전하지 않도록 합니다.</span>
     stretch<span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>          <span class="token comment">// 슬라이드 간에 거리</span>
     depth<span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>            <span class="token comment">// 숫자가 커지면 중앙을 point로 잡고 perspective로 원근법이 적용됩니다.</span>
-    modifier<span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>         <span class="token comment">// 중앙에 있는 active된 슬라이드의 이미지가 </span>
+    modifier<span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>         <span class="token comment">// 중앙에 있는 active된 슬라이드의 이미지가 맨 위 레이어처럼 보입니다.</span>
     slideShadows<span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token comment">// 기본적으로 적용되어있는 shadow 그라데이션을 false로 해제해줍니다.</span>
   <span class="token punctuation">}</span><span class="token punctuation">,</span>
   <span class="token comment">// 슬라이드가 끝나는 지점에 다시 첫번째 슬라이드가 나오도록 loop를 true로 적용해주었습니다.</span>
@@ -871,9 +872,9 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
 <hr>
 <h3 id="4-샐러드-이미지" style="position:relative;"><a href="#4-%EC%83%90%EB%9F%AC%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80" aria-label="4 샐러드 이미지 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[4] 샐러드 이미지</h3>
 <p>이제 html, css, js 슬라이드를 적용했으니<br>
-이미지에서 간단하게 샐러드만 누끼를 따서 준비해봅시다!</p>
+포토샵으로 간단하게 샐러드만 누끼를 따서 샐러드 4종을 준비해봅시다!</p>
 <ul>
-<li>준비한 샐러드 4종 이미지</li>
+<li>준비한 샐러드 4종 이미지 (참고자료에 링크가 있습니다.)</li>
 </ul>
 <p><span
       class="gatsby-resp-image-wrapper"
@@ -972,7 +973,7 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
       />
   </a>
     </span></p>
-<p>ctrl + D 로 선택을 해제해주고<br>
+<p>ctrl + D 로 원형 선택을 해제해주고<br>
 키보드 숫자키 1~0 중에 하나를 누르면 10~100% 안에서 opacity가 적용됩니다.<br>
 저는 3을 눌러서 30%를 적용해주었습니다.</p>
 <p><span
@@ -1007,8 +1008,9 @@ $<span class="token property">break-m</span><span class="token punctuation">:</s
       />
   </a>
     </span></p>
-<p>이제 원형의 모양을 접시에 맞추려합니다.<br>
-ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각하면 enter를 누르시면 됩니다.</p>
+<p>이제 원형의 모양을 접시에 맞춰봅시다.  </p>
+<p>ctrl + T 를 눌러서 마우스로 끝점 부분을 조절해서<br>
+어느정도 원형이 접시에 맞춰졌다고 생각하면 enter를 누르시면 됩니다.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; "
@@ -1043,7 +1045,7 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
     </span></p>
 <p>그 다음 원형의 픽셀을 선택해줍니다.<br>
 레이어 이미지에 마우스 오른쪽을 누르면 픽셀 선택 메뉴가 나옵니다.<br>
-(픽셀선택 단축키는 ctrl + 레이어 이미지 마우스왼쪽으로 클릭)</p>
+(픽셀선택 단축키는 ctrl + 레이어 이미지 마우스 왼쪽으로 클릭)</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; "
@@ -1076,7 +1078,7 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
       />
   </a>
     </span></p>
-<p>픽셀이 선택되어있는 상태에서 배경 레이어를 선택하고</p>
+<p>픽셀이 선택되어있는 상태에서 배경 레이어를 클릭해서 선택하고</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; "
@@ -1142,7 +1144,8 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
       />
   </a>
     </span></p>
-<p>다시 레이어의 픽셀을 선택하고나서 c 를 누르면 이미지를 컷팅 할 수 있습니다.</p>
+<p>다시 레이어의 픽셀을 선택하고나서 c 를 누르면<br>
+이미지 사이즈대로 컷팅 할 수 있습니다.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; "
@@ -1208,7 +1211,8 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
       />
   </a>
     </span></p>
-<p>이제 레이어 1 하고 배경의 레이어 옆에 눈 표시를 해제해서<br>
+<p>이제 복사한 샐러드접시 레이어만 제외하고  </p>
+<p>레이어 1 과 배경의 레이어 옆에 눈 표시를 해제해서<br>
 레이어를 화면에서 안보이게 해놓은다음</p>
 <p><span
       class="gatsby-resp-image-wrapper"
@@ -1243,7 +1247,7 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
   </a>
     </span></p>
 <p>ctrl + alt + shift + S 를 눌러서<br>
-웹용으로 저장하기로 png를 선택하여 저장합니다.</p>
+웹용으로 저장하기로 png나 jpg를 선택하여 저장합니다.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; "
@@ -1276,7 +1280,8 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
       />
   </a>
     </span></p>
-<p>이렇게 나머지 샐러드도 똑같이 누끼를 따주면 이미지 준비 완료!</p>
+<p>이렇게 나머지 샐러드도 똑같이 누끼를 따주면 이미지 준비 완료!<br>
+단축키 몇개만으로 포토샵으로 누끼따는거 정말 쉽죠!!</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 439px; "
@@ -1310,7 +1315,8 @@ ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각�
 <hr>
 <h2 id="3-완성된-브라우저-화면" style="position:relative;"><a href="#3-%EC%99%84%EC%84%B1%EB%90%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%ED%99%94%EB%A9%B4" aria-label="3 완성된 브라우저 화면 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[3] 완성된 브라우저 화면</h2>
 <p><img src="https://user-images.githubusercontent.com/54713067/102645584-09d0fd80-41a6-11eb-9fdd-c81d3ce9277f.gif" alt="Salad carousel"></p>
-<p>샐러드와 친해져서 다이어트 성공하길 바랄게요~☆</p>
+<p>이렇게 간단하게 샐러드 메뉴 슬라이드 만들어서<br>
+샐러드와 친해져서 다이어트 성공하길 바랄게요~☆</p>
 <hr>
 <h2 id="4-전체-코드" style="position:relative;"><a href="#4-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C" aria-label="4 전체 코드 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[4] 전체 코드</h2>
 <p><a href="https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad" target="_blank" rel="nofollow noopener noreferrer">https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad</a></p>
