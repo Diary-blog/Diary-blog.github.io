@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[📙 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Dec 2020 21:26:25 GMT</lastBuildDate><item><title><![CDATA[🧚 샐러드 메뉴 선택하는 슬라이드(캐러셀) 만들기]]></title><description><![CDATA[Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.   주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :) 1 샐러드 캐러셀 만들고 채식과 친해지자! 1 HTML 2 CSS (SCSS…]]></description><link>https://diary-blog.github.io/salad-carousel-slide/</link><guid isPermaLink="false">https://diary-blog.github.io/salad-carousel-slide/</guid><pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[📙 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Dec 2020 22:26:18 GMT</lastBuildDate><item><title><![CDATA[🧚 샐러드 메뉴 선택하는 슬라이드(캐러셀) 만들기]]></title><description><![CDATA[Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.   주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :) 1 샐러드 캐러셀 만들고 채식과 친해지자! 1 HTML 2 CSS (SCSS…]]></description><link>https://diary-blog.github.io/salad-carousel-slide/</link><guid isPermaLink="false">https://diary-blog.github.io/salad-carousel-slide/</guid><pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -782,7 +782,7 @@ $&lt;span class=&quot;token property&quot;&gt;break-m&lt;/span&gt;&lt;span class
 &lt;p&gt;&lt;a href=&quot;https://fonts.google.com/specimen/Poppins&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- Poppins font&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://swiperjs.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- SwiperJS&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/nolimits4web/Swiper/blob/master/demos/240-effect-coverflow.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- Swiper 3D Coverflow Effect&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://ktsmemo.cafe24.com/s/SwiperJS/363&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Swiper 커버플로우 효과 (Coverflow Effect)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ktsmemo.cafe24.com/s/SwiperJS/363&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- Swiper 커버플로우 효과 (Coverflow Effect)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad/img&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 본문에 사용된 샐러드 이미지 파일&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.freepik.com/free-photo/top-view-salad-with-feta-cheese-herbs-olives_10413237.htm#position=6&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 1번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.freepik.com/premium-photo/fresh-salad-table_7765426.htm#position=3&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 2번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
@@ -829,7 +829,8 @@ $&lt;span class=&quot;token property&quot;&gt;break-m&lt;/span&gt;&lt;span class
 &lt;p&gt;index.html&lt;br&gt;
 style.scss&lt;br&gt;
 script.js  &lt;/p&gt;
-&lt;p&gt;scss는 마지막에 css로 컴파일 할 예정&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(scss는 VScode에서 Extension을 이용하여&lt;/em&gt;
+&lt;em&gt;Live Sass Compiler로 컴파일해서 css 파일을 생성해줍니다.)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;2-불빛을-빛나면서-움직이게-만들어봅시다&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%EB%B6%88%EB%B9%9B%EC%9D%84-%EB%B9%9B%EB%82%98%EB%A9%B4%EC%84%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4&quot; aria-label=&quot;2 불빛을 빛나면서 움직이게 만들어봅시다 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[2] 불빛을 빛나면서 움직이게 만들어봅시다.&lt;/h2&gt;
 &lt;img alt=&quot;html5&quot; width=&quot;40px&quot; src=&quot;https://img.icons8.com/color/240/000000/html-5.png&quot;&gt;
@@ -1445,11 +1446,11 @@ background-image: url(이미지)도 준비 완료!&lt;/p&gt;
 &lt;p&gt;이제 HTML, CSS, JS, 이미지 모두 준비되었습니다!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;4-완성된-브라우저-화면&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4-%EC%99%84%EC%84%B1%EB%90%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%ED%99%94%EB%A9%B4&quot; aria-label=&quot;4 완성된 브라우저 화면 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[4] 완성된 브라우저 화면&lt;/h2&gt;
-&lt;p&gt;큰 불빛은 눈부시게 표현하고&lt;br&gt;
-작은 불빛은 반짝반짝 반딧불 처럼 빛나게 표현  &lt;/p&gt;
+&lt;p&gt;큰 불빛은 눈부시게 표현하고,&lt;br&gt;
+작은 불빛은 반짝반짝 반딧불 처럼 빛나게 표현한 결과 입니다.&lt;/p&gt;
 &lt;p&gt;쨔쨘~☆&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/54713067/102515103-a923c100-40d0-11eb-9ca3-442f6774dd2c.gif&quot; alt=&quot;2020-12-18-00_58_16&quot;&gt;&lt;/p&gt;
-&lt;p&gt;컬러랑 불빛을 살짝 보정했더니 원본 이미지 보다 훨씬 예쁘죠~♥ 헤헷 &lt;/p&gt;
+&lt;p&gt;컬러랑 불빛을 살짝 보정했더니 원본 이미지 보다 훨씬 예쁘죠!! 헷~ &lt;/p&gt;
 &lt;p&gt;🎄 Happy Christmas! 행복한 연말 보내세요! 🥰&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;u&gt;인생에 한번뿐인 나의 2020년을 반짝반짝 예쁘게 마무리해봅니다. ✨&lt;/u&gt;&lt;/p&gt;
