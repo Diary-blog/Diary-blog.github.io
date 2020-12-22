@@ -39,7 +39,8 @@ index.html
 style.scss  
 script.js  
 
-scss는 마지막에 css로 컴파일 할 예정
+*(scss는 VScode에서 Extension을 이용하여*
+*Live Sass Compiler로 컴파일해서 css 파일을 생성해줍니다.)*
 
 ***
 
@@ -484,14 +485,14 @@ background-image: url(이미지)도 준비 완료!
 
 ## [4] 완성된 브라우저 화면
 
-큰 불빛은 눈부시게 표현하고  
-작은 불빛은 반짝반짝 반딧불 처럼 빛나게 표현  
+큰 불빛은 눈부시게 표현하고,  
+작은 불빛은 반짝반짝 반딧불 처럼 빛나게 표현한 결과 입니다.
 
 쨔쨘~☆
 
 ![2020-12-18-00_58_16](https://user-images.githubusercontent.com/54713067/102515103-a923c100-40d0-11eb-9ca3-442f6774dd2c.gif)
 
-컬러랑 불빛을 살짝 보정했더니 원본 이미지 보다 훨씬 예쁘죠~♥ 헤헷 
+컬러랑 불빛을 살짝 보정했더니 원본 이미지 보다 훨씬 예쁘죠!! 헷~ 
 
 🎄 Happy Christmas! 행복한 연말 보내세요! 🥰
 

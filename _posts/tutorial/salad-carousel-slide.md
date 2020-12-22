@@ -153,7 +153,7 @@ $break-m: 768px;
 }
 
 /* [2] body에 폰트 추가하고
-   백그라운드에 벽지 이미지 적용해줍니다. */
+   백그라운드에 벽지 이미지를 적용해줍니다. */
 body {
   font-family: 'Poppins', sans-serif;
   background: url('./img/bg.jpg'); overflow: hidden;
@@ -167,7 +167,7 @@ body {
      타이틀의 포지션은 absolute로 슬라이드보다 아래 레이어로 적용 */
   position: absolute;
   
-  /* 텍스트 중앙 정렬 */
+  /* 텍스트 세로로 중앙 정렬 */
   display: flex; flex-direction: column;
   justify-content: center; align-items: center;
   text-align: center;
@@ -184,7 +184,7 @@ body {
     width: 70px;
     position: absolute;
     left: 400px; right: 0px; top: 0; bottom: 0; margin: auto;
-    /* [3-3] 반응형으로 화면이 작아지면 숨김처리 */
+    /* 반응형으로 화면이 작아지면 민트잎을 안보이게 숨겨두었습니다. */
     @media screen and (max-width: $break-m) {
       display: none;
     }
@@ -217,23 +217,24 @@ section {
         width: 400px;
         position: relative;
 
-        /* 메뉴 텍스트와 이미지를 가운데 정렬로 배치해줍니다. */
-        display: flex;
-        flex-direction: column;
+        /* 메뉴 텍스트와 이미지를
+           세로로 가운데 정렬로 배치해줍니다. */
+        display: flex; flex-direction: column;
         justify-content: center;
         text-align: center;
 
         /* [4-1-1] 메뉴 텍스트 스타일 적용 */
         .menu {
-          /* 메뉴 높이는 <p></p> 텍스트에 따라서 높이가 달라지기에 auto로 주었습니다. */
+          /* 메뉴의 높이는 <p></p> 텍스트에 따라서
+             높이가 달라지기에 auto로 주었습니다. */
           height: auto;
 
           /* 텍스트를 세로로 배치하고 중앙으로 정렬해줍니다. */
-          display: flex;
-          flex-direction: column;
+          display: flex; flex-direction: column;
           align-items: center;
 
-          /* 텍스트의 사이즈를 지정해줍니다. (반응형시 더 작은사이즈로 적용)*/
+          /* 텍스트의 사이즈를 지정해줍니다.
+             (반응형시 더 작은 폰트사이즈로 적용)*/
           p {
             font-size: 0.875rem;
             @media screen and (max-width: $break-m) {
@@ -242,9 +243,9 @@ section {
           }
           /* 제목이 되는 첫번째 텍스트에 컬러와 line 스타일을 정해주었습니다.
              현재는 제목 텍스트 길이에 맞게 라인의 길이가 지정되어있습니다.
-             만약 width를 원하는 길이대로 주고 싶다면 border-bottom 말고
+             만약 라인의 width를 원하는 길이대로 주고 싶다면 border-bottom 말고
              가상요소 속성인 ::before로 스타일을 적용하는것을 추천합니다.
-             p:nth-of-type(1)::before {} 으로 주거나
+             예를들어 p:nth-of-type(1)::before {} 으로 주거나
              직접 제목 클래스를 지정해줘서 (ex: .menu-title)
              .menu-title::before {} 으로 작성하시면 됩니다.
              */
@@ -286,7 +287,7 @@ section {
               position: absolute; right: -100px;
               width: 600px; height: 600px;
 
-              /* 모바일에서는 이미지의 가로를 고정픽셀을 해제하고
+              /* 모바일에서는 이미지의 가로 고정픽셀을 해제하고
                  100%로 주어서 샐러드가 화면에 맞춰서 잘나오게 해줍니다. */
               @media screen and (max-width: $break-m) {
                 right: 0px;
@@ -298,7 +299,7 @@ section {
       }
     }
     /* 가운데 보이는 슬라이드를 양쪽에 있는 슬라이드보다
-    강조되어 보이도록 스케일을 1.5로 적용해주었습니다. */
+        강조되어 보이도록 스케일을 1.5로 적용해주었습니다. */
     .swiper-slide-active {
       transform: scale(1.5)!important;
     }
@@ -325,7 +326,7 @@ var swiper = new Swiper('.swiper-container', {
                          // rotate 속성을 0 으로 주어서 각도가 회전하지 않도록 합니다.
     stretch: 0,          // 슬라이드 간에 거리
     depth: 0,            // 숫자가 커지면 중앙을 point로 잡고 perspective로 원근법이 적용됩니다.
-    modifier: 1,         // 중앙에 있는 active된 슬라이드의 이미지가 
+    modifier: 1,         // 중앙에 있는 active된 슬라이드의 이미지가 맨 위 레이어처럼 보입니다.
     slideShadows: false, // 기본적으로 적용되어있는 shadow 그라데이션을 false로 해제해줍니다.
   },
   // 슬라이드가 끝나는 지점에 다시 첫번째 슬라이드가 나오도록 loop를 true로 적용해주었습니다.
@@ -338,13 +339,11 @@ var swiper = new Swiper('.swiper-container', {
 ### [4] 샐러드 이미지
 
 이제 html, css, js 슬라이드를 적용했으니  
-이미지에서 간단하게 샐러드만 누끼를 따서 준비해봅시다!
+포토샵으로 간단하게 샐러드만 누끼를 따서 샐러드 4종을 준비해봅시다!
 
-- 준비한 샐러드 4종 이미지
+- 준비한 샐러드 4종 이미지 (참고자료에 링크가 있습니다.)
 
 ![](img/2020-12-21-04-35-20.png)
-
-
 
 
 먼저 레이어를 하나 추가하고, 원형 툴을 선택한다음  
@@ -357,24 +356,26 @@ var swiper = new Swiper('.swiper-container', {
 
 ![](img/2020-12-21-05-27-49.png)
 
-ctrl + D 로 선택을 해제해주고  
+ctrl + D 로 원형 선택을 해제해주고  
 키보드 숫자키 1~0 중에 하나를 누르면 10~100% 안에서 opacity가 적용됩니다.  
 저는 3을 눌러서 30%를 적용해주었습니다.
 
 ![](img/2020-12-21-05-28-19.png)
 
-이제 원형의 모양을 접시에 맞추려합니다.  
-ctrl + T 를 눌러서 어느정도 원형이 접시에 맞춰졌다고 생각하면 enter를 누르시면 됩니다.
+이제 원형의 모양을 접시에 맞춰봅시다.  
+
+ctrl + T 를 눌러서 마우스로 끝점 부분을 조절해서  
+어느정도 원형이 접시에 맞춰졌다고 생각하면 enter를 누르시면 됩니다.
 
 ![](img/2020-12-21-05-29-06.png)
 
 그 다음 원형의 픽셀을 선택해줍니다.  
 레이어 이미지에 마우스 오른쪽을 누르면 픽셀 선택 메뉴가 나옵니다.  
-(픽셀선택 단축키는 ctrl + 레이어 이미지 마우스왼쪽으로 클릭)
+(픽셀선택 단축키는 ctrl + 레이어 이미지 마우스 왼쪽으로 클릭)
 
 ![](img/2020-12-21-05-31-00.png)
 
-픽셀이 선택되어있는 상태에서 배경 레이어를 선택하고
+픽셀이 선택되어있는 상태에서 배경 레이어를 클릭해서 선택하고
 
 ![](img/2020-12-21-05-33-27.png)
 
@@ -382,7 +383,8 @@ alt + J 를 누르면 배경에있는 이미지가 복사되면서 레이어가 
 
 ![](img/2020-12-21-05-33-56.png)
 
-다시 레이어의 픽셀을 선택하고나서 c 를 누르면 이미지를 컷팅 할 수 있습니다.
+다시 레이어의 픽셀을 선택하고나서 c 를 누르면  
+이미지 사이즈대로 컷팅 할 수 있습니다.
 
 ![](img/2020-12-21-05-35-01.png)
 
@@ -390,17 +392,20 @@ alt + J 를 누르면 배경에있는 이미지가 복사되면서 레이어가 
 
 ![](img/2020-12-21-05-35-55.png)
 
-이제 레이어 1 하고 배경의 레이어 옆에 눈 표시를 해제해서  
+이제 복사한 샐러드접시 레이어만 제외하고  
+
+레이어 1 과 배경의 레이어 옆에 눈 표시를 해제해서  
 레이어를 화면에서 안보이게 해놓은다음
 
 ![](img/2020-12-21-05-36-28.png)
 
 ctrl + alt + shift + S 를 눌러서  
-웹용으로 저장하기로 png를 선택하여 저장합니다.
+웹용으로 저장하기로 png나 jpg를 선택하여 저장합니다.
 
 ![](img/2020-12-21-05-38-06.png)
 
-이렇게 나머지 샐러드도 똑같이 누끼를 따주면 이미지 준비 완료!
+이렇게 나머지 샐러드도 똑같이 누끼를 따주면 이미지 준비 완료!  
+단축키 몇개만으로 포토샵으로 누끼따는거 정말 쉽죠!!
 
 ![](img/2020-12-21-05-47-08.png)
 
@@ -412,6 +417,7 @@ ctrl + alt + shift + S 를 눌러서
 
 ![Salad carousel](https://user-images.githubusercontent.com/54713067/102645584-09d0fd80-41a6-11eb-9fdd-c81d3ce9277f.gif)
 
+이렇게 간단하게 샐러드 메뉴 슬라이드 만들어서  
 샐러드와 친해져서 다이어트 성공하길 바랄게요~☆
 
 ***
@@ -430,7 +436,7 @@ https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad
 
 [- Swiper 3D Coverflow Effect](https://github.com/nolimits4web/Swiper/blob/master/demos/240-effect-coverflow.html)
 
-[Swiper 커버플로우 효과 (Coverflow Effect)](https://ktsmemo.cafe24.com/s/SwiperJS/363)
+[- Swiper 커버플로우 효과 (Coverflow Effect)](https://ktsmemo.cafe24.com/s/SwiperJS/363)
 
 [- 본문에 사용된 샐러드 이미지 파일](https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad/img)
 
