@@ -71,6 +71,7 @@
     .cover {
       @media screen and (max-width: $break-m) {
         min-height: 200px;
+        min-width: 100px;
       }
       @media screen and (max-width: $break-s) {
         width: auto;
@@ -87,8 +88,10 @@
 
       img {
         min-height: 200px;
+        min-width: 150px;
         @media screen and (max-width: $break-m) {
           max-width: 100px;
+          min-width: 100px;
           min-height: 100px;
         }
       }
