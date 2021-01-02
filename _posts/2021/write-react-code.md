@@ -187,6 +187,121 @@ const App = ({ name, ...rest } => (
 
 ***
 
+## 9. With Hooks
+
+### useEffect
+A cleaner way of doing lifecycle stuff similar to componentDidMount
+```js
+import { useEffect } from "react";
+
+const App = () => {
+  useEffect(() => {
+    // do somthing only once
+  },[])
+  return <div>Something</div>
+}
+```
+
+### useState
+A cleaner way to create a state variable with a function to set it
+```js
+import { useState } from "react";
+
+const OpenButton = () => {
+  const [open, setOpen] => useState(false);
+
+  return (
+    <button onClick={() => setOpen(!open)}>
+      {open ? "Open" : "Closed"}
+    </button>
+  )
+}
+```
+
+### useSelector (react-redux)
+A clean way to get stuff out of your redux store without mapping to props
+```js
+import { useSelector } from "react-redux";
+
+const UserLabel = () => {
+  const { username } = useSelector(state => state.auth);
+  return <label>{usename}</label>
+}
+```
+
+### useDispatch (react-redux)
+A clean way to dispatch redux actions without mapping to props
+```js
+import { useDispatch } from "react-redux";
+
+const ReduxButton = ({ action }) => {
+  const dispatch = useDispatch();
+  return (
+    <button onClick={() => dispatch(action())}>
+     Click Me
+    </button>
+  );
+}
+```
+
+### useHistory (react-router-dom)
+A clean way to change route programmatically
+```js
+import { useHistory } from "react-router-dom";
+
+const HomeButton = () => {
+  const history = useHistory();
+
+  return (
+    <button onClick={() => history.push("/home")}>
+     Go home
+    </button>
+  );
+}
+```
+
+### useLocation (react-router-dom)
+A clean wary to check the URL path
+```js
+import { useLocation } from "react-router-dom";
+const App = () => {
+  const location = useLocation();
+  const isAuthPage = location.pathname.includes("auth");
+
+  return (
+    <nav>
+      {!isAuthPage && <button>logout</button>}
+    </nav>
+  );
+}
+```
+
+### useParams (react-router-dom)
+A super clean way to extract URL parameters
+```js
+import { useParams } from "react-router-dom";
+const App = () => {
+  const { slug } = useParams();
+
+  return <h3>post {slug}</h3>
+}
+```
+
+### useStyledTheme (custom hook with useContext)
+I built this custom hook to allow me to use my theme variables  inside react components  
+(very useful when styling charts and 3rd party libraries)
+```js
+import { useContext } from 'react';
+import { ThemeContext} from 'style-componets';
+
+export default function useStatyleTheme() {
+  const theme = useContent(ThemeContext);
+  return theme || {};
+}
+```
+
+***
+
 ## 참고자료
 
 - [옵셔널 체이닝](https://ko.javascript.info/optional-chaining)
