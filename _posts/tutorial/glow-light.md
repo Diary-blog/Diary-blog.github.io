@@ -504,7 +504,12 @@ background-image: url(이미지)도 준비 완료!
 
 ## [5] 전체 코드
 
-https://github.com/gr-p/interaction/tree/main/ui/12-Glow-light
+- 본문에서 만든 코드 :  
+https://github.com/gr-p/interaction/tree/main/ui/11-20/12-Glow-light
+
+- 더 많은 자료 보기 :  
+https://github.com/gr-p/interaction
+
 
 ***
 

@@ -424,7 +424,11 @@ ctrl + alt + shift + S 를 눌러서
 
 ## [4] 전체 코드
 
-https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad
+- 본문에서 만든 코드 :  
+https://github.com/gr-p/interaction/tree/main/ui/1-10/3-1-Salad
+
+- 더 많은 자료 보기 :  
+https://github.com/gr-p/interaction
 
 ***
 
