@@ -193,3 +193,6 @@ const App = ({ name, ...rest } => (
 
 - [React.Fragment](https://reactjs-kr.firebaseapp.com/docs/fragments.html)
 
+- [자바스크립트 rest, spread 문법과 destructuring](https://velog.io/@ashnamuh/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-rest-spread-%EB%AC%B8%EB%B2%95%EA%B3%BC-destructuring)
+
+
