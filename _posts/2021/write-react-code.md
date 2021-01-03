@@ -22,7 +22,8 @@ function App(props) {
 ```
 함수 선언으로 리턴이 한줄일 시 화살표 함수를 사용해서 리턴 생략  
 function으로 선언한 함수를  
-변수선언문인 const로 변수를(바뀔 수 없는 상수) 선언하고 화살표 함수를 사용하여 객체에 담긴 값을 리턴
+변수선언문인 const로 변수를(바뀔 수 없는 상수) 선언하고  
+화살표 함수를 사용하여 객체에 담긴 값을 리턴
 ```js
 const App = (props) => <div />;
 ```
@@ -70,7 +71,7 @@ const App = props => (
   </div>
 );
 ```
-props를 구조 분해로 객체 할당
+props를 구조 분해로 인자를 전달하여 객체 할당
 ```js
 const App = ({ name, age }) => (
   <div>
@@ -146,7 +147,7 @@ const App = user => (
 ***
 
 ## 7. Destructure arrays
-map을 사용한 옵셔널체이닝으로 props를 직접 지정
+map을 사용한 옵셔널체이닝`?.`으로 props를 직접 지정
 ```js
 const App = user => (
   <ul>
@@ -156,7 +157,7 @@ const App = user => (
   </ul>
 );
 ```
-map을 사용한 props를 배열 구조분해할당으로 전달
+map을 사용한 props를 배열 구조분해할당으로 인자를 전달
 ```js
 const App = user => (
   <ul>
@@ -170,7 +171,7 @@ const App = user => (
 ***
 
 ## 8. Pass all props
-props를 spread 연산자를 사용해서 모두 가져와서  
+props를 spread연산자`...`를 사용해서 모두 가져와서  
 옵셔널 체이닝 `?.` 으로 확인해서 출력하는 방법도 있고
 ```js
 const App = props => (
@@ -179,7 +180,7 @@ const App = props => (
 ```
 조금 더 간단하게  
 전달받을 인자 props를 미리 적어두고  
-나머지 ...rest로 모든 파라미터를 가져와서  
+나머지 `...rest`로 모든 파라미터를 가져와서  
 인자를 출력하는 방법도 있음
 ```js
 const App = ({ name, ...rest } => (
@@ -192,10 +193,10 @@ const App = ({ name, ...rest } => (
 ## 9. With Hooks
 
 ### useEffect
-A cleaner way of doing lifecycle stuff similar to componentDidMount
 componentDidMount와 비슷하며  
 라이프사이클 작업 가능한 useEffect를 사용
 ```js
+// A cleaner way of doing lifecycle stuff similar to componentDidMount
 import { useEffect } from "react";
 
 const App = () => {
@@ -207,9 +208,9 @@ const App = () => {
 ```
 
 ### useState
-A cleaner way to create a state variable with a function to set it
 useState를 사용하여 기능을 설정  
 ```js
+// A cleaner way to create a state variable with a function to set it
 import { useState } from "react";
 
 const OpenButton = () => {
@@ -224,9 +225,9 @@ const OpenButton = () => {
 ```
 
 ### useSelector (react-redux)
-A clean way to get stuff out of your redux store without mapping to props
 username을 바로 맵핑하지 않고 리덕스 스토어에서 가져옴
 ```js
+// A clean way to get stuff out of your redux store without mapping to props
 import { useSelector } from "react-redux";
 
 const UserLabel = () => {
@@ -236,9 +237,9 @@ const UserLabel = () => {
 ```
 
 ### useDispatch (react-redux)
-A clean way to dispatch redux actions without mapping to props
 props에 바로 맵핑하지 않고 중복 작업을 useDispatch로 전달
 ```js
+// A clean way to dispatch redux actions without mapping to props
 import { useDispatch } from "react-redux";
 
 const ReduxButton = ({ action }) => {
@@ -252,9 +253,9 @@ const ReduxButton = ({ action }) => {
 ```
 
 ### useHistory (react-router-dom)
-A clean way to change route programmatically
 useHistory로 간단한 경로 변경
 ```js
+// A clean way to change route programmatically
 import { useHistory } from "react-router-dom";
 
 const HomeButton = () => {
@@ -269,9 +270,9 @@ const HomeButton = () => {
 ```
 
 ### useLocation (react-router-dom)
-A clean wary to check the URL path
 useLocation으로 URL 경로를 확인
 ```js
+// A clean wary to check the URL path
 import { useLocation } from "react-router-dom";
 const App = () => {
   const location = useLocation();
@@ -286,9 +287,9 @@ const App = () => {
 ```
 
 ### useParams (react-router-dom)
-A super clean way to extract URL parameters
 useParams로 URL 매개변수를 전달
 ```js
+// A super clean way to extract URL parameters
 import { useParams } from "react-router-dom";
 const App = () => {
   const { slug } = useParams();
@@ -298,11 +299,11 @@ const App = () => {
 ```
 
 ### useStyledTheme (custom hook with useContext)
-I built this custom hook to allow me to use my theme variables  inside react components  
-(very useful when styling charts and 3rd party libraries)
 스타일 컴포넌트에서 제공하는 ThemeContext를 사용 할 수 있도록  
 useContext를 사용하여 useStyledTheme 라는 커스텀 훅스를 만듬
 ```js
+// I built this custom hook to allow me to use my theme variables  inside react components
+// (very useful when styling charts and 3rd party libraries)
 import { useContext } from 'react';
 import { ThemeContext } from 'style-componets';
 
