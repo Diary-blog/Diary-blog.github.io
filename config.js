@@ -29,6 +29,6 @@ module.exports = {
   googleAnalytics: 'UA-177250229-1',     // Google Analytics TrackingID.
   googleSearchConsole: '', // content value in HTML tag of google search console ownership verification.
   googleAdsenseSlot: '',   // Google Adsense Slot.
-  googleAdsenseClient: '', // Google Adsense Client.
+  googleAdsenseClient: 'ca-pub-7399338105803720', // Google Adsense Client.
     // Please correct the adsense client number in the './static/ads.txt' file.
 };

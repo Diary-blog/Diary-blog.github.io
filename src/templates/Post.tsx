@@ -8,7 +8,7 @@ import Utterances from '../components/Utterances'
 import moment from 'moment';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
 import { faListUl, faLayerGroup, faAngleLeft } from '@fortawesome/free-solid-svg-icons';
-// import AdSense from 'react-adsense';
+import AdSense from 'react-adsense';
 import {
   FacebookShareButton,
   TwitterShareButton,
@@ -109,7 +109,7 @@ const Post = (props: postProps) => {
   return (
     <>
       <Helmet>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <script data-ad-client="ca-pub-7399338105803720" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script type="application/ld+json">
           {`
             {
@@ -232,8 +232,8 @@ const Post = (props: postProps) => {
             </div>
           ) : null}
 
-          {/* 구글 광고
-          {isDevelopment ? (
+          {/* 구글 광고 */}
+          {/* {isDevelopment ? (
             <>
               <aside className="ad ad-dev">
                 <span>Ads</span>
@@ -246,26 +246,25 @@ const Post = (props: postProps) => {
                 </div>
               ) : null}
             </>
-          ) : (
+          ) : ( */}
             <>
               <aside className="ad">
                 <AdSense.Google
-                  client={config.googleAdsenseClient || 'ca-pub-5001380215831339'}
-                  slot={config.googleAdsenseSlot || '5214956675'}
+                  client={config.googleAdsenseClient || 'ca-pub-7399338105803720'}
                   style={{ display: 'block' }}
                   format="auto"
                   responsive="true"
                 />
               </aside>
 
-              {isDisqus ? (
+              {/* {isDisqus ? (
                 <div className="comments">
                   <DiscussionEmbed {...disqusConfig} />
                 </div>
-              ) : null}
+              ) : null} */}
             </>
-          )}
-          */}
+          {/* )} */}
+         
 
         </div>
 
