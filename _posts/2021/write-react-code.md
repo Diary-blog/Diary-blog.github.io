@@ -1,7 +1,7 @@
 ---
 title: 🧚 How to write React Code
 date: 2021-01-03
-update: 2021-01-03
+update: 2021-01-08
 tags:
   - Javascript
   - Reactjs
@@ -13,7 +13,9 @@ read: 3m 50s
 cover: ./img/re1.png
 ---
 
-## 1. Arrow functions
+## 📍 How to write React Code
+
+### 1. Arrow functions
 
 ```js
 function App(props) {
@@ -30,13 +32,13 @@ const App = (props) => <div />;
 
 ***
 
-## 2. Less brackets
+### 2. Less brackets
 
 ```js
 const App = (props) => {
   return <div>{props.name}</div>;
 }
-```
+```n
 props를 감싸는 () 삭제
 ```js
 const App = props => {
@@ -46,7 +48,7 @@ const App = props => {
 
 ***
 
-## 3. Automatic return
+### 3. Automatic return
 
 ```js
 const App = props => {
@@ -61,7 +63,7 @@ const App = props =>
 
 ***
 
-## 4. Destructure props
+### 4. Destructure props
 
 ```js
 const App = props => (
@@ -83,7 +85,7 @@ const App = ({ name, age }) => (
 
 ***
 
-## 5. React fragments
+### 5. React fragments
 fragment는 DOM에 별도 노드를 추가하지않고 자식 목록을 그룹화할 수 있음
 ```js
 const App = ({ name, age }) => (
@@ -126,7 +128,7 @@ function Glossary(props) {
 
 ***
 
-## 6. handle undefined
+### 6. handle undefined
 
 ```js
 const App = user => (
@@ -146,7 +148,7 @@ const App = user => (
 
 ***
 
-## 7. Destructure arrays
+### 7. Destructure arrays
 map을 사용한 옵셔널체이닝`?.`으로 props를 직접 지정
 ```js
 const App = user => (
@@ -170,7 +172,7 @@ const App = user => (
 
 ***
 
-## 8. Pass all props
+### 8. Pass all props
 props를 spread연산자`...`를 사용해서 모두 가져와서  
 옵셔널 체이닝 `?.` 으로 확인해서 출력하는 방법도 있고
 ```js
@@ -190,28 +192,28 @@ const App = ({ name, ...rest } => (
 
 ***
 
-## 9. With Hooks
+## 📍 With Hooks
 
-### useEffect
+### 1. useEffect
 componentDidMount와 비슷하며  
 라이프사이클 작업 가능한 useEffect를 사용
 ```js
-// A cleaner way of doing lifecycle stuff similar to componentDidMount
-import { useEffect } from "react";
+import { useEffect } from 'react';
 
 const App = () => {
   useEffect(() => {
-    // do somthing only once
+    // do somthing
   },[])
   return <div>Something</div>
 }
 ```
 
-### useState
-useState를 사용하여 기능을 설정  
+### 2. useState
+
+useState를 사용하여 상태 기능을 설정  
+
 ```js
-// A cleaner way to create a state variable with a function to set it
-import { useState } from "react";
+import { useState } from 'react';
 
 const OpenButton = () => {
   const [open, setOpen] => useState(false);
@@ -224,11 +226,10 @@ const OpenButton = () => {
 }
 ```
 
-### useSelector (react-redux)
+### 3. useSelector (react-redux)
 username을 바로 맵핑하지 않고 리덕스 스토어에서 가져옴
 ```js
-// A clean way to get stuff out of your redux store without mapping to props
-import { useSelector } from "react-redux";
+import { useSelector } from 'react-redux';
 
 const UserLabel = () => {
   const { username } = useSelector(state => state.auth);
@@ -236,11 +237,10 @@ const UserLabel = () => {
 }
 ```
 
-### useDispatch (react-redux)
+### 4. useDispatch (react-redux)
 props에 바로 맵핑하지 않고 중복 작업을 useDispatch로 전달
 ```js
-// A clean way to dispatch redux actions without mapping to props
-import { useDispatch } from "react-redux";
+import { useDispatch } from 'react-redux';
 
 const ReduxButton = ({ action }) => {
   const dispatch = useDispatch();
@@ -252,11 +252,10 @@ const ReduxButton = ({ action }) => {
 }
 ```
 
-### useHistory (react-router-dom)
+### 5. useHistory (react-router-dom)
 useHistory로 간단한 경로 변경
 ```js
-// A clean way to change route programmatically
-import { useHistory } from "react-router-dom";
+import { useHistory } from 'react-router-dom';
 
 const HomeButton = () => {
   const history = useHistory();
@@ -269,11 +268,10 @@ const HomeButton = () => {
 }
 ```
 
-### useLocation (react-router-dom)
+### 6. useLocation (react-router-dom)
 useLocation으로 URL 경로를 확인
 ```js
-// A clean wary to check the URL path
-import { useLocation } from "react-router-dom";
+import { useLocation } from 'react-router-dom';
 const App = () => {
   const location = useLocation();
   const isAuthPage = location.pathname.includes("auth");
@@ -286,11 +284,10 @@ const App = () => {
 }
 ```
 
-### useParams (react-router-dom)
-useParams로 URL 매개변수를 전달
+### 7. useParams (react-router-dom)
+useParams로 URL 파라미터를 전달
 ```js
-// A super clean way to extract URL parameters
-import { useParams } from "react-router-dom";
+import { useParams } from 'react-router-dom';
 const App = () => {
   const { slug } = useParams();
 
@@ -298,12 +295,12 @@ const App = () => {
 }
 ```
 
-### useStyledTheme (custom hook with useContext)
-스타일 컴포넌트에서 제공하는 ThemeContext를 사용 할 수 있도록  
-useContext를 사용하여 useStyledTheme 라는 커스텀 훅스를 만듬
+### 8. useStyledTheme (custom hook with useContext)
+
+React 컴포넌트 내의 theme 관련 변수 활용을 위해 생성된 custom hook  
+(Chart를 스타일링하거나 3rd-party 라이브러리를 활용할 때 유용) 
+
 ```js
-// I built this custom hook to allow me to use my theme variables  inside react components
-// (very useful when styling charts and 3rd party libraries)
 import { useContext } from 'react';
 import { ThemeContext } from 'style-componets';
 
@@ -311,6 +308,164 @@ export default function useStyledTheme() {
   const theme = useContent(ThemeContext);
   return theme || {};
 }
+```
+
+***
+
+## 📍 Event handlers
+
+### 1. onClick
+
+Element가 클릭되었을 때 실행됨  
+주로 form 태그 내에 있는 button 태그에 적용되어 UI 관련 액션을 실행함
+
+```js
+const Button = () => (
+  <button onClick={() => console.log("onClick")}>
+    Click Me
+  </button>
+)
+```
+
+### 2. onChange
+
+form element의 값이 바뀌었을 때 실행됨  
+주로 input box와 form의 상태를 관리하기 위한 form control에 사용됨
+
+```js
+import { useState } from 'react';
+
+const Textbox = () => {
+  const [value, setValue] = useState("");
+  return (
+    <input
+      type="text"
+      onChange={(e) => setValue(e.target.value)}
+    />
+  )
+};
+```
+
+### 3. onFocus
+
+Element가 focus 상태가 되었을 때 실행됨  
+종종 CSS class를 활용하지 않고 UI를 조작하고자할 때 유용하게 활용할 수 있음
+
+```js
+import { useState } from "react";
+
+const Search = () => {
+  const [focus, setFocus] = useState(false);
+  return (
+    <input
+      type="text"
+      style={{borderColor: focus ? "red" : "blue" }}
+      onFocus={(e) => setFocus(true)}
+    />
+  )
+};
+```
+
+### 4. onBlur
+
+Element가 focus 상태에서 벗어났을 때 실행됨  
+onFocus와 함께 사용됨 (기본적으로 반대에 해당)
+
+```js
+import { useState } from 'react';
+
+const Search = () => {
+  const [focus, setFocus] = useState(false);
+  return (
+    <input
+      type="text"
+      style={{ borderColor: focus ? "red" : "blue" }}
+      onBlur={(e) => setFocus(false)}
+    />
+  )
+};
+```
+
+### 5. onSroll
+
+Element가 스크롤되었을 때 overflow가 실행됨  
+사용자가 스크롤 다운 시에만 UI를 통해 무언가를 보여주고자할 때 유용함
+
+```js
+import { useState } from 'react';
+
+const Page = () => {
+  const [scrolled, setScrolled] = useState(true);
+  return (
+    <>
+      {scrolled && <button>Scroll up</button>}
+      <div
+        onScroll={(e) =>
+          setScrolled(e.target.scrollTop > 0
+            ? true
+            : false
+          )}
+      />
+    </>
+  )
+};
+```
+
+### 6. onMouseEnter
+
+Element가 hover되었을 때 실행됨  
+Javascript에서 hover 상태를 유지하고자할 때 유용함 
+
+```js
+import { useState } from 'react';
+
+const Panel = () => {
+  const [hover, setHover] = useState(flase);
+  return (
+    <div
+      style={{ background: hover ? "red" : "blue" }}
+      onMouseEnter={() => setHover(true)}
+    >
+  )
+};
+```
+
+### 7. onMouseLeave
+
+마우스 hover 상태가 끝나면 실행됨  
+기본적으로 onMouseEnter의 반대이며  
+인라인 스타일을 토글(on/off)할 수 있을 뿐만 아니라 더 다양한 효과를 부여할 수 있음
+
+```js
+import { useState } from 'react';
+
+const Panel = () => {
+  const [hover, setHover] = useState(false);
+  return (
+    <div
+      style={{ background: hover ? "red" : "blue" }}
+      onMouseEnter={() => setHover(true)}
+      onMouseLeave={() => setHover(false)}
+    >
+  )
+};
+```
+
+### 8. onSubmit
+
+form이 submit 되었을 때 실행됨  
+preventDefault()를 사용하면 페이지가 다시 로드되지 않음
+
+```js
+const Form = () => {
+  return (
+    <form onSubmit={e => e.preventDefault()}>
+      <button type="submit">
+        Submit
+      </button>
+    </form>
+  )
+};
 ```
 
 ***
