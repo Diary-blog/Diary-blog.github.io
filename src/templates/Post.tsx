@@ -109,7 +109,7 @@ const Post = (props: postProps) => {
   return (
     <>
       <Helmet>
-      <script data-ad-client="ca-pub-7399338105803720" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script type="application/ld+json">
           {`
             {
@@ -233,39 +233,15 @@ const Post = (props: postProps) => {
           ) : null}
 
           {/* 구글 광고 */}
-          {/* {isDevelopment ? (
-            <>
-              <aside className="ad ad-dev">
-                <span>Ads</span>
-                <span>displayed when you deploy</span>
-              </aside>
-              {isDisqus ? (
-                <div className="comments comments-dev">
-                  <span>Comments</span>
-                  <span>displayed when you deploy</span>
-                </div>
-              ) : null}
-            </>
-          ) : ( */}
-            <>
-              <aside className="ad">
-                <AdSense.Google
-                  client={config.googleAdsenseClient || 'ca-pub-7399338105803720'}
-                  style={{ display: 'block' }}
-                  format="auto"
-                  responsive="true"
-                />
-              </aside>
-
-              {/* {isDisqus ? (
-                <div className="comments">
-                  <DiscussionEmbed {...disqusConfig} />
-                </div>
-              ) : null} */}
-            </>
-          {/* )} */}
-         
-
+          <div className="ad">
+            <AdSense.Google
+              client={config.googleAdsenseClient || 'ca-pub-7399338105803720'}
+              slot="9732240436"
+              style={{ display: 'block' }}
+              format="auto"
+              responsive="true"
+            />
+          </div>
         </div>
 
         {!isTableOfContents ? null : <Toc isOutside={true} toc={tableOfContents} />}
