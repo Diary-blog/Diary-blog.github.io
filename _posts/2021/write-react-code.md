@@ -22,10 +22,12 @@ function App(props) {
   return <div />;
 }
 ```
+
 함수 선언으로 리턴이 한줄일 시 화살표 함수를 사용해서 리턴 생략  
 function으로 선언한 함수를  
 변수선언문인 const로 변수를(바뀔 수 없는 상수) 선언하고  
 화살표 함수를 사용하여 객체에 담긴 값을 리턴
+
 ```js
 const App = (props) => <div />;
 ```
@@ -38,8 +40,10 @@ const App = (props) => <div />;
 const App = (props) => {
   return <div>{props.name}</div>;
 }
-```n
+```
+
 props를 감싸는 () 삭제
+
 ```js
 const App = props => {
   return <div>{props.name}</div>;
@@ -55,7 +59,9 @@ const App = props => {
   return <div>{props.name}</div>;
 }
 ```
+
 한줄만 리턴할 시 객체에 담긴 리턴 삭제
+
 ```js
 const App = props =>
   <div>{props.name}</div>;
@@ -73,7 +79,9 @@ const App = props => (
   </div>
 );
 ```
+
 props를 구조 분해로 인자를 전달하여 객체 할당
+
 ```js
 const App = ({ name, age }) => (
   <div>
@@ -86,7 +94,9 @@ const App = ({ name, age }) => (
 ***
 
 ### 5. React fragments
+
 fragment는 DOM에 별도 노드를 추가하지않고 자식 목록을 그룹화할 수 있음
+
 ```js
 const App = ({ name, age }) => (
   <div>
@@ -95,6 +105,7 @@ const App = ({ name, age }) => (
   </div>
 );
 ```
+
 `<div>` 를 리액트에서 사용되는 짧은 구문인 `<></>` 으로  
 빈 태그처럼 보이게 작성이 가능  
   
@@ -106,6 +117,7 @@ const App = ({ name, age }) => (
   </>
 );
 ```
+
 빈 태그는 map 사용 시 key 속성을 사용할땐  
 `<React.Fregment>` 를 작성하는걸 추천  
 
@@ -137,7 +149,9 @@ const App = user => (
   </>
 );
 ```
+
 && 앞에 자신이 있으면 옵셔널 체이닝 `?.` 으로 작성
+
 ```js
 const App = user => (
   <>
@@ -149,7 +163,9 @@ const App = user => (
 ***
 
 ### 7. Destructure arrays
+
 map을 사용한 옵셔널체이닝`?.`으로 props를 직접 지정
+
 ```js
 const App = user => (
   <ul>
@@ -159,7 +175,9 @@ const App = user => (
   </ul>
 );
 ```
+
 map을 사용한 props를 배열 구조분해할당으로 인자를 전달
+
 ```js
 const App = user => (
   <ul>
@@ -173,17 +191,20 @@ const App = user => (
 ***
 
 ### 8. Pass all props
+
 props를 spread연산자`...`를 사용해서 모두 가져와서  
 옵셔널 체이닝 `?.` 으로 확인해서 출력하는 방법도 있고
+
 ```js
 const App = props => (
   <div {...props}>{props?.name}</div>
 );
 ```
-조금 더 간단하게  
+
 전달받을 인자 props를 미리 적어두고  
 나머지 `...rest`로 모든 파라미터를 가져와서  
 인자를 출력하는 방법도 있음
+
 ```js
 const App = ({ name, ...rest } => (
   <div {...rest}>{name}</div>
@@ -195,8 +216,10 @@ const App = ({ name, ...rest } => (
 ## 📍 With Hooks
 
 ### 1. useEffect
+
 componentDidMount와 비슷하며  
 라이프사이클 작업 가능한 useEffect를 사용
+
 ```js
 import { useEffect } from 'react';
 
@@ -227,7 +250,9 @@ const OpenButton = () => {
 ```
 
 ### 3. useSelector (react-redux)
+
 username을 바로 맵핑하지 않고 리덕스 스토어에서 가져옴
+
 ```js
 import { useSelector } from 'react-redux';
 
@@ -238,7 +263,9 @@ const UserLabel = () => {
 ```
 
 ### 4. useDispatch (react-redux)
+
 props에 바로 맵핑하지 않고 중복 작업을 useDispatch로 전달
+
 ```js
 import { useDispatch } from 'react-redux';
 
@@ -253,7 +280,9 @@ const ReduxButton = ({ action }) => {
 ```
 
 ### 5. useHistory (react-router-dom)
+
 useHistory로 간단한 경로 변경
+
 ```js
 import { useHistory } from 'react-router-dom';
 
@@ -269,7 +298,9 @@ const HomeButton = () => {
 ```
 
 ### 6. useLocation (react-router-dom)
+
 useLocation으로 URL 경로를 확인
+
 ```js
 import { useLocation } from 'react-router-dom';
 const App = () => {
@@ -285,7 +316,9 @@ const App = () => {
 ```
 
 ### 7. useParams (react-router-dom)
+
 useParams로 URL 파라미터를 전달
+
 ```js
 import { useParams } from 'react-router-dom';
 const App = () => {
