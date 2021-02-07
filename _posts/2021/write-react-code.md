@@ -176,7 +176,7 @@ const App = user => (
 );
 ```
 
-map을 사용한 props를 배열 구조분해할당으로 인자를 전달
+map을 사용한 props를 인자로 전달
 
 ```js
 const App = user => (
