@@ -1,5 +1,5 @@
 ---
-title: 🧚 JavaScript Object (Basic)
+title: ✒️ JavaScript Object (Basic)
 date: 2021-01-02
 update: 2021-01-02
 tags:
@@ -7,7 +7,7 @@ tags:
   - Object
   - mystory
 keywords: mystory, gatsby, blog, Javascript, Object, explanation
-read: 3m
+read: 2m
 cover: ./img/js1.png
 ---
 

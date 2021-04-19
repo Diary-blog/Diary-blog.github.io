@@ -1,5 +1,5 @@
 ---
-title: 🧚 Learn SCSS
+title: ✒️ Learn SCSS
 date: 2020-12-27
 update: 2020-12-27
 tags:

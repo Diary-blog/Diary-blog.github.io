@@ -1,5 +1,5 @@
 ---
-title: 🧚 How to write React Code
+title: ✒️ How to write React Code
 date: 2021-01-03
 update: 2021-01-08
 tags:
@@ -9,7 +9,7 @@ tags:
   - Code
   - mystory
 keywords: mystory, gatsby, blog, Javascript, Reactjs, clean, code
-read: 3m 50s
+read: 4m 30s
 cover: ./img/re1.png
 ---
 
