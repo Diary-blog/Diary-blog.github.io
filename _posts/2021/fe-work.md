@@ -30,9 +30,6 @@ cover: ./img/fe4.png
 
 *제목은 ["front of the front-end and back of the front-end web development"](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development) 입니다.*  
 
-
-<!-- ![](img/fe5.png) -->
-
 <hr/>
 
 ## [1] front of the front-end
