@@ -1,6 +1,7 @@
 ---
 title: 🧭 UIUX, HCI, Accesibility
 date: 2020-08-03
+update: 2021-04-20
 tags:
   - design
   - UI
@@ -217,5 +218,43 @@ cover: ./img/ac.png
 
 </details>
 
-<br/>
-<hr>
+### [UI에서 날짜, 시간 표기는 어떻게 하는게 좋을까?](https://kimtoma.com/2021/01/02/how-to-display-the-date-and-time-in-ui)
+
+### [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility)
+
+### [웹사이트 피드백 10가지 실용사례](https://www.hotjar.com/blog/website-feedback/)
+
+### [UX 아카데미 오픈프로젝트 [Megabox- UX/UI 개선]](https://blog.rightbrain.co.kr/?p=11459)
+
+### [스포티파이 UX](https://brunch.co.kr/@minseungsong/46)
+
+### [세상은 넓고 디자인 프로세스도 많다.](https://brunch.co.kr/@yuneuichoi/9)
+
+### [어린이용 교육 앱 UX/UI디자인 시 주의할 점 5가지](https://brunch.co.kr/@wepostit/6)
+
+### [Zendesk의 디자인 프로세스](https://medium.com/zendesk-creative-blog/the-zendesk-triple-diamond-process-fd857a11c179)
+
+### [UI 텍스트 가이드라인 제작기](https://brunch.co.kr/@dsnranna/3)
+
+### [상품 결제를 원활하게 만드는 UX디자인](https://brunch.co.kr/@hailey-hyunjee/38)
+
+### [사용자 인터뷰는 어떻게 준비해야 하나요?](https://brunch.co.kr/@plusx/52)
+
+### [UI/UX 초심자를 위한 웹 그리드시스템 훑어보기](https://brunch.co.kr/@macga/3)
+
+### [UI를 위한 컴포넌트](https://brunch.co.kr/@blckschrl/66)
+
+### [UI를 위한 레이아웃](https://brunch.co.kr/@blckschrl/65)
+
+### [[독후감] 마이크로카피: UX 디자이너의 글쓰기 ](https://hijinnyjinny.tistory.com/28)
+
+### [모바일 UX 라이팅, ‘예’ ‘아니요’ 버튼을 쓰면 안 되는 이유](https://ditoday.com/%EB%AA%A8%EB%B0%94%EC%9D%BC-ux-%EB%9D%BC%EC%9D%B4%ED%8C%85-%EC%98%88-%EC%95%84%EB%8B%88%EC%9A%94%EB%A5%BC-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94/)
+
+### [17+ Web Design Resources You’d Actually Want to Use (& Bookmark)](https://the-webdesigner.co/web-design-development-resources/#t-1598644068948)
+
+### [상황에 맞는 로딩 애니메이션 적용하기](https://medium.com/myrealtrip-product/%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%EB%A1%9C%EB%94%A9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-2018af51c197)
+
+### [10 Distinctive Features of Japanese-Style Web Design](https://designmodo.com/japanese-web-design/)
+
+
+

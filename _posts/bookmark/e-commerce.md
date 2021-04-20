@@ -1,7 +1,7 @@
 ---
 title: 🛒 E-commerce, Retail
 date: 2020-04-27
-update : 2020-07-05
+update: 2021-04-20
 tags:
   - E-commerce
   - Retail
@@ -62,9 +62,11 @@ cover: ./img/ec1.png
 
 ### [커머스가 품절 상태를 대하는 방법, 차량 호출 서비스의 평가 기능, 숙소 예약 시 지도뷰의 역할에 대하여](http://icunow.co.kr/mobileapps15/)
 
+### [구매율 올리는 상세 페이지 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/122)
 
+### [한국이 일본향 이커머스를 주목해야 하는 이유](https://byline.network/2020/04/21-81/)
 
-
+### [커머스가 품절 상태를 대하는 방법, 차량 호출 서비스의 평가 기능, 숙소 예약 시 지도뷰의 역할에 대하여!](http://icunow.co.kr/mobileapps15/)
 
 
 

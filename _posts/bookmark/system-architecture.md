@@ -1,7 +1,7 @@
 ---
 title: 🧩 System architecture
 date : 2020-06-12
-update : 2020-07-05
+update: 2021-04-20
 tags:
   - Algorithm
   - DB
@@ -59,6 +59,16 @@ cover: ./img/sa.png
 
 ### [mysql에서 json 활용](https://www.joinc.co.kr/w/man/12/mysql/json)
 
+### [리디북스 '내 서재'를 개발하며 겪은 문제와 해결방법](https://www.ridicorp.com/story/got-developed-as-a-my-library/)
+
+### [SaaS의 홍수 시대에서 Data Warehouse/Lake 구축은 어떻게 해야 할까](https://blog.doosikbae.com/m/128)
+
+### [SQL의 핵심, 다양한 종류의 조인](https://m.blog.naver.com/codeitofficial/222019008042)
+
+### [DBMS 종류와 순위](https://stricky.tistory.com/m/165)
+
+
+
 
 
 <br/>
@@ -81,6 +91,10 @@ cover: ./img/sa.png
 </details>
 
 ### [AWS, GCP, Azure Cloud 자료 모음](http://it.serverchk.com/)
+
+### [카카오의 쿠베 클라우드](https://tech.kakao.com/2020/06/29/cgroup-driver/)
+
+### [카카오 개발자가 본 '요즘 클라우드 흐름' 세 가지(2019)](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=092&aid=0002166682&sid1=001)
 
 <br/>
 <hr>
@@ -142,4 +156,54 @@ cover: ./img/sa.png
 ### [메시징 시스템을 활용하는 방법](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
 
 ### [넷플릭스 마이크로 서비스 가이드](https://dong-life.tistory.com/90)
+
+### [[Kafka] 기본 개념잡기](https://victorydntmd.tistory.com/m/344)
+
+### [MVVM Anti Pattern(안드로이드)](https://dhha22.github.io/androidgi/2020/05/12/mvvm_anti_pattern.html)
+
+### [쿠버네티스가 도대체 뭐야? 할 수 있는 것들 그리고 할 수 없는 것들](https://techit.kr/view/?no=20200524170335)
+
+### [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
+
+### [넷플릭스 마이크로 서비스 가이드](https://dong-life.tistory.com/90)
+
+### [마이크로서비스 배포의 진화](https://jflip.tistory.com/m/23)
+
+### [클라우드 아키텍트 가이드](https://www.ciokorea.com/news/36284)
+
+### [실전 웹 어플리케이션 부하 테스트](https://imqadotblog.wordpress.com/2020/02/04/loadtesting-1/)
+
+### [서비스 메시 아키텍처](https://medium.com/giljae/service-mesh-architecture-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EC%8B%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-9c7b87dcb9f0)
+
+### [Infrastructure Monitoring](https://medium.com/nexclipper-io/infrastructure-monitoring-9449ef2791dd)
+
+### [통합 이벤트 in MSA](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
+
+### [Why Microservices Should Scare You More](https://medium.com/@bghuston/why-microservices-should-scare-you-more-556ab8f3fdb2)
+
+### [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
+
+### [MSA 제대로 이해하기 -(4)Service Mesh](https://velog.io/@tedigom/MSA-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-4Service-Mesh-f8k317qn1b)
+
+### [2.(용어) AWS 용어 알아보기](https://brunch.co.kr/@topasvga/76)
+
+### [HTTP 이미지로 한번에 보기](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
+
+### [하둡이란?](https://velog.io/@kimdukbae/Hadoop)
+
+### [데이터 분석을 통해 하둡 시스템 개선하기 #1](https://danbi-ncsoft.github.io/works/2019/12/30/hadoop_usage_analysis_1.html)
+
+### [라쿠텐이 하둡 버리고 클라우드 도입](https://www.ciokorea.com/news/156466)
+
+### [CBD/SOA/MSA 비교](https://m.blog.naver.com/stmshra/221975832271)
+
+### [web architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
+
+
+
+
+
+
+
 

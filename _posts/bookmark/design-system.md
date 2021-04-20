@@ -1,6 +1,7 @@
 ---
 title: 🧭 Design System
 date: 2020-08-03
+update: 2021-04-20
 tags:
   - design
   - UI
@@ -76,5 +77,14 @@ cover: ./img/ds.png
 ### [컴포넌트 디자인으로 재사용성 극대화하기(컴포넌트 디자인의 생성과 활용, 협업하기)](https://blog.gangnamunni.com/post/Maximize-reusability-with-component-design)
 
 ### [쏘카 디자인 시스템 구축 과정](https://tech.socarcorp.kr/design/2020/06/23/socar-design-system-01.html)
+
+### [Planning, designing, and developing Design Systems](https://uxdesign.cc/design-systems-4baa50172c5d?gi=465a109b2198)
+
+### [쏘카의 디자인 시스템 맛보기](https://tech.socarcorp.kr/design/2020/06/23/socar-design-system-01.html)
+
+### [멜론 Admin 2.0 개편 프로젝트](https://brunch.co.kr/@design-melon/83#comment)
+
+
+
 
 

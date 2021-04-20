@@ -1,7 +1,7 @@
 ---
 title: ✨ Front-end
 date: 2020-04-26
-update: 2020-06-20
+update: 2021-04-20
 tags:
   - front-end
   - interview
@@ -97,4 +97,29 @@ cover: ./img/fe1.png
 
 ### [프론트엔드 기술면접 (html, css)](https://j.mp/2JWoKXb)
 
+### [The Front-End Checklist](https://frontendchecklist.io/)
+
+### [알고리즘 문제푸는곳(한글)](https://yeu.kr/#html,pmd=missions)
+
+### [첫 배포에서 배운 5가지 교훈](https://www.learningman.co/firstdeployment/)
+
+### [웹을 PDF로 저장해주는 라이브러리](https://github.com/crabbly/print.js)
+
+### [MediumEditor](https://yabwe.github.io/medium-editor/)
+
+### [vscode-react-component-generator](https://github.com/IcodeNet/vscode-react-component-generator)
+
+### [실용주의 프론트엔드 개발](https://peter-cho.gitbook.io/book/)
+
+### [귀여워서 추가함 - [vscode] 코드 power mode 설치, 설정법 + 사용자 설정](https://boheeee.tistory.com/15)
+
+### [63 Best Web Developer Portfolio Examples](https://www.noupe.com/design/web-developer-portfolio-examples.html)
+
+### [프론트엔드 기술면접 실제현업 질문 모음](https://realmojo.tistory.com/300)
+
+### [면접에서 의미있는 질문을 하고 있나요](https://vallista.kr/2020/06/14/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94-%EC%A7%88%EB%AC%B8%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94/)
+
+### [구글 oAuth를 이용한 구글로그인 구현](https://www.joinc.co.kr/w/man/12/oAuth2/Google)
+
+### [FE devtalk](https://github.com/NAVER-FEPlatform/FEDevtalk)
 

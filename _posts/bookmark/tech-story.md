@@ -1,6 +1,7 @@
 ---
 title: 💻 Tech Story
 date: 2020-08-03
+update: 2021-04-20
 tags:
   - tech
   - TechBlog
@@ -257,5 +258,48 @@ cover: ./img/ths4.png
 </details>
 
 ### [개발문화 칸반 이야기](https://brunch.co.kr/@seonology/6)
+
+### [120가지 사용자 행동 분석을 자동화할 수 있는 ‘데이터 제품’ 만들기](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics/)
+
+### [디자인회사의 개발 이야기](https://brunch.co.kr/@plusx/51)
+
+### [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%ec%b0%a8%ec%84%b8%eb%8c%80-%eb%a6%ac%ed%8c%a9%ed%86%a0%eb%a7%81-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%95%a0%ec%9e%90%ec%9d%bc/)
+
+### [2019년 소프트웨어산업 전망](https://spri.kr/posts/view/22641?code=research)
+
+### [2020년 소프트웨어산업 전망](https://spri.kr/posts/view/22925?code=research)
+
+### [SW프리랜서 근로환경 실태 조사 및 개선 방안 연구](https://spri.kr/posts/view/22931?code=research)
+
+### [프로덕트 매니저에게 필요한 7가지 능력](https://brunch.co.kr/@fromjayden/11)
+
+### [현재 <개발자>인데 "프로덕트매니저"가 되고 싶다구요?](https://brunch.co.kr/@ywkim36/17)
+
+### [개발팀 TDD 후기](https://www.notion.so/TDD-d457bdec53f742f58ad94dc7b25cb8c5)
+
+### [개발자 면접 시 단골 질문 13개, 그리고 모범답안](https://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
+
+### [오픈소스 컨트리뷰톤](https://www.oss.kr/contributhon_project)
+
+### [우리 팀 GitHub에 지금 당장 연결해야 할 서비스 4가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80-github%EC%97%90-%EB%8B%B9%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0-4%EA%B0%80%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-4ea3c165114)
+
+### [코드리뷰 모음 서비스를 소개합니다](https://woowabros.github.io/techcourse/2020/06/05/techcourse-javable.html)
+
+### [위시켓, ‘MZ세대 IT 프리랜서 현황’ 발표 2020](https://platum.kr/archives/142726)
+
+### [웹 백엔드 개발자가 되기 위한 성장통](https://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/)
+
+### [커넥트재단 에듀 컨퍼런스 2020](https://sef.connect.or.kr/)
+
+### [How I Would Learn Data Science(번역)](https://johnnykoo.dev/article/how-i-would-study-data-science/)
+
+### [주석 분석기를 이용한 간단한 API 문서화 방법](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
+
+### [능력있는 개발자는 어떻게 알아 볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
+
+### [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
+
+
+
 
 
