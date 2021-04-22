@@ -5,9 +5,10 @@ update: 2020-10-09
 tags:
   - front-end
   - css
+  - svg
   - scss
   - styled-components
-keywords: css, scss, sass, styled-components
+keywords: css, scss, sass, styled-components, svg, animation
 read: 3m 10s
 cover: ./img/css.png
 ---
@@ -25,5 +26,8 @@ cover: ./img/css.png
 ### [styled-components는 어떻게 동작할까?](https://john015.netlify.app/styled-components%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C)
 
 ### [Top 18 CSS Animated Gradient Examples](https://csshint.com/animated-gradient-examples/)
+
+### [background-image에 SVG를 넣어 사용하기](https://zinee-world.tistory.com/520)
+
 
 
