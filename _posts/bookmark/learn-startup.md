@@ -1,7 +1,7 @@
 ---
 title: 📚 Learn, Startup
-date: 2020-04-26
-update: 2020-07-05
+date: 2020-07-05
+update: 2021-04-20
 tags:
   - Learn
   - startup
@@ -404,6 +404,79 @@ CCPM(Critical Chain Project Management),
 
 ### [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 
+### [스타트업의 개발자 채용 비법](http://channy.creation.net/blog/1443)
 
+### [전세계 Top 140개 B2B/SaaS 스타트업들은 얼마나 빨리 1,000억 원 매출 목표에 도달했을까](https://kimchihill.com/2020/11/29/kr-path-to-100m-arr/)
+
+### [회사 성과 지표, NPS 개념](https://medium.com/jandi-messenger-stories/nps-1-%ED%9A%8C%EC%82%AC-%EC%84%B1%EA%B3%BC-%EC%A7%80%ED%91%9C%EB%A1%9C-%EA%B3%A0%EB%AF%BC%EC%A4%91%EC%9D%B4%EB%9D%BC%EB%A9%B4-nps-%EA%B0%9C%EB%85%90%EC%9D%80-%EC%95%8C%EA%B3%A0-%EA%B0%80%EC%9E%90-40fdc09f3381)
+
+### [hotjar의 NPS](https://www.hotjar.com/net-promoter-score/)
+
+### [SurveyMonkey의 NPS](https://ko.surveymonkey.com/mp/net-promoter-score-calculation/)
+
+### [아마존의 6페이저 글쓰기 (영상)](https://www.youtube.com/watch?v=BKz1uC9-KNk&feature=share)
+
+### [좋은 PM을 위한 MVP프라이머](https://brunch.co.kr/@ywkim36/28)
+
+### [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
+
+### [우리 서비스의 유저 세그멘테이션 하기](https://brunch.co.kr/@lee880728/10)
+
+### [리더십이 쓰는 글(text)의 힘](https://johnnykoo.dev/article/power-of-text/)
+
+### [구독서비스 모음](https://nalgaeng.com/2020/05/31/subscription_service/)
+
+### [스타트업 입문자가 팔로우하면 좋은 링크 모음집](https://www.notion.so/nalgaeng/8db71554fa6b4f02ac1fb835e6d530dd?v=b1f58a711b3246bca660a384a0a4172c)
+
+### [창의적 발상이란?](https://ditoday.com/%EC%B0%BD%EC%9D%98%EC%A0%81-%EB%B0%9C%EC%83%81%EC%9D%B4%EB%9E%80/)
+
+### [한때 실리콘밸리서 주목받던 '로봇 레스토랑'이 줄줄이 문 닫는 이유](https://1boon.daum.net/interbiz/5ed8425cf9e9ed73c5a4a5c6)
+
+### [교보문고 마케터가 접하고 공부하고 있는 Product Study 50종 추천도서]https://www.notion.so/81cb058c1b49464e89eb97bed4519b9f?v=dcd82ff616a6492cbf16add8696bf625
+
+### [미국에서의 창업, 그 3년의 짧은 기록들](https://medium.com/@xissy/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98-%EC%B0%BD%EC%97%85-%EA%B7%B8-3%EB%85%84%EC%9D%98-%EC%A7%A7%EC%9D%80-%EA%B8%B0%EB%A1%9D%EB%93%A4-ad48d393652f#.w13pm6ytu)
+
+### [금융공공데이터 4450만 건 무료 개방 2020](http://www.upinews.kr/newsView/upi202006080045)
+
+### [나의 성장을 도와준 고마운 책들(기계인간)](https://johngrib.github.io/wiki/my-favorite-books/)
+
+### [금융 공공 데이터](https://www.data.go.kr/tcs/dss/selectDataSetList.do?keyword=%EA%B8%88%EC%9C%B5)
+
+### [한국은행 경제통제시스템](http://ecos.bok.or.kr/jsp/openapi/OpenApiController.jsp?t=main)
+
+### [상대방을 설득하려면 현장과 자신의 얘기를 하세요](https://brunch.co.kr/@mentorgrace/65)
+
+### [스타트업의 스프린트로 일하는 방법 (넥스트유니콘)](https://medium.com/nextunicorn/%EA%B0%99%EC%9D%B4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%95%B4%EB%B3%B4%EC%8B%A4%EA%B9%8C%EC%9A%94-9c798f6a768c)
+
+### [달인이 되는 비결](http://agile.egloos.com/m/5612585)
+
+### [전세계 엑싯한 스타트업 정보](https://www.ycombinator.com/topcompanies/)
+
+### [‘이 사람, 일 잘하겠구나’ 생각 드는 이메일, 무엇이 다를까?](https://mnews.joins.com/article/23803358)
+
+### [마이데이터 시대 내 소득에 따른 부동산,자동차 추천 가능(기사)](https://n.news.naver.com/mnews/article/031/0000545044?sid=101)
+
+### [리드 너처링과 리드 스코어링은 어떻게 할까](http://www.openads.co.kr/content/contentDetail?contsId=4265)
+
+### [제갈량이 인재를 볼 때 능력보다 더 중요하게 생각한 것](https://brunch.co.kr/@bookceo/85)
+
+### [직원을 뽑았으면 잘하는 일을 시켜라](https://ppss.kr/archives/168406)
+
+### [한국과 미국은 브레인스토밍이 다르다](https://brunch.co.kr/@believeinurself/105)
+
+### [The largest collection of startup pitch decks. 600+ decks from the world's best startups.](https://starthouse.xyz/)
+
+### [실리콘 밸리의 나이 많은 사람들’을 소개](https://ppss.kr/archives/220455)
+
+
+
+
+
+보통은 ?fbclid
+네이버는 &proxyReferer=http
+
+https://m.blog.naver.com/PostView.nhn?blogId=wantedlab&logNo=221990672381&proxyReferer=http:%2F%2Fm.facebook.com%2F
+
+https://m.blog.naver.com/wantedlab/221990672381
 
 

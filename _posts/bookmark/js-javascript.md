@@ -1,7 +1,7 @@
 ---
 title: 💡 JavaScript
 date: 2020-04-27
-update : 2020-07-05
+update: 2021-04-20
 tags:
   - front-end
   - JS
@@ -61,6 +61,14 @@ cover: ./img/js.png
 ### [자주 사용하는 정규식 패턴](https://uznam8x.tistory.com/entry/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8C%A8%ED%84%B4)
 
 ### [The 10 best javascript libraries for SVG animation](http://noeticforce.com/Javascript-libraries-for-svg-animation)
+
+### [single-page-app-vanilla-js](https://github.com/dcode-youtube/single-page-app-vanilla-js)
+
+### [실수 방지 ESLint Rules](https://www.notion.so/ESLint-Rules-adfb37c5229749d584011d9030e7e486)
+
+### [우아한JS](https://woowabros.github.io/tools/2016/09/07/woowahan-js.html)
+
+### [자바스크립트 체크박스 라이브러리](https://www.bryanbraun.com/checkboxland/#using-plugins)
 
 
 <br/>

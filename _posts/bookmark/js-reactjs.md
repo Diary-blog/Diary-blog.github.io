@@ -1,6 +1,7 @@
 ---
 title: 💡 ReactJS
 date: 2020-08-03
+update: 2021-04-20
 tags:
   - front-end
   - JS
@@ -188,3 +189,15 @@ cover: ./img/rs3.png
 ### [use-dark-mode](https://github.com/donavon/use-dark-mode)
 
 ### [Kotlin + Spring Boot +  React (class형) 으로 만드는 기본 CRUD](https://developer.okta.com/blog/2020/01/13/kotlin-react-crud)
+
+### [Sample code of React with Clean architecture](https://github.com/falsy/react-with-clean-architecture/blob/master/readme-ko.md)
+
+### [리액트 훅 MVVM](https://www.bsidesoft.com/8267)
+
+### [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects/)
+
+
+
+
+
+

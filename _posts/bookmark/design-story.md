@@ -1,6 +1,7 @@
 ---
 title: 🧭 Design Story
 date: 2020-08-03
+update: 2021-04-20
 tags:
   - design
   - UI
@@ -127,4 +128,24 @@ cover: ./img/dst1.png
 ### [같이 일하고 싶은 디자이너](https://brunch.co.kr/@forchoon/360)
 
 ### [브런치의 다움에 대하여: 디자인적 관점](https://brunch.co.kr/@henryj/8)
+
+### [디자이너로 10년, 요즘의 고민](https://seongeunericakim.medium.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%A1%9C-10%EB%85%84-%EC%9A%94%EC%A6%98%EC%9D%98-%EA%B3%A0%EB%AF%BC-ce8ffbd4f299)
+
+### [당신을 위한 디자인 관련 사이트 모음.ZIP](https://brunch.co.kr/@onedaybreak/20)
+
+### [[취미] 아들을 위해 코드로 만든 폰트입니다. (GIF많음)](https://m.ruliweb.com/hobby/board/300113/read/30562888)
+
+### [카카오뱅크 디자인팀 이야기](https://m.post.naver.com/viewer/postView.nhn?volumeNo=28577544&memberNo=36301288)
+
+### [프로토파이의 역할과 협업](https://brunch.co.kr/@clairehaena/5)
+
+### [디자인 노임단가 2020](https://www.dsninfo.or.kr/main/index.do)
+
+### [디자이너가 효과적으로 일하는 방법](https://sunyeonhada.medium.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-94f9a8eb9bbf)
+
+### [디자이너가 데이터에 관심 가지면 보이는 것들](https://brunch.co.kr/@cliche-cliche/69)
+
+
+
+
 

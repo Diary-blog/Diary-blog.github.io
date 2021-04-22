@@ -1,7 +1,7 @@
 ---
 title: 📊 Marketing, AD, GA, SEO
 date: 2020-04-27
-update: 2020-08-03
+update: 2021-04-20
 tags:
   - marketing
   - AD
@@ -130,3 +130,54 @@ cover: ./img/mk.png
 ### [페이스북 광고와 스마트스토어 마케팅의 궁합](https://m.blog.naver.com/denis_ahn/221995230548)
 
 ### [디자이너를 위한 SEO](https://designshack.net/articles/business-articles/seo-for-designers/)
+
+### [2021년 디지털트랜스포메이션 트렌드(Digital Transformation Trend) 분석 보고서](https://digitaltransformation.co.kr/2021%eb%85%84-%eb%94%94%ec%a7%80%ed%84%b8%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98-%ed%8a%b8%eb%a0%8c%eb%93%9cdigital-transformation-trend-%eb%b6%84%ec%84%9d-%eb%b3%b4%ea%b3%a0/)
+
+### [구글 AMP는 무엇인가?](https://gobooki.net/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9A%94%EC%95%BD%EA%B5%AC%EA%B8%80-amp%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
+
+### [키워드 검색량 조회 프로그램 비교 : 블랙키위 vs 스몰마케팅랩](https://m.blog.naver.com/passionvip/222084286363)
+
+### [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
+
+### [SEO체크 점수 항목](https://novela-soft.com/seo-check/)
+
+### [구글 SEO 기본 가이드](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko&visit_id=637493148519234231-2398935123&rd=1)
+
+### [틱톡-인스타그램-노션 앱의 공통점](https://m.post.naver.com/viewer/postView.nhn?volumeNo=28398644&memberNo=49318886&navigationType=push)
+
+### [[스타트업 언론홍보] 0원으로 뉴스기사 200개 내는 방법](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%96%B8%EB%A1%A0%ED%99%8D%EB%B3%B4-0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC-200%EA%B0%9C-%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-f46a23a6289b)
+
+### [광고비를 절약하는 방법, CTR을 떨어뜨려라.](https://brunch.co.kr/@99101204/26)
+
+### [유저 테스트 서비스(UserTesting & UsabilityHub) 비교와 방법론](https://medium.com/swlh/usertesting-com-vs-usabilityhub-com-15k-vs-1k-remote-testing-budgets-35269579b566)
+<details><summary> └  📝 </summary>
+# new process
+
+1. define the opportunity  
+2. conmpetitor  
+3. value innovation  
+4. wireframing & prototyping  
+5. user testing
+
+</details>
+
+### [상품이 아닌 데이터를 파는 시대](http://fpost.co.kr/board/bbs/board.php?bo_table=special&wr_id=394)
+
+### [구글에서 인정한 국내 첫 SEO 성공사례는?](https://brunch.co.kr/@jonologic/16)
+
+### [서비스를 "진짜로" 성장시키는 지표 찾기](https://brunch.co.kr/@wjchee/111)
+
+### [Google Analytics Raw Data를 활용한 웹 로그 분석환경 만들기](https://medium.com/myrealtrip-product/google-analytics-raw-data%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%B9-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0-69c148b191ff)
+
+### [그로스 해킹 – 웹사이트 A/B 실험에 대한 7가지 법칙](https://www.andrewahn.co/product/online-experiment-rule-of-thumbs/)
+
+### [페북 광고와 스마트스토어 마케팅 궁합](https://m.blog.naver.com/denis_ahn/221995230548)
+
+### [SEO for Designers: A 101 Primer](https://designshack.net/articles/business-articles/seo-for-designers/)
+
+### [이메일의 끝, 푸터를 마케팅 영역으로 활용하는 방법](https://blog.stibee.com/%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%98-%EB%81%9D-%ED%91%B8%ED%84%B0%EB%A5%BC-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%98%81%EC%97%AD%EC%9C%BC%EB%A1%9C-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5119576ca61)
+
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 title: 💻 Tech Blog
 date: 2020-04-27
-update : 2020-07-05
+update: 2021-04-20
 tags:
   - tech
   - TechBlog
@@ -79,4 +79,21 @@ cover: ./img/tb1.png
 ### [네이버 FE 뉴스레터](https://github.com/naver/fe-news)
 
 ### [카카오 브런치"에서의 기술블로그 2년 회고](https://brunch.co.kr/@springboot/338)
+
+### [개발자를 위한 정보 검색 팁](https://boxnwhis.kr/2020/09/27/ir-for-developers.html)
+
+### [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
+
+### [월간 개발자스럽다](https://blog.gaerae.com/2020/05/monthly-55.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&m=1)
+
+### [ChoDragon 님의 기술블로그](https://chodragon9.github.io/)
+
+### [개발자 변성윤님의 학습목적 링크모음](https://www.notion.so/b053b6048e0e40448ab67bf2fe8fb706?v=1374fc9347ea42879bb69bbcc9590945)
+
+### [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
+
+### [[IT 개발자와 일할 때 필요한 모든 개발지식] A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+
+
+
 

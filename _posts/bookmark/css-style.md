@@ -1,7 +1,7 @@
 ---
 title: 🎨 CSS
 date: 2020-06-12
-update: 2020-10-09
+update: 2021-04-20
 tags:
   - front-end
   - css
@@ -12,6 +12,8 @@ keywords: css, scss, sass, styled-components, svg, animation
 read: 3m 10s
 cover: ./img/css.png
 ---
+
+
 
 ## 📄 CSS
 
@@ -27,7 +29,9 @@ cover: ./img/css.png
 
 ### [Top 18 CSS Animated Gradient Examples](https://csshint.com/animated-gradient-examples/)
 
-### [background-image에 SVG를 넣어 사용하기](https://zinee-world.tistory.com/520)
+### [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
 
+### [다양한 CSS 예제 모음](https://www.cssscript.com/)
 
+### [탭 모서리를 라운드로 만드는 방법](https://css-tricks.com/better-tabs-with-round-out-borders/)
 

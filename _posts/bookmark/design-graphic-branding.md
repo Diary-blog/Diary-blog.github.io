@@ -1,6 +1,7 @@
 ---
 title: 🧭 Graphic Design, Brand Design
 date: 2020-08-03
+update: 2021-04-20
 tags:
   - design
   - UI
@@ -140,6 +141,12 @@ cover: ./img/gb1.png
 ### [Facebook Birthdays: Way to Reconnect People through Birthdays](https://medium.muz.li/facebook-birthdays-celebrating-more-meaningful-birthdays-48181cc09f2f)
 
 ### [프레젠테이션 문서 디자인 하기 feat. Keynote](https://brunch.co.kr/@sabumbyun/39)
+
+### [시지각 원리와 시각보정](https://drive.google.com/file/d/0B1NGVUYgE7YNS1pHcm91U3dvWWM/view)
+
+### [상업적인 용도로 활용 가능한 저작권 안심글꼴 71종](https://platum.kr/archives/138636)
+
+
 
 <br/>
 <hr>
