@@ -14,7 +14,7 @@ tags:
   - mystory
 keywords: mystory, gatsby, blog, GSAP, Tween, Animation, Javascript, library, html, css, scss
 read: 10m 50s
-cover: ./img/2020tr.png
+cover: ./img/gl1.png
 ---
 
 ## 작업 할 이미지 선정
@@ -48,7 +48,7 @@ script.js
 
 <img alt="html5" width="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
 
-### [1] [HTML](https://github.com/gr-p/interaction/blob/main/ui/12-Glow-light/index.html)
+### [1] [HTML](https://github.com/fe-w/interaction/blob/main/ui/12-Glow-light/index.html)
 
 ```html
 <!-- index.html -->
@@ -79,7 +79,7 @@ script.js
 <img alt="css3" width="40px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="sass" width="40px" src="https://img.icons8.com/color/240/000000/sass.png">
 
-### [2] CSS [(SCSS)](https://github.com/gr-p/interaction/blob/main/ui/12-Glow-light/style.scss)
+### [2] CSS [(SCSS)](https://github.com/fe-w/interaction/blob/main/ui/12-Glow-light/style.scss)
 
 ```css
 /* scss */
@@ -174,7 +174,7 @@ body {
 
 <img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 
-### [3] [JS](https://github.com/gr-p/interaction/blob/main/ui/12-Glow-light/script.js)
+### [3] [JS](https://github.com/fe-w/interaction/blob/main/ui/12-Glow-light/script.js)
 
 ```js
 /* script.js */
@@ -505,10 +505,10 @@ background-image: url(이미지)도 준비 완료!
 ## [5] 전체 코드
 
 - 본문에서 만든 코드 :  
-https://github.com/gr-p/interaction/tree/main/ui/11-20/12-Glow-light
+https://github.com/fe-w/interaction/tree/main/ui/11-20/12-Glow-light
 
 - 더 많은 자료 보기 :  
-https://github.com/gr-p/interaction
+https://github.com/fe-w/interaction
 
 
 ***

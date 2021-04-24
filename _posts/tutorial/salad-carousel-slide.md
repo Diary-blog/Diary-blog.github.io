@@ -13,7 +13,7 @@ tags:
   - mystory
 keywords: mystory, gatsby, blog, Javascript, library, html, css, scss, carousel, slide
 read: 5m 10s
-cover: ./img/sl.png
+cover: ./img/sl1.png
 ---
 
 ![](img/2020-12-21-05-48-56.png)
