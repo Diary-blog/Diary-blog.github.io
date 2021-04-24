@@ -27,7 +27,7 @@ Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니�
 
 <img alt="html5" width="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
 
-### [1] [HTML](https://github.com/gr-p/interaction/blob/main/ui/3-1-Salad/index.html)
+### [1] [HTML](https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/index.html)
 
 ```html
 <!-- index.html -->
@@ -125,7 +125,7 @@ Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니�
 <img alt="css3" width="40px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="sass" width="40px" src="https://img.icons8.com/color/240/000000/sass.png">
 
-### [2] CSS [(SCSS)](https://github.com/gr-p/interaction/blob/main/ui/3-1-Salad/style.scss)
+### [2] CSS [(SCSS)](https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/style.scss)
 
 ```css
 /* style.scss */
@@ -309,7 +309,7 @@ section {
 
 <img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 
-### [3] [JS](https://github.com/gr-p/interaction/blob/main/ui/3-1-Salad/script.js)
+### [3] [JS](https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/script.js)
 
 ```js
 /* script.js */
@@ -425,10 +425,10 @@ ctrl + alt + shift + S 를 눌러서
 ## [4] 전체 코드
 
 - 본문에서 만든 코드 :  
-https://github.com/gr-p/interaction/tree/main/ui/1-10/3-1-Salad
+https://github.com/fe-w/interaction/tree/main/ui/1-10/3-1-Salad
 
 - 더 많은 자료 보기 :  
-https://github.com/gr-p/interaction
+https://github.com/fe-w/interaction
 
 ***
 
@@ -442,7 +442,7 @@ https://github.com/gr-p/interaction
 
 [- Swiper 커버플로우 효과 (Coverflow Effect)](https://ktsmemo.cafe24.com/s/SwiperJS/363)
 
-[- 본문에 사용된 샐러드 이미지 파일](https://github.com/gr-p/interaction/tree/main/ui/3-1-Salad/img)
+[- 본문에 사용된 샐러드 이미지 파일](https://github.com/fe-w/interaction/tree/main/ui/3-1-Salad/img)
 
 [- 1번 샐러드 이미지](https://www.freepik.com/free-photo/top-view-salad-with-feta-cheese-herbs-olives_10413237.htm#position=6)
 
