@@ -197,7 +197,9 @@ cover: ./img/rs3.png
 ### [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects/)
 
 
+### [history를 이용한 뒤로 가기 버튼 구현](https://ljh86029926.gitbook.io/coding-apple-react/3/history-go-and-goback)
 
+### [History.go()](https://developer.mozilla.org/ko/docs/Web/API/History/go)
 
 
 
