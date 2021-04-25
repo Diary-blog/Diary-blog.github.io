@@ -1,5 +1,8 @@
 #layout {
   &.dark {
+    .gatsby-resp-image-image {
+      box-shadow: none!important;
+    }
     /*
       * Based on Plugin: Syntax Highlighter CB
       * Plugin URI: http://wp.tutsplus.com/tutorials/plugins/adding-a-syntax-highlighter-shortcode-using-prism-js
