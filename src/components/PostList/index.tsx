@@ -11,7 +11,7 @@ export interface PostListProps {
 
 const PostList = memo((props: PostListProps) => {
   const { posts } = props;
-  const [showCnt, setShowCnt] = useState(10);
+  const [showCnt, setShowCnt] = useState(20);
 
   const throttleScrollHandler = useCallback(
     throttle(() => {
