@@ -69,7 +69,7 @@ const Search = (props: SearchProps) => {
             </div>
           </div>
 
-          {value !== '' && !filteredPosts.length ? <span className="no-result">No search results</span> : null}
+          {value !== '' && !filteredPosts.length ? <span className="no-result">No search results <br/><br/> "전체검색" 버튼을 꼭 누르셔야 <br/> 전체 결과가 나옵니다. </span> : null}
           <PostList posts={value === '' ? posts : filteredPosts} />
         </div>
       </div>
