@@ -6,12 +6,11 @@ tags:
   - mystory
   - intro
 keywords: Bookmark, intro
-read: 1m 10s
+read: 30s
 cover: ./img/it.png
 ---
 
-
-안녕하세요 😊  
+안녕하세요!  
 
 이곳은 취미로 수집한 url을 저장하는 개인 블로그 입니다.  
 
@@ -19,9 +18,7 @@ cover: ./img/it.png
 
 방문해주셔서 감사합니다.
 
-<br/>
-
-***
+<hr/>
 
 ### 1. 읽었던 링크와 읽기 전 링크를 컬러로 구분
 
@@ -34,7 +31,7 @@ cover: ./img/it.png
 4. 우측에 작은 텍스트(toc)도 링크를 클릭했을때와 클릭하지 않았을때 컬러로 구분 가능합니다.
 ![](./img/bookmark-2.png)
 
-<br>
+<hr/>
 
 ### 2. 주제에 해당하는 링크 설명 및 예제
 
@@ -57,15 +54,10 @@ cover: ./img/it.png
 - [개인 블로그](https://diary-blog.github.io)
 </details>
 
-<br/>
+<hr/>
 
 ### 3. 기타 기능
 
 1. 포스팅 내부 목차 및 이동
-![](./img/bookmark-1.png)
-
 2. 다크모드, 필터, 검색, RSS, TOP, 공유하기(페이스북, 트위터)
-
-<br/>
-
 

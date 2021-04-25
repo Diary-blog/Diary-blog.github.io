@@ -13,6 +13,9 @@ read: 4m 20s
 cover: ./img/fe4.png
 ---
 
+![](img/fe9.png)
+
+
 > 이 글은 Bradfrost 에 있는
 > "front of the front-end
 > and back of the front-end
@@ -20,7 +23,7 @@ cover: ./img/fe4.png
 
 <hr/>
 
-![](img/fe7.png)
+![](img/fe10.png)
 
 계속해서 이어지는 수많은 논란들(..)  
 프론트엔드의 업무 범위는 과연 어디까지일까?  
@@ -154,7 +157,9 @@ UI 컴포넌트 라이브러리 코드에 대한 단위 테스트를 작성합�
 *각 회사의 업무에 따라 Bradfrost 개발자가 작성한 문서와 실제 업무는 차이가 있을 수 있습니다.*
 
 
-### 비슷한 자료들
+<hr/>
+
+## 비슷한 자료들
 
 - [퍼블리셔, 프론트엔드 개발을 시작하다](https://www.slideshare.net/yakuyaku/ss-70154490)
 - [2015년 웹 Front-End 실무 이야기](https://www.slideshare.net/jinkwonlee52/frontend-46605098)

@@ -12,6 +12,10 @@ read: 2m 10s
 cover: ./img/cs1.png
 ---
 
+
+![](img/cs2.png)
+
+
 ## 📍 How to write CSS Code
 
 CSS 설계 방법

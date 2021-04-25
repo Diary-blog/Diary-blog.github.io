@@ -1,5 +1,5 @@
 ---
-title: 🧚 반짝이는 불빛 애니메이션 랜덤 생성 만들기 ✨
+title: ✨ 반짝이는 불빛 애니메이션 랜덤 생성 만들기 
 date: 2020-12-17
 update: 2020-12-18
 tags:
@@ -16,6 +16,8 @@ keywords: mystory, gatsby, blog, GSAP, Tween, Animation, Javascript, library, ht
 read: 10m 50s
 cover: ./img/gl1.png
 ---
+
+![](img/gl2.png)
 
 ## 작업 할 이미지 선정
 
