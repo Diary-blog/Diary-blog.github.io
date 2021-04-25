@@ -1,6 +1,6 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `📙`,
+  title: `🌷`,
   description: `Bookmark`,
   author: `Author`,
   siteUrl: 'https://diary-blog.github.io',
