@@ -1,41 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[📙 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 24 Apr 2021 22:08:09 GMT</lastBuildDate><item><title><![CDATA[🍓 UI, UX, Design Article 자료 번역]]></title><description><![CDATA[안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다. UI, UX, 디자인 해외 아티클 관련 참여 내용을 블로그에 따로 기록해두려 합니다. UX…]]></description><link>https://diary-blog.github.io/uilab/</link><guid isPermaLink="false">https://diary-blog.github.io/uilab/</guid><pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다.&lt;br&gt;
-UI, UX, 디자인 해외 아티클 관련 참여 내용을 블로그에 따로 기록해두려 합니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Apr 2021 17:29:13 GMT</lastBuildDate><item><title><![CDATA[🍓 UI, UX, Design Article 자료 번역]]></title><description><![CDATA[안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다. UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따로 기록해두려 합니다. UX 디자인에서 정량적 연구를 최대한 활용하는 방법 UX…]]></description><link>https://diary-blog.github.io/uilab/</link><guid isPermaLink="false">https://diary-blog.github.io/uilab/</guid><pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bb4f7c650ffb1fe80f97630b9a0841bc/5a190/ui2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABTElEQVQoz2NgwAGerupleL1vDsO3UysZ7s1tZH74fy/DmSOLGS6cmctw4/VBhl8/PjOQBB4ub2d4c3A+w69z6xhuzixnePb/iNyVMytYrl1cwnDvzWEyDFzUzPB/4gaG////M56dX9V0eEvznfvfFyvd/raQ4fL1KYwkG/jm1GbGT2d2Mrw/sUXo/fkd/98cXffl9al5Am+PL2J4dWI56Qa+WL6A4d6ezQxXzh9le71w9tPHfa13my0tmfcVpDPcaW0gzcvvpjaCvMrwf+VCxj+LFjFcaa43OFldrvujqZXhd1sDWO49UA3xBk5pZPgwrRGs6cOUJtb/5+aw/t85jfvDhDrW95Mb4HIkufD9lAaQJq53UxqU3k1t0ng7tVEHyJYDinG+n9pAmoEgxWBNUxr5gFgTaIEyUEz8PYQWhsiTbCAaBgbDOzQxbAAAi9TW8lrQ+HUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ui2&quot;
+        title=&quot;ui2&quot;
+        src=&quot;/static/bb4f7c650ffb1fe80f97630b9a0841bc/5a190/ui2.png&quot;
+        srcset=&quot;/static/bb4f7c650ffb1fe80f97630b9a0841bc/772e8/ui2.png 200w,
+/static/bb4f7c650ffb1fe80f97630b9a0841bc/e17e5/ui2.png 400w,
+/static/bb4f7c650ffb1fe80f97630b9a0841bc/5a190/ui2.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다.&lt;br&gt;
+UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따로 기록해두려 합니다.&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3 id=&quot;ux-디자인에서-정량적-연구를-최대한-활용하는-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%A0%95%EB%9F%89%EC%A0%81-%EC%97%B0%EA%B5%AC%EB%A5%BC-%EC%B5%9C%EB%8C%80%ED%95%9C-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;ux 디자인에서 정량적 연구를 최대한 활용하는 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;UX 디자인에서 정량적 연구를 최대한 활용하는 방법&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
-&lt;p&gt;만약 여러분이 수치와 통계에 익숙하지 않다면&lt;br&gt;
-그것은 심오한 깊은 바다처럼 보일 수 있습니다.&lt;/p&gt;
-&lt;p&gt;여러분의 디자인으로 더 나은 곳으로 이동하기 위해&lt;br&gt;
-어떻게 그것들을 사용할 수 있는지&lt;br&gt;
-그리고 여러분의 사용자를 볼 수 있는 가장 좋은 점을 생각해 보세요.&lt;/p&gt;
+&lt;p&gt;UX 디자인에서 정량적 연구를 한다는건&lt;br&gt;
+수치와 통계에 익숙하지 않다면 심오한 내용처럼 보일 수 있습니다.  &lt;/p&gt;
+&lt;p&gt;여러분의 디자인이 더 나아지기 위해서는 어떻게 그것들을 사용할 수 있고,&lt;br&gt;
+사용자를 볼 수 있는지 가장 좋은 점을 생각해 보세요.&lt;/p&gt;
 &lt;p&gt;지난 12개월 동안 숫자와 그래프는 우리 삶의 큰 부분이 되었습니다.&lt;/p&gt;
 &lt;p&gt;여러분의 지역에는 얼마나 많은 코로나19 환자가 있습니까? 백신의 효능은 무엇입니까?&lt;br&gt;
 우리가 &quot;정상&quot;으로 돌아가기 전에 예방접종을 해야 하는 인구는 몇 퍼센트가 있습니까?&lt;/p&gt;
-&lt;p&gt;역학자와 의료 산업의 다른 연구원들은&lt;br&gt;
-오랫동안 질병의 확산, 발생 가능한 원인 및 위험 요인을 식별하기 위해&lt;/p&gt;
-&lt;p&gt;인구로부터 수집된 데이터를 사용해 왔으며, 의료 발전을 위한 대체 치료 과정을 테스트했습니다.&lt;br&gt;
-본문 상단의 이미지는 통계 및 데이터 시각화의 초기 사용법 중 하나를 나타냅니다.&lt;/p&gt;
-&lt;p&gt;플로렌스 나이팅게일은&lt;br&gt;
-병사들의 사망률을 줄이는데 도움이 되는 &apos;병원의 더 나은 위생 상태&apos;를 주장하기 위해&lt;br&gt;
-Rose Diagram이라 불리는 그림을 그렸습니다.&lt;/p&gt;
+&lt;p&gt;역학자와 의료 산업의 다른 연구원들은 오랫동안 질병의 확산, 발생 가능한 원인 및&lt;br&gt;
+위험 요인을 식별하기 위해 인구로부터 수집된 데이터를 사용해 왔으며,&lt;br&gt;
+의료 발전을 위한 대체 치료 과정을 테스트했습니다.  &lt;/p&gt;
+&lt;p&gt;본문 상단의 이미지는 통계 및 데이터 시각화의 초기 사용법 중 하나를 나타냅니다.&lt;/p&gt;
+&lt;p&gt;플로렌스 나이팅게일은  병사들의 사망률을 줄이는데 도움이 되는&lt;br&gt;
+&apos;병원의 더 나은 위생 상태&apos;를 주장하기 위해 Rose Diagram이라 불리는 그림을 그렸습니다.&lt;/p&gt;
 &lt;p&gt;UX 디자이너도 데이터를 활용하여&lt;br&gt;
 사용자 행동을 연구하고, 패턴을 식별하며, 문제를 진단하고,&lt;br&gt;
 대체 솔루션을 테스트하여 최종 사용자의 경험을 개선할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;디지털 애플리케이션으로 시간을 보내는 시간이 늘어남에 따라&lt;br&gt;
 우리 생활의 거의 모든 측면을 윤리적으로, 즉 허가를 받아 추적 할 수 있게 되었습니다.&lt;/p&gt;
-&lt;p&gt;설정을 활성화했거나 특정 애플리케이션을 휴대폰에 설치한 경우&lt;br&gt;
-사용자가 생성할 수 있는 데이터 양, 즉 몇 단계를 수행한 시간,&lt;br&gt;
-화면을 살펴본 시간 및 사용한 앱 등&lt;br&gt;
+&lt;p&gt;설정을 활성화했거나 특정 애플리케이션을 휴대폰에 설치한 경우, 사용자가 생성할 수 있는&lt;br&gt;
+데이터 양, 즉 몇 단계를 수행한 시간, 화면을 살펴본 시간 및 사용한 앱 등&lt;br&gt;
 하루 중 대부분을 사용한 애플리케이션 등을 이미 알고 있습니다.&lt;/p&gt;
-&lt;p&gt;데이터는 어디에나 있습니다.&lt;br&gt;
-데이터 작업을 막 시작한 경우 특히 Google Analytics를 처음 열면 복잡해 보일 수 있습니다.&lt;/p&gt;
+&lt;p&gt;데이터는 어디에나 있습니다. 데이터 작업을 막 시작한 경우&lt;br&gt;
+Google Analytics를 처음 열면 복잡해 보일 수 있습니다.&lt;/p&gt;
 &lt;p&gt;인앱 분석은 하나의 데이터 소스일 뿐입니다.&lt;br&gt;
 디자인 프로세스에 도움이 되는 다양한 정량적 연구 방법을 마음대로 사용할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;정량적 연구란 무엇이며&lt;br&gt;
-어떻게 하면 더 나은 디자인에 도움이 될 수 있을까요?&lt;/p&gt;
+&lt;p&gt;정량적 연구란 무엇이며, 어떻게 하면 더 나은 디자인에 도움이 될 수 있을까요?&lt;/p&gt;
 &lt;p&gt;정량적 연구는 연구자들이 사람들의 태도와 행동에 대한 이론을&lt;br&gt;
 수치와 통계적 증거를 기반으로 사람들의 태도와 행동에 대한&lt;br&gt;
-이론을 탐색하고 테스트하는데 사용하는 방법론입니다.&lt;/p&gt;
+이론을 탐색하고 테스트하는데 사용하는 방법론 입니다.&lt;/p&gt;
 &lt;p&gt;인터뷰와 같은 UX 연구 방법을 사용하면 5-10명의 참가자와 각각 몇 분씩 대화를 나눈 다음&lt;br&gt;
 데이터를 분석하는데 더 많은 시간을 할애할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;정량적 조사를 통해 최대 30명의 참가자로 시작하여&lt;br&gt;
@@ -46,7 +71,7 @@ Rose Diagram이라 불리는 그림을 그렸습니다.&lt;/p&gt;
 &lt;p&gt;설문 조사, 트리 테스트, 첫 클릭 테스트 및 A/B 테스트는&lt;br&gt;
 설계 프로세스에 정보를 제공하기 위해&lt;br&gt;
 구체적인 수치적 통찰력을 얻을 수 있는 정량적 연구 기술 중 일부입니다.&lt;/p&gt;
-&lt;p&gt;다음과 같은 작업을 수행하여 사용자 행동을 분석하여 개선의 기회를 식별합니다.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;다음과 같은 작업을 수행하여 사용자 행동을 분석하여 개선의 기회를 식별합니다.&lt;/u&gt;&lt;/p&gt;
 &lt;p&gt;예제)&lt;/p&gt;
 &lt;p&gt;1.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -91,11 +116,12 @@ Rose Diagram이라 불리는 그림을 그렸습니다.&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3 id=&quot;접근성을-고려한-디자인&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EB%94%94%EC%9E%90%EC%9D%B8&quot; aria-label=&quot;접근성을 고려한 디자인 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;접근성을 고려한 디자인&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
-&lt;p&gt;1.
-포괄적인 웹 사이트 경험을 만들기위한 7가지 팁&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;u&gt;포괄적인 웹 사이트 경험을 만들기위한 7가지 팁&lt;/u&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;디지털 환경을 위한 설계에서 접근성은 점점 중요해지고 있습니다.&lt;br&gt;
-웹 사이트가 접근성 기준에 맞지 않으면 기업이 소송을 제기할 수 있다는 사실을 알고 계셨습니까?&lt;/p&gt;
-&lt;p&gt;만약 여러분이 디자인을 처음 접했다면, 여러분이 상상할 수 있는 어떤 곳에서든&lt;br&gt;
+웹 사이트가 접근성 기준에 맞지 않으면 기업이 소송을 제기할 수 있다는 사실을 알고 계셨습니까.&lt;/p&gt;
+&lt;p&gt;만약 디자인을 처음 접했다면, 여러분이 상상할 수 있는 어떤 곳에서든&lt;br&gt;
 웹사이트를 디자인하고 만들 수 있다고 생각할지도 모릅니다.&lt;/p&gt;
 &lt;p&gt;기술적으로는 그렇습니다만, 사용자 경험처럼 고려해야 할 중요한 요소가 있습니다.&lt;br&gt;
 가장 중요한 것은 접근성을 염두에 두고 설계하는것 입니다.&lt;/p&gt;
@@ -103,8 +129,10 @@ Rose Diagram이라 불리는 그림을 그렸습니다.&lt;/p&gt;
 이 문서에서는 웹 접근성이 무엇인지와&lt;br&gt;
 ADA 준수 규칙을 따르고 있는지 확인하는데 도움이 되는 몇 가지 유용한 도구와&lt;br&gt;
 처음부터 접근성을 염두에두고 디자인하는 방법에 대해 자세히 알아보겠습니다.&lt;/p&gt;
-&lt;p&gt;2.
-웹 접근성이란 무엇입니까?&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;u&gt;웹 접근성이란 무엇입니까?&lt;/u&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;웹 접근성이란(Web accessibility) 시각, 운동, 청각, 언어 또는 인지 장애가있는 개인을 포함하여&lt;br&gt;
 다양한 사람들이 사용할 수있는 웹 사이트, 도구 및 기술을 설계하고 개발하는 것을 말합니다.&lt;/p&gt;
 &lt;p&gt;특히, 이는 사람들이 장애와 상관없이 웹 사이트를 이해하고 탐색하고&lt;br&gt;
@@ -126,7 +154,7 @@ ADA 준수 규칙을 따르고 있는지 확인하는데 도움이 되는 몇 �
 &lt;p&gt;우리가 더 나은 접근성을 위해 웹 사이트를 디자인하면&lt;br&gt;
 전 세계 모든 사람이 우리 사이트에서 공유하는 정보에 더 쉽게 접근 할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;3.
-ADA 란 무엇입니까?&lt;/p&gt;
+&lt;u&gt;ADA 란 무엇입니까?&lt;/u&gt;&lt;/p&gt;
 &lt;p&gt;ADA는 미국 장애인 법 (Americans with Disabilities Act)을 의미합니다.&lt;br&gt;
 웹 접근성과 관련하여 ADA의 가장 관련성이 높은 섹션은 Title II 및 Title III입니다.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -146,7 +174,7 @@ ADA 란 무엇입니까?&lt;/p&gt;
 웹 사이트와 앱은 종종 비즈니스의 일부로 간주되기 때문에&lt;br&gt;
 비즈니스 웹 사이트가 접근성을 통과하지 못하면 소송이 발생할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;4.
-웹 사이트를 어떻게 접근 가능하게 만드나요?&lt;/p&gt;
+&lt;u&gt;웹 사이트를 어떻게 접근 가능하게 만드나요?&lt;/u&gt;&lt;/p&gt;
 &lt;p&gt;ADA 웹 사이트 준수는 기본적으로 웹 사이트가 WCAG 2.1 AA 표준을 준수하는지 확인하는 것입니다.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
@@ -249,9 +277,8 @@ ADA 란 무엇입니까?&lt;/p&gt;
 사람들이 Excel, Google Sheets에서 만드는 모든 &quot;대시 보드&quot;를 생각해보십시오.&lt;br&gt;
 하나의 큰 테이블입니다. 테이블은 모든 제품 또는 플랫폼에서 매우 중요한 부분입니다.&lt;br&gt;
 그러나 모든 테이블이 동일하게 생성되는 것은 아닙니다.  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;좋은 테이블(표)를 사용하면 정보를 쉽게 정렬하고 요약 할 수 있습니다.  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;1.
+&lt;u&gt;좋은 테이블(표)를 사용하면 정보를 쉽게 정렬하고 요약 할 수 있습니다.&lt;/u&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;1-1 가장 중요한 작업은&lt;br&gt;
 쉽게 액세스 할 수 있지만 화면을 복잡하게 만들지 않는 작업입니다.&lt;br&gt;
@@ -265,16 +292,14 @@ ADA 란 무엇입니까?&lt;/p&gt;
 아무도 나쁜 테이블을 설계하려고하지 않았습니다만
 제작 과정에서 너무 많은 절충안이 만들어졌고, 상호 작용이 간과되었습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;먼저, 잠재적인 &apos;문제&apos;를 식별하는 방법은  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;2.
+&lt;u&gt;먼저, 잠재적인 &apos;문제&apos;를 식별하는 방법은&lt;/u&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2-1 제품 소유자 또는 주요 이해 관계자와 함께 자리를 잡고&lt;br&gt;
 2-2 테이블 사용과 관련된 요구 사항과 컨텍스트를 파악하는 것입니다.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol start=&quot;3&quot;&gt;
-&lt;li&gt;작업중인 테이블에 대해 답변 할 수있는 몇 가지 주요 질문은 다음과 같습니다.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;3.
+&lt;u&gt;작업중인 테이블에 대해 답변 할 수있는 몇 가지 주요 질문은 다음과 같습니다.&lt;/u&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;3-1 우리는 어떤 유형의 데이터를 다루고 있습니까?&lt;br&gt;
 정보가 날짜 및 금액과 같은 짧은 숫자 문자열과 텍스트, 링크 및 파일의 단락과 같은&lt;br&gt;
@@ -297,9 +322,8 @@ ADA 란 무엇입니까?&lt;/p&gt;
 결국에는 어떤 디자인, 스타일 및 상호 작용을 선택해야하는지 결정하고&lt;br&gt;
 훨씬 쉽게 디자인 결정을 내릴 수있는 허용 기준이 있습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol start=&quot;4&quot;&gt;
-&lt;li&gt;다섯가지 모범 사례&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;4.
+&lt;u&gt;다섯가지 모범 사례&lt;/u&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;저는 디자이너로 일하면서 많은 테이블을 디자인했으며&lt;br&gt;
 저와 제가 함께 작업하는 개발자에게&lt;br&gt;
@@ -339,9 +363,38 @@ ADA 란 무엇입니까?&lt;/p&gt;
 
 &lt;/details&gt;
 
-&lt;hr/&gt; --&gt;</content:encoded></item><item><title><![CDATA[🌸 Mindset 마인드셋]]></title><description><![CDATA[…]]></description><link>https://diary-blog.github.io/mindset/</link><guid isPermaLink="false">https://diary-blog.github.io/mindset/</guid><pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;안녕하세요! 에세이 카테고리를 하나 추가하였습니다.&lt;br&gt;
-제가 느낀 감정들과 마인드셋을 주변에 저와 가까운 지인분들에게만 공유했었는데요.&lt;br&gt;
-많은 분들에게도 저의 마인드셋이 도움이 되길 바라며 기록해두려 합니다.&lt;/p&gt;
+&lt;hr/&gt; --&gt;</content:encoded></item><item><title><![CDATA[🌸 Essay]]></title><description><![CDATA[…]]></description><link>https://diary-blog.github.io/essay/</link><guid isPermaLink="false">https://diary-blog.github.io/essay/</guid><pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/423b0eeba7223a6dff138fdd3d866805/5a190/es2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOUlEQVQoz2NgwAFeLT3C8GndAYb/j9sZXiw+yvxsyQmm58tPMbxYeYrhyfwjDCSDNyuPMXzfeZTh/+29QAOPMTxdfILh8cqzjE9Wn2P4XLeGHAOPM/zce4rh/4fTjEAD/Z8sPG77eOUZhqerzzK+ip9JuoFPZ+8B0////Wd4teLorVfrzxz9v/0Yw/8dhxierj9PuoF74+oY3iw6wPR69k6GW82Lyu4uOfbz6tYbJte2Xme4sfY8E8kG7okqZ1hpl8Gw1CSR4f///wwn+/eIX9p6h/nixusMJ2YfJ92Fm/ySGDb6JDNs8Epi2hKYLDJLUIjtyq6HDFd33QdbQDLY4B0PNCyOYb1XLONGnwSVTX7J6tsTyhm3hOcybA5KJ91AoCEYeAMUbwRaRroL4QbEgwxjhGKIwXgMBAAMGZ62UZhdzQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;es2&quot;
+        title=&quot;es2&quot;
+        src=&quot;/static/423b0eeba7223a6dff138fdd3d866805/5a190/es2.png&quot;
+        srcset=&quot;/static/423b0eeba7223a6dff138fdd3d866805/772e8/es2.png 200w,
+/static/423b0eeba7223a6dff138fdd3d866805/e17e5/es2.png 400w,
+/static/423b0eeba7223a6dff138fdd3d866805/5a190/es2.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요! 에세이 카테고리를 하나 추가하였습니다.  &lt;/p&gt;
+&lt;p&gt;제가 살아가면서 느낀 감정들과 깨달은 내용 등 을 주변에 저와 가까운 지인분들에게만 공유했었는데요.&lt;br&gt;
+저의 이야기를 다듬고 블로그에 오픈하여 다른 분들에게도 작은 도움이 되길 바라며 기록해두려 합니다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;-마인드셋-목록&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B-%EB%AA%A9%EB%A1%9D&quot; aria-label=&quot; 마인드셋 목록 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 마인드셋 목록&lt;/h2&gt;
 &lt;ul&gt;
@@ -349,81 +402,108 @@ ADA 란 무엇입니까?&lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;#%EC%86%8C%EC%8B%9C%EC%98%A4%ED%8C%A8%EC%8A%A4%EC%97%90%EA%B2%8C-%EB%8B%B9%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C&quot;&gt;소시오패스에게 당하지 않으려면 어떻게 해야할까&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;br/&gt;
 &lt;h3 id=&quot;마음이-다쳤을때는-어떻게-해야할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A7%88%EC%9D%8C%EC%9D%B4-%EB%8B%A4%EC%B3%A4%EC%9D%84%EB%95%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;마음이 다쳤을때는 어떻게 해야할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;마음이 다쳤을때는 어떻게 해야할까?&lt;/h3&gt;
-&lt;p&gt;주변 분들에게 가끔&lt;br&gt;
-제가 정말 누구보다도 열심히 살고&lt;br&gt;
-다양한 분야에 공부도 많이하는거 같다는 얘기를 종종 듣습니다.&lt;/p&gt;
-&lt;p&gt;정작 저는&lt;br&gt;
-&apos;내가 그정도 노력하고있나&apos; 라는 생각이 들정도로&lt;br&gt;
-그냥 일상적인 삶의 일부분이 되어버린듯 합니다. &lt;/p&gt;
-&lt;p&gt;제 주변에 계신 분들은&lt;br&gt;
-이미 저보다 더 실력도 월등하고&lt;br&gt;
-하루에 몇백 몇천씩 훨씬 잘벌며&lt;br&gt;
-처세나 배울점이 가득한 분들이 실제로 많이 계십니다.&lt;/p&gt;
-&lt;p&gt;그분들은 매일매일 수년동안 잠도 줄이며 계속 공부하고&lt;br&gt;
-일하고, 시도하고, 실패하는것이 일상 입니다.&lt;/p&gt;
-&lt;p&gt;그런 분들은 혼자만 열심히 하지 않고&lt;br&gt;
-다른 사람을 위해 지식을 나누거나&lt;br&gt;
-도움을주는 분들이 많이 계십니다.&lt;/p&gt;
-&lt;p&gt;저는 이런 제주변 분들에게 좋은 영향을 계속 받는것 같아서&lt;br&gt;
-주변분들에게 감사함을 느낍니다. &lt;/p&gt;
-&lt;p&gt;그런 분들에게 받은 영향이 저를 움직일수 있게 하고&lt;br&gt;
-저또한 다른사람에게 도움을 줄수있게 되는것 같습니다.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;주변 분들에게 가끔 제가 정말 누구보다도 열심히 살고&lt;br&gt;
+다양한 분야에 공부도 많이 하는 거 같다는 얘기를 종종 듣습니다.&lt;/p&gt;
+&lt;p&gt;정작 저는 &apos;내가 그 정도 노력하고 있나&apos; 라는 생각이 들 정도로&lt;br&gt;
+그냥 일상적인 삶의 일부분이 되어버린 듯 합니다. &lt;/p&gt;
+&lt;p&gt;제 주변에 계신 분들은 이미 저보다 더 실력도 월등하고&lt;br&gt;
+하루에 몇백 몇천씩 훨씬 잘 벌며 처세나 배울 점이 가득한 분들이 실제로 많이 계십니다.&lt;/p&gt;
+&lt;p&gt;그분들은 매일매일 수년 동안 잠도 줄이며 계속 공부합니다.&lt;br&gt;
+그리고 일하고, 시도하고, 실패하는 것이 일상입니다.&lt;/p&gt;
+&lt;p&gt;그런 분들은 혼자만 열심히 하지 않고 다른 사람을 위해&lt;br&gt;
+지식을 나누거나 도움을 주는 분들이 많이 계십니다.&lt;/p&gt;
+&lt;p&gt;저는 이런 제 주변 분들에게 좋은 영향을 계속 받는 것 같아서&lt;br&gt;
+주변 분들에게 감사함을 느낍니다. &lt;/p&gt;
+&lt;p&gt;그런 분들에게 받은 영향이 저를 움직일 수 있게 하고&lt;br&gt;
+저 또한 다른 사람에게 도움을 줄 수 있게 되는 것 같습니다.&lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;사람에게 마음을 다쳤거나 일상이 지칠수록&lt;br&gt;
 내가 좋아하는 작은 것들을 생각하고&lt;/p&gt;
 &lt;p&gt;주변에 나에게 좋은 영향을 갖게해주시는 분들에게 집중하는 것이&lt;br&gt;
-내 자신을 더 사랑해주고 아껴줄수 있는게 아닐까 생각합니다. &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://namu.wiki/w/%EC%B0%A9%ED%95%9C%EC%82%AC%EB%9E%8C%20%EC%A6%9D%ED%9B%84%EA%B5%B0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;착한아이 콤플렉스&lt;/a&gt;를 가진사람이&lt;br&gt;
+나 자신을 더 사랑해주고 아껴줄 수 있는 게 아닐까 생각합니다. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://namu.wiki/w/%EC%B0%A9%ED%95%9C%EC%82%AC%EB%9E%8C%20%EC%A6%9D%ED%9B%84%EA%B5%B0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;착한아이 콤플렉스&lt;/a&gt;를 가진 사람이&lt;br&gt;
 소시오패스를 만나거나 불합리적인 사회를 겪으면  &lt;/p&gt;
-&lt;p&gt;마음이 많이 지치고 힘들어지고&lt;br&gt;
-분노와 슬픔이라는 감정에 집중하게 되는데&lt;/p&gt;
-&lt;p&gt;그럴수록 스스로에게 질문하고&lt;br&gt;
-나 자신에 집중하며 목표를 다잡는게 중요합니다. &lt;/p&gt;
+&lt;p&gt;마음이 많이 지치고 힘들어지고 분노와 슬픔이라는 감정에 집중하게 되는데&lt;br&gt;
+그럴수록 스스로에게 질문하고, 나 자신에 집중하며 목표를 다잡는 게 중요합니다. &lt;/p&gt;
 &lt;br/&gt;
-&lt;p&gt;난 왜 이 일을 하는가? 이 일을 했을때 내가 불행해지지는 않는가?&lt;br&gt;
-난 왜 여기서 일하는가? 내가 이곳에서 하고자 하는게 뭔가?&lt;br&gt;
-내가 더 잘하려면 무엇을 해야할까?&lt;/p&gt;
-&lt;p&gt;내 감정이 슬프거나 분노하게되면 난 어떻게 해야하지?&lt;br&gt;
-내가 지금 다른사람에게 감정을 낭비하는것이 나에게 도움이 되는 것인가?&lt;br&gt;
-나에게 좋은 영향력을 주는 분들을 만나려면 무엇을 어떻게 해야할까? &lt;/p&gt;
+&lt;p&gt;난 왜 이 일을 하는가? 이 일을 했을 때 내가 불행해지지는 않는가?&lt;br&gt;
+난 왜 여기서 일하는가? 내가 이곳에서 하고자 하는 게 뭔가?&lt;br&gt;
+내가 더 잘하려면 무엇을 해야 할까?&lt;/p&gt;
+&lt;p&gt;내 감정이 슬프거나 분노하게 되면 난 어떻게 해야 하지?&lt;br&gt;
+내가 지금 다른 사람에게 감정을 낭비하는 것이 나에게 도움이 되는 것인가?&lt;br&gt;
+나에게 좋은 영향을 주는 분들을 만나려면 무엇을 어떻게 해야 할까? &lt;/p&gt;
 &lt;p&gt;내가 지금 보고, 듣고, 생각하는 것들이&lt;br&gt;
-내가보지못한 것들에 비해 작은 일부분에 불과한게 아닐까? &lt;/p&gt;
-&lt;p&gt;내가 움직이려면 무엇부터 해야할까?&lt;/p&gt;
+내가 보지 못한 것들에 비해 작은 일부분에 불과한 게 아닐까? &lt;/p&gt;
+&lt;p&gt;내가 움직이려면 무엇부터 해야 할까?&lt;/p&gt;
+&lt;/details&gt;
 &lt;hr/&gt;
 &lt;h3 id=&quot;소시오패스에게-당하지-않으려면-어떻게-해야할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%86%8C%EC%8B%9C%EC%98%A4%ED%8C%A8%EC%8A%A4%EC%97%90%EA%B2%8C-%EB%8B%B9%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;소시오패스에게 당하지 않으려면 어떻게 해야할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;소시오패스에게 당하지 않으려면 어떻게 해야할까&lt;/h3&gt;
-&lt;p&gt;소시오패스란 길게 정의할것 없이&lt;br&gt;
-상대방을 위하는척 하지만 자신의 이익을 위해 상대방을 이용하는 사람입니다.  &lt;/p&gt;
-&lt;p&gt;특히 아래와 같이 본인이 없으면 상대방을 아무것도 못하게 만들고&lt;br&gt;
-무기력하게 만드는 사람을 소시오패스라고 생각합니다.  &lt;/p&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;소시오패스란 길게 정의할 것 없이&lt;br&gt;
+상대방을 위하는 척 하지만 자신의 이익을 위해 상대방을 이용하는 사람입니다.  &lt;/p&gt;
+&lt;p&gt;특히 아래와 같이 본인이 없으면 상대방을 아무것도 못 하게 만들고&lt;br&gt;
+무기력하게 만드는 사람을 소시오패스라고 생각합니다.&lt;br&gt;
+소시오패스는 본인이 그런 사람이라는걸 모릅니다.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://ko.wikihow.com/%EC%86%8C%EC%8B%9C%EC%98%A4%ED%8C%A8%EC%8A%A4-%EA%B5%AC%EB%B3%84%EB%B0%A9%EB%B2%95&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;소시오패스 징후 알아채기, 달아나기&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;소시오패스는 사람들을 만나고 빨리 가까워지고 싶어한다. 그렇기 때문에 당신에게 뒷걸음치거나 마음을 고쳐먹을 기회가 별로 없을 것이다. 몇 주 안된 사이임에도 불구하고 당신에게 열과 성을 다하는 모습을 보게 될 것이다. 또, 당신은 그들을 소울메이트라고 여길 수도 있다. 그들은 사람의 마음을 잘 읽고 당신이 듣고 싶어 하는 말만 하기 때문이다. 소시오패스는 당신이 누군가와 가까이 지내고 싶은 욕구나 소망을 가지고 있다는 사실을 알게 되면 좋은 기회로 여겨 그 욕구나 소망에 꼭 맞는 가면을 쓸 것이다. 결국에는 당신을 세상과 ‘공유’하지 않고 독점하고 싶어할 것이다&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;소시오패스는 본인이 그런사람이라는걸 모릅니다.&lt;/p&gt;
-&lt;p&gt;이런 사람들의 특징중에 하나는&lt;br&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&quot; 소시오패스는 사람들을 만나고 빨리 가까워지고 싶어한다. 그렇기 때문에 당신에게 뒷걸음치거나 마음을 고쳐먹을 기회가 별로 없을 것이다. 몇 주 안된 사이임에도 불구하고 당신에게 열과 성을 다하는 모습을 보게 될 것이다. 또, 당신은 그들을 소울메이트라고 여길 수도 있다. 그들은 사람의 마음을 잘 읽고 당신이 듣고 싶어 하는 말만 하기 때문이다. 소시오패스는 당신이 누군가와 가까이 지내고 싶은 욕구나 소망을 가지고 있다는 사실을 알게 되면 좋은 기회로 여겨 그 욕구나 소망에 꼭 맞는 가면을 쓸 것이다. 결국에는 당신을 세상과 ‘공유’하지 않고 독점하고 싶어할 것이다. &quot;
+&lt;/details&gt;
+&lt;p&gt;이런 사람들의 특징 중에 하나는&lt;br&gt;
 동물적인 감각이 뛰어나고 서열을 우선시합니다.&lt;/p&gt;
-&lt;p&gt;또한 상대방이 듣기좋은 입바른 말을 잘해서&lt;br&gt;
-대인관계가 좋아보이고 정치를 굉장히 잘합니다.&lt;/p&gt;
-&lt;p&gt;소시오패스나 사기꾼이 아주 좋아하는 유형은&lt;br&gt;
-착한아이 콤플렉스를 가진 사람들입니다.&lt;br&gt;
-사람들에게 나쁜소리를 못하고&lt;br&gt;
-다른사람을 많이 생각하기 때문입니다.&lt;/p&gt;
-&lt;p&gt;그럼 소시오패스에게 이용당하지 않으려면&lt;br&gt;
-스스로 일어서려면 무엇을 해야할까요?&lt;/p&gt;
-&lt;p&gt;다른 사람이 자꾸 나를 마이크로하게 컨트롤 하려 한다면&lt;br&gt;
-싫다는 표현을 하고, 거부하시면 됩니다&lt;/p&gt;
-&lt;p&gt;내자신에게 집중하고, 내가 좋아하는것에 집중하고&lt;br&gt;
-내가 어떤 감정이 드는지 자신을 살피는 시간을 가지는 것이 필요합니다.&lt;/p&gt;
-&lt;p&gt;내가 원하지 않으면 다른사람에게&lt;br&gt;
-나의 시간을 내어주지 않는것이 제일 중요하다고 생각합니다.&lt;/p&gt;
-&lt;p&gt;현재 내가 집중하는것이&lt;br&gt;
+&lt;p&gt;또한 상대방이 듣기 좋은 입바른 말을 잘해서&lt;br&gt;
+대인관계가 좋아 보이고 정치를 굉장히 잘합니다.&lt;/p&gt;
+&lt;p&gt;소시오패스나 사기꾼이 아주 좋아하는 유형은 착한 아이 콤플렉스를 가진 사람들입니다.&lt;br&gt;
+사람들에게 나쁜 소리를 못하고 다른 사람을 많이 생각하기 때문입니다.&lt;br&gt;
+그럼 소시오패스에게 이용당하지 않으려면 스스로 일어서려면 무엇을 해야 할까요.&lt;/p&gt;
+&lt;p&gt;다른 사람이 자꾸 나를 마이크로 하게 컨트롤하려 한다면 싫다는 표현을 하고, 거부하시면 됩니다.&lt;br&gt;
+나 자신에게 집중하고, 내가 좋아하는 것에 집중하고&lt;br&gt;
+내가 어떤 감정이 드는지 자신을 살피는 시간을 가지는 것이 필요합니다.&lt;br&gt;
+내가 원하지 않으면 다른 사람에게 나의 시간을 내어주지 않는것이 제일 중요하다고 생각합니다.&lt;/p&gt;
+&lt;p&gt;현재 내가 집중하는 것이&lt;br&gt;
 사람인지 일인지 취미인지 공부인지 등등 무엇인지에 따라&lt;br&gt;
-사람에게 이용당하거나 사기당할 확률이 높아지거나 낮아질수 있습니다.&lt;/p&gt;
+사람에게 이용당하거나 사기당할 확률이 높아지거나 낮아질 수 있습니다.&lt;/p&gt;
+&lt;/details&gt;
 &lt;hr/&gt;
-&lt;h3 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[🌿 Front-end developer's work (프론트엔드의 업무 범위는 어디까지인가)]]></title><description><![CDATA[이 글은 Bradfrost 에 있는
+&lt;h3 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;🌸&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;제가 곧은 마음과 올바른 방향으로 생각을 가질 수 있도록&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;항상 도와주시는 Dave 님께 감사를 표합니다.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[🌿 Front-end developer's work (프론트엔드의 업무 범위는 어디까지인가)]]></title><description><![CDATA[이 글은 Bradfrost 에 있는
 "front of the front-end
 and back of the front-end
-web development…]]></description><link>https://diary-blog.github.io/fe-work/</link><guid isPermaLink="false">https://diary-blog.github.io/fe-work/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+web development…]]></description><link>https://diary-blog.github.io/fe-work/</link><guid isPermaLink="false">https://diary-blog.github.io/fe-work/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/da037a11ae3bb26dcdd932495cccba4c/5a190/fe9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABbklEQVQoz2NgwAJWLYli2L61kmHz5lKGrdsqGBd2BTNuPZzDcPBEDsO+ozkMu4/lMJAE/v//z7B1Sx3QwGrGLVtqGNqbghkOHM/j33c4i2nv4WyGA8dySTdw3YZSxjXL6hg2rK0Tnbskpnb1rtSOr/8PMJ170suw8SCJBp49OJ3h1vGZLLeOz2e4eXJh7eXN+f9PHcl4uvpArcKqA5UMOw8UMpJk4NPDsxlO7c1m3H2khmHn8Sb552sCDz3ZFrSL4cN/htQj/QyXd8Yy3OzVJs4wkMK7wEi5cLGN4dy6aMbz6+NAwoyzQlk4z852ZDi91BcUJmB1N4gx9GaPFlCxDsPdGhGGG9MtGW5MNua90mfIdXayGcvNPh3eW5MMGG52aQAN0yLOlSBFYAw2WJv/Ro+WKZC2BmININscSAsAaYYbPUS7UBtuO1CjIJCWANLiQMwDZAsDaQGYpSBDiXch1FCIaxF8kOtArgdZis2FALUiv01U+elaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fe9&quot;
+        title=&quot;fe9&quot;
+        src=&quot;/static/da037a11ae3bb26dcdd932495cccba4c/5a190/fe9.png&quot;
+        srcset=&quot;/static/da037a11ae3bb26dcdd932495cccba4c/772e8/fe9.png 200w,
+/static/da037a11ae3bb26dcdd932495cccba4c/e17e5/fe9.png 400w,
+/static/da037a11ae3bb26dcdd932495cccba4c/5a190/fe9.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;이 글은 Bradfrost 에 있는
 &quot;front of the front-end
 and back of the front-end
@@ -436,25 +516,24 @@ web development&quot; 를 번역한 글 입니다. &lt;a href=&quot;https://brad
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cfdd638d9841ff285d0395f7a00b3f60/2d2d6/fe7.png&quot;
+    href=&quot;/static/713138d894818984c10aa87a885a6ad9/47aef/fe10.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 88.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADVklEQVQ4yxVT2ZKqShDk/7/pzBxFURFFAWl2EGSTrTfobhjvictEZNRTRmRVZaZU1iIthBvPIJrzahnQDyVLWv2c7M8JrHM5gc/B/uzBsrOXrb38tedvMP9xxZcnpOwlHoBpx+GZ4byC1btrexQVSPeHq0OuNjupvXpGN4O6TxjmMMixnyPwInIgpDCak5ieD47tAi/yLMcCgXewvNPDvfmpn5IkLbO86XoCMS26uRlE1Ym0EbtQSIbFGBeIwq7vu36ACA8QYoIRQv2ArIgbITND6iXEjsYTEHYs3Ew4uQCFkG7WtPIIheOICUVcjEJMK/79J9L3v6vDLAs+zN6xew8g54GynPkRtx2eV0I6G8QKoBV0djCAAIbp+KyXqFyi4ufqLbongpykFe76dSNR1cL1ubKftDMLAi7pgJwvzVFp5a/ucnnfjUY3Wt16O3FjxPPJ5LpOtQt+ZaJp51cxPxwhb/lZZc+ES3cPp6+8LOsiheULFtlQZqiu6ICpmcyPmFdvHBcrh4Q+db1Jv42nAzbu5K5zSfPQI4FeBpMaxxUJC+xm8BLwjbXI9hyXU1FWPaRdx7KE5SnLYpa/prKcjgqTNBfZcQWiMswaJ67CrH2WNC5IVOB7wl+NKBtSVCQvxjSnD8C1Czse2Ob7F5IJpighZjBYEbafyH7ioJz98tdJLxf+i9dvmGXQ9ZBhYt2a3JB7HltvPuyZ5Ic8raluIfWCD2d00IhyRjLgSS2KNbnllCRv/dhelFY/17dz80zr8AnVG7tcmeSE3Ihg0U5p/dl5ixLMe2/eebzoRNaIOGeOiS5Kb+jYsulFp7aPLH/S1thaTApjEYb9w29v7tsMeu+Jo4rA6dOgWYsnJx3jpE9iGIYDcCEIiAamh8/UO/telf14MkGuGPnRzJ2geb76sm5HgouGKeYYF7xDfd01hI6I/Ma7g9yPmXxlf/T12xY1gjHKp0c2XWK28/k14kHGwHM0fZq9WVPRxMdZjPuBLj+fZVksj2009nVn0tEkqteuPsluswPVwWu/Hp1s90er8v3OBGsl8XZLZAXtVHTSJvU+ane2v7JvjUlfR7T2FpRc9oXsz1t/3hhCs4Wms60yKeovNvtRVunmSL/l8e9+2qpsozL5yP4HRsu3rA/JkwgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 88.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE4UlEQVQ4y22TW2wUVRjHT7eAyC0BAiaiCbFg5IE2vggvEGNURKNGMcEXE0k1tlAlxkitVYwIiRgD4ZKYeCMkGiBGSDBcrFwtlN6X7vay9+7Ozpwz5zK33bnu7O7xbHn14Zczk5n5z/f/vu8POPdAWM03cZ6McM7/F0swWdnWRDiIXIyCyPxlIAIAiGxt3dr82rOvNG/f/EJz17udzb+dvwaAYcSAAvtWKujvPUQtfoAR7SgWpA6McAeezXXIyUSnOhtv1/XJLQWpr0uB1/YQOrhHLuS7kIJ6MFI/V6H6hUbZJ6ZVXgrWPwZAycK9qWQ/T81M80wiw6djUzw9k+TZ0RGeGrzLC7FxrhHlpFRIcUXO1k2TcMu0PNdxLwn+cBznojh/t21nBXDt8uogqEBGjIqoyiYqcTWmNXB0zXAo1RxNM1zDsHZgFb9eLBR3CgdvE6zsEO0AYcCB6zgg8ANQqYQA+J67qmyVgrJlcce2uV22ueu6D3AcHvi++I4fZiyxCZOxSxiPnEPq8BmI7hyGaOAnyu5vT6ROAc9l82v1OgDi5YUq1HZnklJPLg335bNyN1FZt+dWul3X/9T3/K/8wH+KEq1Fo+bPgmMYkSOGgdfX6nSpaUkPYxxtEi2IlG0TgHIZLy4Wb76voKsfyejPrlzuXlc+F+vKZcfEGd8rS8Vey3Q2aPrEWoRv70PqzW7NGHqOshGgG6OAsH6gqiOAYh04TkOwpD0izWZcRc5wyqY5wQlOSIpT2iBb1ZjOPdfbBWF8JYTTuyGceo/g1JuE9rcKsTbKbm2k9P5GXbM2Oo61QDQ1WGTopb0Ysv2M2L2G7vRipPdgVT/ouHxtcjoJxKBEBWzLbCZ/S1j+yzL1PtNK/2tZ2XHLykyYZnHCNKxx2y49DiqBt0yR5ENicseQIh/JZ3NHFVk+qjN2lFF6hKj4R1HlMyXTeBQqsBPKaJepl9pNvfKO6P9ygQgFn9eYhefVm0CtVl1CCDsg5eXjShEdlwvKCaTgE0FQPSGsnhTTPu047maN0jXFQuFjKZ/uUFGhU5GT7VPTF1bufGlTc3R4aNncCoU10UMTL9EQ/lqRhr5VyY3PFHijB6Ib3RDdPlCQr6z2PBM4dhXYJf95osJ+FQ9fJnTouoqjw5ROTFKCMgSz7+vcXVDnQlCTMovQ2L3DMDbU8RYH4ObI7od+/WXdgsv/vLqw8ddaPRTxhELUfJGxVBSpdwYxGTwPFalTgQMfqii737LCNRpzASWsqbGHS1Ql+6U8M/pdITZ6UJ6dOcRo8VDJtL4Rz45Vq2G7ZRQBwemtcvH+NQgnrxQLMz9Mx5PbCzl1i6EjEAR1YJf9iIje3GKvUKR0Qo7fc+HUkEWUtNBiJU3TjVK5zP2gctYLKqBe5y/bJc9gxMr5fhWK7Hqe66phGJ4Xy79BnCJ6lSYQ6GRebvjWExmqrssnoi2JO1dbxq5caBk9e7pl9MyplnT/9SeHZpOLXdt/wzSg2M1EVdczdUNnochvVdCI6Tbf94EgAkRYV2kzE7cJlONkYiSKYyNRkohH2dhdwcAYmRxPYl0/51r+ciH0tG4Ot4mhtOma2haG1dawGrbajr04CAJh3Z+z3KBZMN95sE9zVASeoNa4L9vNthUATUsBqt8FhA6IawSqtbqgClzXadid4z9TWU242H4e2wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;fe7&quot;
-        title=&quot;fe7&quot;
-        src=&quot;/static/cfdd638d9841ff285d0395f7a00b3f60/5a190/fe7.png&quot;
-        srcset=&quot;/static/cfdd638d9841ff285d0395f7a00b3f60/772e8/fe7.png 200w,
-/static/cfdd638d9841ff285d0395f7a00b3f60/e17e5/fe7.png 400w,
-/static/cfdd638d9841ff285d0395f7a00b3f60/5a190/fe7.png 800w,
-/static/cfdd638d9841ff285d0395f7a00b3f60/c1b63/fe7.png 1200w,
-/static/cfdd638d9841ff285d0395f7a00b3f60/2d2d6/fe7.png 1205w&quot;
+        alt=&quot;fe10&quot;
+        title=&quot;fe10&quot;
+        src=&quot;/static/713138d894818984c10aa87a885a6ad9/5a190/fe10.png&quot;
+        srcset=&quot;/static/713138d894818984c10aa87a885a6ad9/772e8/fe10.png 200w,
+/static/713138d894818984c10aa87a885a6ad9/e17e5/fe10.png 400w,
+/static/713138d894818984c10aa87a885a6ad9/5a190/fe10.png 800w,
+/static/713138d894818984c10aa87a885a6ad9/47aef/fe10.png 1063w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -651,11 +730,41 @@ UI 컴포넌트 라이브러리 코드에 대한 단위 테스트를 작성합�
 &lt;hr/&gt;
 &lt;p&gt;&lt;em&gt;이 문서는 프론트엔드 업무에 혼동을 갖고 계신 분들이 읽으면 좋을 듯 하여 작성하였습니다.&lt;/em&gt;&lt;br&gt;
 &lt;em&gt;각 회사의 업무에 따라 Bradfrost 개발자가 작성한 문서와 실제 업무는 차이가 있을 수 있습니다.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;비슷한-자료들&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%9E%90%EB%A3%8C%EB%93%A4&quot; aria-label=&quot;비슷한 자료들 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;비슷한 자료들&lt;/h3&gt;
+&lt;hr/&gt;
+&lt;h2 id=&quot;비슷한-자료들&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%9E%90%EB%A3%8C%EB%93%A4&quot; aria-label=&quot;비슷한 자료들 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;비슷한 자료들&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/yakuyaku/ss-70154490&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;퍼블리셔, 프론트엔드 개발을 시작하다&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/jinkwonlee52/frontend-46605098&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;2015년 웹 Front-End 실무 이야기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[✒️ How to write CSS Code]]></title><description><![CDATA[📍 How to write CSS Code CSS 설계 방법 1. 특성에 따라 CSS 분류 베이스 그룹   레이아웃 그룹 1 reset 전체 적용, 베이스 2 layout 헤더, 푸터 작성 방법 : ly_ 3 block…]]></description><link>https://diary-blog.github.io/write-css/</link><guid isPermaLink="false">https://diary-blog.github.io/write-css/</guid><pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;-how-to-write-css-code&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-how-to-write-css-code&quot; aria-label=&quot; how to write css code permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📍 How to write CSS Code&lt;/h2&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[✒️ How to write CSS Code]]></title><description><![CDATA[📍 How to write CSS Code CSS 설계 방법 1. 특성에 따라 CSS 분류 베이스 그룹   레이아웃 그룹 1 reset 전체 적용, 베이스 2 layout 헤더, 푸터 작성 방법 : ly_ 3 block…]]></description><link>https://diary-blog.github.io/write-css/</link><guid isPermaLink="false">https://diary-blog.github.io/write-css/</guid><pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7fcf192578a3152ea7fa40eb8c26f7a2/5a190/cs2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABUklEQVQoz2NgwAFEizcxcGStZWDPWsOgUrOdRbfnGAt/yVYGwYqdDFLVOxlIBuIlmxi4c9YycAGxZv0OBu2eYwz8JdsYhIAGSpJjIMiFAvnrGQTy1ovKVW4tVGg9VCxUuk1SpHIng3jlDkaSDZQs3czIEDCfgcFrrnLQtMP/q3fe+8+QuUmfsXgng17nISaSDJOfeJFBrGgDA4NWJwODUB23S/+Bp5HLLr9mCFkhzJC4jkG74xAjSA1JBsr0nGUwXHiHgbP+MAND2loFhqS1yqLNRxkUZ9xgEGw7yUCygXITLoBoLvlp1/j////PAMJAMR65iRfZoHLEGyjXdw5i4KRLvFJtxyykWo4YAA3QB4pZyE+4wA8yjCQDbR/9Z1CZd49Brv88A2/SIj7B3LWiQMMlgQZKwAwjyUD9vX8ZlGbeBLuUO3Yug0D2apBrYcGA10AA3pWImABQA44AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cs2&quot;
+        title=&quot;cs2&quot;
+        src=&quot;/static/7fcf192578a3152ea7fa40eb8c26f7a2/5a190/cs2.png&quot;
+        srcset=&quot;/static/7fcf192578a3152ea7fa40eb8c26f7a2/772e8/cs2.png 200w,
+/static/7fcf192578a3152ea7fa40eb8c26f7a2/e17e5/cs2.png 400w,
+/static/7fcf192578a3152ea7fa40eb8c26f7a2/5a190/cs2.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-how-to-write-css-code&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-how-to-write-css-code&quot; aria-label=&quot; how to write css code permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📍 How to write CSS Code&lt;/h2&gt;
 &lt;p&gt;CSS 설계 방법&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3 id=&quot;1-특성에-따라-css-분류&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%ED%8A%B9%EC%84%B1%EC%97%90-%EB%94%B0%EB%9D%BC-css-%EB%B6%84%EB%A5%98&quot; aria-label=&quot;1 특성에 따라 css 분류 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 특성에 따라 CSS 분류&lt;/h3&gt;
@@ -1365,7 +1474,38 @@ p&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;documentation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#documentation&quot; aria-label=&quot;documentation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://sass-lang.com/documentation&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://sass-lang.com/documentation&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🧚 샐러드 메뉴 선택하는 슬라이드(캐러셀) 만들기]]></title><description><![CDATA[Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.   주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :) 1 샐러드 캐러셀 만들고 채식과 친해지자! 1 HTML 2 CSS (SCSS…]]></description><link>https://diary-blog.github.io/salad-carousel-slide/</link><guid isPermaLink="false">https://diary-blog.github.io/salad-carousel-slide/</guid><pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://sass-lang.com/documentation&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://sass-lang.com/documentation&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🥗 샐러드 메뉴 선택하는 슬라이드(캐러셀) 만들기]]></title><description><![CDATA[Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.   주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :)  1 샐러드 캐러셀 만들고 채식과 친해지자! 1 HTML 2 CSS…]]></description><link>https://diary-blog.github.io/salad-carousel-slide/</link><guid isPermaLink="false">https://diary-blog.github.io/salad-carousel-slide/</guid><pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8ea290c6a3c797c2b78ff51a5021514e/5a190/sl2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQoz2NgwAFKJhkxlEw0ZCifasiQ0m7AlDlBn6lxiTZDAxAXz9BlIBkUTzJgyO/TYyiZrM8Q16zNkDFBn6FxmQZD03IthqKZOuQYqM9Q0K/LUDpZTyypTccgc6K+dc1CTfbaRVoMhTPIMLBskh1TzTQnhsZZToYJTWZf0nr17i/cr8c7c5cWQ9lMfdINLK2ewFA4UZGxaIIqQ2mflXv5FAO/8CwzBjtPW4aG+QakG9jQW8xw41Etw68/vQxm4ZoMAl5yDMv2mzPM3W7IUDvXgKFhoRapXrZlWLEnmqFwmgxD1WxNweq5moKFU9UYpmzUY6hboEO6gfVADfULNEGYG6jZGIgtgGw+sBhQrmGhJolehmoCYr6GBVqyQL4iEItBxLXIcaEmCkY2CJ+BAFeJcMiHrDNIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sl2&quot;
+        title=&quot;sl2&quot;
+        src=&quot;/static/8ea290c6a3c797c2b78ff51a5021514e/5a190/sl2.png&quot;
+        srcset=&quot;/static/8ea290c6a3c797c2b78ff51a5021514e/772e8/sl2.png 200w,
+/static/8ea290c6a3c797c2b78ff51a5021514e/e17e5/sl2.png 400w,
+/static/8ea290c6a3c797c2b78ff51a5021514e/5a190/sl2.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.  &lt;/p&gt;
+&lt;p&gt;주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :)&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -1396,8 +1536,6 @@ p&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.  &lt;/p&gt;
-&lt;p&gt;주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :)&lt;/p&gt;
 &lt;h2 id=&quot;1-샐러드-캐러셀-만들고-채식과-친해지자&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%EC%83%90%EB%9F%AC%EB%93%9C-%EC%BA%90%EB%9F%AC%EC%85%80-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%B1%84%EC%8B%9D%EA%B3%BC-%EC%B9%9C%ED%95%B4%EC%A7%80%EC%9E%90&quot; aria-label=&quot;1 샐러드 캐러셀 만들고 채식과 친해지자 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[1] 샐러드 캐러셀 만들고 채식과 친해지자!&lt;/h2&gt;
 &lt;img alt=&quot;html5&quot; width=&quot;40px&quot; src=&quot;https://img.icons8.com/color/240/000000/html-5.png&quot;&gt;
 &lt;h3 id=&quot;1-html&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-html&quot; aria-label=&quot;1 html permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[1] &lt;a href=&quot;https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/index.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;HTML&lt;/a&gt;&lt;/h3&gt;
@@ -2160,7 +2298,36 @@ $&lt;span class=&quot;token property&quot;&gt;break-m&lt;/span&gt;&lt;span class
 &lt;p&gt;&lt;a href=&quot;https://www.freepik.com/premium-photo/fresh-salad-table_7765426.htm#position=3&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 2번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.freepik.com/free-photo/flat-lay-salad-with-chicken-sesame-seeds_10414044.htm#position=5&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 3번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.freepik.com/free-photo/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-food-vegetarian-dinner-table-top-view-flat-lay_6713750.htm#position=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 4번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/premium-photo/white-background-texture_8664336.htm#page=5&amp;#x26;query=white+texture&amp;#x26;position=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 백그라운드에 사용된 이미지&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🧚 반짝이는 불빛 애니메이션 랜덤 생성 만들기 ✨]]></title><description><![CDATA[…]]></description><link>https://diary-blog.github.io/glow-light/</link><guid isPermaLink="false">https://diary-blog.github.io/glow-light/</guid><pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;작업-할-이미지-선정&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%91%EC%97%85-%ED%95%A0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%EC%A0%95&quot; aria-label=&quot;작업 할 이미지 선정 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;작업 할 이미지 선정&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/premium-photo/white-background-texture_8664336.htm#page=5&amp;#x26;query=white+texture&amp;#x26;position=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 백그라운드에 사용된 이미지&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[✨ 반짝이는 불빛 애니메이션 랜덤 생성 만들기]]></title><description><![CDATA[…]]></description><link>https://diary-blog.github.io/glow-light/</link><guid isPermaLink="false">https://diary-blog.github.io/glow-light/</guid><pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5ab9ba0420f13f36b5e0e3865c64fe5e/5a190/gl2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABX0lEQVQoz5WQv0tCURTHv48maRAiGlqCoiGMxppaHKICf2cqljiYZEEgjf0bbs39By3hYPqwiMh8Zj5NjIiw3r33aUlEbZ0nuRm8d+CznHu/n3PuBYaUXnZDa+xBa2XAqgdgql/SVD9EKYbvrw08ZCPotgIwXbpiCA/BHzPg92mwZgJ5DghlHx01hffqLj6eQ+aF3aaPNouhfRGDqARtohEP83polpNIr+1IvfIRei9B80JR99Fm2xKvJMDvog6hhjtC3coJJT7Pr9PgSlLS6QssCANgpZDEbqIUDi3wW985V7ynvBwZfy0m6WwTnboF4edPBO0zJ56O5yBqKyOavDbGrtantWwY7dQJDVkGK3rMC1neBS23iresE7zgtotLn40XPKNcdtt53gsh+8Fkt3khBQ2RgURBB5Ndi8SSwV+/f8eSkMKD4AQxQ0wRk6zgkgjquyw8mQID+tv+w7D6BcuM0nfwFxYKAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;gl2&quot;
+        title=&quot;gl2&quot;
+        src=&quot;/static/5ab9ba0420f13f36b5e0e3865c64fe5e/5a190/gl2.png&quot;
+        srcset=&quot;/static/5ab9ba0420f13f36b5e0e3865c64fe5e/772e8/gl2.png 200w,
+/static/5ab9ba0420f13f36b5e0e3865c64fe5e/e17e5/gl2.png 400w,
+/static/5ab9ba0420f13f36b5e0e3865c64fe5e/5a190/gl2.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;작업-할-이미지-선정&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%91%EC%97%85-%ED%95%A0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%EC%A0%95&quot; aria-label=&quot;작업 할 이미지 선정 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;작업 할 이미지 선정&lt;/h2&gt;
 &lt;p&gt;이미지를 검색하다가 눈부시도록 예쁜 이미지를 발견!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
