@@ -7,8 +7,8 @@ tags:
   - CSS
   - JS
   - Developer
-  - mystory
-keywords: mystory, Frontend, Developer, JS, CSS, backend
+  - story
+keywords: story, Frontend, Developer, JS, CSS, backend
 read: 4m 20s
 cover: ./img/fe4.png
 ---

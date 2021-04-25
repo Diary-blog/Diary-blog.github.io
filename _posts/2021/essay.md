@@ -5,14 +5,15 @@ update: 2021-04-26
 tags:
   - essay
   - mindset
-keywords: Essay, mystory, Frontend, Developer, JS, CSS, Mindset
+  - story
+keywords: Essay, story, Frontend, Developer, JS, CSS, Mindset
 read: Random
 cover: ./img/es1.png
 ---
 
 ![](img/es2.png)
 
-안녕하세요! 에세이 카테고리를 하나 추가하였습니다.  
+안녕하세요! 에세이 포스팅을 추가하였습니다.  
 
 제가 살아가면서 느낀 감정들과 깨달은 내용 등 을 주변에 저와 가까운 지인분들에게만 공유했었는데요.  
 저의 이야기를 다듬고 블로그에 오픈하여 다른 분들에게도 작은 도움이 되길 바라며 기록해두려 합니다.

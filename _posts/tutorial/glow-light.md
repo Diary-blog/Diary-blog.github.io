@@ -11,8 +11,8 @@ tags:
   - GSAP
   - Tween
   - library
-  - mystory
-keywords: mystory, gatsby, blog, GSAP, Tween, Animation, Javascript, library, html, css, scss
+  - story
+keywords: story, gatsby, blog, GSAP, Tween, Animation, Javascript, library, html, css, scss
 read: 10m 50s
 cover: ./img/gl1.png
 ---

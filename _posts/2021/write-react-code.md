@@ -7,8 +7,8 @@ tags:
   - Reactjs
   - Clean
   - Code
-  - mystory
-keywords: mystory, gatsby, blog, Javascript, Reactjs, clean, code
+  - story
+keywords: story, gatsby, blog, Javascript, Reactjs, clean, code
 read: 4m 30s
 cover: ./img/re1.png
 ---

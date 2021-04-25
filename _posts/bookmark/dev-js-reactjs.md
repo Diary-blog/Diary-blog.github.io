@@ -3,6 +3,7 @@ title: 💡 ReactJS
 date: 2020-08-03
 update: 2021-04-20
 tags:
+  - dev
   - front-end
   - JS
   - JavaScript

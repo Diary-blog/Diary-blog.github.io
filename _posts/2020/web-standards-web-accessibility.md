@@ -7,8 +7,8 @@ tags:
   - cross-browsing
   - web-accessibility
   - W3C
-  - mystory
-keywords: mystory, gatsby, blog, web-standards, cross-browsing, web-accessibility, W3C
+  - story
+keywords: story, gatsby, blog, web-standards, cross-browsing, web-accessibility, W3C
 read: random
 cover: ./img/w3c.png
 ---

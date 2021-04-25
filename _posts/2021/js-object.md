@@ -5,8 +5,8 @@ update: 2021-01-02
 tags:
   - Javascript
   - Object
-  - mystory
-keywords: mystory, gatsby, blog, Javascript, Object, explanation
+  - story
+keywords: story, gatsby, blog, Javascript, Object, explanation
 read: 2m
 cover: ./img/js1.png
 ---

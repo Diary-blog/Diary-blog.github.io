@@ -2,6 +2,7 @@
 title: 💡 TypeScript
 date: 2020-08-03
 tags:
+  - dev
   - front-end
   - JS
   - JavaScript

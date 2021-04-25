@@ -10,8 +10,8 @@ tags:
   - slide
   - CSS
   - library
-  - mystory
-keywords: mystory, gatsby, blog, Javascript, library, html, css, scss, carousel, slide
+  - story
+keywords: story, gatsby, blog, Javascript, library, html, css, scss, carousel, slide
 read: 5m 10s
 cover: ./img/sl1.png
 ---

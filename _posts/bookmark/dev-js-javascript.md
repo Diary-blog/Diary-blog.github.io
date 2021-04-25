@@ -1,8 +1,9 @@
 ---
-title: 💡 NodeJS
-date: 2020-08-03
+title: 💡 JavaScript
+date: 2020-04-27
 update: 2021-04-20
 tags:
+  - dev
   - front-end
   - JS
   - JavaScript
@@ -12,7 +13,7 @@ tags:
   - Typescript
 keywords: javascript, ReactJS, NodeJS, ECMA, Typescript
 read: Random
-cover: ./img/nd1.png
+cover: ./img/js.png
 ---
 
 ## 📄 Javascript
@@ -62,9 +63,23 @@ cover: ./img/nd1.png
 
 ### [The 10 best javascript libraries for SVG animation](http://noeticforce.com/Javascript-libraries-for-svg-animation)
 
-### [Node.js에서 ORM 사용하기](https://www.kyungyeon.dev/posts/3)
+### [single-page-app-vanilla-js](https://github.com/dcode-youtube/single-page-app-vanilla-js)
 
-### [Django vs Laravel vs Node.js](https://stackshare.io/stackups/django-vs-laravel-vs-nodejs)
+### [실수 방지 ESLint Rules](https://www.notion.so/ESLint-Rules-adfb37c5229749d584011d9030e7e486)
+
+### [우아한JS](https://woowabros.github.io/tools/2016/09/07/woowahan-js.html)
+
+### [자바스크립트 체크박스 라이브러리](https://www.bryanbraun.com/checkboxland/#using-plugins)
+
+### [Webpack의 혼란스런 사항들](http://naver.me/GqBxqfeJ)
+
+### [Webpack Module Federation에 대해 알아보자](http://naver.me/GrS5TGKa)
+
+### [웹개발시작하기,JS기초](http://naver.me/x1eKUxOZ)
+
+### [함수형 프로그래밍(functional programming)이란?](https://m.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4313717600)
 
 
 
+<br/>
+<hr>

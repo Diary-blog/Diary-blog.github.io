@@ -98,18 +98,13 @@ const Header = (props: headerPropsType) => {
 
   /* Nav link */
   const Category = [
-    { pathname: '/tags#front-end', title: '⚡', class: 'dev'},
+    { pathname: '/tags#dev', title: '⚡', class: 'dev'},
     { pathname: '/tags#design', title: '🧭', class: 'dev'},
-    { pathname: '/tags#tech', title: '💻', class: 'dev'},
   ];
   const CategoryB = [
-    { pathname: '/tags#marketing', title: '🌱', class: 'it'},
+    { pathname: '/tags#learn', title: '🌱', class: 'it'},
+    { pathname: '/tags#story', title: '🌸', class: 'dev'},
   ];
-  const CategoryC = [
-    { pathname: '/tags#mystory', title: '🌸', class: 'dev'},
-    { pathname: '/tags#essay', title: '🌳', class: 'dev'},
-  ];
-
 
   return (
     <header id="Header" className={`${isHide ? 'hide' : 'show'} ${isMobile ? 'mobile' : ''}`}>
@@ -146,14 +141,6 @@ const Header = (props: headerPropsType) => {
                 >{i.title}</Link>
               ))}
               {CategoryB.map((i) => (
-                <Link
-                  key={i.pathname}
-                  to={i.pathname}
-                  title={i.title}
-                  className={i.class}
-                >{i.title}</Link>
-              ))}
-              {CategoryC.map((i) => (
                 <Link
                   key={i.pathname}
                   to={i.pathname}

@@ -3,7 +3,7 @@ title: 📚 Learn, Startup
 date: 2020-07-05
 update: 2021-04-20
 tags:
-  - Learn
+  - learn
   - startup
   - Motivation
   - marketing

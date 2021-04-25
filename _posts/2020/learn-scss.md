@@ -5,9 +5,9 @@ update: 2020-12-27
 tags:
   - SCSS
   - CSS
-  - learn
-  - mystory
-keywords: mystory, gatsby, blog, html, css, scss, learn
+  - learnCSS
+  - story
+keywords: story, gatsby, blog, html, css, scss, learn
 read: 5m
 cover: ./img/scss.png
 ---

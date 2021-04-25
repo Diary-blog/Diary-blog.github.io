@@ -6,9 +6,9 @@ tags:
   - UI
   - UX
   - lab
-  - mystory
+  - story
   - design
-keywords: mystory, design, ui, ux, design
+keywords: story, design, ui, ux, design
 read: random
 cover: ./img/ui1.png
 ---

@@ -3,6 +3,7 @@ title: 🛒 E-commerce, Retail
 date: 2020-04-27
 update: 2021-04-20
 tags:
+  - learn
   - E-commerce
   - Retail
   - marketing

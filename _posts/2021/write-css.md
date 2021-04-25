@@ -6,8 +6,8 @@ tags:
   - CSS
   - Clean
   - Code
-  - mystory
-keywords: mystory, gatsby, blog, CSS, clean, code
+  - story
+keywords: story, gatsby, blog, CSS, clean, code
 read: 2m 10s
 cover: ./img/cs1.png
 ---

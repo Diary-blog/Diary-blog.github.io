@@ -3,6 +3,7 @@ title: 🧩 System architecture
 date : 2020-06-12
 update: 2021-04-20
 tags:
+  - dev
   - Algorithm
   - DB
   - SQL

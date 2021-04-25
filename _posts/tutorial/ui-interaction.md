@@ -15,8 +15,8 @@ tags:
   - Graphic
   - Interaction
   - collection
-  - mystory
-keywords: mystory, gatsby, blog, GSAP, Tween, Animation, Javascript, library, html, css, scss, collection, Interaction, Graphic, UI, 
+  - story
+keywords: story, gatsby, blog, GSAP, Tween, Animation, Javascript, library, html, css, scss, collection, Interaction, Graphic, UI, 
 read: random
 cover: ./img/leaf.png
 ---
