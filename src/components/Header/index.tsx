@@ -98,11 +98,11 @@ const Header = (props: headerPropsType) => {
 
   /* Nav link */
   const Category = [
-    { pathname: '/tags#dev', title: '⚡', class: 'dev'},
-    { pathname: '/tags#design', title: '🧭', class: 'dev'},
+    { pathname: '/tags#dev', title: '🍰', class: 'dev'},
+    { pathname: '/tags#design', title: '🍓', class: 'dev'},
   ];
   const CategoryB = [
-    { pathname: '/tags#learn', title: '🌱', class: 'it'},
+    { pathname: '/tags#learn', title: '☕', class: 'it'},
     { pathname: '/tags#story', title: '🌸', class: 'dev'},
   ];
 
