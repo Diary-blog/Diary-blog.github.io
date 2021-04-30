@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Apr 2021 23:21:56 GMT</lastBuildDate><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Apr 2021 23:26:12 GMT</lastBuildDate><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2a9e7dcacb0e41471c576ea9aa34975a/5a190/dev2.png&quot;
+    href=&quot;/static/dd30cff9c7e080fa936a3468afc48a3c/5a190/dev3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABTElEQVQoz2NgwAGun1vD8P//fzDesCqVcdmKGMaKagaGxmYuhuPH5zOQDP6f28OweJYXw45NhQy923IZYmZZMdy5vY3x/p2tDP9/fyXDwBsnGA5tKGY4sbuZoXVtlGT0ZB2RWzc2MNy+vpbx/5cXpBv4/vp+pv9vnjP8//TO4Nqq4teXt1Q++P//r/5foOvePTrDRJJhj5uEGD6cX8v07tI6hncX1xl+Ornk5bdrWz9/vLPX9vO9gwyfbuxketwkTLyBT5qFGL59+c/w/uY+xtfbyhneXJnG++DsDN6vFxYCw+8lIyiinjSTYOBjoIGPa9kYHpUxMD5plxG+n83A8biEge9ZjzIvyDCYL0hwoTDD40Z+hoc1HCC23JNWceknLeJKQLbi40YBBjBuJtHLYEObEDQyG0yTZqAw1FAkQ5qEGYFsRnBwNAvh9DIAotaz+10+NecAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQoz2NgwAGun1vD8P//fzDesCqVcdmKGMaKagaGxmYuhuPH5zOQDP6f28OweJYXw45NhQy923IZYmZZMdy5vY3x/p2tDP9/fyXDwBsnGA5tKGY4sbuZoXVtlGT0ZB2RWzc2MNy+vpbx/5cXpBv4/vp+pv9vnjP8//TO4Nqq4teXt1Q++P//r/5foOvePTrDRJJhT5qFGD5cWMv07tJ6hncX1xl+Ornk5bdrWz9/vLPX9vP9Qwyfbu5iAqkhwUBhhn/AyPj48h7D661lDG+uzeB9cHYG75czM+ER9RiohiQXPq7nZnhUw8r0pF1G+EE+A+fjEgbep10Kgg+rmJge1XGSaqAww+MmQTAGshWetIpLPWkRUwGylR43CTEDMVgNSQZCDBWC08hsmDzR4DFYIwQDNTKCDWoWYoSx8RkIACWYtGQAv8nrAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;dev2&quot;
-        title=&quot;dev2&quot;
-        src=&quot;/static/2a9e7dcacb0e41471c576ea9aa34975a/5a190/dev2.png&quot;
-        srcset=&quot;/static/2a9e7dcacb0e41471c576ea9aa34975a/772e8/dev2.png 200w,
-/static/2a9e7dcacb0e41471c576ea9aa34975a/e17e5/dev2.png 400w,
-/static/2a9e7dcacb0e41471c576ea9aa34975a/5a190/dev2.png 800w&quot;
+        alt=&quot;dev3&quot;
+        title=&quot;dev3&quot;
+        src=&quot;/static/dd30cff9c7e080fa936a3468afc48a3c/5a190/dev3.png&quot;
+        srcset=&quot;/static/dd30cff9c7e080fa936a3468afc48a3c/772e8/dev3.png 200w,
+/static/dd30cff9c7e080fa936a3468afc48a3c/e17e5/dev3.png 400w,
+/static/dd30cff9c7e080fa936a3468afc48a3c/5a190/dev3.png 800w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
