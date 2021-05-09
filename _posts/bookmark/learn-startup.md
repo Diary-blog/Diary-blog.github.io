@@ -432,7 +432,7 @@ CCPM(Critical Chain Project Management),
 
 ### [한때 실리콘밸리서 주목받던 '로봇 레스토랑'이 줄줄이 문 닫는 이유](https://1boon.daum.net/interbiz/5ed8425cf9e9ed73c5a4a5c6)
 
-### [교보문고 마케터가 접하고 공부하고 있는 Product Study 50종 추천도서]https://www.notion.so/81cb058c1b49464e89eb97bed4519b9f?v=dcd82ff616a6492cbf16add8696bf625
+### [교보문고 마케터가 접하고 공부하고 있는 Product Study 50종 추천도서](https://www.notion.so/81cb058c1b49464e89eb97bed4519b9f?v=dcd82ff616a6492cbf16add8696bf625)
 
 ### [미국에서의 창업, 그 3년의 짧은 기록들](https://medium.com/@xissy/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98-%EC%B0%BD%EC%97%85-%EA%B7%B8-3%EB%85%84%EC%9D%98-%EC%A7%A7%EC%9D%80-%EA%B8%B0%EB%A1%9D%EB%93%A4-ad48d393652f#.w13pm6ytu)
 
@@ -467,16 +467,3 @@ CCPM(Critical Chain Project Management),
 ### [The largest collection of startup pitch decks. 600+ decks from the world's best startups.](https://starthouse.xyz/)
 
 ### [실리콘 밸리의 나이 많은 사람들’을 소개](https://ppss.kr/archives/220455)
-
-
-
-
-
-보통은 ?fbclid
-네이버는 &proxyReferer=http
-
-https://m.blog.naver.com/PostView.nhn?blogId=wantedlab&logNo=221990672381&proxyReferer=http:%2F%2Fm.facebook.com%2F
-
-https://m.blog.naver.com/wantedlab/221990672381
-
-

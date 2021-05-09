@@ -247,7 +247,7 @@ cover: ./img/ths4.png
 
 ### [개발자 회고 모음 2016~2020](https://github.com/oaksong/developers-retrospective)
 
-### [개발팀 TDD 후기](https://www.notion.so/TDD-d457bdec53f742f58ad94dc7b25cb8c5)](https://www.notion.so/TDD-d457bdec53f742f58ad94dc7b25cb8c5)
+### [개발팀 TDD 후기](https://www.notion.so/TDD-d457bdec53f742f58ad94dc7b25cb8c5)
 
 ### [일일 커밋의 효용성](https://jojoldu.tistory.com/402)
 <details><summary> └  📝 </summary>
