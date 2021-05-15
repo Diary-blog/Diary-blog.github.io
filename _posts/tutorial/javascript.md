@@ -1,8 +1,9 @@
 ---
-title: 🍊 JavaScript Problem solve 자바스크립트 문제 풀이
+title: 🍊 JavaScript Problem solving 자바스크립트 문제 풀이
 date: 2021-05-15
 update: 2021-05-16
 tags:
+  - dev
   - Javascript
   - JS
   - Object
