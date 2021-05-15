@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 May 2021 08:10:24 GMT</lastBuildDate><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 May 2021 20:16:28 GMT</lastBuildDate><item><title><![CDATA[🍊 JavaScript Problem solving 자바스크립트 문제 풀이]]></title><description><![CDATA[안녕하세요! 자바스크립트 문제 풀이 앱인 Enki…]]></description><link>https://diary-blog.github.io/javascript/</link><guid isPermaLink="false">https://diary-blog.github.io/javascript/</guid><pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/393dcf9a1f5a28face1bfbf4d1cc1dad/5a190/js3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABcklEQVQoz2NgwAFeP6tj+P//NRD/Z1i/PZVp/bpoRtsQMQZNO2aGry86GUgGF4AGgYAMEE8/X8PQuyGXYcoMd4aZ830Y3sxRIt3A81ADfYB42plS/eqV+aIzp7syzJ/vyfh2rgbpBr7eUcD0Z28Nw99D9aYXlsf9f3Ag9MH//2sF/v9fz/D5Wi4jQQOebddieLoNgp8B8bvlWcxvZ+YzvFtYHPthbsznj+sTXn7a26b/eU87w4ddmUxPt4PUaYIxiI0BnoIkoBhk+JONcgxvToWCI+Xx20l87+7s5Z0HVPfmSBrD0y3KYDXIGIcLwQYyAtk8QJrr2XZd7scbxLgerubierSeg+/JRnH2Zzv0WYByfEA1XHhdiOLl7VryQOzwdLumPZA2BwaB07Pt2rZAtjPQMBsg7QHEGs+2g3yjid2FT6E2wV26XUsCyBYDYlEgVgRiISCWAhquBKRlkL2L04UwSTh7G5S9DVXsKdRSZD4MAAAwtO2QGqQxDQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;js3&quot;
+        title=&quot;js3&quot;
+        src=&quot;/static/393dcf9a1f5a28face1bfbf4d1cc1dad/5a190/js3.png&quot;
+        srcset=&quot;/static/393dcf9a1f5a28face1bfbf4d1cc1dad/772e8/js3.png 200w,
+/static/393dcf9a1f5a28face1bfbf4d1cc1dad/e17e5/js3.png 400w,
+/static/393dcf9a1f5a28face1bfbf4d1cc1dad/5a190/js3.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요!&lt;br&gt;
+&lt;u&gt;자바스크립트 문제 풀이&lt;/u&gt; 앱인 &lt;a href=&quot;https://www.enki.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Enki&lt;/a&gt;를 이용하여 매일매일 문제풀이 코스를 진행하고 있는 중입니다.  &lt;/p&gt;
+&lt;p&gt;하지만 문제를 풀고 답만 맞출 뿐 문제에 대한 답이 &lt;u&gt;왜 이런 결과가 나오게 되었는지&lt;/u&gt;&lt;br&gt;
+답에 대한 해석이 따로 적혀있지 않아서 제가 풀어서 해석한 내용을 기록하고자 합니다.&lt;/p&gt;
+&lt;p&gt;대부분 기초적인 내용이지만 블로그에 따로 기록하는 이유는&lt;br&gt;
+&lt;u&gt;사용되는 용어와 의미 전달을 명확하게&lt;/u&gt; 하는것을 연습하기 위해서 입니다.  &lt;/p&gt;
+&lt;p&gt;잘못된 해석이 있다면 댓글로 말씀해주시면 감사하겠습니다 :)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;js-object-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#js-object-1&quot; aria-label=&quot;js object 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;JS object 1&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Q. What will be logged by the following snippet&lt;/code&gt;    &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;#39;b&amp;#39;&lt;/code&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;{foo: &amp;#39;b&amp;#39;}&lt;/code&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;{foo: &amp;#39;a&amp;#39;}&lt;/code&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;#39;a&amp;#39;&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 291px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8c30d288ca5c4f4e2a97de61dd5a240b/78805/js2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACRklEQVQ4y42U2W7TQBSG8xRcQFovs9oz41m8x05Ktyx0gSKVoko8C+KOC8QVD8yZxIQoLSXSkWVb8/n/zz9nPEIsj4gJiQ6RgorwcBNiM0b2CJmIaFgAFVO7uY5D8fXb98vl3QgeiJyI9jqpFmmz4uUiqZekmBfGrlo5LUzraiULpyvKLXwR1r8JxI+fv1Y39yOvTC1WHRSSDUpKLJqIV4xllc6k0DzNETc8sYSBQbNx8eo1GYdyDXurEsuW6j6ijps+q86RaGNiY+osKhtSC+q25MY81GjoGRtq34ruFokJt7N2+VlNFjJxLM0tLk5IY1SJmbcd7XxigH2to4J4gkiBSIBUgDJYHa7jxNjGxOyK/4VDlKn+Nu1ukvqdsLPq/K67/iLLM6NyztwpnpzhtsjqiPxDGdoD8YhYTA0ihvjwCkS9GoaXxJLEiz8P42yaVnPiTomZIX3CEydlEWD91O0TGGuiepZfUAvwCVZ9khZSAPw8tq8cxj4tquqY6gjDhOnwRXIXtpAZyybV/L67ekRpFWL9MrkXmIUOob2Yuf9i+3Dt6kyV3uoBmgOMWb5pT8lcivJAbIBjmsOuQLZHKAsO1hxgOAmgCaN7jPyWbj1vovbj+Sfz8Nnx9LZRBlgQq3VacOg1HIOjePgBHMMxhpljMGE6IHrHNrGJ7avL+3r+qVk+VBcfm8WD0s15JT70YtUV72fZVacbVzaumZYTkbptd14Z8Zyqloga9hmuMCeEO8p1obWWRiRGpt4I4w5+DJS5bSO/Aa/jyyJe2lIDAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;js2&quot;
+        title=&quot;js2&quot;
+        src=&quot;/static/8c30d288ca5c4f4e2a97de61dd5a240b/78805/js2.png&quot;
+        srcset=&quot;/static/8c30d288ca5c4f4e2a97de61dd5a240b/772e8/js2.png 200w,
+/static/8c30d288ca5c4f4e2a97de61dd5a240b/78805/js2.png 291w&quot;
+        sizes=&quot;(max-width: 291px) 100vw, 291px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.instagram.com/p/CO5S8WKg3X_/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;풀이 영상 보러가기 (1m 26s)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br style=&quot;margin-bottom: 50px&quot;&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;풀이&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;1&lt;/u&gt;&lt;br&gt;
+let 키워드로 선언한 변수는 값이 변경될 수 있습니다.&lt;br&gt;
+만약 foo의 값을 변경하고 싶다면&lt;br&gt;
+bar 함수의 스코프 안에서 foo = &quot;c&quot; 값을 넣어주면 됩니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; foo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;foo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  foo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;c&quot;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; foo &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// { foo: &quot;c&quot; }&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;u&gt;2&lt;/u&gt;&lt;br&gt;
+this를 알아야 합니다.&lt;br&gt;
+this가 가리키는 것이 전역변수인지 지역변수인지를 먼저 알아야 합니다.  &lt;/p&gt;
+&lt;p&gt;일반 함수 내부에서 this를 호출했으므로&lt;br&gt;
+여기서 this는 전역 객체인 window를 가리킵니다.&lt;br&gt;
+따라서 this.foo는 window.foo를 가리킵니다.&lt;/p&gt;
+&lt;p&gt;let으로 선언된 foo와 this의 foo는&lt;br&gt;
+서로 다른 메모리 주소에 저장된 값을 가리키는 변수이므로&lt;br&gt;
+서로 다른 변수입니다.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;3&lt;/u&gt;&lt;br&gt;
+무엇을 리턴하는지 알아야 합니다.&lt;/p&gt;
+&lt;p&gt;return { foo }; 는 객체 리터럴 안에 foo 변수를 담아 리턴합니다.&lt;br&gt;
+객체(Object)는 키key와 value로 구성되어 있습니다.&lt;/p&gt;
+&lt;p&gt;bar() 함수 스코프 안에 선언된 foo 라는 변수가&lt;br&gt;
+프로퍼티로 추가된 객체{key, value}가 최종 리턴으로 내보내집니다.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;4. etc&lt;/u&gt;&lt;br&gt;
+만약 키를 출력하지 않고 밸류인 &apos;b&apos; 만 출력하고 싶다면&lt;br&gt;
+객체 리터럴인 { } 에 담지 않고 return foo; 로 리턴하면 됩니다.&lt;br&gt;
+그럼 bar() 함수를 호출했을때 &apos;b&apos; 가 출력됩니다.&lt;/p&gt;
+&lt;p&gt;그리고 전역스코프에서 console.log( foo );를 실행하면&lt;br&gt;
+여기서의 foo는 함수안에 선언된 지역 변수인 foo가 아니라&lt;br&gt;
+전역변수인 window.foo 이므로 &apos;a&apos;가 출력됩니다.&lt;/p&gt;
+&lt;p&gt;window.foo 인 &apos;a&apos;가 bar() 함수의 아규먼트로 들어가더라도&lt;br&gt;
+실제 함수 bar는 파라미터를 갖고있지 않으므로&lt;br&gt;
+아규먼트로 넘겨진 foo는 무시됩니다.&lt;/p&gt;
+&lt;p&gt;그럼 원래대로 return foo;가 실행됩니다.&lt;br&gt;
+여기서의 foo는 마찬가지로 지역변수인 foo, 즉 &apos;b&apos; 입니다.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;5. etc&lt;/u&gt;&lt;br&gt;
+만약 {foo: &apos;a&apos;}를 출력하고 싶다면&lt;br&gt;
+this.foo를 this.foo1로 바꿔서 return에 foo1을 리턴하면&lt;br&gt;
+객체에 foo1이 담겨서 리턴됩니다.&lt;/p&gt;
+&lt;p&gt;여기서 foo1은 지역스코프에서 찾아지지 않기 때문에&lt;br&gt;
+전역 스코프까지 찾아가서 window.foo1을 참조했다고 볼 수 있습니다.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;정답&lt;/code&gt;&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;2. {foo: &amp;#39;b&amp;#39;}&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -265,7 +387,7 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 &lt;h3 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
 &lt;/details&gt;
-&lt;hr/&gt;</content:encoded></item><item><title><![CDATA[🍓 UI, UX, Design Article 자료 번역]]></title><description><![CDATA[안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다. UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 2…]]></description><link>https://diary-blog.github.io/uilab/</link><guid isPermaLink="false">https://diary-blog.github.io/uilab/</guid><pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;hr/&gt;</content:encoded></item><item><title><![CDATA[🍓 UI, UX, Design Article 자료 번역]]></title><description><![CDATA[안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다. UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 쉐이프 디자인 (Shape…]]></description><link>https://diary-blog.github.io/uilab/</link><guid isPermaLink="false">https://diary-blog.github.io/uilab/</guid><pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -300,6 +422,10 @@ UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따�
 &lt;hr/&gt;
 &lt;h2 id=&quot;-list&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-list&quot; aria-label=&quot; list permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 List&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;[쉐이프 디자인 (Shape Design)는 무엇일까요?]&lt;/li&gt;
+&lt;li&gt;[이메일의 웹 글꼴에 대한 가이드]&lt;/li&gt;
+&lt;li&gt;[스프린트 계획을 효율적으로 유지하는 방법]&lt;/li&gt;
+&lt;li&gt;[와이어프레임 시작하기]&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#20%EA%B0%80%EC%A7%80-%EB%9B%B0%EC%96%B4%EB%82%9C-%EC%97%AC%EB%B0%B1-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%98%88%EC%A0%9C%EC%99%80-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80&quot;&gt;20가지 뛰어난 여백 디자인 예제와 모범 사례&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#2021%EB%85%84-4%EC%9B%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9D%B8%ED%84%B0%EB%9E%99%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8-top5&quot;&gt;2021년 4월 모바일 인터랙션 디자인 TOP5&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#ux-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%9D%98-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8&quot;&gt;UX 디자인 가이드의 프로토타이핑 체크리스트&lt;/a&gt;&lt;/li&gt;
@@ -326,6 +452,166 @@ UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따�
 &lt;br/&gt;
 &lt;h3 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;쉐이프-디자인-shape-design는-무엇일까요&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%89%90%EC%9D%B4%ED%94%84-%EB%94%94%EC%9E%90%EC%9D%B8-shape-design%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94&quot; aria-label=&quot;쉐이프 디자인 shape design는 무엇일까요 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;쉐이프 디자인 (Shape Design)는 무엇일까요?&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;이 글은 현대 일러스트레이션의 특정 스타일에서 사용된&lt;br&gt;
+쉐이프 디자인(Shape design)에 대해 설명합니다.&lt;/p&gt;
+&lt;p&gt;도형 디자인은 그래픽 디자인 기법입니다.&lt;br&gt;
+그래픽 일러스트레이션이나 손으로 그린 연필, 종이 등&lt;br&gt;
+어떤 종류의 이미지 메이킹 작업에도 적용할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;보다 유기적인 형태와 교차하는 기하학적 형태에 기초한&lt;br&gt;
+형태 디자인은 눈을 즐겁게 하고 현대적인 이미지를 보여줍니다.&lt;/p&gt;
+&lt;p&gt;저는 쉐이프 디자인을&lt;br&gt;
+보다 유기적인 형태와 함께 삼각형, 직사각형, S-커브 및 원 모양으로 많이 활용했습니다.&lt;/p&gt;
+&lt;p&gt;쉐이프 디자인이라는 용어를 사용할 때&lt;br&gt;
+저는 그래픽 일러스트레이션이나 이미지에 일종의 기하학적 쉐이프를 도입하는 것에 대해 말하곤 합니다.&lt;/p&gt;
+&lt;p&gt;쉐이프 디자인을 파악하는 데 유용 할 수있는 예제를 알려드리겠습니다.&lt;/p&gt;
+&lt;p&gt;좋아하는 아티스트를 선택하고 그 아티스트에게서 흥미를 끄는 특정 모양을 찾아서 복제 할 수 있는 방법을 찾아보세요.&lt;/p&gt;
+&lt;p&gt;저는 제가 좋아하는 이미지들 중 하나인 구름들이 꽤 흥미롭다는 것을 알았습니다.
+그리고 포토샵에서 그 모양을 만드는 방법을 알고 싶어졌습니다.&lt;/p&gt;
+&lt;p&gt;우리가 어떤 요소를 그리거나 묘사할 때, 보는 것보다 직접 만드는 것이 훨씬 더 잘 이해할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://uxdesign.cc/what-is-this-shape-design-thing-83f41cb64c94&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://uxdesign.cc/what-is-this-shape-design-thing-83f41cb64c94&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;이메일의-웹-글꼴에-대한-가이드&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%98-%EC%9B%B9-%EA%B8%80%EA%BC%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C&quot; aria-label=&quot;이메일의 웹 글꼴에 대한 가이드 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;이메일의 웹 글꼴에 대한 가이드&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;Arial 및 Trebuchet, Times 및 Georgia와 같은 웹 안전 글꼴은 대부분의 운영 체제에 설치됩니다.&lt;/p&gt;
+&lt;p&gt;따라서 이러한 &quot;시스템 글꼴&quot;은 이메일 클라이언트, 웹 메일 클라이언트, 앱 및 브라우저를 포함하여
+해당 운영 체제의 모든 소프트웨어에 표시되므로 &quot;웹 안전&quot;으로 분류됩니다.&lt;/p&gt;
+&lt;p&gt;보편적으로 웹 안전 글꼴은 이를 사용하여 디자인하고 개발된 이메일은 받은 편지함에서 눈에 띈다는 것을 의미합니다.&lt;/p&gt;
+&lt;p&gt;받은 편지함에서 눈에 띄는 부분은 사용자 지정 글꼴이 들어오는 곳입니다.&lt;/p&gt;
+&lt;p&gt;안타깝게도 웹에 적합한 글꼴과 달리 웹 글꼴은 대부분의 이메일 클라이언트, 웹 메일 클라이언트 및 앱에 표시되지 않습니다.&lt;/p&gt;
+&lt;p&gt;하지만 그렇다고해서 이메일에 웹 글꼴을 사용하는 것을 막을 수는 없습니다.&lt;/p&gt;
+&lt;p&gt;웹 글꼴을 표시 할 이메일 클라이언트, 웹 메일 클라이언트 및 앱, 사용할 웹 글꼴 형식 웹 글꼴을 가져올 위치 및 이를 이메일에 구현하는 방법을 알아야 합니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;웹 글꼴을 표시 할 이메일 클라이언트, 웹 메일 클라이언트 및 앱&lt;/p&gt;
+&lt;p&gt;웹 글꼴은 웹에 적합하지 않지만 표시 할 이메일 클라이언트, 웹 메일 클라이언트 및 앱을 알면 안전 할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;대부분은 Apple 운영체제 에서 찾을 수 있습니다.
+(macOS의 Microsoft Outlook 및 Thunderbird, macOS의 Mail, iOS의 Mail, iPadOS의 Mail)&lt;/p&gt;
+&lt;p&gt;글을 쓰는 시점에 Litmus의 이메일 클라이언트 시장 점유율 보고서에 따르면 전 세계 이메일의 50 % 이상이 이 소수의 이메일 클라이언트, 웹 메일 클라이언트 및 앱에서 열립니다.
+따라서 웹 글꼴을 구현하는 데 시간과 노력을 투자하여 표시 할 가치가 있습니다.&lt;/p&gt;
+&lt;p&gt;그러나 웹 글꼴을 구현하기 전에 수신자가이를 표시 할 이메일 클라이언트, 웹 메일 클라이언트 및 앱을 사용하고 있는지 확인하십시오.&lt;/p&gt;
+&lt;p&gt;받는 사람의 50% 이상이 이를 사용하고 받는사람의 50% 미만이 이를 사용하는 것일 수 있습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;사용할 웹 글꼴 형식&lt;/p&gt;
+&lt;p&gt;이제 이메일에 웹 글꼴을 구현할 준비가 되었으므로 사용할 웹 글꼴 형식을 알아야합니다.
+웹 글꼴은 다음과 같은 다양한 형식으로 제공됩니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;TrueType 글꼴 (TTF)&lt;/li&gt;
+&lt;li&gt;OTF (Open Type Format)&lt;/li&gt;
+&lt;li&gt;EOT (Embedded OpenType)&lt;/li&gt;
+&lt;li&gt;웹 오픈 글꼴 형식 글꼴 (WOFF)&lt;/li&gt;
+&lt;li&gt;웹 오픈 글꼴 형식 글꼴2 (WOFF2)&lt;/li&gt;
+&lt;li&gt;확장 가능한 벡터 그래픽 (SVG)&lt;/li&gt;
+&lt;li&gt;이메일에는 WOFF(Web Open Font Format Font) 형식 만 표시됩니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;웹 글꼴을 가져올 수 있는 위치입니다.
+기본적으로 세 가지 옵션이 있습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;무료: 다른 브랜드의 전자 메일에서 볼 수 있는 글꼴입니다.&lt;/li&gt;
+&lt;li&gt;라이센스: 다른 브랜드의 전자 메일에서 볼 가능성이 낮은 글꼴입니다.&lt;/li&gt;
+&lt;li&gt;다른 브랜드의 전자 메일에서 볼 수 없는 글꼴을 말합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;[1] Google Fonts
+Google Fonts는 수백 개의 무료 오픈 소스 글꼴 제품군을 제공하고 있습니다.
+따라서 이것이 많은 브랜드를 위한 Go-to-Font Foundry라는 것은 놀라운 일이 아닙니다.&lt;/p&gt;
+&lt;p&gt;따라서 전자 메일에서 동일한 &quot;Google 글꼴&quot;을 사용하는 브랜드를 많이 볼 수 있지만
+웹 안전 글꼴을 사용하는 브랜드는 많지 않습니다.&lt;/p&gt;
+&lt;p&gt;Google 제품에 나타나는 Google 글꼴도 볼 수 있습니다.
+Roboto는 Android 4.0 이후 부터 설치되어 있습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;[2] Envato Elements
+저렴한 가격에 프리미엄 웹 글꼴을 찾고 있다면 Envato Elements를 확인하십시오. 저렴한 비용으로 방대한 글꼴 라이브러리에 액세스 할 수 있습니다. 전문적이고 상업적인 용도로도 사용이 허가되었습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;[3] Adobe Fonts
+이전에 Typekit으로 알려진 Adobe Fonts는 수천 가지 글꼴을 제공하지만 이를 사용하려면 Creative Cloud 구독이 필요합니다. Baskerville 및 Futura와 같은 잘 알려진 이름과 Mrs Eaves XL 및 Fenwick과 같은 덜 알려진 이름이 포함됩니다.&lt;/p&gt;
+&lt;p&gt;다른 라이선스와 달리 Adobe Font 라이선스는 특정 달 내에 웹 페이지 또는 이메일에 글꼴이 업로드되는 횟수를 제한하지 않습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://webdesign.tutsplus.com/tutorials/web-fonts-for-email--cms-36847&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://webdesign.tutsplus.com/tutorials/web-fonts-for-email--cms-36847&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;스프린트-계획을-효율적으로-유지하는-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EA%B3%84%ED%9A%8D%EC%9D%84-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;스프린트 계획을 효율적으로 유지하는 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;스프린트 계획을 효율적으로 유지하는 방법&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;빠르게 움직이는 프로젝트에서는 광범위한 스프린트 계획 회의를 위한 시간을 뽑는 것이 어려울 수 있습니다. 대규모 제품 개발 프로젝트 중 하나를 위해 프로세스를 최대한 효율적으로 유지하는 방법은 다음과 같습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;최근 제 마음에 떠오른 한 가지 요소는 스프린트 계획 회의에 얼마나 많은 시간을 할애해야 하는가 입니다. &lt;/p&gt;
+&lt;p&gt;이를 실행하는 방법에는 여러 가지가 있습니다.
+구조는 방법론, 팀 규모, 프로젝트에서 현재 위치 등에 따라 다릅니다.&lt;/p&gt;
+&lt;p&gt;우리 주변의 COVID-19 전염병이 계속해서 전 세계의 환경을 변화시키고 있기 때문에&lt;/p&gt;
+&lt;p&gt;우리는 점진적이고 중요한 제품을 지속적으로 업데이트 하고 있습니다. &lt;/p&gt;
+&lt;p&gt;스프린트 계획 회의는 몇 시간 동안 지속될 수 있으며, 며칠 동안 지속될 수 있다는 이야기를 들었습니다. &lt;/p&gt;
+&lt;p&gt;모든 사람들이 그들이 무엇을 해야 하는지 확실히 아는 것에 대한 기회 비용은 엄청나게 비쌀 수 있습니다.&lt;/p&gt;
+&lt;p&gt;올바른 방법으로 수행하면 눈에 띄는 생산성 저하없이 상당한 시간을 절약 할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;방법은 다음과 같습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;스프린트 계획 준비&lt;/p&gt;
+&lt;p&gt;첫 번째 스프린트 계획 회의를 가질 준비가되면 제품 관리자로서 집중하고있는 기능 세트에 대해 최종 사용자가 수행 할 수있는 모든 작업을 거의 알고 있어야 합니다.&lt;/p&gt;
+&lt;p&gt;그 지점에 도달하는 것은 그 자체로 일련의 기사이지만 우리의 목적을 위해 개발자가 적절하게 검토 한 디자인을 승인했다고 가정 해 보겠습니다.&lt;/p&gt;
+&lt;p&gt;(일반적으로 여기에 도달하는 프로세스는 요구 사항 수집 → 디자인과 제품 및 개발자 협업 → 구성 요소 → 기능 정의입니다.)&lt;/p&gt;
+&lt;p&gt;스프린트 계획을 준비하는 첫 번째 단계는 모든 디자인을 사용자 스토리와 정의로 나누는 것입니다.&lt;/p&gt;
+&lt;p&gt;앱의 스크린 샷과 사용자 스토리로 작성된 허용 기준 목록입니다.&lt;/p&gt;
+&lt;p&gt;&quot;테스트 사이트 관리자&gt; 일정&gt; 사용자가 일정을 볼 수 있음&quot;스토리의 예입니다.&lt;/p&gt;
+&lt;p&gt;이 작업을 마치면 첫 번째 스프린트 계획 회의 (아래에서 자세히 설명)를 다음 목표에 집중할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;이 기능 세트 내의 모든 것이 최종 사용자를 위해 어떻게 작동해야하는지에 대한 공유 된 이해 구축
+첫 스프린트에서 팀이 자신있게 달성할 수 있는 것을 알아냅니다.&lt;/p&gt;
+&lt;p&gt;이 시점에서 그룹의 모든 사람은 구성 요소를 검토하고 특정 제안 된 동작의 뉘앙스에 대해 개발자와 공동 작업을 했으므로 적어도 기능 세트에 어느 정도 익숙해질 것입니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;와이어프레임-시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;와이어프레임 시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;와이어프레임 시작하기&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;와이어프레임은 웹 사이트의 뼈대이며 콘텐츠 구조와 흐름을 보여줍니다.&lt;/p&gt;
+&lt;p&gt;빠른 스케치부터 레이아웃 설계까지 다양한 수준의 와이어 프레임이 있습니다.&lt;br&gt;
+디자인을 완성하기 전에 컨텐츠와 구조에 맞춰 조정해야 합니다.&lt;/p&gt;
+&lt;p&gt;처음 웹 사이트를 만들거나 간단한 랜딩 페이지를 디자인 할 때&lt;br&gt;
+디자인 프로그램으로 바로 디자인을 시작하고 싶을 것입니다.&lt;/p&gt;
+&lt;p&gt;와이어 프레임이 무엇인지, 왜 중요한지 자세히 알아보고,&lt;br&gt;
+웹 디자인을 위한 다른 와이어 프레임 예제에서 배우고,&lt;br&gt;
+처음으로 와이어프레임을 만드는 경우 자신만의 와이어 프레임을 만드는 방법을 알아 보겠습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;와이어프레임이란 무엇입니까?&lt;br&gt;
+와이어프레임은 웹 디자인 프로젝트의 시작 단계에서 생성됩니다.&lt;/p&gt;
+&lt;p&gt;영감을 수집하거나 조사한 후 고객과 비즈니스 목표를 일치시키고 그 정보를 와이어프레임으로 변환합니다.&lt;br&gt;
+이러한 와이어프레임은 클라이언트에게 전달하는 방법을 나타내는 지도가 됩니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;와이어프레임에 무엇을 포함해야 합니까?&lt;br&gt;
+스케치로 시작하는지 아니면 높은 충실도의 와이어 프레임을 작업하는지 여부에 따라 포함된 요소의 상세도가 결정됩니다.&lt;/p&gt;
+&lt;p&gt;예를 들어, 스케치나 레이아웃 설계 단계에서는&lt;br&gt;
+박스를 사용하여 페이지를 분할하고 헤드라인과 본문 사본의 위치를 나타내는 선을 사용합니다.&lt;br&gt;
+박스에 음영을 넣거나 X 표시로 그림이나 사진을 나타낼 수 있습니다.&lt;/p&gt;
+&lt;p&gt;높은 충실도의 모의 실행에서는 Lorem Ipsum 텍스트를 포함시켜서&lt;br&gt;
+실제로 타이포그래피의 크기와 위치를 표시할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;다양한 회색 음영을 사용하여 다양한 유형의 콘텐츠를 표시할 수 있으며&lt;br&gt;
+특정 요소를 강조 표시하는데 도움이 되는 색을 하나 추가할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://uxplanet.org/getting-started-with-wireframing-8bf5eedd2d30&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://uxplanet.org/getting-started-with-wireframing-8bf5eedd2d30&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/details&gt;
 &lt;hr/&gt;
 &lt;h3 id=&quot;20가지-뛰어난-여백-디자인-예제와-모범-사례&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#20%EA%B0%80%EC%A7%80-%EB%9B%B0%EC%96%B4%EB%82%9C-%EC%97%AC%EB%B0%B1-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%98%88%EC%A0%9C%EC%99%80-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80&quot; aria-label=&quot;20가지 뛰어난 여백 디자인 예제와 모범 사례 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;20가지 뛰어난 여백 디자인 예제와 모범 사례&lt;/h3&gt;
@@ -414,8 +700,8 @@ UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따�
 &lt;blockquote&gt;
 &lt;p&gt;단락의 컬럼 너비와 마진이 너무 넓지 않은지 확인합니다. 즉, UI의 양쪽에 충분한 양의 가로 공간을 포함해야 합니다. 이렇게 하면 단락의 가독성이 향상되고 텍스트가 눈에 더 편해집니다. 마진 크기를 줄이려면 단락 당 하나의 아이디어를 포함해보세요.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;.
-. &lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
 &lt;a href=&quot;https://www.justinmind.com/blog/white-space-design/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.justinmind.com/blog/white-space-design/&lt;/a&gt;&lt;/p&gt;
@@ -1843,6 +2129,7 @@ Google Analytics를 처음 열면 복잡해 보일 수 있습니다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;-list&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-list&quot; aria-label=&quot; list permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 List&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%EA%B2%B0%EB%A1%A0%EC%9D%80-%EB%91%90%EA%B0%80%EC%A7%80-%EB%BF%90&quot;&gt;결론은 두가지 뿐&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#%EC%98%88%EC%81%98%EA%B2%8C-%EB%A7%90%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%A2%8B%EC%8A%B5%EB%8B%88%EB%8B%A4&quot;&gt;예쁘게 말하는 사람이 좋습니다&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#%EC%86%8C%EC%8B%9C%EC%98%A4%ED%8C%A8%EC%8A%A4%EC%97%90%EA%B2%8C-%EB%8B%B9%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C&quot;&gt;소시오패스에게 당하지 않으려면 어떻게 해야할까&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#%EB%A7%88%EC%9D%8C%EC%9D%B4-%EB%8B%A4%EC%B3%A4%EC%9D%84%EB%95%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C&quot;&gt;마음이 다쳤을때는 어떻게 해야할까&lt;/a&gt;&lt;/li&gt;
@@ -1850,6 +2137,15 @@ Google Analytics를 처음 열면 복잡해 보일 수 있습니다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;-essay&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-essay&quot; aria-label=&quot; essay permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 Essay&lt;/h2&gt;
 &lt;br/&gt;
+&lt;h3 id=&quot;결론은-두가지-뿐&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B2%B0%EB%A1%A0%EC%9D%80-%EB%91%90%EA%B0%80%EC%A7%80-%EB%BF%90&quot; aria-label=&quot;결론은 두가지 뿐 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;결론은 두가지 뿐&lt;/h3&gt;
+&lt;p&gt;작년에 이어서 계속 글을 길게 자주 작성하였는데&lt;br&gt;
+아무리 생각을 많이 하고 글을 길게 작성하여도&lt;br&gt;
+결론은 두가지 뿐 같습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;한다  &lt;/li&gt;
+&lt;li&gt;안한다&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
 &lt;h3 id=&quot;예쁘게-말하는-사람이-좋습니다&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%88%EC%81%98%EA%B2%8C-%EB%A7%90%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%A2%8B%EC%8A%B5%EB%8B%88%EB%8B%A4&quot; aria-label=&quot;예쁘게 말하는 사람이 좋습니다 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;예쁘게 말하는 사람이 좋습니다&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
 &lt;p&gt;그동안 살면서 주위 사람들에게 평가 라는것을 신경쓰고 살아온적이 없었는데&lt;br&gt;
@@ -2947,828 +3243,4 @@ p&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;documentation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#documentation&quot; aria-label=&quot;documentation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://sass-lang.com/documentation&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://sass-lang.com/documentation&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🥗 샐러드 메뉴 선택하는 슬라이드(캐러셀) 만들기]]></title><description><![CDATA[Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.   주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :)  1 샐러드 캐러셀 만들고 채식과 친해지자! 1 HTML 2 CSS…]]></description><link>https://diary-blog.github.io/salad-carousel-slide/</link><guid isPermaLink="false">https://diary-blog.github.io/salad-carousel-slide/</guid><pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8ea290c6a3c797c2b78ff51a5021514e/5a190/sl2.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQoz2NgwAFKJhkxlEw0ZCifasiQ0m7AlDlBn6lxiTZDAxAXz9BlIBkUTzJgyO/TYyiZrM8Q16zNkDFBn6FxmQZD03IthqKZOuQYqM9Q0K/LUDpZTyypTccgc6K+dc1CTfbaRVoMhTPIMLBskh1TzTQnhsZZToYJTWZf0nr17i/cr8c7c5cWQ9lMfdINLK2ewFA4UZGxaIIqQ2mflXv5FAO/8CwzBjtPW4aG+QakG9jQW8xw41Etw68/vQxm4ZoMAl5yDMv2mzPM3W7IUDvXgKFhoRapXrZlWLEnmqFwmgxD1WxNweq5moKFU9UYpmzUY6hboEO6gfVADfULNEGYG6jZGIgtgGw+sBhQrmGhJolehmoCYr6GBVqyQL4iEItBxLXIcaEmCkY2CJ+BAFeJcMiHrDNIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;sl2&quot;
-        title=&quot;sl2&quot;
-        src=&quot;/static/8ea290c6a3c797c2b78ff51a5021514e/5a190/sl2.png&quot;
-        srcset=&quot;/static/8ea290c6a3c797c2b78ff51a5021514e/772e8/sl2.png 200w,
-/static/8ea290c6a3c797c2b78ff51a5021514e/e17e5/sl2.png 400w,
-/static/8ea290c6a3c797c2b78ff51a5021514e/5a190/sl2.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Swiper 3D Coverflow Effect 를 참고하여 슬라이드를 제작하려합니다.  &lt;/p&gt;
-&lt;p&gt;주석을 천천히 읽다보면 만드는 방법은 정말 쉽고 누구나 따라하실 수 있습니다! :)&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8217edb8e16270f45ba50bbcafddfb24/aa878/2020-12-21-05-48-56.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 70.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC1ElEQVQoz01Ra0hTYRg+P/tX0o8MKipwSn9kkoHaKCpUlCgRTDIxG2KCSTTMcunUuXkprQi3mvecm7fKZTqdzUVos9AKzc1rczPY5rl95+ZK//SdndReDt93eN/ned7nfT+EIAgAAE1TFCWcFC1cfACWZRmGZhiOYdidEkkSOI5DFgJIEoJ4IADUbgCfz+fxeNbWPDhOeP0uDPfzTJqHAcghSZ5M08Ek/+0GZK+6XE6nc84x5/ehM4vDHq+DY38H3dHbJ4XseIR6ggr0CQ3CMxDY4DiOZmhoHcZ/0oAKsvjOzHZNAMD/oBblX1/DMO/OtDDgCoRGAgyh/pFZgsBQ1Cv0FOwsLy+73W7YHFYFaZzwk4AMalE8GcdRuDroDWZRDIUpkl8hBV/hx9zswsI8xPHrIfmh3KursAMcEMNQmIS22a2tTRwlPo1P2Eatfq/vz+YmDUiOpny+dQwjNgIbNCCYAD+8H/OR/FMBjmNJwCANmrK3/QPp0uTwqKPHIg9FiiO6DEY3ABbHjOmb2fR5wP7F/osgfk5/n5+2TnUZxvt0rhW707Eou5uGlNxJQRAk6faJitZrLQ/iCvMTiwwaTVdpo/xKoSpUb7g+Kcvr0FXoXxntJu3H5tL2YsnIU+lIb09xbRiSeelcWoKoWy2pbrzcXJVsHH5R2ZNhViTOqrP1TSlWs8phHS2IP1xpU7+3dFjKY/W6aJuxyLu08m5QgUTHRNS1pI625yqenVcPNDw2yYtr9totzZR7sbfppkJ1JD0z8p78xtBUVpu9YuxJgSo/pKr+zJu2LPtEH5J0IapeFqN9KW0wZA5ah3IkJ8VxIepb4bXZsYWlx7Nz9yvzwjXPT5c8DJUbz/aOaRtrRbK8g7pHYR9sVUhKqrg8Q6JSiWTajMml+dfqstarCTXqA8r4fZODyv7u6q/K+3VS0amEPRdz4jqGte1lUnOnrk4pNnQm/QXlhHhaQLr37QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 48 56&quot;
-        title=&quot;2020 12 21 05 48 56&quot;
-        src=&quot;/static/8217edb8e16270f45ba50bbcafddfb24/5a190/2020-12-21-05-48-56.png&quot;
-        srcset=&quot;/static/8217edb8e16270f45ba50bbcafddfb24/772e8/2020-12-21-05-48-56.png 200w,
-/static/8217edb8e16270f45ba50bbcafddfb24/e17e5/2020-12-21-05-48-56.png 400w,
-/static/8217edb8e16270f45ba50bbcafddfb24/5a190/2020-12-21-05-48-56.png 800w,
-/static/8217edb8e16270f45ba50bbcafddfb24/c1b63/2020-12-21-05-48-56.png 1200w,
-/static/8217edb8e16270f45ba50bbcafddfb24/aa878/2020-12-21-05-48-56.png 1385w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;1-샐러드-캐러셀-만들고-채식과-친해지자&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%EC%83%90%EB%9F%AC%EB%93%9C-%EC%BA%90%EB%9F%AC%EC%85%80-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%B1%84%EC%8B%9D%EA%B3%BC-%EC%B9%9C%ED%95%B4%EC%A7%80%EC%9E%90&quot; aria-label=&quot;1 샐러드 캐러셀 만들고 채식과 친해지자 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[1] 샐러드 캐러셀 만들고 채식과 친해지자!&lt;/h2&gt;
-&lt;img alt=&quot;html5&quot; width=&quot;40px&quot; src=&quot;https://img.icons8.com/color/240/000000/html-5.png&quot;&gt;
-&lt;h3 id=&quot;1-html&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-html&quot; aria-label=&quot;1 html permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[1] &lt;a href=&quot;https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/index.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;HTML&lt;/a&gt;&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- index.html --&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- [1] 내가만들 스타일시트 연결
-         swiper 스타일시트도 같이 연결하고
-         인덱스 타이틀 작성 --&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;rel&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;stylesheet&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://unpkg.com/swiper/swiper-bundle.css&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;rel&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;stylesheet&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;style.css&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Salad carousel&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- [2] 샐러드 타이틀 작성하고
-         상큼한 민트잎 하나 추가~ --&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;title&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Salad Collection&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;2021년엔 샐러드 먹고 다이어트 성공해보자! &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;br&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt; 내가 먹는건 모두 100칼로리!&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./img/5.png&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;leaf&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;leaf&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- [3] 슬라이드를 배치할 섹션 작성 
-         슬라이드 안에 내용을 수정하고싶다면
-         swiper-slide class 자식부분에 내용을 추가로 넣으면 됩니다.
-         전 메뉴판을 menu 클래스에 넣고 a tag에 샐러드 이미지를 넣어서
-         이미지를 클릭하면 해당 샐러드 정보로 이동하도록 만드려합니다.
-         샐러드는 총 4가지 종류로 준비하였습니다.
---&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;section&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;slider&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;swiper-container&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;swiper-wrapper&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;swiper-slide&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;menu&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Salad1&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Olive, onion&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Tomato&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Cucumber&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;vegetable&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;mozzarella&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;kcal&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;100 kal&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;a&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;#&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./img/1.png&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad-img&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;a&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;swiper-slide&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;menu&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Salad2&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Cabbage&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Lettuce&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Carrot&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;vegetable&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;kcal&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;100 kal&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;a&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;#&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./img/2.png&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad-img&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;a&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;swiper-slide&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;menu&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Salad3&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Lettuce&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;tomato&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;vegetable&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;chicken breast&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;kcal&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;100 kal&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;a&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;#&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./img/3.png&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad-img&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;a&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;swiper-slide&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;menu&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Salad4&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;vegetable&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;tomato&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Cucumber&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;onion&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;kcal&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;100 kal&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;a&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;#&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./img/4.png&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad-img&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;salad&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-          &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;a&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;section&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- [4] 모바일에서 터치 잘되는 swiper 슬라이드 CDN 추가하고
-         슬라이드 옵션 적용할 스크립트 추가하면 기본 html 작성 완료! --&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://unpkg.com/swiper/swiper-bundle.js&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./script.js&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;text/javascript&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img alt=&quot;css3&quot; width=&quot;40px&quot; src=&quot;https://img.icons8.com/color/240/000000/css3.png&quot;&gt;
-&lt;img alt=&quot;sass&quot; width=&quot;40px&quot; src=&quot;https://img.icons8.com/color/240/000000/sass.png&quot;&gt;
-&lt;h3 id=&quot;2-css-scss&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-css-scss&quot; aria-label=&quot;2 css scss permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[2] CSS &lt;a href=&quot;https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/style.scss&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;(SCSS)&lt;/a&gt;&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;/* style.scss */&lt;/span&gt;
-&lt;span class=&quot;token comment&quot;&gt;/* 스압을 줄이기 위해 한줄로 작성하였습니다 */&lt;/span&gt;
-
-
-&lt;span class=&quot;token comment&quot;&gt;/* break point를 break-m 변수로 지정 */&lt;/span&gt;
-$&lt;span class=&quot;token property&quot;&gt;break-m&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 768px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;/*
-폰트는 google font에서 동글동글한 Poppins 폰트를 사용하였습니다.
-샐러드가 동그란 접시에 담겨있고
-슬라이드가 무한 loop로 계속 이동되고
-좌우 에서 중앙으로 슬라이드가 배치될때 스케일이 조금 커지는 느낌을
-그대로 전달하기 위해서 동글동글한 폰트로 적용하였습니다.
-적용하고나니 잘어울립니다!
-*/&lt;/span&gt;
-&lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@import&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&quot;&lt;span class=&quot;token property&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;//fonts.googleapis.com/css2?family=&lt;span class=&quot;token property&quot;&gt;Poppins&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;wght&lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@200&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;300&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;400&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;500&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;600&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;700&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;800&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;900&amp;amp;display=swap&quot;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-
-&lt;span class=&quot;token comment&quot;&gt;/* [1] reset css가 따로 없는 상태에서
-       전체화면에 적용하기위해 브라우저의 기본 스타일값 초기화 */&lt;/span&gt;
-&lt;span class=&quot;token selector&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;box-sizing&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; border-box&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;/* [2] body에 폰트 추가하고
-   백그라운드에 벽지 이미지를 적용해줍니다. */&lt;/span&gt;
-&lt;span class=&quot;token selector&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Poppins&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sans-serif&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token url&quot;&gt;&lt;span class=&quot;token function&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string url&quot;&gt;&apos;./img/bg.jpg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;overflow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; hidden&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;background-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; cover&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;/* [3] 샐러드 타이틀, 부제 설명, 민트잎 중앙으로 위치 잡기 */&lt;/span&gt;
-&lt;span class=&quot;token selector&quot;&gt;.title&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 35vh&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;/* 슬라이드를 메인으로 둘거라서 텍스트만 있는
-     타이틀의 포지션은 absolute로 슬라이드보다 아래 레이어로 적용 */&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; absolute&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  
-  &lt;span class=&quot;token comment&quot;&gt;/* 텍스트 세로로 중앙 정렬 */&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;flex-direction&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; column&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;align-items&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;text-align&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-  &lt;span class=&quot;token comment&quot;&gt;/* 부제 설명은 그레이컬러로 적용
-     (타이틀의 컬러는 기본으로 #000이 적용되어 있습니다.) */&lt;/span&gt;
-  &lt;span class=&quot;token selector&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #adadad&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;/* 민트잎 위치 배치하기
-     타이틀의 포지션이 absolute 라서
-     민트의 부모는 title이 아닌 body를 기준으로 배치됩니다. */&lt;/span&gt;
-  &lt;span class=&quot;token selector&quot;&gt;.leaf&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 70px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; absolute&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 400px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;top&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;bottom&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; auto&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;/* 반응형으로 화면이 작아지면 민트잎을 안보이게 숨겨두었습니다. */&lt;/span&gt;
-    &lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@media&lt;/span&gt; screen &lt;span class=&quot;token keyword&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token property&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; $break-m&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; none&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;/* [4] 슬라이드에 스타일을 적용해봅시다. */&lt;/span&gt;
-&lt;span class=&quot;token selector&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;/* 섹션에 전체화면을 기본을 주고
-     슬라이드를 중앙 아래로 배치합니다. */&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100vh&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;align-items&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex-end&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-  &lt;span class=&quot;token comment&quot;&gt;/* [4-1] 슬라이드 */&lt;/span&gt;
-  &lt;span class=&quot;token selector&quot;&gt;.slider&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;/* 슬라이드의 사이즈를 section에 맞게 배치하고,
-       slider안에 컨텐츠는 아래로(bottom) 배치해줍니다. */&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex-end&lt;span class=&quot;token selector&quot;&gt;;
-
-    .swiper-container&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;token comment&quot;&gt;/* 전체 슬라이드의 가로 폭은 100%로 슬라이드를 모두 보여줍니다.
-         margin-bottom 으로 아래를 기준으로 슬라이드를 -100px으로 내려줍니다. */&lt;/span&gt;
-      &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-      &lt;span class=&quot;token property&quot;&gt;margin-bottom&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; -100px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-      &lt;span class=&quot;token comment&quot;&gt;/* 슬라이드 한개당 가로 사이즈는 400px로 주고 */&lt;/span&gt;
-      &lt;span class=&quot;token selector&quot;&gt;.swiper-slide&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 400px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;token property&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; relative&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-        &lt;span class=&quot;token comment&quot;&gt;/* 메뉴 텍스트와 이미지를
-           세로로 가운데 정렬로 배치해줍니다. */&lt;/span&gt;
-        &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;flex-direction&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; column&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;token property&quot;&gt;text-align&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-        &lt;span class=&quot;token comment&quot;&gt;/* [4-1-1] 메뉴 텍스트 스타일 적용 */&lt;/span&gt;
-        &lt;span class=&quot;token selector&quot;&gt;.menu&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-          &lt;span class=&quot;token comment&quot;&gt;/* 메뉴의 높이는 &amp;lt;p&gt;&amp;lt;/p&gt; 텍스트에 따라서
-             높이가 달라지기에 auto로 주었습니다. */&lt;/span&gt;
-          &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; auto&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-          &lt;span class=&quot;token comment&quot;&gt;/* 텍스트를 세로로 배치하고 중앙으로 정렬해줍니다. */&lt;/span&gt;
-          &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;flex-direction&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; column&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-          &lt;span class=&quot;token property&quot;&gt;align-items&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-          &lt;span class=&quot;token comment&quot;&gt;/* 텍스트의 사이즈를 지정해줍니다.
-             (반응형시 더 작은 폰트사이즈로 적용)*/&lt;/span&gt;
-          &lt;span class=&quot;token selector&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0.875rem&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@media&lt;/span&gt; screen &lt;span class=&quot;token keyword&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token property&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; $break-m&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-              &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0.625rem&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-          &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-          &lt;span class=&quot;token comment&quot;&gt;/* 제목이 되는 첫번째 텍스트에 컬러와 line 스타일을 정해주었습니다.
-             현재는 제목 텍스트 길이에 맞게 라인의 길이가 지정되어있습니다.
-             만약 라인의 width를 원하는 길이대로 주고 싶다면 border-bottom 말고
-             가상요소 속성인 ::before로 스타일을 적용하는것을 추천합니다.
-             예를들어 p:nth-of-type(1)::before {} 으로 주거나
-             직접 제목 클래스를 지정해줘서 (ex: .menu-title)
-             .menu-title::before {} 으로 작성하시면 됩니다.
-             */&lt;/span&gt;
-          &lt;span class=&quot;token selector&quot;&gt;p:nth-of-type(1)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;token comment&quot;&gt;/* 메뉴 제목 컬러를 지정해주않으면 기본은 #000 입니다. */&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #9ba91f&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; auto&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token comment&quot;&gt;/* 텍스트와 라인의 빈 공간 */&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;padding-bottom&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 8px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token comment&quot;&gt;/* 라인과 아래 텍스트의 빈 공간 */&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;margin-bottom&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  8px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token comment&quot;&gt;/* 라인 컬러 지정 */&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;border-bottom&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 1px solid #898989&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-          &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-          &lt;span class=&quot;token comment&quot;&gt;/* 칼로리 텍스트를 메뉴 텍스트와 차별을 주기 위하여
-             컬러를 변경하고, 폰트사이즈를 조금 줄인다음
-             간격을 조금 띄워서 배치해주었습니다. */&lt;/span&gt;
-          &lt;span class=&quot;token selector&quot;&gt;.kcal&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #898989&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;margin-top&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0.75rem&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-          &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-        &lt;span class=&quot;token comment&quot;&gt;/* [4-1-2] 샐러드 이미지 스타일 적용 */&lt;/span&gt;
-        &lt;span class=&quot;token selector&quot;&gt;.salad-img&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-          &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-          &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 150px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-          &lt;span class=&quot;token comment&quot;&gt;/* 미디어쿼리로 브라우저가 줄어들시 break point를 주어서
-             이미지 사이즈를 줄여주었습니다. */&lt;/span&gt;
-          &lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@media&lt;/span&gt; screen &lt;span class=&quot;token keyword&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token property&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; $break-m&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 50px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-          &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-          &lt;span class=&quot;token comment&quot;&gt;/* 샐러드를 이미지는 부모인 .swiper-slide 보다 가로 길이가 크기 때문에
-             position을 absolute로 주고 좌측 -100px만큼 이미지를 조금 이동하고,
-             이미지 사이즈는 해상도가 높아서 가로세로 사이즈를 600으로 고정시켰습니다. */&lt;/span&gt;
-          &lt;span class=&quot;token selector&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;token selector&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-              &lt;span class=&quot;token property&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; absolute&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; -100px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-              &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 600px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 600px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-              &lt;span class=&quot;token comment&quot;&gt;/* 모바일에서는 이미지의 가로 고정픽셀을 해제하고
-                 100%로 주어서 샐러드가 화면에 맞춰서 잘나오게 해줍니다. */&lt;/span&gt;
-              &lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@media&lt;/span&gt; screen &lt;span class=&quot;token keyword&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token property&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; $break-m&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-                &lt;span class=&quot;token property&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-                &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; auto&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-              &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; 
-            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-          &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;/* 가운데 보이는 슬라이드를 양쪽에 있는 슬라이드보다
-        강조되어 보이도록 스케일을 1.5로 적용해주었습니다. */&lt;/span&gt;
-    &lt;span class=&quot;token selector&quot;&gt;.swiper-slide-active&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;token property&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;scale&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;1.5&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token important&quot;&gt;!important&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img alt=&quot;javascript&quot; width=&quot;40px&quot; src=&quot;https://img.icons8.com/color/240/000000/javascript.png&quot;&gt;
-&lt;h3 id=&quot;3-js&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-js&quot; aria-label=&quot;3 js permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[3] &lt;a href=&quot;https://github.com/fe-w/interaction/blob/main/ui/3-1-Salad/script.js&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JS&lt;/a&gt;&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;/* script.js */&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; swiper &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Swiper&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;.swiper-container&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  effect&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;coverflow&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;   &lt;span class=&quot;token comment&quot;&gt;// swiper 3D의 이펙트 이름은 coverflow 입니다.&lt;/span&gt;
-  grabCursor&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;      &lt;span class=&quot;token comment&quot;&gt;// 슬라이드 위에 마우스를 올리면 커서모양이 grab 모양으로 바뀝니다.&lt;/span&gt;
-  centeredSlides&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;token comment&quot;&gt;// 첫번째 슬라이드를 가운데 정렬로 적용합니다.&lt;/span&gt;
-  slidesPerView&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;auto&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 중앙에 있는 슬라이드를 제외한 좌/우 슬라이드 갯수를 설정합니다.&lt;/span&gt;
-
-  &lt;span class=&quot;token comment&quot;&gt;// 기본적으로 swiper 3D에 적용되어있는 속성을 지정해줍니다.&lt;/span&gt;
-  coverflowEffect&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    rotate&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;           &lt;span class=&quot;token comment&quot;&gt;// 중앙에 있는 이미지를 제와한 양쪽에 슬라이드 회전 각도 입니다.&lt;/span&gt;
-                         &lt;span class=&quot;token comment&quot;&gt;// rotate 속성을 0 으로 주어서 각도가 회전하지 않도록 합니다.&lt;/span&gt;
-    stretch&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;          &lt;span class=&quot;token comment&quot;&gt;// 슬라이드 간에 거리&lt;/span&gt;
-    depth&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;            &lt;span class=&quot;token comment&quot;&gt;// 숫자가 커지면 중앙을 point로 잡고 perspective로 원근법이 적용됩니다.&lt;/span&gt;
-    modifier&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;         &lt;span class=&quot;token comment&quot;&gt;// 중앙에 있는 active된 슬라이드의 이미지가 맨 위 레이어처럼 보입니다.&lt;/span&gt;
-    slideShadows&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 기본적으로 적용되어있는 shadow 그라데이션을 false로 해제해줍니다.&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;// 슬라이드가 끝나는 지점에 다시 첫번째 슬라이드가 나오도록 loop를 true로 적용해주었습니다.&lt;/span&gt;
-  loop&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;4-샐러드-이미지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4-%EC%83%90%EB%9F%AC%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80&quot; aria-label=&quot;4 샐러드 이미지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[4] 샐러드 이미지&lt;/h3&gt;
-&lt;p&gt;이제 html, css, js 슬라이드를 적용했으니&lt;br&gt;
-포토샵으로 간단하게 샐러드만 누끼를 따서 샐러드 4종을 준비해봅시다!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;준비한 샐러드 4종 이미지 (참고자료에 링크가 있습니다.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 767px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0a6339cfa4abfa2b23264336673e310c/6c2f2/2020-12-21-04-35-20.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 15.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAwklEQVQI1wG3AEj/AElHQlFOKZmCRlpQMpOPiauunpSQesSthLeunsO9tK6fkn5oV3hyTWFhMXhzb+ji1szMv6aheqGbgcG+uQBAPzRVTxu7mEZGPxx+e36Wm4CSi2q4oGOslHq5opWvoJJ1XUmAeEN4djRvbmjm3s6prpWYhVCalXHBwLwAQkNBSkQtdWwvISQWdnZ5x8bAr6ucpZ96pJFxxrWpqZmRak5CW1w1Pj0bcmpm9vb3vcC2raiUqqmez87Ru6hdwpdm1WIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 04 35 20&quot;
-        title=&quot;2020 12 21 04 35 20&quot;
-        src=&quot;/static/0a6339cfa4abfa2b23264336673e310c/6c2f2/2020-12-21-04-35-20.png&quot;
-        srcset=&quot;/static/0a6339cfa4abfa2b23264336673e310c/772e8/2020-12-21-04-35-20.png 200w,
-/static/0a6339cfa4abfa2b23264336673e310c/e17e5/2020-12-21-04-35-20.png 400w,
-/static/0a6339cfa4abfa2b23264336673e310c/6c2f2/2020-12-21-04-35-20.png 767w&quot;
-        sizes=&quot;(max-width: 767px) 100vw, 767px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;먼저 레이어를 하나 추가하고, 원형 툴을 선택한다음&lt;br&gt;
-이미지에서 마우스를 왼쪽을 클릭하고, 키보드에서 shift 키를 누를 상태에서&lt;br&gt;
-왼쪽에서 오른쪽으로 드래그하면서 원형을 그려줍니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cde4740b39ce67cd4485075e30c41c19/7e111/2020-12-21-05-23-09.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACtUlEQVQoz1WT7U9ScRTH+TfapBfIveAcIulCHlzBvTxdhKuISVgzl2LWxFpb6VprttlWbebmi9CJmGGYBPk4RLFQkqlwdYURWC23fEgJe6FrvexwsRd9X5wXv3M/v+/5nXMug6BVQauSlsFg0Gq1aloajSYbQSqVSqlUQkqv15MkqdPpGCUlwlO0ikB0gJg94fP5hXy+QCAoFGRE54rgCrAxGo3gwcjPz+dyuWKJWCQSSSQSqVQKQSg8XVxcfAYkk0lLS8ViMaQKCgpYLBbAVmtzfX2DyWRicDgc+Cb8bnEtGk0mksnkRjKRiCxRdodzzDs6Yrf5x1/7pyapaMRisTCZTCj74oUaMC8rK2NwuQCfjcXiW9up3Z0fO9tbewfpwPq0y9/jXwy4nIPPOzvmpqc+rscaaRgeT5LlcAV0KuMsk2HxD9R6ZHSViqRSBzPBiftdWPONE90toqf2J76F2ZG+h8HZibq6upNMJjDwWrAFnoGiiFKtfzvWGXELQ0Ff/NvmK0frg7vS4XvnnTd5j+yKFzND7Ve1Pu9Ag6URnAmNJgvTziiKYfjm18/UirOiuqTddsczdNvTY7bdwmxWSX/vpfHQ5Nrqe2hG05UmuuzMXGFO/8qWy/b2fn3fj1++hj/u6vYtedrbpI42c0erbGxuYNjjmQ/Oxz8lAM7JyTGUE0Zj5XHZAMvl8q3t3cOjPwfpnzGKCkXCDvdAYH5mOPisb7Df2dfrfelKbnyxWq8DTBDq/5wxDNtPpQ+PfqdS6Vh0JbYcXnwTCC0Eo+HlKY/b6xoadY9sANzSAjCOK7LrlYFhSWD6tbWXoJkQTVVV1cZKQq0ykHrTuSq9VkvqoELCbK6BPYElwXEc4OOGwcbxeDyEzWbRYoMQBOVwEATO2CgMA4GA5rJz8/LywEmhUGT/ArjiL/XaRf3L8nTAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 23 09&quot;
-        title=&quot;2020 12 21 05 23 09&quot;
-        src=&quot;/static/cde4740b39ce67cd4485075e30c41c19/5a190/2020-12-21-05-23-09.png&quot;
-        srcset=&quot;/static/cde4740b39ce67cd4485075e30c41c19/772e8/2020-12-21-05-23-09.png 200w,
-/static/cde4740b39ce67cd4485075e30c41c19/e17e5/2020-12-21-05-23-09.png 400w,
-/static/cde4740b39ce67cd4485075e30c41c19/5a190/2020-12-21-05-23-09.png 800w,
-/static/cde4740b39ce67cd4485075e30c41c19/c1b63/2020-12-21-05-23-09.png 1200w,
-/static/cde4740b39ce67cd4485075e30c41c19/29007/2020-12-21-05-23-09.png 1600w,
-/static/cde4740b39ce67cd4485075e30c41c19/7e111/2020-12-21-05-23-09.png 1627w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;원형을 색칠하기 위해서 단축키 alt + backspace나 ctrl + backspace 를 눌러줍니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2319044cc7cfb09bd5adfbcd076c3865/7e111/2020-12-21-05-27-49.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACsElEQVQoz12T20/TcBSAq5AY/wIfZDzgthLATsZk4bIbZYytu9INcGFgBuOBGfUP4MEHY0xI4AGfCCgaAgKCXJY4wLGNMYSVKWSDwUTjDRbGJSqY+MLqadFE/ZqenLT5fufk9BRRsxhZqlhMJpNGo1GpVJWA6hQmrWAhCEKv1xsMBoiIWCzOZxEKhflCJp4mAIZhAoHgyh/geUFBAZwCp1ssFpIkkdzc3OzsbEmppKSkRCKRSKVSCMVFheLCqwq5TIHjUpmsFF6VSgQYlpWVBW3evtXicDisVisCpkwmCwaCYSoUi23E4N7YnFtYfdDVNzw6/bSn2z32zO2aoEJLjXY7h8PRarV1dVYozrQNslwuj0ZjX7b3EonE9k4CrmTkXjJIrM1cH3jY/rijbdbtWotGmhobQYZxGIxGggVBUVRRhq9HwhFq5E2Y2tn9drTSQHuQlDednkP2F4pfvHQNdt/3zUzU1zdkZmaCDEPVsiB8Pq+i0uAdb18eLvT5Zj9tBVL+87QXSfnST7xnaT/imWxtdZJTY712exNUJggN9Pxbhso4Xv7x/bsw1UdUSzs7a+jAuRQjn0n50mgfsuS5S628jW9uOBzNIKvV/8plZYrd5NfPyWjzTVVbe8cxpYDKJ/40OoDsui8MDnT554Lr6zGQMzIyzCbCTJJ/yzjM6fj45+Hh/urrVSro+jCjPJi+GJ/M739050lP7/Ohgc34VovTCTJBqP9rG0/uHXw/+rGXPIgsL66EQp4pT8DjfjW/ODEyPtrfNzY8FI9vOZ03QIYlg/XS6XSMDEtyGcNsNphlg81mqzaTliqjRlVu1BtqzKRWU6nTQjF1be21oqJiWBKlUgkymMynEolEsIY8Hu8SC5fHAO3w+HzI+SjKB1CUy+Xm5OTk5eVBZWgbdhP+hV9O3Ek8WARWFwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 27 49&quot;
-        title=&quot;2020 12 21 05 27 49&quot;
-        src=&quot;/static/2319044cc7cfb09bd5adfbcd076c3865/5a190/2020-12-21-05-27-49.png&quot;
-        srcset=&quot;/static/2319044cc7cfb09bd5adfbcd076c3865/772e8/2020-12-21-05-27-49.png 200w,
-/static/2319044cc7cfb09bd5adfbcd076c3865/e17e5/2020-12-21-05-27-49.png 400w,
-/static/2319044cc7cfb09bd5adfbcd076c3865/5a190/2020-12-21-05-27-49.png 800w,
-/static/2319044cc7cfb09bd5adfbcd076c3865/c1b63/2020-12-21-05-27-49.png 1200w,
-/static/2319044cc7cfb09bd5adfbcd076c3865/29007/2020-12-21-05-27-49.png 1600w,
-/static/2319044cc7cfb09bd5adfbcd076c3865/7e111/2020-12-21-05-27-49.png 1627w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ctrl + D 로 원형 선택을 해제해주고&lt;br&gt;
-키보드 숫자키 1~0 중에 하나를 누르면 10~100% 안에서 opacity가 적용됩니다.&lt;br&gt;
-저는 3을 눌러서 30%를 적용해주었습니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f642fb5b89d5b3711bab9846ba9e1909/ddf4f/2020-12-21-05-28-19.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACtklEQVQoz2WT609SYRjA+dK/0JfAFLkzXXGZXDRADAXOARS1i7AJsqX2odr8WK0vOZ1pZWuuNBtq3hNCp+hEGCTKfSoZkFZzEU4kW/ePPRy3dOu38z57z/ue33mf97zPwSkRRC6XV1ZWVh9DhaoU/1GBoVQqVRgoiuL4fB6LxWKz2RwO5zBy2Bw2iw2DZzDOZmFBgxkulwsrqTUaLQaOwWDQaDSBQMDn8YQCoVBYDK2oiMvlsEWicyKJpLikRMDnw1RBQUFeXh6kcP1as8lkqqurw4EpEolXvauRUDARf5eIJ+DyrUZ6nw9bLdPj/U8Xpq0LczOhYMBgMBAIBARB9LrLsE3IPCuLxeI30dinZDqVSiWTyd39/XB02O24vewxj5j7BrpanfOz0ei6EZNhz2q1GiK8BUelUiWl0lg0vBGwRMLBvfTBmrfH1n96qP2Eq51gn2yxO+fH+tpcizM6vT4nJwccWBbBwFEoJJlc7XrVGZzgetyL2x9joTG1rTvf3y3wdpycn6BZ5npuXZHbrQP19UYsbeWRTKVSpGXnd95vB32Dqlphx5MbEQsaHOI5O+lLbSTviHDJMxKOROPxmKnBBLJCodRoNP9kammpZC/9bWcvamyW3nv4aM3Xaus69fp+0ewDYsDRMjY56nF7NjffNmRlfE0VotVWgYmimCyVSj+ndr//+JPJpNdC4RW/y269s+6661i8aTY/HnzWaxkfTSS2Gxub8Xg8iiiOp02VlpVlvnz9+et3Zv8gGvJvBHwex9Ky2xlY8c9MTVlGX9heTm5tfWhqugqyTFYOXxvKKyszmYzCwsJ6g8FobICTvHSh9mJNtbKiXKvRQF+NIBqoRATR6fRQSEQiUSaTHR0VFB3IMJqbmwsFRMwHSGQyJZ9Egj6ZTIYbAB6g0+lMJhPkwx8B4l+zzkgcBoiQ3gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 28 19&quot;
-        title=&quot;2020 12 21 05 28 19&quot;
-        src=&quot;/static/f642fb5b89d5b3711bab9846ba9e1909/5a190/2020-12-21-05-28-19.png&quot;
-        srcset=&quot;/static/f642fb5b89d5b3711bab9846ba9e1909/772e8/2020-12-21-05-28-19.png 200w,
-/static/f642fb5b89d5b3711bab9846ba9e1909/e17e5/2020-12-21-05-28-19.png 400w,
-/static/f642fb5b89d5b3711bab9846ba9e1909/5a190/2020-12-21-05-28-19.png 800w,
-/static/f642fb5b89d5b3711bab9846ba9e1909/c1b63/2020-12-21-05-28-19.png 1200w,
-/static/f642fb5b89d5b3711bab9846ba9e1909/29007/2020-12-21-05-28-19.png 1600w,
-/static/f642fb5b89d5b3711bab9846ba9e1909/ddf4f/2020-12-21-05-28-19.png 1624w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;이제 원형의 모양을 접시에 맞춰봅시다.  &lt;/p&gt;
-&lt;p&gt;ctrl + T 를 눌러서 마우스로 끝점 부분을 조절해서&lt;br&gt;
-어느정도 원형이 접시에 맞춰졌다고 생각하면 enter를 누르시면 됩니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f8be5a3fdec811be2451bce4689b4473/7e111/2020-12-21-05-29-06.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACxElEQVQoz01SW1NSURTmqZ/QS8AocBBw1EwcBMpU7p7D5YBaiYZHHakeqqm36qWHGtOsxvKhvJSaI0qGomY2SIh4AbmlhoJmNTFKeKnJnHpsQU31zZx9vr3O+vZa+6yPVIyicrkc12p1Op1Wqy1JAsMwhUKBovARBQJbIDKZDDKVCagA8CLl5eUdAeTkcLncnCR+E4gdTiI7Oxs4rBDPzc2FU9QaXJcEicNhs1gsgUDI5/OFAqFQeBQeHg/SuMcBBQXH8vMFSWRkZKSmpkITFy+cq6mt1ev1pLS0tMLCQvesO+D1RsKrkXAkvBKZm/W3djwdtAybH7cN9feODln8Pp/BYKBQKNBtZWU5juNqtfqPOBQKR6Nbm5uxaHRjIx73Lzxx2q7MTLaauh62NdywvRgOvV2sqkqI4f4qlRqaT9w5jcksEklWQoEFjyUY8H2O7wZdD6zt1J6GA45blFfm8y9fj/W1NzhsI+V6PZVKBQ2UhSMSYgShy4txp/X2vJnrctrX1pfnTcrh+3RPM3+m8eC4mTU40nzNqBgf6j5tIKjJyv/ETCYilkg/fVj3zHUqywSNjy4HLCpvN8/exLbXM2ZMQruz2x9YCq8sE9XV0DaKYhqN5q+YKRKJtre/f4y9Ic4WNTW3BN03rXcOue7yRu/RfROX+s29U05XKLRMEASIS3UY2OGfWCwWx2Lxvb2fuztbQa9/2j05Nnh9wVFvt13t6mzpauuwmPsiq+t1dUYymazEUBz/r7JEIvny9dv+/o+drd0ln2dx3j01YZ92OryznpHnAxZTj3Xg2dq790bjGQqFDD6DIYE4MSoOh5OVlUXAhapriCri1Imyk6UlmFymwzXA1RiqASdiWEVFJZ8voNFoUqkUZDAq0JPAdJmZmRBNSUkBA9HoAAaCMOkMBnAEQWADgAQ2m52eng6V4W+D/2H9BfidR8vCQ4ooAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 29 06&quot;
-        title=&quot;2020 12 21 05 29 06&quot;
-        src=&quot;/static/f8be5a3fdec811be2451bce4689b4473/5a190/2020-12-21-05-29-06.png&quot;
-        srcset=&quot;/static/f8be5a3fdec811be2451bce4689b4473/772e8/2020-12-21-05-29-06.png 200w,
-/static/f8be5a3fdec811be2451bce4689b4473/e17e5/2020-12-21-05-29-06.png 400w,
-/static/f8be5a3fdec811be2451bce4689b4473/5a190/2020-12-21-05-29-06.png 800w,
-/static/f8be5a3fdec811be2451bce4689b4473/c1b63/2020-12-21-05-29-06.png 1200w,
-/static/f8be5a3fdec811be2451bce4689b4473/29007/2020-12-21-05-29-06.png 1600w,
-/static/f8be5a3fdec811be2451bce4689b4473/7e111/2020-12-21-05-29-06.png 1627w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;그 다음 원형의 픽셀을 선택해줍니다.&lt;br&gt;
-레이어 이미지에 마우스 오른쪽을 누르면 픽셀 선택 메뉴가 나옵니다.&lt;br&gt;
-(픽셀선택 단축키는 ctrl + 레이어 이미지 마우스 왼쪽으로 클릭)&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/10399216650e0d9005c3c5f75d2fef21/0d292/2020-12-21-05-31-00.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC2ElEQVQozzVT60+SURzmY39BH1woys05ljqU1E2xKfDy3rhE2BC39Ft9aK7N1myzKRtquWk33ChWk7SQmajDCwqIoJDKRSrnAPODJsYkU1ar1ma/F9ezd+f8ds6e8/wuz0uTSqUSiUSehUKhUCoooCgKh3CFIAgESBbiLDAMIwgSxXApitIE5eUlWZSWlp6t/1FyMYvi4mI4h5XP55eVlcG7MpkMR6U4jtEKCwuLioqEwtrq6mohbBSEVVUVFRWX6gD1otray3BVUyOEh5hMJo7j7e13ewcMd+510FgsllgsCQVDkWAwHk/EY7F4LL6yEjS9HLaNT4yajI7J8fmZ6VAwqNE0MhgMRCzq6nkY+frXPOWmyFBVIrGzu5tK7if3v+wfHCbXw4M+Z1vAM/j2lcHc3+OZn/v4Idqo0QC5XiTSdXb+/pnxehZpkIlUin2ObUT8lkg4nEqlI55emzFn+ME5d/eF+Xe3Zp32N0b94oJdrVbn5+dDz7p0usN0emZ2jlZQwCDlDf7p3lVrpdfr294Or46Ip55y1h9XLvedd4zxbFMD928STrtFo9GCskgk0uv1p6enfr8flAswnEgl93zeF2KS32+6HbVha0MCZx/X2c0KWGrcS8OhyKetrS2ttikvL08sQVpbW10ul8FgoNJGUWkm8yext9pyQ/zMaIoEOif6cpYfVdqfsNedbaPWEe+Sb3OTIufm0huukjAq0IdOUWSY+9HR8Unm17f0YWQtuPLe7ZjQRT3droUO85DBbHpus1riiZ3m5hY6nU7gGNiJJEmCIM7I+Enmx/fjzEEyFV3zbwT8bofD53EFvP5Jq3Vs5LXNao3Ftq9nyeA3UAYmDJwyCRhI29QEWcEwVErFFblMUl8nJwmVUo4iEhyqQhC1+ppAIAAl6DblMPAXhtHAcUBms9lMCiwI2BwOl8uFDUIIONmPzWKBEXk8HpSqVCpVKhX8Av8AAC9ZgZfl7rcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 31 00&quot;
-        title=&quot;2020 12 21 05 31 00&quot;
-        src=&quot;/static/10399216650e0d9005c3c5f75d2fef21/5a190/2020-12-21-05-31-00.png&quot;
-        srcset=&quot;/static/10399216650e0d9005c3c5f75d2fef21/772e8/2020-12-21-05-31-00.png 200w,
-/static/10399216650e0d9005c3c5f75d2fef21/e17e5/2020-12-21-05-31-00.png 400w,
-/static/10399216650e0d9005c3c5f75d2fef21/5a190/2020-12-21-05-31-00.png 800w,
-/static/10399216650e0d9005c3c5f75d2fef21/c1b63/2020-12-21-05-31-00.png 1200w,
-/static/10399216650e0d9005c3c5f75d2fef21/29007/2020-12-21-05-31-00.png 1600w,
-/static/10399216650e0d9005c3c5f75d2fef21/0d292/2020-12-21-05-31-00.png 1620w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;픽셀이 선택되어있는 상태에서 배경 레이어를 클릭해서 선택하고&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f973d094be371821e2066bf41fd96ec1/f6a84/2020-12-21-05-33-27.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACxklEQVQoz1WS20/SYRjHuetP6CJxHAV1IipkgKCcjMMPfiCKzSkMj5l2uOuiddFFy2ils5U3amlqGg5FY1qoCHmIw08c4gFQLyqPeGiVq8sekbb8Ptu7Z8+7z/t9nj0vTokgCoVCq9UW/ycEQeRyueJMcsVZLosLErUaValUSqUSx+FwsuNisVg5IFYOJFnZWVDJZGYymZlZCTGhzmazgddotCh6yuPS0tLodDqfy+dxeHweX5AnEPAEnNwruezLonyhSCgW8PPzuHlwxchgEIlEcL7VWGcwGPR6PQ7IgvwCz6xnEcOi4Wg0Eo2EI17PYntHr23ovaWz3TE67BizL/j91aYaPB4PExmNFSUlJUVFRQl4eWn121ZsZ2d3a2t7N7YfWOpyT9ydd7X1d73sfvbI+cEeCgVrKqsBBmcU1cDA8AqORqcJhZK1pUDINxTAfHv7x8HZF6OdhB7zBacZ/3GgfnzKPtBhnnaMGsuNycnJgIEnkKczp6RQr8pQl63Fb2HNuB3rm2vYADrSSva2cuafXBwfSLHZm+9fV4wPva6Mtw0wrCYB02g0sVj6ZWMD8/agpdzHbXcwqxrrueJ8mjrVRJnr4zpdr7BAKBxeq62ui7d9HhYJhbG9H19jy1UNEnPz88DnppHmSzMtufYWkn/itsXS53Z9WllZra2qTUpK0mmVOp3uH0yniYXi7e3dn7/+HB0eBLGFOa9rbPhBcPqhc/Jed3frm45267u34ch6Q30jwIhSfs5ZIpIcHXw/Ofl9eHC8jPlCPs/MpHPW7fTPe+1W63B/r21wcD262XjjJsCFhYXwQwCGE5eens5gMExGUxWEwVSmL71WXKySyXSopkyv1yCIVqVWKZHysgoel0cikaRSKWCJVcGPYzAySGQSgUggEgkkMplMIVNTqGQKBXIKlUqBoFIBo6fSwQmcoW0YG86/f3RICdKsxdgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 33 27&quot;
-        title=&quot;2020 12 21 05 33 27&quot;
-        src=&quot;/static/f973d094be371821e2066bf41fd96ec1/5a190/2020-12-21-05-33-27.png&quot;
-        srcset=&quot;/static/f973d094be371821e2066bf41fd96ec1/772e8/2020-12-21-05-33-27.png 200w,
-/static/f973d094be371821e2066bf41fd96ec1/e17e5/2020-12-21-05-33-27.png 400w,
-/static/f973d094be371821e2066bf41fd96ec1/5a190/2020-12-21-05-33-27.png 800w,
-/static/f973d094be371821e2066bf41fd96ec1/c1b63/2020-12-21-05-33-27.png 1200w,
-/static/f973d094be371821e2066bf41fd96ec1/29007/2020-12-21-05-33-27.png 1600w,
-/static/f973d094be371821e2066bf41fd96ec1/f6a84/2020-12-21-05-33-27.png 1629w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;alt + J 를 누르면 배경에있는 이미지가 복사되면서 레이어가 새로 생성됩니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ac66a45b8446ba11b691146922b36d7a/1d499/2020-12-21-05-33-56.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACxklEQVQoz2Pw8fH18vIKCgoKDQ0JCwsLCQUBf39/oKC3t7ePj4+XtxeE7QEGQIafn7+vry9QisHKysoEDMxgwNTM1MQUJGJoaGgEBMZQZAoGQP3+/gEQwKCtra2mqmZiZGJkYGRsaAxkGBuZGOjp6+vrmVuYW1ramJqYQcS1tbSVlJSArijMz05KSo6IiGTQ0NSwtbY9evDoudNnbl6/efPGLSB5/PjZJTNW71q+Z9WCObs3bdy1bevZ06dTk1JlZWWBrs3LzYqOjg4ODmbQ1NS0tbG9cuna8+dvX7589eL5izev312+vurEnoaz++etWjhjaX/XgV3brl+7mp6SBtQM9rMf0H6QnzU0NOxsHa5ePH/17JZz50+9evn+yonZWxYoLepm298jv3tV9q5921bP7z2wd0tCbIKcnBxQc3BwEFAnMMwYNNTVnF2892+YfHaV2dFdO+/cu3VuZdDGSYonJ1sc6xLfuUJly7aJdWk+u5YvTE6E2hwYGAjTrKHhYO9478bNSydXxPi5dU8vOr/O/8xSy329Wvs7VY8tszh0YN65k1funbybnpIB1AyMNSTNmhp2dnbPn717+vZGQrZdW1ffpRMdmydIH+4z3dqndG5v7po1yw4dPnz15vX0lHRZWZngQB9gUCFstrdzePL42devP9+9fXv57PkTJw/tXF9/9UDrgX0VSxdNXjJn3vrVK27dupuTlScjI+Pj7YnmbIfXr95///Hrw7uP18+fvXLq9LEDB07vOnp5z6WtG9ZvXLF889q1d+88yMvOl5GVcXV1A6Y/oGYgyaCjo6OroxsfG5+YkBQfmxAZEhYeHOLt5hbsHRAVFO7v7R0AtMPTOyoi2trSWklZydXVFagNknIZgOkPmMiAogqKCoqKCkCGsrKyqqqqsgqQpaSiqqoCBKqqwLQFdKOWlhZQMzAjAL0NTJ4AHqtHxL/JusQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 33 56&quot;
-        title=&quot;2020 12 21 05 33 56&quot;
-        src=&quot;/static/ac66a45b8446ba11b691146922b36d7a/5a190/2020-12-21-05-33-56.png&quot;
-        srcset=&quot;/static/ac66a45b8446ba11b691146922b36d7a/772e8/2020-12-21-05-33-56.png 200w,
-/static/ac66a45b8446ba11b691146922b36d7a/e17e5/2020-12-21-05-33-56.png 400w,
-/static/ac66a45b8446ba11b691146922b36d7a/5a190/2020-12-21-05-33-56.png 800w,
-/static/ac66a45b8446ba11b691146922b36d7a/c1b63/2020-12-21-05-33-56.png 1200w,
-/static/ac66a45b8446ba11b691146922b36d7a/29007/2020-12-21-05-33-56.png 1600w,
-/static/ac66a45b8446ba11b691146922b36d7a/1d499/2020-12-21-05-33-56.png 1632w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;다시 레이어의 픽셀을 선택하고나서 c 를 누르면&lt;br&gt;
-이미지 사이즈대로 컷팅 할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b6738b012ef47c6d5b8da58b5aa01393/7e111/2020-12-21-05-35-01.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACiklEQVQoz1VS3U/acBTlcX/B3hZwbICIRrBgHQuQjVrlsxXmCw974WFbdCpkjEkHGGelQimotOImH4LbEBZdMt3iEo0xy2KyzGQfiX/Oblt82E0fbn/3nt85PT0Kt9uN47jX6yUIwu/3BwKBYDDo8/ncUrlcLpiOSwUNPop7PB4/QcA+jBQoippMJgRBzGIhFovFLHcIAudDQ/B0C5EKbiHJCZIkgUDR19en0Whgz2g0mq5qcHBgYKAfbjCbLYCWR7CpVquBfnbmSTgcnpycVOj1ethgmBUuny/xvCAIfKmUza7OReJUIhWfm32VSi6mUzAFKpVKBWqnph6FQiEgF8EgdX29VKs1K5Vqp935e3l5dJz/vD999CnXqPK5NLWUTvF8CRwBMMj2+fyyHSJ4eBjl14t8IZ1nc3v7B3/ONw8bt3Zy105zypMP05tV/vlMmKEXwCpVjwgGU7uG6Xt1d6z25eTjAmVcXlp4977+sz3xsdhzvjbyjbn+ta2t1KmQ17aYjAKhzAx2wUUyuBdFR16XN4pczIEhEerhxZ7vxw56zOqPM+rzlrXVoll2rbwhECQB4DHRbfKKWZRtqdffVpuCy29+Go1dfKcPijfOuOFD7uav0yjHMTSdEYQNgiCVKtUE4QoGA1fM0jdXqrXWbme7Xq9tVU7OjjrNZ79P6C+Hka03OZZh5uOxcnkTwqNUKl3jY/8xQ062G83WbrvZaPKrhRLHZTMreTZbYAtp6mUq8SKZmJfAD0C20+kE27tgg8EAf9/t9sA7iMExbNR533bXes/hwDGnw25z2O12mx0+FeIFIZHBXdmQO0N/v1arvS0VpE2j1ep0OjgRW6mRe9AINBiGgWw5//8AwW0XjVta5jIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 35 01&quot;
-        title=&quot;2020 12 21 05 35 01&quot;
-        src=&quot;/static/b6738b012ef47c6d5b8da58b5aa01393/5a190/2020-12-21-05-35-01.png&quot;
-        srcset=&quot;/static/b6738b012ef47c6d5b8da58b5aa01393/772e8/2020-12-21-05-35-01.png 200w,
-/static/b6738b012ef47c6d5b8da58b5aa01393/e17e5/2020-12-21-05-35-01.png 400w,
-/static/b6738b012ef47c6d5b8da58b5aa01393/5a190/2020-12-21-05-35-01.png 800w,
-/static/b6738b012ef47c6d5b8da58b5aa01393/c1b63/2020-12-21-05-35-01.png 1200w,
-/static/b6738b012ef47c6d5b8da58b5aa01393/29007/2020-12-21-05-35-01.png 1600w,
-/static/b6738b012ef47c6d5b8da58b5aa01393/7e111/2020-12-21-05-35-01.png 1627w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;이상태에서 엔터를 누르면 이미지가 원형 픽셀에 맞게 잘립니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f39bb3acd3206ac30128b5fa49ef292f/f6a84/2020-12-21-05-35-55.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB60lEQVQoz2Pw9fX18fEJCgoKDg4OCQmBMICCnp6eXmDgCQMeYODt7e3nF+Dn5weUYrCysjIzM7OCAUtLSyBpYWFhjgzMzCC0qakpUL9fQHBAYKCfny+Dtra2ioqKqqqqChioQoGKmpoqGKnBREBsJSUloFMKs6MSE+JDQ8MY9PT01NXVNWAAqE1ZWU1dXU9FTUtJCchRQpYF6ge6tqwkNTk5KTQ0FKFZS0tLQUG+prZh1bq5XZ2+MydGT5/RXFFWpqerA9cP1Az0PDBcgMEE8jNcs7aWloys3PLFc26dyVs7Q2j7ZPHT89xXr+kxMjIFul1TUxPsLlW4ZmDIIdusIaugNr098tg8gy392mc6NfdO4V+1wtPUzALoF4hmiM2BgYFYNMsranQ2ud9Z77R/ttHBVrXDMzW3Lw82szBXVVGFa3Z39wBqBsYlmmZNOTnFSZMbLu4O2N6hcLDf6Phy660bOnR09NXV1cCaNYHODvT3DAkOxrRZS15OrrWtY+PWSZvmphzdWbhgQW5Lc6OhgQHQQiRnu2OxGQKARujqGOobGuoZGGpo6QG5EG3w0HZ2dvH39wdqBoW2rq4uUEgdBtRAQBWSMoA8MEIAoKCLC0gzNKqMjY2B+nV0dLSJAEBXuLq6Ap0NTP/A5A0ABTHFGuVdd+8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 35 55&quot;
-        title=&quot;2020 12 21 05 35 55&quot;
-        src=&quot;/static/f39bb3acd3206ac30128b5fa49ef292f/5a190/2020-12-21-05-35-55.png&quot;
-        srcset=&quot;/static/f39bb3acd3206ac30128b5fa49ef292f/772e8/2020-12-21-05-35-55.png 200w,
-/static/f39bb3acd3206ac30128b5fa49ef292f/e17e5/2020-12-21-05-35-55.png 400w,
-/static/f39bb3acd3206ac30128b5fa49ef292f/5a190/2020-12-21-05-35-55.png 800w,
-/static/f39bb3acd3206ac30128b5fa49ef292f/c1b63/2020-12-21-05-35-55.png 1200w,
-/static/f39bb3acd3206ac30128b5fa49ef292f/29007/2020-12-21-05-35-55.png 1600w,
-/static/f39bb3acd3206ac30128b5fa49ef292f/f6a84/2020-12-21-05-35-55.png 1629w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;이제 복사한 샐러드접시 레이어만 제외하고  &lt;/p&gt;
-&lt;p&gt;레이어 1 과 배경의 레이어 옆에 눈 표시를 해제해서&lt;br&gt;
-레이어를 화면에서 안보이게 해놓은다음&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2fafe688945f6c46140d4cf8516cd8c7/0d292/2020-12-21-05-36-28.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB20lEQVQoz2Pw8fHx9vYODAwMBgMIAyjo6enpBQaeMOABBkDF/v4BvmDAYGVlZWpqagkHFiDC3NzczMwMQsIBkAtUCdQfEBASEBAQFBTEoKOjo6KioqqqqgKhwEBFFcxUAwGYGIinpKQEdEJBdlRiQnx4eASDnp6eurq6BgyANCqraGvqqWtoqSgrKSsrayABoH6g5tKilKSkxPCwcIRmLS0teXn5urr6FVtWF3Vld0xpXLpx07y58wwMDIB6NDU1IZqBzg4MCgL6HBguKJplZWUXLFyy5fDU8hat1krNhR35O04ctrG0AnoIrhloM9C3PmCArFlTXlG5pblsTm9wd7XbuiK3CfUq3SsLrK0dVVSUUDQHBmLRrKioVtaUuXdx1qwuv9lZDrNb3GYuqTa3sVNRUYZrdgc6G5tmLXlZuRnz56zYUNmRYzOzMmjalPjjl8+ZmZoBQxGsWRMY5oH+niHghODri+5nmZkzZm07uXvevFlr9i7ZfHj9nr0HTEyMgXqQnO2OxWYI0NbWNjE0NjQ11TM0NTI00dPV1QBrg0eVs7OLv78/MHmBNOvq6gKF1GEAyAalEFB6gSBVdSQA5Lq4gDRDo8rY2FgPDHSIAECvubq6Ap0dEhICJAHWYMf7VwqNJgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 36 28&quot;
-        title=&quot;2020 12 21 05 36 28&quot;
-        src=&quot;/static/2fafe688945f6c46140d4cf8516cd8c7/5a190/2020-12-21-05-36-28.png&quot;
-        srcset=&quot;/static/2fafe688945f6c46140d4cf8516cd8c7/772e8/2020-12-21-05-36-28.png 200w,
-/static/2fafe688945f6c46140d4cf8516cd8c7/e17e5/2020-12-21-05-36-28.png 400w,
-/static/2fafe688945f6c46140d4cf8516cd8c7/5a190/2020-12-21-05-36-28.png 800w,
-/static/2fafe688945f6c46140d4cf8516cd8c7/c1b63/2020-12-21-05-36-28.png 1200w,
-/static/2fafe688945f6c46140d4cf8516cd8c7/29007/2020-12-21-05-36-28.png 1600w,
-/static/2fafe688945f6c46140d4cf8516cd8c7/0d292/2020-12-21-05-36-28.png 1620w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ctrl + alt + shift + S 를 눌러서&lt;br&gt;
-웹용으로 저장하기로 png나 jpg를 선택하여 저장합니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fdc89468dcb2d1a1d3ac0ca3e398f830/c263c/2020-12-21-05-38-06.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB9ElEQVQoz3WSy2sTURTG53+JeT82IeAkGqkk5jHvJJ1JKiWWURBHNOQlNl2Y4uDGbf8A10ISDGjAha11k70iCC40mVby0kVgXPr1jiNJqT+Y4cDlu993zj0Ux3Esy0iSlMvlstlsKpVKp9PXNzbi8fg1AoqrhCuERCIhCBJRsVQ0SkciEZqmY7EYZAzD4IBZIbuOLMuCkBMlSRRFyu/3XyL4fL5qtbpPeGLTbrfxf0ZAret6q7Wr3Sns7NxSFIUKhUJut9vr9TqdTlVVB4NBr9fr2nQ6nX6/X6lUeJ7LpNMQKLL8QNtWb6trYofD0Ww2TdOcz+e/bBaLhfnbhCEmgsDFYrFQKDAse9Yxel4V1+t1KEejkWGDej6d6k91a6KCIPA8DxlHOC+G1Xg8PvmLcWoY338uHu+3YSWIIgSY08XiWq226vzj5PSTYbwef7nfepS5kUJa2P5X3Gg0lsvlZDKZzWa45fN00vn6sfvtw8O9u0yG5XgOYoTnbNamrWnacDh8d3j4/ujo7fHxwZuu/vLF81cH92rbkpgvlUqYFto+7+zxePDO+Xy+XC6T55A38VkvIytbWzcx503Cv9i4hQoGgy6Xy9JbqwYuE0hFYwWxldi/KCqaxpJZK3jmHA6HQ4RAIIDwnouwrgawSSaTaBsZEeEPx+kvDk9EjhMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 38 06&quot;
-        title=&quot;2020 12 21 05 38 06&quot;
-        src=&quot;/static/fdc89468dcb2d1a1d3ac0ca3e398f830/5a190/2020-12-21-05-38-06.png&quot;
-        srcset=&quot;/static/fdc89468dcb2d1a1d3ac0ca3e398f830/772e8/2020-12-21-05-38-06.png 200w,
-/static/fdc89468dcb2d1a1d3ac0ca3e398f830/e17e5/2020-12-21-05-38-06.png 400w,
-/static/fdc89468dcb2d1a1d3ac0ca3e398f830/5a190/2020-12-21-05-38-06.png 800w,
-/static/fdc89468dcb2d1a1d3ac0ca3e398f830/c1b63/2020-12-21-05-38-06.png 1200w,
-/static/fdc89468dcb2d1a1d3ac0ca3e398f830/29007/2020-12-21-05-38-06.png 1600w,
-/static/fdc89468dcb2d1a1d3ac0ca3e398f830/c263c/2020-12-21-05-38-06.png 1631w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;이렇게 나머지 샐러드도 똑같이 누끼를 따주면 이미지 준비 완료!&lt;br&gt;
-단축키 몇개만으로 포토샵으로 누끼따는거 정말 쉽죠!!&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 439px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/26586ea6b7d6ab91c5a32458b432474d/e3b18/2020-12-21-05-47-08.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB/UlEQVQoz4VQz2sTQRjdv8CTR2968yBFxJMgARWkRSwoqQoVyloIehB/gUJV4i+KtBpjU6q2UGy6WExVgkabBIRioKDkEttEGtsmu6hpNvt7Zndmv3G29aAX85iB75v3Pb73RiAMvpQ+ZjOJlbUKMAa+L1cWix+kn6tlxhjG3pR0b+hOeG4uBcCISxITDyNnj0lTk5wVSsvlWPTwyPWD0diRpqM3m7WZ+AlpYPeb5GVOv5p+Ip4W8o+O3j7XUakW36bT/f07Y8OHOrt3zBc+CUu1r4PnQ+ORPYNX9zUcQ2/UZh8cSN4PDUX3Em/9cfzWpciW+WfhC+LWYqkwIz0fuNaRmjh+qnfXy9mUYLpOOjOaGOvO5l/4wIDC54WnybhYyE5TH6+sfo/f6Ipe3H53+KTjuMqa0iuG9ndtO9MX1jRD4CF9gGq9bmMEwEvmum51+RvGmDPcebOl5vLvDd3gVNA2W5lMVtONIDO/Dvqlaz/AZ5vT4BPLMgnBvKaUAlDP9TzP5e3GIkq8oAWAQDz2umf8ndjQqwjbnCWUcIJugP0XgTiVu9l5RZjM9TBgtm1rWkvXNX4sy/ozBf+K4C9xo7W4sDSybpR9yiM4pmkg5BiGbppmm83UJwjZlkERcrlP/lstVVVkRVVVhFB721yjKDKXbT5hhOS6jDBm7fAbFoQxIrGDlGAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;2020 12 21 05 47 08&quot;
-        title=&quot;2020 12 21 05 47 08&quot;
-        src=&quot;/static/26586ea6b7d6ab91c5a32458b432474d/e3b18/2020-12-21-05-47-08.png&quot;
-        srcset=&quot;/static/26586ea6b7d6ab91c5a32458b432474d/772e8/2020-12-21-05-47-08.png 200w,
-/static/26586ea6b7d6ab91c5a32458b432474d/e17e5/2020-12-21-05-47-08.png 400w,
-/static/26586ea6b7d6ab91c5a32458b432474d/e3b18/2020-12-21-05-47-08.png 439w&quot;
-        sizes=&quot;(max-width: 439px) 100vw, 439px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;이제 html, css, js, 샐러드 이미지 파일 모두 준비되었습니다!&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;3-완성된-브라우저-화면&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-%EC%99%84%EC%84%B1%EB%90%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%ED%99%94%EB%A9%B4&quot; aria-label=&quot;3 완성된 브라우저 화면 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[3] 완성된 브라우저 화면&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/54713067/102645584-09d0fd80-41a6-11eb-9fdd-c81d3ce9277f.gif&quot; alt=&quot;Salad carousel&quot;&gt;&lt;/p&gt;
-&lt;p&gt;이렇게 간단하게 샐러드 메뉴 슬라이드 만들어서&lt;br&gt;
-샐러드와 친해져서 다이어트 성공하길 바랄게요~☆&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;4-전체-코드&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;4 전체 코드 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[4] 전체 코드&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;본문에서 만든 코드 :&lt;br&gt;
-&lt;a href=&quot;https://github.com/fe-w/interaction/tree/main/ui/1-10/3-1-Salad&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://github.com/fe-w/interaction/tree/main/ui/1-10/3-1-Salad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;더 많은 자료 보기 :&lt;br&gt;
-&lt;a href=&quot;https://github.com/fe-w/interaction&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://github.com/fe-w/interaction&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;5-참고자료&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#5-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C&quot; aria-label=&quot;5 참고자료 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[5] 참고자료&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://fonts.google.com/specimen/Poppins&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- Poppins font&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://swiperjs.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- SwiperJS&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/nolimits4web/Swiper/blob/master/demos/240-effect-coverflow.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- Swiper 3D Coverflow Effect&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://ktsmemo.cafe24.com/s/SwiperJS/363&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- Swiper 커버플로우 효과 (Coverflow Effect)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/fe-w/interaction/tree/main/ui/3-1-Salad/img&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 본문에 사용된 샐러드 이미지 파일&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/free-photo/top-view-salad-with-feta-cheese-herbs-olives_10413237.htm#position=6&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 1번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/premium-photo/fresh-salad-table_7765426.htm#position=3&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 2번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/free-photo/flat-lay-salad-with-chicken-sesame-seeds_10414044.htm#position=5&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 3번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/free-photo/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-food-vegetarian-dinner-table-top-view-flat-lay_6713750.htm#position=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 4번 샐러드 이미지&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freepik.com/premium-photo/white-background-texture_8664336.htm#page=5&amp;#x26;query=white+texture&amp;#x26;position=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;- 백그라운드에 사용된 이미지&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;a href=&quot;https://sass-lang.com/documentation&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://sass-lang.com/documentation&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
