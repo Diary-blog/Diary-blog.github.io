@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 May 2021 20:16:28 GMT</lastBuildDate><item><title><![CDATA[🍊 JavaScript Problem solving 자바스크립트 문제 풀이]]></title><description><![CDATA[안녕하세요! 자바스크립트 문제 풀이 앱인 Enki…]]></description><link>https://diary-blog.github.io/javascript/</link><guid isPermaLink="false">https://diary-blog.github.io/javascript/</guid><pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 24 May 2021 08:46:43 GMT</lastBuildDate><item><title><![CDATA[🍊 JavaScript Problem solving 자바스크립트 문제 풀이]]></title><description><![CDATA[안녕하세요! 자바스크립트 문제 풀이 앱인 Enki…]]></description><link>https://diary-blog.github.io/javascript/</link><guid isPermaLink="false">https://diary-blog.github.io/javascript/</guid><pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -94,14 +94,19 @@ this가 가리키는 것이 전역변수인지 지역변수인지를 먼저 알�
 &lt;p&gt;let으로 선언된 foo와 this의 foo는&lt;br&gt;
 서로 다른 메모리 주소에 저장된 값을 가리키는 변수이므로&lt;br&gt;
 서로 다른 변수입니다.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;3&lt;/u&gt;&lt;br&gt;
-무엇을 리턴하는지 알아야 합니다.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;3&lt;/u&gt;  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(이부분 설명 정정했습니다.)
+영상에 잘못 설명한 부분이 있습니다.
+콘솔에 함수를 호출했을때 변수와 값을 리턴하는건데&lt;br&gt;
+키 밸류 라고 적은 부분을 정정합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;return { foo }; 는 객체 리터럴 안에 foo 변수를 담아 리턴합니다.&lt;br&gt;
 객체(Object)는 키key와 value로 구성되어 있습니다.&lt;/p&gt;
 &lt;p&gt;bar() 함수 스코프 안에 선언된 foo 라는 변수가&lt;br&gt;
-프로퍼티로 추가된 객체{key, value}가 최종 리턴으로 내보내집니다.&lt;/p&gt;
+프로퍼티로 추가된 객체{ 변수 : 값 }이 최종 리턴으로 내보내집니다.&lt;/p&gt;
 &lt;p&gt;&lt;u&gt;4. etc&lt;/u&gt;&lt;br&gt;
-만약 키를 출력하지 않고 밸류인 &apos;b&apos; 만 출력하고 싶다면&lt;br&gt;
+만약 변수를 출력하지 않고 값인 &apos;b&apos; 만 출력하고 싶다면&lt;br&gt;
 객체 리터럴인 { } 에 담지 않고 return foo; 로 리턴하면 됩니다.&lt;br&gt;
 그럼 bar() 함수를 호출했을때 &apos;b&apos; 가 출력됩니다.&lt;/p&gt;
 &lt;p&gt;그리고 전역스코프에서 console.log( foo );를 실행하면&lt;br&gt;
@@ -120,7 +125,9 @@ this.foo를 this.foo1로 바꿔서 return에 foo1을 리턴하면&lt;br&gt;
 전역 스코프까지 찾아가서 window.foo1을 참조했다고 볼 수 있습니다.&lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;정답&lt;/code&gt;&lt;br&gt;
-&lt;code class=&quot;language-text&quot;&gt;2. {foo: &amp;#39;b&amp;#39;}&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;code class=&quot;language-text&quot;&gt;2. {foo: &amp;#39;b&amp;#39;}&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -387,7 +394,7 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 &lt;h3 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
 &lt;/details&gt;
-&lt;hr/&gt;</content:encoded></item><item><title><![CDATA[🍓 UI, UX, Design Article 자료 번역]]></title><description><![CDATA[안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다. UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 쉐이프 디자인 (Shape…]]></description><link>https://diary-blog.github.io/uilab/</link><guid isPermaLink="false">https://diary-blog.github.io/uilab/</guid><pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;hr/&gt;</content:encoded></item><item><title><![CDATA[🍓 UI, UX, Design Article 자료 번역]]></title><description><![CDATA[안녕하세요. 2021년 부터 UILAB 번역 활동을 참여하였습니다. UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List…]]></description><link>https://diary-blog.github.io/uilab/</link><guid isPermaLink="false">https://diary-blog.github.io/uilab/</guid><pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -422,6 +429,9 @@ UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따�
 &lt;hr/&gt;
 &lt;h2 id=&quot;-list&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-list&quot; aria-label=&quot; list permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 List&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;[새로운 브랜드 아이덴티티를 개발하는 방법]&lt;/li&gt;
+&lt;li&gt;[2021년 팝업 양식을 디자인하는 방법 (모범사례 + 예제)]&lt;/li&gt;
+&lt;li&gt;[원격 UX 워크샵을 위한 33가지 활동]&lt;/li&gt;
 &lt;li&gt;[쉐이프 디자인 (Shape Design)는 무엇일까요?]&lt;/li&gt;
 &lt;li&gt;[이메일의 웹 글꼴에 대한 가이드]&lt;/li&gt;
 &lt;li&gt;[스프린트 계획을 효율적으로 유지하는 방법]&lt;/li&gt;
@@ -456,6 +466,246 @@ UI, UX, 디자인 해외 아티클 관련 참여한 내용을 블로그에 따�
 .  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;새로운-브랜드-아이덴티티를-개발하는-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%EC%9D%B4%EB%8D%B4%ED%8B%B0%ED%8B%B0%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;새로운 브랜드 아이덴티티를 개발하는 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;새로운 브랜드 아이덴티티를 개발하는 방법&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;초기 아이덴티티 부터 최신 리브랜딩에 대한 생각에 이르기까지
+Maze의 브랜드를 만들기 위해 겪은 과정을 공유합니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;회사 이름짓기&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;3년 전 회사를 설립했을 때, 저는 회사의 이름에 대해 많은 고민을 했습니다.
+우리는 회사의 성장에 따라 관련성을 유지할 수 있는 단순하고 추상적인 이름을 원했습니다.&lt;/p&gt;
+&lt;p&gt;사람들은 목표를 가지고 제품과 상호작용 하는데, 이러한 목표와 차별화되는 것을 만드는 게 UI/UX입니다.
+우리는 디자이너들이 쉽게 테스트할 수 있도록 함으로써 UX를 더 잘 만들 수 있도록 돕고 싶었습니다.
+또한 우리가 원하는 방향으로 브랜드를 성장시킬 수 있을 정도로 기억과 발음이 쉽고 추상적이었습니다.&lt;/p&gt;
+&lt;p&gt;Maze라는 이름은 우리의 목표에 딱 들어맞았습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;기초 쌓기&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이제 우리가 이름을 갖게 되었으니
+그다음 목표는 로고, 색상, 음색 등 모든 자산을 갖춘 완전한 시스템으로 변환하는 것이었습니다.&lt;/p&gt;
+&lt;p&gt;메이즈의 첫 브랜드 아이덴티티입니다.
+당사의 첫 번째 브랜드 시스템은 다음과 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;로고를 위한 글리프(글자의 모양)
+M이라는 글자를 나타내는 위에서 바라봤습니다.&lt;/li&gt;
+&lt;li&gt;음성 가이드라인
+우리의 임무는 디자이너들이 테스트 할 수 있도록 하는 것이어서
+우리는 그 톤이 장난스럽고 쉽게 접근하기를 원했습니다.&lt;/li&gt;
+&lt;li&gt;일러스트
+우리 브랜드의 시각적 그림들은 장난감과 같은 형식으로 표현했고
+그 안에서 움직이는 공은 인터페이스와 상호 작용 하였습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://maze.co/blog/building-the-maze-brand&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://maze.co/blog/building-the-maze-brand&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;브랜드의-ux를-향상시키기위한-스타일-가이드를-만드는-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%9D%98-ux%EB%A5%BC-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0%EC%9C%84%ED%95%9C-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;브랜드의 ux를 향상시키기위한 스타일 가이드를 만드는 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;브랜드의 UX를 향상시키기위한 스타일 가이드를 만드는 방법&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;blockquote&gt;
+&lt;p&gt;UX와 UI의 세계에서 프로젝트를 시작할 때 항상 명심해야 할 것은 스타일 가이드입니다.
+브랜드의 사용자 경험을 향상시키고 새로운 수준으로 끌어 올리는 데 도움이 됩니다.&lt;/p&gt;
+&lt;p&gt;스타일 가이드는 일관된 디자인 시스템을 만드는 데 도움이 됩니다.
+아이디어를 효과적으로 전달하고 훌륭한 콘텐츠를 만들 수 있습니다.&lt;/p&gt;
+&lt;p&gt;생산성을 저해하지 않고 작업 시간을 절약 할 수 있으며
+무엇보다도 가장 전문적인 시각으로 브랜드와 회사를 선보일 수 있습니다.&lt;/p&gt;
+&lt;p&gt;스타일 가이드를 통해 얻을 수 있는 몇 가지 이점을 살펴보겠습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;프론트 엔드 개발자&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; 모든 중요한 정보와 데이터를 참조하여 CSS 및 HTML을 작성하고
+색상에 대한 16 진수 코드를 쉽게 찾고, UI 구성 요소, SVG 파일을 재사용하고
+필요한 다른 자산을 빠르게 찾아 추출 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;UX 디자이너&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; 브랜드 스타일에 맞는 반응형 레이아웃을 제작할 수 있도록 도와줍니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;소셜 미디어 관리자&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; 문서를 참조하여 동일한 서체, 색상 팔레트 및 그래픽 자산을 사용하여
+일관된 소셜 미디어 피드를 만들 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;크리에이티브 작가&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; 브랜드의 특정 목소리 톤에 맞는 카피를 제작합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;프로젝트를 시작하기 전에 범위, 스타일, 시각적 방향 및 목소리 톤을 정의하는 스타일 가이드가 있으면 모든 팀원에게 매우 유익할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;또한 여러분이 구상한 최종 제품을 만들고 길을 잃지 않도록 안내하는 데 도움이 되는 참조 지점이 될 수도 있습니다.&lt;/p&gt;
+&lt;p&gt;UX/UI 스타일 가이드 문서는 마감일을 준수하고, 항상 높은 생산성을 유지하며 일반적으로 스트레스를 피하는 데 도움이 됩니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;스타일 가이드 또는 브랜드 가이드 라인은 무엇입니까?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;스타일 가이드는 브랜드 가이드 라인이 아닙니다.
+스타일 가이드는 프로젝트를 시작할 때 최종 제품의 시각적 이미지 / 표현을 얻고
+디자인 및 개발 프로세스, 즉 무엇을 예상할 수 있는 설명하는 데 도움이 됩니다.&lt;/p&gt;
+&lt;p&gt;브랜드 가이드라인 북은 로고 타입 (기본 및 보조), 그래픽 요소, 패턴 및 아이콘과 같은
+특정 브랜드 요소의 사용과 웹, 인쇄물 및 기타 미디어에서의 응용 프로그램을 지정하는 문서입니다.
+또한 모든 브랜드 자산에 대한 최적의 애플리케이션 크기와 간격을 제안합니다.&lt;/p&gt;
+&lt;p&gt;스타일 가이드의 규칙을 준수하고 제공된 것을 활용하면
+다음 사항에 대해 걱정할 필요가 없습니다.&lt;/p&gt;
+&lt;p&gt;타이포그래피 / 서체, 색상 팔레트, 아이콘, 이미지, UI 구성 요소
+HEX 코드, CMYK 및 RGB 값, 목소리 톤, 코드 문서&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;참고할 만한 스타일 가이드는&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NASA 그래픽 표준 매뉴얼&lt;/li&gt;
+&lt;li&gt;Mailchimp의 스타일 가이드&lt;/li&gt;
+&lt;li&gt;Barnes &amp;#x26; Noble의 UI 스타일 가이드 입니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://www.uxpin.com/studio/blog/style-guide-ux/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.uxpin.com/studio/blog/style-guide-ux/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;2021년-팝업-양식을-디자인하는-방법-모범사례--예제&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2021%EB%85%84-%ED%8C%9D%EC%97%85-%EC%96%91%EC%8B%9D%EC%9D%84-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AA%A8%EB%B2%94%EC%82%AC%EB%A1%80--%EC%98%88%EC%A0%9C&quot; aria-label=&quot;2021년 팝업 양식을 디자인하는 방법 모범사례  예제 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2021년 팝업 양식을 디자인하는 방법 (모범사례 + 예제)&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;blockquote&gt;
+&lt;p&gt;팝업은 모든 기업이 가입자를 확보하거나 영업 기회를 창출하는 데 도움이 됩니다.
+하지만 만약 여러분이 적절한 계획을 세우지 않고 팝업을 띄운다면 방문자들은 페이지를 떠날 수도 있습니다.
+최악의 경우 계획되지 않은 팝업으로 인해 Google 위약금이 부과될 수 있습니다.&lt;/p&gt;
+&lt;p&gt;그렇다면, 여러분의 팝업이 효과적이라고 결정하는 요인은 무엇일까요?
+성가신 팝업이 되지 않는다는 걸 어떻게 아실 건가요.&lt;/p&gt;
+&lt;p&gt;팝업 양식을 설계하기 위한 몇 가지 팁과 모범 사례를 소개합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;단순하고 집중적인 상태&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;캠페인을 시작할 때마다 고객의 관점에서 생각해 보십시오.
+만약 당신의 팝업이 혼란스럽거나, 서툴거나, 짜증난다고 느끼면, 그들은 떠날 것입니다.
+따라서 간단해야 합니다. 단순하고 포인트 팝업으로 만들어야 합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;간단한 클릭 유도 방법&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;개인화된 CTA가 기본 CTA보다 약 202% 더 잘 변환된다는 것을 알고 계셨습니까?
+방문자가 웹 사이트를 읽거나 탐색하는 동안 갑자기 팝업이 나타나면 활동을 방해받을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;당신은 단지 팝업을 통해 방문자의 이메일 주소를 얻고 가능한 한 빨리 사라지기를 원할뿐입니다.
+CTA는 짧은 시간 내에 버튼을 누르도록 권장해야 합니다. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;팝업에 스토리를 추가&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;스토리를 추가하는 것은 단순히 팝업을 친구처럼 느끼게 하는 것을 의미합니다.
+팝업을 클릭할 가치가 있도록 할 수 있습니다. &lt;/p&gt;
+&lt;p&gt;만약 여러분이 목표 대상자에 대해 전혀 알지 못한다면
+어떻게 팝업을 개인화 하시겠습니까
+가장 좋은 방법 중 하나는 추천 소스를 활용하는 것입니다. &lt;/p&gt;
+&lt;p&gt;레퍼러 탐지 도구를 사용하여 특정 도메인에서 온 방문자를 식별합니다.
+이제 수집된 정보를 사용하여 팝업을 개인 설정합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://medium.com/@alice.jackson/how-to-design-popup-forms-in-2021-best-practices-examples-for-inspiration-c974b785a31a&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://medium.com/@alice.jackson/how-to-design-popup-forms-in-2021-best-practices-examples-for-inspiration-c974b785a31a&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;원격-ux-워크샵을-위한-33가지-활동&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9B%90%EA%B2%A9-ux-%EC%9B%8C%ED%81%AC%EC%83%B5%EC%9D%84-%EC%9C%84%ED%95%9C-33%EA%B0%80%EC%A7%80-%ED%99%9C%EB%8F%99&quot; aria-label=&quot;원격 ux 워크샵을 위한 33가지 활동 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;원격 UX 워크샵을 위한 33가지 활동&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;모든 사람이 시간을 할애할 가치가 있는 워크숍을 만드는 것이 핵심입니다.
+워크숍이 왜 중요한지에 대한 목록으로 바로 들어가겠습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;아이스브레이커&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;아이스브레이커와 팀 구성 활동은 워크숍을 위해 모든 사람들을 따뜻하게 해주고
+그들이 올바른 사고 방식을 갖도록 돕고, 긍정적인 에너지를 만들고,
+팀 동료들과 공감대를 형성하며, 여러분의 일상적인 일에 맥락을 더하도록 도와줍니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;대화의 시작&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;팀을 나눠서 두 가지 공통점을 발견하고
+이 두 가지를 바탕으로 팀 이름을 생각해냅니다&lt;/p&gt;
+&lt;p&gt;사람들이 서로를 잘 알지 못할 때
+대화를 시작하면서 서로를 알아가기 위한 방법으로 도움이 됩니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;화이트보드를 이용&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;온라인 화이트보드 도구에 한 사람당 2개의 사분면이 있는 보드를 설치하고 각 참가자는 사분면에 기입합니다.
+맨 위에는, 휴대폰에서 무작위로 찍은 사진, 책상 위에 있는 사진 등, 카테고리의 사진을 넣을 것입니다.
+맨 아래 사분면에, 그들은 특정한 질문에 대답할 것입니다.
+&quot;최근에 배운 것이 무엇인가?&quot; &quot;첫 번째 직업이 무엇이었는가?&quot; &quot;마지막 식사는 무엇이었을 것인가?&quot; 등등.&lt;/p&gt;
+&lt;p&gt;사람들이 서로에 대해 좀 더 잘 알고
+서로를 따뜻하게 해주기를 원할 때 사용합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;다른 언어로 소통&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;5개의 기호 (예 : 그림 이모티콘) 또는 그림으로  회사나 제품에 대해 설명해야 합니다.
+각 참가자들은 다섯 개의 간단한 이미지를 그리거나 수집합니다. &lt;/p&gt;
+&lt;p&gt;그룹에 언어 또는 문화적 차이가있을 때 특히 유용합니다.
+모든 사람이 그림으로 의사 소통 할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;이미지가 완벽할 필요는 없으며, 설명도 완벽하지 않다는 것을 반드시 설명하십시오.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;거짓말 추측하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;각 구성원은 그룹에게 자신에 대한 세 가지 진술을 합니다.
+다른 사람들은 세 가지 진술 중 어느 것이 거짓인지 추측해야 합니다.&lt;/p&gt;
+&lt;p&gt;참가자들이 사전에 진술을 생각할 수 있도록 워크숍이 시작되기 전에 미리 조언을 제공하는 것이 좋습니다.
+온라인 화이트보드 도구에서 투표 기능을 사용하여 대부분의 사람들이 어떤 진술이 거짓이라고 생각하는지 확인할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;- 팀 구성 활동을 위한 아이디어 창출&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;사람들에게 그들이 가지고있는 버킷리스트
+하나 또는 두 개의 큰 인생 목표를 공유하도록 요청하십시오.&lt;/p&gt;
+&lt;p&gt;이미 서로에게 익숙한 그룹이 있지만
+서로를 조금 더 알게되기를 원할때 적용합니다.&lt;/p&gt;
+&lt;p&gt;이 질문을 사람들에게 미리 알려주는 것이 좋습니다.
+이것은 향후 팀 구성 활동을 위한 아이디어를 창출하는 좋은 방법입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/details&gt;
 &lt;hr/&gt;
