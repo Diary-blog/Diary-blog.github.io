@@ -560,12 +560,16 @@
   </a>
     </span></p>
 <p>안녕하세요!<br>
-<u>자바스크립트 문제 풀이</u> 앱인 <a href="https://www.enki.com/" target="_blank" rel="nofollow noopener noreferrer">Enki</a>를 이용하여 매일매일 문제풀이 코스를 진행하고 있는 중입니다.  </p>
+자바스크립트 문제 풀이 앱인 <a href="https://www.enki.com/" target="_blank" rel="nofollow noopener noreferrer">Enki</a>를 이용하여<br>
+매일매일 문제풀이 코스를 진행하고 있는 중입니다.  </p>
 <p>하지만 문제를 풀고 답만 맞출 뿐 문제에 대한 답이 <u>왜 이런 결과가 나오게 되었는지</u><br>
 답에 대한 해석이 따로 적혀있지 않아서 제가 풀어서 해석한 내용을 기록하고자 합니다.</p>
 <p>대부분 기초적인 내용이지만 블로그에 따로 기록하는 이유는<br>
 <u>사용되는 용어와 의미 전달을 명확하게</u> 하는것을 연습하기 위해서 입니다.  </p>
 <p>잘못된 해석이 있다면 댓글로 말씀해주시면 감사하겠습니다 :)</p>
+<p>+  </p>
+<p>앱에서 계속 문제를 풀다보니 풀수있는 문제가 제한적이라서<br>
+7월 부터 leetCode로 바꿔서 작성하려 합니다.</p>
 <hr />
 <h2 id="js-object-1" style="position:relative;"><a href="#js-object-1" aria-label="js object 1 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>JS object 1</h2>
 <p><code class="language-text">Q. What will be logged by the following snippet</code>    </p>
@@ -618,7 +622,6 @@ bar 함수의 스코프 안에서 foo = "c" 값을 넣어주면 됩니다.</p>
 <span class="token punctuation">}</span>
 console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token comment">// { foo: "c" }</span></code></pre></div>
 <p><u>2</u><br>
-this를 알아야 합니다.<br>
 this가 가리키는 것이 전역변수인지 지역변수인지를 먼저 알아야 합니다.  </p>
 <p>일반 함수 내부에서 this를 호출했으므로<br>
 여기서 this는 전역 객체인 window를 가리킵니다.<br>
@@ -628,8 +631,8 @@ this가 가리키는 것이 전역변수인지 지역변수인지를 먼저 알�
 서로 다른 변수입니다.</p>
 <p><u>3</u>  </p>
 <blockquote>
-<p>(이부분 설명 정정했습니다.)
-영상에 잘못 설명한 부분이 있습니다.
+<p>(이부분 설명 정정했습니다.)<br>
+영상에 잘못 설명한 부분이 있습니다.<br>
 콘솔에 함수를 호출했을때 변수와 값을 리턴하는건데<br>
 키 밸류 라고 적은 부분을 정정합니다.</p>
 </blockquote>
