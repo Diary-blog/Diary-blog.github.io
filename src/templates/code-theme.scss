@@ -35,6 +35,21 @@
       -moz-hyphens: none;
       -ms-hyphens: none;
       hyphens: none;
+
+      &::-webkit-scrollbar {
+        height: 6px;
+      }
+      &::-webkit-scrollbar-track {
+        background-color: transparent;
+      }
+      &::-webkit-scrollbar-thumb {
+        border-radius: 3px;
+        background-color: #000;
+      }
+      &::-webkit-scrollbar-button {
+        width: 0;
+        height: 0;
+      }
     }
 
     pre[class*='language-'] code {
@@ -207,6 +222,21 @@
       -moz-hyphens: none;
       -ms-hyphens: none;
       hyphens: none;
+
+      &::-webkit-scrollbar {
+        height: 6px;
+      }
+      &::-webkit-scrollbar-track {
+        background-color: transparent;
+      }
+      &::-webkit-scrollbar-thumb {
+        border-radius: 3px;
+        background-color: #ddd;
+      }
+      &::-webkit-scrollbar-button {
+        width: 0;
+        height: 0;
+      }
     }
 
     pre > code[class*='language-'] {
