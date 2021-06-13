@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Jun 2021 01:17:33 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Jun 2021 14:05:04 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -1095,6 +1095,8 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 &lt;h2 id=&quot;-list&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-list&quot; aria-label=&quot; list permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 List&lt;/h2&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
 &lt;ul&gt;
+&lt;li&gt;[Figma에서 프로그래밍 방식으로 256개의 새로운 디자인 시스템 구성 요소를 구축하는 방법]&lt;/li&gt;
+&lt;li&gt;[기술 분야의 UX Writing 프로세스 이해하기]&lt;/li&gt;
 &lt;li&gt;[비주얼 디자인에 색상을 올바르게 사용하는 방법]&lt;/li&gt;
 &lt;li&gt;[인터페이스 디자인을 위한 시각적 계층을 구현하는 방법]&lt;/li&gt;
 &lt;li&gt;[개인 브랜드 구축을 위한 그래픽 디자이너 가이드]&lt;/li&gt;
@@ -1157,6 +1159,62 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 .  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;figma에서-프로그래밍-방식으로-256개의-새로운-디자인-시스템-구성-요소를-구축하는-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#figma%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-256%EA%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;figma에서 프로그래밍 방식으로 256개의 새로운 디자인 시스템 구성 요소를 구축하는 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Figma에서 프로그래밍 방식으로 256개의 새로운 디자인 시스템 구성 요소를 구축하는 방법&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;Figma에서 프로그래밍 방식으로 256개의 새로운 디자인 시스템 구성 요소를 구축하는 방법&lt;/p&gt;
+&lt;p&gt;우버의 기본 디자인 시스템은 제품 전반에 걸쳐 광범위하게 사용되는 맵 마커를 제공하며, 사용자가 지도를 볼 때마다 표시됩니다. 최근에 지도 마커에 컨텍스트를 추가로 표시해야 하는 필요성을 발견하고 이를 달성하기 위해 기존 기본  구성 요소인 배지를 추가하기로 결정했습니다.&lt;/p&gt;
+&lt;p&gt;문제는 지도 마커와 배지 모두 다양한 변형이 있다는 것입니다. 마커는 크기, 니들 길이, 아이콘 슬롯 및 레이아웃 동작에 따라 사용자 지정할 수 있으며 배지는 여러 크기, 레이블 및 아이콘 스타일을 가질 수 있습니다. 배지 지원 맵 마커의 최종 세트는 이러한 모든 옵션, 총 256개의 새 구성 요소를 조합한 것입니다.&lt;/p&gt;
+&lt;p&gt;일반적인 접근 방식은 디자이너가 이러한 새 구성 요소를 수동으로 생성하는 것입니다. 이는 비효율적 일뿐만 아니라 모든 변형을 생성하고 여러 시나리오에서 개별적으로 테스트하는데 필요한 작업의 양과 반복성으로 인해 오류가 발생하기 쉽습니다.&lt;/p&gt;
+&lt;p&gt;그래서 저는 프로그래밍 방식으로 접근하기로 결정했습니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://medium.com/uber-design/how-i-programmatically-built-256-new-design-system-components-in-figma-84ee26d119c1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://medium.com/uber-design/how-i-programmatically-built-256-new-design-system-components-in-figma-84ee26d119c1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;기술-분야의-ux-writing-프로세스-이해하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B8%B0%EC%88%A0-%EB%B6%84%EC%95%BC%EC%9D%98-ux-writing-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0&quot; aria-label=&quot;기술 분야의 ux writing 프로세스 이해하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;기술 분야의 UX Writing 프로세스 이해하기&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;UX Writing은 이해하고, 협력하고, 분석하고, 쓰는것 입니다.&lt;/p&gt;
+&lt;p&gt;여러분이 화면에서 단어들을 볼 때 그것들은 쉽고 간단하고 짧으며 누구나 쓸 수 있다고 생각할 것입니다. 그러나 이 작은 단어들 뒤에는 아무도 말하지 않는 비밀이 있습니다. 비즈니스 및 기술 제약을 이해하면서 다양한 이해 관계자와의 수많은 토론, 몇 가지 초안과 수많은 편집이 필요한 험난하고 긴 프로세스입니다.&lt;/p&gt;
+&lt;p&gt;그렇다면 UX 사본을 작성하는 과정은 무엇일까요?&lt;/p&gt;
+&lt;p&gt;[1] 전체 제품에 대해 UX 사본을 작성
+UX 작성자는 비즈니스와 사용자를 이해하고, 음성 및 어조를 공식화하고, 다양한 종류의 UX 사본을 식별하고, 어휘를 작성하는 등의 작업을 수행해야 합니다. 이것은 긴 과정입니다. 최대 3~4개월이 걸릴 수 있습니다.&lt;/p&gt;
+&lt;p&gt;[2] 기능에 대한 새 사본
+기능에 대한 사본을 작성할 때 UX 작성자는 기능에 대해 배우고 경쟁을 분석하고 콘텐츠가 어떻게 작동하는지 인식해야 합니다. 이 과정은 더 짧으며 몇 주 또는 한 달이 걸릴 수 있습니다.&lt;/p&gt;
+&lt;p&gt;[3] 사본을 개선
+UX 작성자가 UX 사본을 확인하고 신속하게 검토하는 것은 일상적인 작업입니다. 그것은 사본에 무엇이 잘못되었고 UX 작성자들이 그것을 어떻게 개선할 수 있는지에 대한 이해를 필요로 합니다.&lt;/p&gt;
+&lt;p&gt;[4] 시나리오 모음
+커뮤니케이션이 무엇이고 어떻게 이루어져야 하는가에 대한 명확성을 지원하는 UX 사본을 작성하기 위해서는 시나리오를 더 깊이 이해하는 것이 중요합니다. 상황에 맞게 PM, 개발자 및 디자이너와 협업하면 고객의 기대, 경쟁, 비즈니스 등을 이해하는 데 도움이 됩니다.&lt;/p&gt;
+&lt;p&gt;[5] 전체 제품에 대해 UX 사본을 작성
+전체 제품에 대한 UX 사본 개발의 목표는 커뮤니케이션의 일관성을 유지하고 제품을 돋보이게 하는 것입니다. 따라서 비즈니스와 사용자의 요구 사항 및 제약 사항을 이해하는 것부터 시작하여 목소리와 톤으로 브랜드 개성을 창출하십시오.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;조직에 대해 알아보고 사명, 비전, 브랜드 인식 및 제약 사항을 이해하십시오.&lt;/li&gt;
+&lt;li&gt;조직의 핵심 인력과 인터뷰를 진행합니다.&lt;/li&gt;
+&lt;li&gt;사용자의 요구, 불만 사항, 문제 및 선호 사항을 이해합니다.&lt;/li&gt;
+&lt;li&gt;사용자 인터뷰와 고객 설문 조사를 수행하여 사용자가 제품을 사용할 때 자주 느끼는 감정을 이해합니다.&lt;/li&gt;
+&lt;li&gt;문서의 모든 정보를 수집하여 브랜드 개성과 사용자 페르소나를 만듭니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;기능에 대한 새로운 사본을 작성하기 전에 기능의 핵심을 파악하는 것이 전제 조건입니다. 제품 관리자 또는 디자이너와 협력하여 다음 질문을 해야 합니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;기능은 무엇입니까?&lt;/li&gt;
+&lt;li&gt;기능을 수행하는 이유는 무엇입니까?&lt;/li&gt;
+&lt;li&gt;고객 요청입니까?&lt;/li&gt;
+&lt;li&gt;고객은 누구입니까?&lt;/li&gt;
+&lt;li&gt;대회는 무엇을 제공합니까?&lt;/li&gt;
+&lt;li&gt;카피가 비즈니스에 미치는 영향은 무엇입니까?&lt;/li&gt;
+&lt;li&gt;경쟁사와 어떻게 다릅니 까?&lt;/li&gt;
+&lt;li&gt;타임 라인은 무엇입니까?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://design.zeta.in/the-ux-writing-process-in-tech-demystified-3fe2481b599a?gi=aa113ea6659b&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://design.zeta.in/the-ux-writing-process-in-tech-demystified-3fe2481b599a?gi=aa113ea6659b&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/details&gt;
 &lt;hr/&gt;
