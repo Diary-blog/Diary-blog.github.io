@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Jun 2021 14:05:04 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Jun 2021 16:13:14 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -1095,6 +1095,8 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 &lt;h2 id=&quot;-list&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-list&quot; aria-label=&quot; list permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 List&lt;/h2&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
 &lt;ul&gt;
+&lt;li&gt;[디자인 씽킹 워크숍 (단계별 가이드)]&lt;/li&gt;
+&lt;li&gt;[디지털 접근성을 위한 컬러]&lt;/li&gt;
 &lt;li&gt;[Figma에서 프로그래밍 방식으로 256개의 새로운 디자인 시스템 구성 요소를 구축하는 방법]&lt;/li&gt;
 &lt;li&gt;[기술 분야의 UX Writing 프로세스 이해하기]&lt;/li&gt;
 &lt;li&gt;[비주얼 디자인에 색상을 올바르게 사용하는 방법]&lt;/li&gt;
@@ -1159,6 +1161,66 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 .  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;디자인-씽킹-워크숍-단계별-가이드&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%94%94%EC%9E%90%EC%9D%B8-%EC%94%BD%ED%82%B9-%EC%9B%8C%ED%81%AC%EC%88%8D-%EB%8B%A8%EA%B3%84%EB%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C&quot; aria-label=&quot;디자인 씽킹 워크숍 단계별 가이드 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;디자인 씽킹 워크숍 (단계별 가이드)&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;디자인 씽킹 워크숍 (단계별 가이드)&lt;/p&gt;
+&lt;p&gt;성공적인 디자인 씽킹 워크숍을 계획하고 운영하는 방법을 알아보십시오.
+팀이 중요한 목표를 달성하고 즐겁게 지낼 수 있도록 지원합니다.&lt;/p&gt;
+&lt;p&gt;본 가이드의 모든 권장 사항은 뛰어난 디자이너가 만든 연구와 함께 100회 이상의 워크샵, 현장 및 원격 워크샵, 스타트업 및 엔터프라이즈에서 얻은 학습을 기반으로 합니다.&lt;/p&gt;
+&lt;p&gt;디자인 씽킹 워크숍은 문제를 빠르게 정의하고 해결할 수 있는 좋은 방법론 입니다. 성공적인 워크숍을 통해 그룹은 문제를 이해하고, 아이디어를 생성하여 솔루션을 정의 할 수 있고, 재미와 유대감이 아이디어를 현실로 만들 수 있습니다. 아래는 디자인 씽킹 방법론 입니다. 공감, 정의, 아이디어, 프로토타입 및 테스트의 다섯 가지 단계를 정의하고 반복적으로 수행합니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;디자인 씽킹의 5가지 주요 단계&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[1] 워크숍의 범위와 목표 파악&lt;/p&gt;
+&lt;p&gt;첫번째 단계로 목표와 범위를 정의하는 것은 향후의 모든 활동을 정의하게 됩니다. 이 질문에 대한 답을 얻을 수 있는 가장 좋은 방법은 주요 이해 관계자들과 몇 가지 예비 인터뷰를 하는 것입니다. 검증하려는 주요 목표, 예상 결과물 및 가정을 매핑합니다.&lt;/p&gt;
+&lt;p&gt;[2] 문제가 구체적일수록 해결책이 더 구체적입니다.&lt;/p&gt;
+&lt;p&gt;디자인 씽킹 워크숍은 현실적인 기대치를 갖는 것이 중요합니다. 몇 시간 동안 한 무리의 사람들이 모여 여러 대규모 문제에 대한 구체적인 해결책을 찾을 것으로 기대하지 마세요. 문제를 더 구체적으로 해결할수록 해결 방법이 더 구체화됩니다.&lt;/p&gt;
+&lt;p&gt;일반적으로 대기업에는 여러 사용자 그룹과 제품 등 많은 문제와 질문들을 가질 것입니다. 이러한 경우에는 먼저 문제를 구성하는 데 초점을 맞춘 높은 수준의 인터뷰와 워크숍을 진행하는 것이 더 좋습니다. 그 이후에 문제에 대한 해결책을 찾기 위해 후속 워크숍을 계획하는 것이 좋습니다.&lt;/p&gt;
+&lt;p&gt;[3] 워크숍에 대해 사전 조사를 실행해주세요.&lt;/p&gt;
+&lt;p&gt;여러분은 기본적인 질문들로 워크숍을 시작하기를 원하지 않습니다. 워크숍 전에 가능한 한 많이 조사해두면 지식 격차를 더 잘 파악할 수 있습니다. 또한 그룹의 효과적인 조정에 필수적인 신뢰도를 신속하게 쌓을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;[4] 관련 활동 선택&lt;/p&gt;
+&lt;p&gt;명확한 목표를 설정한 후에는 목표를 달성하기 위한 적절한 도구(활동)를 선택해야 합니다. 활동 선택은 예상 결과뿐만 아니라 초대할 수 있는 시간 및 참가자에 따라 달라집니다.&lt;/p&gt;
+&lt;p&gt;공감을 구축하는 것은 디자인 씽킹의 초석 중 하나입니다. 공감은 다른 사람이 그들의 기준 범위 내에서 경험하는 것을 이해하거나 느낄 수있는 능력입니다.  공감력을 통해 고객은 물론 고객이 달성하고자 하는 목표, 원동력 및 프로세스에서 직면하는 과제를 파악할 수 있습니다. &lt;/p&gt;
+&lt;p&gt;공감을 형성하는 데 도움이 되는 몇 가지 활동입니다.
+페르소나(Proto Personas), 공감 지도(Empathy Map), 여정 지도(Journey Map), 수행해야 할 작업(Jobs To Be Done), VPC(The Value Proposition Canvas), 고객 프로필(Customer Profile)
+.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://medium.com/windmill-smart-solutions/design-thinking-workshop-step-by-step-guide-428171c2adee&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://medium.com/windmill-smart-solutions/design-thinking-workshop-step-by-step-guide-428171c2adee&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;디지털-접근성을-위한-컬러&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%94%94%EC%A7%80%ED%84%B8-%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%AC%EB%9F%AC&quot; aria-label=&quot;디지털 접근성을 위한 컬러 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;디지털 접근성을 위한 컬러&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;디지털 접근성을 위한 컬러&lt;/p&gt;
+&lt;p&gt;디지털 접근성은 디자이너의 노력으로 디자인을 혁명하는데 도움이 될 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&quot;디지털 접근성은 장애가 있는 사람들이 웹을 이해하고, 탐색하고, 인지하고, 기여하고, 웹과 상호 작용할 수 있도록 합니다.&quot;&lt;/p&gt;
+&lt;p&gt;웹 콘텐츠의 접근성을 높이기 위한 접근성 권장 사항은 W3C(World Wide Web Consortium)에서 개발한 WCAG(Web Content Accessibility Guidelines)에서 제공합니다.&lt;/p&gt;
+&lt;p&gt;WCAG 지침은 이해하기 어렵고 접근성 전문가와 전문가의 도움이 필요합니다. 올바른 방향으로의 작은 단계는 접근 가능한 디자인의 목표를 달성하는데 도움이 될 수 있습니다. 모든 접근성 지침이 중요하지만 가장 일반적인 것은 색상 대비와 가시성입니다.&lt;/p&gt;
+&lt;p&gt;Google의 소프트웨어 프로그램 엔지니어인 Mathias Bynens는 이렇게 말했습니다.
+&quot;데이터에 따르면 가장 일반적인 접근성 문제는 컬러와 관련된 것입니다.&quot;&lt;/p&gt;
+&lt;p&gt;컬러에 대한 접근성은 콘텐츠에 대해 충분한 대비를 표시하고 주변 페이지와 명확하게 구분되는 색상 조합 및 팔레트를 만드는 것을 의미합니다. 제품 수명주기 초기에 접근성 지침으로 색상을 재구성하면 시간, 노력 및 비용이 절약됩니다.&lt;/p&gt;
+&lt;p&gt;각 사용자가 비슷한 디지털 경험을 할 수 있도록 계산된, 의식적이고 배려적인 색채 사용이 공감을 확산시키고 있습니다. 또한 이것은 &quot;우리는 당신을 돌 봅니다&quot;라는 브랜드 메시지로 더 많은 청중에게 전달됩니다.&lt;/p&gt;
+&lt;p&gt;아래는 디자이너가 접근 가능한 사용자 경험을 위해 색상 사용을 배우고 이해할 수 있는 5가지 단계를 설명합니다. &lt;/p&gt;
+&lt;p&gt;[1] 컬러 인지 관련 장애를 이해하여 최종 사용자의 요구에 공감합니다.&lt;/p&gt;
+&lt;p&gt;컬러에 민감한 사람들이 있습니다. 그들은 특정한 색상의 음영을 구별할 수 없으며, 때로는 어떤 색상도 완전히 인식할 수 없습니다. 이것은 컬러를 인지하는 시력이 결핍하거나 색맹으로 알려져 있습니다.&lt;/p&gt;
+&lt;p&gt;대부분의 사람들은 실제로 &quot;색맹&quot;이 아니라 &quot;컬러가 부족한 것&quot;입니다.&lt;/p&gt;
+&lt;p&gt;전 세계적으로 약 3억 명의 색맹/결핍인 사람이 있는 것으로 추정됩니다. 여기에는 마크 트웨인, 마크 저커버그, 파블로 스탠리, 크리스토퍼 놀란, 그리고 에디 레드메인과 같은 몇몇 공인들도 포함되어 있습니다.&lt;/p&gt;
+&lt;p&gt;색맹과 결핍은 대략 남자는 12명 중 한명, 여자는 200명 중 한명에게 영향을 미칩니다.&lt;/p&gt;
+&lt;p&gt;색맹이 있는 사람들의 98%는 적녹색맹을 가지고 있습니다.&lt;/p&gt;
+&lt;p&gt;색맹 친화적인 디자인을 확장하기 위해서는 다양한 유형의 색맹과 결함을 이해하는 것이 중요합니다. 이를 위해서는 연구와 인내, 노력이 필요하지만 이러한 노력은 모든 사람이 보다 눈에 잘 띄고, 읽기 쉽고, 공정한 디자인을 만드는 데 도움이 됩니다.&lt;/p&gt;
+&lt;p&gt;[2] 색상과 기호를 함께 사용하여 중요한 시각 정보를 모두에게 유용하게 만듭니다.&lt;/p&gt;
+&lt;p&gt;색은 정보를 전달하는 중요한 수단이고, 기호는 정보를 더 유용하게 만들기 위해 사용되어야 합니다. 다양한 종류의 기하학적 패턴, 선, 텍스트, 텍스처 및 레이블을 사용하면 모든 사용자의 가독성과 가시성을 향상시킬 수 있습니다.&lt;/p&gt;
+&lt;p&gt;사용자가 실행 가능한 작업을 생성하고 구성할 수 있는 웹 사이트이자 앱인 트렐로는 색맹 친화적인 모드를 사용합니다. 이것은 사용자가 서로 다른 레이블을 구분할 수 있는 찾기 쉬운 기능입니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://www.qed42.com/blog/reimagining-colors-digital-accessibility&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.qed42.com/blog/reimagining-colors-digital-accessibility&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/details&gt;
 &lt;hr/&gt;
