@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Jun 2021 16:13:14 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Jun 2021 15:28:46 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -1095,6 +1095,10 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 &lt;h2 id=&quot;-list&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-list&quot; aria-label=&quot; list permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📝 List&lt;/h2&gt;
 &lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
 &lt;ul&gt;
+&lt;li&gt;[UX product 디자인 포트폴리오에 대한 6가지]&lt;/li&gt;
+&lt;li&gt;[디자인의 접근성 테스트하기 위한 4단계 프로세스]&lt;/li&gt;
+&lt;li&gt;[혁신적인 폼 양식 디자인의 10가지 예]&lt;/li&gt;
+&lt;li&gt;[웹 사이트 전환을 개선하기 위한 21가지 학습]&lt;/li&gt;
 &lt;li&gt;[디자인 씽킹 워크숍 (단계별 가이드)]&lt;/li&gt;
 &lt;li&gt;[디지털 접근성을 위한 컬러]&lt;/li&gt;
 &lt;li&gt;[Figma에서 프로그래밍 방식으로 256개의 새로운 디자인 시스템 구성 요소를 구축하는 방법]&lt;/li&gt;
@@ -1161,6 +1165,117 @@ AWS에서 Docker 컨테이너를 관리하는 가장 좋은 방법은 언제일�
 .  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;ux-product-디자인-포트폴리오에-대한-6가지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#ux-product-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%97%90-%EB%8C%80%ED%95%9C-6%EA%B0%80%EC%A7%80&quot; aria-label=&quot;ux product 디자인 포트폴리오에 대한 6가지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;UX product 디자인 포트폴리오에 대한 6가지&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;UX product 디자인 포트폴리오에 대한 6가지&lt;/p&gt;
+&lt;p&gt;저는 UX 포트폴리오를 만드는 것에 대한 많은 질문을 받았습니다. 대부분의 쿼리는 본질적으로 매우 유사했기 때문에 이 글을 작성하게 되었습니다.&lt;/p&gt;
+&lt;p&gt;이 기사에서는 포트폴리오 생성에 대한 배운 내용과 FAANG으로의 여정에 도움이 된 내용을 공유하려고 합니다. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;포트폴리오에서 어떤 기술을 강조해야 합니까?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;특정 프로젝트를 시작하기 전에 포트폴리오에서 강조하고 싶은 기술이 무엇인지 생각해보십시오. 여러분의 장점과 단점을 적는 것부터 시작하세요. 리서치, 인터랙션, 프로토타이핑, 비주얼, 모션디자인 등과 같은 몇 가지 기술을 생각해 보십시오. 더 많은 기술이 있을 수 있습니다. 각 카테고리에 대해 5점 만점에 점수를 매기십시오.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;당신이 포트폴리오를 준비 할 시간이 거의 없다고 가정 해 봅시다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;제약과는 별도로 고려해야 할 세 가지 사항이 있습니다.&lt;/p&gt;
+&lt;p&gt;a) 누가 포트폴리오를 볼 수 있을까요? (어느 조직, 그들이 무엇을 하는지)
+b) 연구/인터랙션/비주얼/모션 중에 어떤 역할을 지원합니까?
+c) 자신의 포트폴리오를 통해 무엇을 전달하려고 합니까?&lt;/p&gt;
+&lt;p&gt;자신의 강점에 집중해야합니다. 여러 아이디어 생성, 중요한 사용자 여정 (CUJ) 및 프로토 타이핑을 통해 그의 상호 작용 디자인 기술을 과시하십시오.&lt;/p&gt;
+&lt;p&gt;문제 진술을 어떻게 분석했는지, 가정과 사고 과정을 어떻게 검증했는지, 최종 해결책을 제시합니다.&lt;/p&gt;
+&lt;p&gt;자신의 연구 기술을 보여줍니다. 문제 설명을 어떻게 분석했고, 가정과 사고 과정을 어떻게 검증하고 최종 솔루션에 도달했는지를 보여줍니다.&lt;/p&gt;
+&lt;p&gt;브랜드 지침에 따라 몇 가지 최종 모형을 제시하는 데 시각적 디자인 기술을 보여줍니다 (가이드가 없을 경우는 색상 팔레트 선택 / 로고 아이디어 / 타이포그래피 등에 대한 근거를 문서화해야 합니다).&lt;/p&gt;
+&lt;p&gt;&apos;모션 디자인&apos;이나 &apos;UX 쓰기&apos;와 같은 그의 부차적인 기술 중 일부를 뿌리되 그것에 너무 집중하지는 마세요.&lt;/p&gt;
+&lt;p&gt;우리는 채용 담당자나 면접관과 의사소통을 잘못하는 것을 원하지 않습니다. 마찬가지로, 당신의 주요 기술이 Research 또는 VD가 기본 기술이라면 해당 기술을 마음껏 활용하십시오.&lt;/p&gt;
+&lt;p&gt;💡Tip: 포트폴리오가 고용 결정을 내리는 데 있습니다 차별화 요소입니다. 그것을 짓기 위해 당신만의 달콤한 시간을 가지세요. 준비가 되었으면 작업에 적용을 시작합니다. 서두르지 마세요! Interaction Designer 역할을 지원하는 연구원 인 경우 포트폴리오에서 디자인 프로세스, 데이터 기반 디자인 결정 및 최종 솔루션을 잘 설명해야 함을 의미합니다.&lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://medium.muz.li/6-things-i-know-about-ux-product-design-portfolio-ec643c5d76fe&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://medium.muz.li/6-things-i-know-about-ux-product-design-portfolio-ec643c5d76fe&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;디자인의-접근성-테스트하기-위한-4단계-프로세스&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%EC%A0%91%EA%B7%BC%EC%84%B1-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-4%EB%8B%A8%EA%B3%84-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4&quot; aria-label=&quot;디자인의 접근성 테스트하기 위한 4단계 프로세스 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;디자인의 접근성 테스트하기 위한 4단계 프로세스&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;디자인의 접근성 테스트하기 위한 4단계 프로세스&lt;/p&gt;
+&lt;p&gt;스크린 리더를 사용하여 접근성을 테스트하는 데 도움이 되는 가이드입니다.&lt;/p&gt;
+&lt;p&gt;세계보건기구(WHO)에 따르면, 세계 인구의 약 15%가 어떤 형태의 장애를 가지고 살고 있다고 합니다. 포용성을 위한 디자인을 생각한다면 접근성(a11y)은 단순히 QA 체크리스트의 마지막 항목이 아니라 모든 디자인 결정의 일부가 되여야 합니다.&lt;/p&gt;
+&lt;p&gt;최근에는 Shopify에서 a11y 관련 문제를 감사 및 수정했습니다. 스크린 리더 관련 문제를 자동으로 테스트할 수 있는 단일 도구가 없기 때문에 스크린 리더 사용은 까다롭습니다. 스크린 리더는 보조 도구이므로 개인의 필요에 따라 사용 방법이 달라집니다.&lt;/p&gt;
+&lt;p&gt;추가 독서를 위한 유용한 링크로 감사를 쉽게 하기 위해 이 글을 썼습니다.&lt;/p&gt;
+&lt;p&gt;스크린 리더 설정&lt;/p&gt;
+&lt;p&gt;이 가이드에서는 새로운 Mac 컴퓨터, iPhone 및 iPad에 제공되는 스크린 리더 프로그램인 VoiceOver on Mac을 사용하겠습니다. 윈도우를 사용하는 경우 JAWS 또는 NVDA를 사용할 수 있습니다. 좋은 상호 작용과 나쁜 상호 작용에 대한 안내 질문 및 예를 제공하므로 OS가 문제가 되지 않습니다.&lt;/p&gt;
+&lt;p&gt;첫 번째 단계는 화면 판독기를 활성화하고 키보드 단축키에 익숙해지는 것입니다.
+어떤 것이 a11y 문제인지 제가 어떻게 알 수 있을까요?&lt;/p&gt;
+&lt;p&gt;WebAIM의 화면 판독기 테스트에 대한 기사에서는 시각 판독기 사용자와 스크린 리더 사용자가 웹 콘텐츠에 액세스하는 방법 간의 차이점을 상기시켜 주었습니다.&lt;/p&gt;
+&lt;p&gt;&quot;대부분의 스크린 리더 사용자는 웹 페이지 전체를 이렇게 즉시 측량할 수 없습니다. 웹 콘텐츠는 선형 및 텍스트 기반입니다. 스크린 리더는 왼쪽과 오른쪽 또는 위치에 대해 생각하지 않습니다. 중요한 콘텐츠, 대담한 색상,  예술적인 디자인으로 되어 있는지 여부는 스크린 리더와는 무관합니다.&quot;&lt;/p&gt;
+&lt;p&gt;저는 상호작용이 제가 의도한 대로 행동하는지 자문해 봅니다. 시각 장애가 있는 사용자는 시각 장애가 없는 사람이 할 수 있는 것과 같은 쉬운 방법으로 내용을 이해하고, 키보드를 사용하여 페이지를 쉽게 탐색 할 수 있어야합니다. 무언가가 예기치 않게 작동하거나 사용하기 어려운 것으로 드러난 경우 추가 조사를 위해 팀에 문의하는 것이 좋습니다.&lt;/p&gt;
+&lt;p&gt;일반적으로 WCAG 요구 사항의 대부분을 다루는 키보드 단축키 4개를 테스트합니다. 포커스 가능한 요소 탐색, 각 항목 읽기, 각 이미지 읽기 및 제목 탐색 등 입니다. &lt;/p&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe?gi=619de03246e6&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe?gi=619de03246e6&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;혁신적인-폼-양식-디자인의-10가지-예&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%ED%8F%BC-%EC%96%91%EC%8B%9D-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-10%EA%B0%80%EC%A7%80-%EC%98%88&quot; aria-label=&quot;혁신적인 폼 양식 디자인의 10가지 예 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;혁신적인 폼 양식 디자인의 10가지 예&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;혁신적인 폼 양식 디자인의 10가지 예&lt;/p&gt;
+&lt;p&gt;폼 양식은 사용자와 비즈니스 간의 상호 작용을 촉진하고 설정하는 데 도움이 됩니다. 폼 양식이 너무 길고 작성하는데 시간이 많이 걸리는 경우 사용자는 폼을 무시할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;사용자가 연락을 취할 수 있도록 폼을 신중하게 만들어야 합니다. 사용자의 관심사에 유의하고, 양식을 통해 올바른 질문을 하고, 매력적인 포장으로 마무리해야 합니다. 최종 결과는 고객이 즐길 수 있도록 진정성 있고 신중한 폼 양식이 되어야 합니다.&lt;/p&gt;
+&lt;p&gt;폼 입력을 거부할 수 없고 재미있거나 아름다운 형태를 만드는 멋진 방법을 찾은 많은 브랜드들이 있습니다.  웹에서 가장 혁신적인 예를 몇 가지 소개합니다. 이 예제에서는 흥미롭고 효과적인 폼 양식을 만들기 위해 무엇을 할 수 있는지 보여줍니다.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;Zorka Agency는 ROI를 예측/개발하는데 주력하는 국제 디지털 마케팅 대행사입니다.&lt;/p&gt;
+&lt;p&gt;그들은 블리자드, 헤네시, 도미노피자, 알리익스프레스 및 그리고 많은 다른 유명한 회사들과 함께 일했습니다. 그들의 홈페이지는 모두 검정색 배경과 흰색과 노란색 타이포그래피 사이의 유사점에 관한 것입니다.&lt;/p&gt;
+&lt;p&gt;대문자 산세 리프 타이포그래피와 미묘하면서도 매력적인 호버 효과를 능숙하게 결합하여 방문자의 주의를 끌 수 있으며 표시되는 텍스트의 위치는 물론 색상도 변경됩니다.&lt;/p&gt;
+&lt;p&gt;홈페이지에 접속해서 하단에 보시면 타이포그래피 색상과 배경 반전, 검정색 글꼴을 사용한 &quot;Say Hello&quot;로 이동한 후 지정된 필드에 전체 이름을 입력합니다.&lt;/p&gt;
+&lt;p&gt;동그라미를 친 &quot;다음 단계&quot; 버튼은 상상력이 풍부한 폼 양식의 시작이라는 것을 알려줍니다.&lt;/p&gt;
+&lt;p&gt;대부분의 사이트에서 일반적으로 사용되는 양식인 레이블과 필드를 하나 또는 두 개의 열에 나열하는 대신 고객에게 필요한 정보를 한 번에 하나씩 묻는 5단계 기능으로 폼의 양식으로 구성했습니다.&lt;/p&gt;
+&lt;p&gt;만약 그들이 한 번에 많은 질문을 보게 된다면 양식을 건너 뛸 가능성이 더 높습니다.&lt;/p&gt;
+&lt;p&gt;사용자에게 한 번에 한 단계씩 정보를 요청함으로써 브랜드는 양식의 길이 때문에 잠재 고객이 스트레스를 받지 않도록 합니다. 그 대가로 전환율에 긍정적인 영향을 받을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;.
+.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://qodeinteractive.com/magazine/innovative-contact-form-design/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://qodeinteractive.com/magazine/innovative-contact-form-design/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;웹-사이트-전환을-개선하기-위한-21가지-학습&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%84%ED%99%98%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-21%EA%B0%80%EC%A7%80-%ED%95%99%EC%8A%B5&quot; aria-label=&quot;웹 사이트 전환을 개선하기 위한 21가지 학습 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;웹 사이트 전환을 개선하기 위한 21가지 학습&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt; └  📝 &lt;/summary&gt;
+&lt;p&gt;웹 사이트 전환을 개선하기 위한 21가지 학습&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;상품 GIF는 가장 좋은 방법입니다.
+제품을 설명하는 대신 제품의 작동 방식을 보여주세요.&lt;/li&gt;
+&lt;li&gt;H1을 대문자로 표시합니다.
+가능한 한 명확하게 주요 이점을 최대한 명확히 전달하십시오. 텍스트의 첫 줄은 새로운 사용자를 얻거나 잃는 것의 차이를 만듭니다.&lt;/li&gt;
+&lt;li&gt;사용자의 의견에 공감합니다.
+브랜드를 홍보하는 대신 고객의 니즈를 충족시키는 데 집중하십시오.&lt;/li&gt;
+&lt;li&gt;내용을 반복해주세요.
+명확한 혜택을 자주 설명하십시오. 사용자의 주요 목표는 제품의 작동 방식과 작업을 완료하는 데 어떻게 도움이 될 수 있는지 이해하는 것입니다.&lt;/li&gt;
+&lt;li&gt;짧고 읽기 쉬운 문장을 쓰세요.
+사람들은 짧은 집중력을 가지고 있고 텍스트가 많으면 읽기가 어렵게 만듭니다.&lt;/li&gt;
+&lt;li&gt;약속하기
+사람들은 자신이 내리는 결정에 대해 확신을 갖기를 원합니다. do 또는 can과 같은 단어가 포함 된 문장은 소비자의 신뢰를 강화합니다.&lt;/li&gt;
+&lt;li&gt;이야기를 하세요.
+등장인물, 장소, 이벤트로부터 얻을 수 있는 많은 양의 세부 사항은 우리가 개인적으로 정보나 아이디어를 연결하는데 도움을 줍니다.&lt;/li&gt;
+&lt;li&gt;사회적 증거
+우리의 행동은 가장 가까운 맥락의 행동, 단어 및 취향을 모방 한 결과입니다. &lt;/li&gt;
+&lt;li&gt;스토리를 발전시키는 이미지를 사용하십시오.
+이미지는 제품에 대한 이해도를 향상시켜야 합니다. 사람들은 작업을 완료하는 데 필요한 인지 부하를 최소한으로 줄이기 위해 장식적인 이미지를 무시하는 법을 배울 것입니다.&lt;/li&gt;
+&lt;li&gt;가능하면 하나의 CTA만 사용하십시오.
+액션에 대한 호출을 최소로 제한합니다. 더 많은 클릭 유도 문안을 만들수록 더 적게 호출 할 수 있습니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.&lt;br&gt;
+.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👇 더 자세한 내용은 아래 원문에서 확인해주세요.&lt;br&gt;
+&lt;a href=&quot;https://medium.muz.li/21-learnings-to-improve-your-website-conversion-4fb715a9a0f9&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://medium.muz.li/21-learnings-to-improve-your-website-conversion-4fb715a9a0f9&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/details&gt;
 &lt;hr/&gt;
