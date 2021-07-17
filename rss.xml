@@ -1,4 +1,653 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Jul 2021 16:05:43 GMT</lastBuildDate><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 17 Jul 2021 08:16:29 GMT</lastBuildDate><item><title><![CDATA[💡 피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생깁니다.]]></title><description><![CDATA[Incoding base64 to png & jpg or svg base64로 인코딩 할 때 원본 이미지가 jpg와 png에 따라 결과 차이가 존재하는지 에 대해  궁금증이 생겨서 직접 해보기로 했습니다. 아이콘 준비 제가 실험해볼 Picture…]]></description><link>https://diary-blog.github.io/base64/</link><guid isPermaLink="false">https://diary-blog.github.io/base64/</guid><pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a829fe27d0a3ad76688bb67b0d8af403/5a190/ic0-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABfElEQVQoz2NgwAJYxTUZ2KQNGRhe/mdgCK9lkGZgYUi0kmOanGfFzMDAySAuIsqQ5qvDQDQ4He7G8CbEguF/sg1DUUACE0gs1kaNYUqxE5DFzaAgJcmQGWhEvIGv3c0Y/rsqM/z3k2Mo8YkDCbFEWik6N8QbVgPZTNy8YgxpPlrEG/jO1YDh/ywGhv/BDBxurnGlBkqqz9PMZP7XFCbt9Xe15QwNDWbISwojzrCva+wYmktqmBZ39DIsam5wC0quvCSsbLrVmZvB5/8hObCaAls+hiOtGmC1RBhoy1CwvYShclsxA8OxozwM//8zJ+TFMXixMTDs6nJi+L/NieHdMmuGL6ttwZgoF75e48TwZo0j//+V+hL/V+kJvF3pIHV3qqno+5X2/EB5UaBB7CCLiTLwC9DAb0DF31bbCnxcba/yfpWD3MeVtlJfVtvJAQ1TBRpiAFQjA1IHxIxEuRDsHSANcsVXMG0HF0fmExmGdvDwAbIZkTQzIrAtTgMBTZyk3EhrVvYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic0 1&quot;
+        title=&quot;ic0 1&quot;
+        src=&quot;/static/a829fe27d0a3ad76688bb67b0d8af403/5a190/ic0-1.png&quot;
+        srcset=&quot;/static/a829fe27d0a3ad76688bb67b0d8af403/772e8/ic0-1.png 200w,
+/static/a829fe27d0a3ad76688bb67b0d8af403/e17e5/ic0-1.png 400w,
+/static/a829fe27d0a3ad76688bb67b0d8af403/5a190/ic0-1.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;incoding-base64-to-png--jpg-or-svg&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#incoding-base64-to-png--jpg-or-svg&quot; aria-label=&quot;incoding base64 to png  jpg or svg permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Incoding base64 to png &amp;#x26; jpg or svg&lt;/h2&gt;
+&lt;p&gt;base64로 인코딩 할 때&lt;br&gt;
+원본 이미지가 jpg와 png에 따라 결과 차이가 존재하는지 에 대해 &lt;/p&gt;
+&lt;p&gt;궁금증이 생겨서 직접 해보기로 했습니다.&lt;/p&gt;
+&lt;h2 id=&quot;아이콘-준비&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%84%EC%9D%B4%EC%BD%98-%EC%A4%80%EB%B9%84&quot; aria-label=&quot;아이콘 준비 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;아이콘 준비&lt;/h2&gt;
+&lt;p&gt;제가 실험해볼 Picture icon 입니다.&lt;/p&gt;
+&lt;p&gt;아이콘 사이즈는 24 x 24 입니다.&lt;/p&gt;
+&lt;p&gt;Figma 에서는 canvas로 보여지기 때문에&lt;/p&gt;
+&lt;p&gt;웹에서 바로 base64를 열어볼 수 없어서&lt;/p&gt;
+&lt;p&gt;png 와 jpg 를 export 해서 살펴보기로 했습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c352eb224e364b7643172f6e34e2bf4f/23725/ic1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACXElEQVQoz2VSy2rbQBQVGIx/wb+RP0jBe0NKoE4KxXuvHIMx2aTrrlpoIF527TRtaePYstNHTBrqlLaL4kVDpJnRYzQaKXakOn5I7p1xTOr2cCWuNPfccx+j1L/02ue99x9PPnzqtFuthtp6VRd2cKi+Pmq/aRzP/bdHLYCqqhBz2v3W6X4/+3yqGO6A9od8OOuHQ+ZQ6jgmdQz71ohFTcrAsanDGKOUep4fT0bxeBjFscKDIQ9u+jeR179Guo4xMggmGGGkY4SkI97CwVjXddu24zgej8ej0UiZLXAdhHCMiHGBDMpch3tgTBoxLR0TwzAgAEqLojiSEOQ4FmTbDxEAkwsNn3Q6h/V6o9E8gkdVf/Z6OjFFaoSgqeFoHEVT0L8jW34AVbmeB6R7q6ulra1CoVAqle6vrRWLRde/EpkxhrGAZizxt3JwqWnc9/dfHpTL5clkAl1Vq9Xd3d1KpUIZRxIwM2h4KrGkDGTm8marnU6nM5kM6NRqtcc7O9vb2zZzF2RnIpmQfUkZymact9rHyWRSURTgr6yspFIpUbY3LxvZDptMIyADZYmsQc8cem4qCyQSCXjn83l+NZDTJKZp/g5DaHuJbHqBpumWTbvnXzc3N9bX1x/mHmzkctlsdm9vz3bc+cCguiAIJHk+MLlnty/3jIluWIz70PwP0keOzz0f1nOJFnumFNRuZrPBNL67JGEo9kwIwcBHCOyXhjUkr5iQhBMi9mxaEPz0xf6jypM7MhQDIZCeLAD3VHws/syVLUuQ1fq76vNn/yrj/yBruXXEOhiTYxK9/gHQofKWXsEsUgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic1&quot;
+        title=&quot;ic1&quot;
+        src=&quot;/static/c352eb224e364b7643172f6e34e2bf4f/5a190/ic1.png&quot;
+        srcset=&quot;/static/c352eb224e364b7643172f6e34e2bf4f/772e8/ic1.png 200w,
+/static/c352eb224e364b7643172f6e34e2bf4f/e17e5/ic1.png 400w,
+/static/c352eb224e364b7643172f6e34e2bf4f/5a190/ic1.png 800w,
+/static/c352eb224e364b7643172f6e34e2bf4f/23725/ic1.png 1105w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;쉽게 변환해서 결과만 보기위해 구글에 png to base64 와 jpg to base64로 검색하여 사이트에서 직접 변환하였습니다.&lt;/p&gt;
+&lt;h2 id=&quot;incoding&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#incoding&quot; aria-label=&quot;incoding permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;incoding&lt;/h2&gt;
+&lt;h3 id=&quot;png-jpg-to-base64-incoding&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#png-jpg-to-base64-incoding&quot; aria-label=&quot;png jpg to base64 incoding permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;png, jpg to base64 incoding&lt;/h3&gt;
+&lt;p&gt;figma에서 export한 파일 사이즈 입니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;png는 239 B&lt;br&gt;
+jpg는 1.36KB&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;png는 &lt;a href=&quot;https://codebeautify.org/png-to-base64-converter&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이곳&lt;/a&gt; 에서 변환하였고
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACSUlEQVQoz4VSO28aQRBGGCj9S/gBBHeRbHc0KaHBEQZkF25iCn5CChSJJgEpSoFEZVm4oEEuEinpIqVIRWHuBXe3j9vbu4MD7o7M3gXLifL4NLqb2dlvZ77ZTUVRtNvtoieAMAi2s9lssVjIsqypSrL4G2Ax9cdEkgvCcBeFxFm//7z48EV/+0mTqB+n9uS4TsAY45zbMRzH4Y6zb2L3QFbP33x78e77s9dfP06Z2B9Gv5B931/HeHRgMWkhCCLD9g220pnvb8Knvf217QTmxreCzWMIB3PX3QQBGDii8ng8vrq6erXH9fU1hHd3d5DCnOsYGRiDIUrMnw5FhOgYC3KlUqnVasPhsNfr9fv9wWDQaDTK5bKoTLCmKIosK2LsKthc02D+siRZti3I5+fn9/f3SWPT6bTdbo9Go2azCeECWw+KrhqGTvACIXmuzeAIw9B0HTFLkC8vL/P5fKvVAh/GfnNzc3t726jXRch9d7kN4Mp2wkDqar0JowiMMi7I9Xo9FQPUTiaTQqFQKpUuLi4gZTEGVRFCpmmiGPAzDAMjZNkxGRQCM5fLZbPZw8PDdDoN4cuzM6EZU0mSQDUoFbpBvKJKkqyqKnfiaVerVdh9cHCQ1M9kMvBNBqa7bO5aaOmstls/CGzPI8z21mvP97HFBLnb7R4dHZ2enh4fH5+cnIBTLBY7nQ6kKKO6oZvIJJR6S89x3cS85ZIy9p9HQpklS7ImrkeF61EV6FeVZpKmajbnqfAfiCLbcxDB2KLEoo8OJgRTwhz+A3lL7AJlo3LdAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic2&quot;
+        title=&quot;ic2&quot;
+        src=&quot;/static/c57ac96d533aae7a72d4d8fd84603d44/5a190/ic2.png&quot;
+        srcset=&quot;/static/c57ac96d533aae7a72d4d8fd84603d44/772e8/ic2.png 200w,
+/static/c57ac96d533aae7a72d4d8fd84603d44/e17e5/ic2.png 400w,
+/static/c57ac96d533aae7a72d4d8fd84603d44/5a190/ic2.png 800w,
+/static/c57ac96d533aae7a72d4d8fd84603d44/07a6a/ic2.png 1095w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;jpg 는 &lt;a href=&quot;https://onlinejpgtools.com/convert-jpg-to-base64&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이곳&lt;/a&gt; 에서 변환 하였습니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 32.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABUUlEQVQY02WP20sCQRTG9/8N6UKUu+ulJ0so07TysrMrRTetlyRTd7XF9kIv9mSRgUqautCgoY6sq9msSRgdfhy+OZzvmxmi00XGcFa6rv+Kr/EIfg7YZJG7LZ4Izxd3JUxMLMVFs5/lXlIPFQKhwf9CCI2MYQP2nFEV44iqdlaxs6qdUx1TrIzkvXok5g39fv+P+aOL98iIRDEyyZjdGpFIRrZxylrofidWmJnxO9vtNoQQCzStsWnu0UD5MdBAphjJGpbMFCCvBvPeywJhDHV8yTyGYX56Mhk1YY9m1fWITLMKxZgpFFAwOHHlMO+JF4jqu1ata69vrUpNK9emoq7hYUOD1WZnOZDFWHzCwi5v8fGL/qzFy+PJkj9LhUVi+4h3RzO2g8QWm94EKdt+ws2lPcfC3mnuqdxygTQ+OoM3ZODaBVIboSQWeNPNZfzn4jdI3UR7cgWJEAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic3&quot;
+        title=&quot;ic3&quot;
+        src=&quot;/static/0425665602b88c7274340f5101e70fe6/5a190/ic3.png&quot;
+        srcset=&quot;/static/0425665602b88c7274340f5101e70fe6/772e8/ic3.png 200w,
+/static/0425665602b88c7274340f5101e70fe6/e17e5/ic3.png 400w,
+/static/0425665602b88c7274340f5101e70fe6/5a190/ic3.png 800w,
+/static/0425665602b88c7274340f5101e70fe6/c1b63/ic3.png 1200w,
+/static/0425665602b88c7274340f5101e70fe6/5f652/ic3.png 1302w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;incoding 결과는 &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;png&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACESURBVHgB7ZSLCYAwDERPcfDbzFHsJlURS0n/xoJgHwSFXHPpFxg0sh1hlbH5BSdhYPEOru5SEjQSNDijMxoD4uqYOVFqD2qWyEbqBONzMyDy3VF8q7iPGsV/6/iiQAYTeorcY4OYCSM5lYFfiImc2uCMtULj6P5UfPom/9TAQI/BoIUdD91bjFg0XxMAAAAASUVORK5CYII=&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;jpg&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;/9j/4AAQSkZJRgABAgEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAYABgDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/v21/wBtf/gqR/w9I8O/8E5/+Cc/h39gQTj9gTT/ANtfxb4t/bX0/wDaIMTRH9ojxL8C9V8O+HdV+BfiVXjkjdfB+p6fp+p+D5FmWTxLc3PiWAwaXpdwAcX4/wDiF/wcufCjwb4h+I3xS8cf8G6Pw1+HvhHT31bxX478f+Jv2+vBvg3wxpUckcUmp+IfFHiK907RNF09JZYo3vNSvra2WSSNGkDOoIB0n7CX7dv/AAUz17/gpnf/ALAn7fdh/wAE9Nb0vW/+Cej/ALdvw6+Iv7CSfH/UNF1TRdQ+P/hb4L+GrC/8S/GjxTcW+pWepW9x4q1100LwqbSS0Pha/sPFN1HdalpsIB/N7/wdO/tuftL/ALCn/BXrwN8Qf2V/iTqHwl+IXxK/4JYfDP4Q6z460K2tJPE2leDbz9s34y/EvUIPDd9eRXEekahqWt/DDw7p19frbzyTeHrnW9JCoupvNEAesa//AMHR/wCxT+1v/wAEgPjB8Lv2/wD4CW/xd/ak1LR/Dvw08Rfs0WaeLfDHwx/aE12G8t/EvhL4xWPjnwhfaTqnwy8L+HPEnhXTPFPjLTdJ8Q6Z4w8MeKbDSoPh/PcRavpV7pIB7v8A8ENP2/vg3/wUQ/4LH/Cz4kfBb4Wf8KO0n4Lf8EAdO/Zi8U/ByyE83hX4beKvhL+2t4Ekt/DHw/1O5kludY+H8HgnxL4MvPCl5eN/aNnp16uiasZNW0i+mlAPZP8Ag4X/AODej9sv/grL+2X8Lv2jf2cvij+zJ4M8H+DP2ZPCHwT1jR/jZ4v+KnhvxJL4k8N/FT4y+Op9T0yDwL8GviTpdzodzpfxJ0u1hmutUsL9b+w1BH0/7P8AZ7iYA/B3/iCp/wCCpv8A0Xz9gD/w6f7RX/0KtAH7xf8ABvR/wb0ftl/8Emv2y/ij+0b+0b8Uf2ZPGfg/xn+zJ4v+Cej6P8E/F/xU8SeJIvEniT4qfBrx1BqepweOvg18NtLttDttL+G2qWs01rql/ftf3+nomn/Z/tFxCAD/2Q==&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;svg-to-png-jpg&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#svg-to-png-jpg&quot; aria-label=&quot;svg to png jpg permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;SVG to png, jpg&lt;/h3&gt;
+&lt;p&gt;이번엔 똑같은 아이콘을 figma에서 svg로 export해서 저장하였습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 580px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a91e8540d615584999d479ad23fcbbe7/b6272/ic4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB40lEQVQoz5WST0/iQBjGBwh/QuAEQYUPwI0Tyd7InvaTSKJB9r560steNjEcPWHiarLJJnuGmHjyQoJJ6wW0WGfaKcMFItCWFii+OEtVgkafTJq3aX/zPvPMi7rdbr1eT6fTpVKpUqnEYjFRFLHGCCHKQhjjdrs9nU51XTdN03Ec27ahQPAN+FqtJklStVp9C9Y0bWzbs9nMedJ4PLYsCxmG0Wq1MplMNpstl8vr6xuiIBCtA4y6EGzEWGcynTecLAQ8yufzuVwOIeTz+eLxeCqVEgQB0+XOtM06umMa+nA4BP/cAlDI6/X6/f5QKAR1IpGY26Yrzgy9AHCdwxYoGo1GIpFgMBgOhwOBQDKZXAkzxnhOwDzDrjweDzzB+fX1MszrRqPR6/UgIzgw51FhZ65iofC9WNze2jrYPyAEy4qqvBCHZVl20/p/ZlMfgB4GQ756D32sqDf4Feza5liz2YSJoJSi33V22VDle3wj41sZS/fkjqgSoeRFcx4YTAhcD8C7e3trG8nTszMk3tEWVqk6/9dd/HU57cnEHFng98fJRXzz6Pj8CmkqeWVxlTgM8wiBDfr9n78Ov3z99ufvP8Sbva+nCWOQM0wI3JZtjUaGDg+kfEBuYPzMrj4B8+txJwyKR+3v0yzC4LyxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic4&quot;
+        title=&quot;ic4&quot;
+        src=&quot;/static/a91e8540d615584999d479ad23fcbbe7/b6272/ic4.png&quot;
+        srcset=&quot;/static/a91e8540d615584999d479ad23fcbbe7/772e8/ic4.png 200w,
+/static/a91e8540d615584999d479ad23fcbbe7/e17e5/ic4.png 400w,
+/static/a91e8540d615584999d479ad23fcbbe7/b6272/ic4.png 580w&quot;
+        sizes=&quot;(max-width: 580px) 100vw, 580px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;저장한 &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt; 파일 사이즈는 806 B 입니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 576px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d923c14647c04152194ae6862c603ebb/533c1/ic4-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABJUlEQVQoz31RCW7CMBDM/yte0KpPohVSqVQoAdLch+/bjrsJiKIKGK3WtuQZz3iTdPOebtaKpIxRxniMMYQQ72CcoZQK3iGmksXi6fXlGSFsjCYEK6WFELPEeFUXTEcfRtBZFyzx3oOYD1Hxxsqyqrq+7wilUqowTjTnHMgZY6y1jFLO+UUmsYYK3iuppdJX1jxsphofIQns4PAe6bjK8DJFb3v0UalvErcofg1x0GOcZW4iqdsuL0rrR6IclhZLR5RnNkJRG40/EyGdm+BPMc/kVcGWuzp6e+9/T6vWWnAuhITMf+Scygyze9Yu927b3hx/0qIG1WEY+r4HYTBnZ8Br0B+Ry6bPypZStj/m6SE75lXdDk03wGhgPJDwv5e5fzZs15Jf88tEBHsnrOgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic4 1&quot;
+        title=&quot;ic4 1&quot;
+        src=&quot;/static/d923c14647c04152194ae6862c603ebb/533c1/ic4-1.png&quot;
+        srcset=&quot;/static/d923c14647c04152194ae6862c603ebb/772e8/ic4-1.png 200w,
+/static/d923c14647c04152194ae6862c603ebb/e17e5/ic4-1.png 400w,
+/static/d923c14647c04152194ae6862c603ebb/533c1/ic4-1.png 576w&quot;
+        sizes=&quot;(max-width: 576px) 100vw, 576px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;illustrator에서 저장한 svg 파일을 오픈하여&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;웹용으로 저장&lt;/code&gt; 하기로 png를 저장하였습니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0ded935c6cf34b1ebfa834957f7d0906/6b95e/ic5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABxklEQVQoz2VSu27iQBSdgg8AiZYP4QNQEkDGxvb4jWziIgkUq1SQ5eEgHkIbEBT8ABVPIUoqELTUVDR8CXtgEsNqT3Hn6s45c++cGWIaumWabjarqmomY9m28/zsplKpeDyeTqcTiSTHcU9Pjw8/iMViqICQTCaJZWUUSk3DNAyDytSyrFKpVKlUqj/wPM/PUf/98fHymuNEjZd18vX153A4rNfrzWaz2+2Wy2WhUACpVquVq17V+/Qummqz2fy8ol6vu67L84IsUzKZTIbDYS6XA7vRaBSLRQyc+BeoCIKAOTEtS8QryGg0arfb2+32fD7v9/ter6dpmiRJsiyz6INSyhLoYcdFPJ1OW61WOBxerVan06lcLmObHQw29EhA9XPs8jz/3Xk+n8MJQkgkEolGo6FQCLz/xXgL8dpN1/Vb59lsBocgDgQCiMFgEGezPRYZFEWRrkByE8Ot4/GIOB6PF4vFYDCAK6zhPdIiKt9T3MbO5/MwrNvtdjqdfr+PV2U+3bcFJIEThRRWHHsT41dgEt/Sy1UVBYYzexlJU6iY/SW774am6Ibh34g4jpO9g23bsMQ0TehVHwpVnTfNecNflu7c/gtKURTege+X4gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5&quot;
+        title=&quot;ic5&quot;
+        src=&quot;/static/0ded935c6cf34b1ebfa834957f7d0906/5a190/ic5.png&quot;
+        srcset=&quot;/static/0ded935c6cf34b1ebfa834957f7d0906/772e8/ic5.png 200w,
+/static/0ded935c6cf34b1ebfa834957f7d0906/e17e5/ic5.png 400w,
+/static/0ded935c6cf34b1ebfa834957f7d0906/5a190/ic5.png 800w,
+/static/0ded935c6cf34b1ebfa834957f7d0906/c1b63/ic5.png 1200w,
+/static/0ded935c6cf34b1ebfa834957f7d0906/6b95e/ic5.png 1458w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;일러스트에서 웹용으로 저장하기에는 옵션이 3가지가 있습니다.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;첫번째는 &apos;없음&apos; 으로 선택해서 저장하면 205 B 이고
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/22f3ccfb0c6c1b8bbfa573d912188ca9/bad1b/ic5-2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABRklEQVQoz41SW26DMBD06ZICCW+DeRUMCE4UKQiQSHvRjm0FEUOjzIfFjme9s7uQcRyHYcA5TROO35/H7T7dx/mxLIpUWJZlnmepGVeeOI5jWZb5hG3bZ8MyzAtgbsAY8z3vfDpdrldKqSVB0jSNNqDPg24YqLuuS5IkpDTP87Ism6ZBSDzP830/eAtNgBDP4YPs7w6SUeCIJ4cP7xkWx5Gs9pKsSdEFukI/GhkLMCUOwxCTgnM9WRRhKBNvSdd1i6KAeaxGMVmWQUQOTWqMqMzYl2FgkQhRtqoqMe299HDc+TfnbZcwpmzDM7b4UbLquW5qdITvl4Ft4zd73v8RJJAewmer/wFSuNVXBT+YJJPNBB9DPUTQN/IRRHKViQTeWtdWcZ5mGUjsX2xIAkoxMMy9rmsocLc3ttZp27bv+1ICSs45/P4B7MZMOaJ+v3YAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5 2&quot;
+        title=&quot;ic5 2&quot;
+        src=&quot;/static/22f3ccfb0c6c1b8bbfa573d912188ca9/5a190/ic5-2.png&quot;
+        srcset=&quot;/static/22f3ccfb0c6c1b8bbfa573d912188ca9/772e8/ic5-2.png 200w,
+/static/22f3ccfb0c6c1b8bbfa573d912188ca9/e17e5/ic5-2.png 400w,
+/static/22f3ccfb0c6c1b8bbfa573d912188ca9/5a190/ic5-2.png 800w,
+/static/22f3ccfb0c6c1b8bbfa573d912188ca9/bad1b/ic5-2.png 841w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;두번째는 &apos;아트최적화&apos; 로 선택해서 저장하면 228 B 이고
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d4077e48ce516a019db8e727a90d6bc9/1e088/ic5-3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABM0lEQVQoz41TAXKEIAz0hVqLEg9BUOw4/f8HurCepbTTc+eGC3E3CSQ067o65+YMM89x2waxYlwI3hgzP/Gx72sIj8cDTvKttc00Te8/ofKvRN/3cd/B7LoO67ZtCKGUSuLhFcBDnnEcYWutYSA5jAbBUrZ/weQljXbKrF4BVGT77W/OcxZgYZUYOXBbT0cqPomvGgiU573HZVZOKHFgGPSAICK1+E9AY53r+7e2bbEVLYtbUMtdsaApWtq2wxYyO893xWAYpI6fgxhcPCU4xS1xpioRzZ6fl0Yxe1iFKD00Kk4SY49xuYb0ClTOJous0p6ZJxF+QPckg22kBy8AHgo4oVxTn/HnfbDWYXqzWBPf4nyxMcbjOALemvdgLnlt2HG8Er6Q63jlVJMDNucMhZgc8QswtD6+prImTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5 3&quot;
+        title=&quot;ic5 3&quot;
+        src=&quot;/static/d4077e48ce516a019db8e727a90d6bc9/5a190/ic5-3.png&quot;
+        srcset=&quot;/static/d4077e48ce516a019db8e727a90d6bc9/772e8/ic5-3.png 200w,
+/static/d4077e48ce516a019db8e727a90d6bc9/e17e5/ic5-3.png 400w,
+/static/d4077e48ce516a019db8e727a90d6bc9/5a190/ic5-3.png 800w,
+/static/d4077e48ce516a019db8e727a90d6bc9/1e088/ic5-3.png 840w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;세번째는 &apos;문자최적화&apos; 로 선택해서 저장하면 257 B 입니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9f1d6aea56765c74cf923e3b29be9453/bad1b/ic5-4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABSElEQVQoz41S7Y6CMBDs02kEUVspFEr5EIQnMtEACd696E1LMFi4O+dHw05nd6e7kLZtH48Hzq7rcHx/PW/37t72z2EYyRHDMPR9bzTtiyfH49F1XWfC4XDY7tydswecGYQQjNLtZrP3PM65a0DiOA5m4NPBZwzUdV1HUeRzniRJlmVlWSIklFLG2PlPWAKEKIcPsrxbSUaDNZ6sFl4yIgwD0+0t2ZLiFXgV3mORoYYYxb7vY1JwbifrJgJtQis5TVOcWM3ISCkhIqsmLQZpqEhPJ8/zEKJtnud62kvp6rSVSsvqynkw2oZnbPHTZBHLOL8GQjJG3wYGV5/smS3+CHI2Hvzpqb8BMsBeFawrlehf9z/zc4yFdDIWgyAwq4wMUOu1trwoYilBYv96QwZQ6oFh7pfLBQrcLY29+lRV1TRNZgBlURRKqR8Qw0xMpEEdvwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5 4&quot;
+        title=&quot;ic5 4&quot;
+        src=&quot;/static/9f1d6aea56765c74cf923e3b29be9453/5a190/ic5-4.png&quot;
+        srcset=&quot;/static/9f1d6aea56765c74cf923e3b29be9453/772e8/ic5-4.png 200w,
+/static/9f1d6aea56765c74cf923e3b29be9453/e17e5/ic5-4.png 400w,
+/static/9f1d6aea56765c74cf923e3b29be9453/5a190/ic5-4.png 800w,
+/static/9f1d6aea56765c74cf923e3b29be9453/bad1b/ic5-4.png 841w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;처음에 &lt;code class=&quot;language-text&quot;&gt;피그마&lt;/code&gt;에서 바로 png로 export 할때는 239 B 였는데, svg로 export 한다음&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;일러스트&lt;/code&gt;로 열어서 png로 저장하니 똑같은 png 라도 파일 사이즈가 더 작아졌습니다.&lt;br&gt;
+저장한 png 파일 사이즈는 228 B 입니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 573px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73e408a814ee6b24f6d14dd353505028/3c024/ic5-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABRUlEQVQoz3WS207DMAyG++q75Ga8xEDiQSZuEOICIdFBS3dot3VNljTnOA1eqx1A2y+rUh3781+nSfb5nKUfhufWWg/Qha4LhvHH+eKuFU9Scu8hHtX10loDeNrq5H48fphM2lYYLTlnSmkppbWGUmKsDaELRwGE4RVCF2NI1yJBHAaEqOXGiKqstnVdI0trg6Ow1DmnlHK9OOdCiIGFDhOmfdlwa7Tqqw+sg7UwQC+FDd77y0zCLaxo2wj3kjVvBXnNyXulvln82seUxr3pet51JRbClgkPgSnPNRyeBoSLGK2LDs7NuKfpdIrmz83O+dksQw/X4X1+OKWUjkYj/OZTJtlRNt+QW9ZuQofJxapKl1slBSGUkAYXi3c47NYYc2kSQQDwp9lYV67rPeM/xTIvFstyU+8IhnUOf5t/1SflRMyb9hfIfUECuvVxTgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5 1&quot;
+        title=&quot;ic5 1&quot;
+        src=&quot;/static/73e408a814ee6b24f6d14dd353505028/3c024/ic5-1.png&quot;
+        srcset=&quot;/static/73e408a814ee6b24f6d14dd353505028/772e8/ic5-1.png 200w,
+/static/73e408a814ee6b24f6d14dd353505028/e17e5/ic5-1.png 400w,
+/static/73e408a814ee6b24f6d14dd353505028/3c024/ic5-1.png 573w&quot;
+        sizes=&quot;(max-width: 573px) 100vw, 573px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;포토샵&lt;/code&gt;에서 svg를 열어서 웹용으로 저장으로 png를 저장하면
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/906f83d1d3b6a3adacd3cf2d28a7590e/bf8c1/ic5-5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABXklEQVQoz0WRzW6CUBCFeZ92YfQF2oWWID+Xfy40ERNTurJ9AhcFNUjoM/fjjtKzmAxwzpkzg6W1vlyut9vtanAxOD/QdV3btqfTKY5jz/N83w+CgLrdbpVS1mazabvudxyHYcCi73vqYDCOY2+APs9z2GmaJkkSRZHrurhYi8XCtm2c3h7Abr1e8zLNMsdxIBVFgfhwONR1XVVVlmWfH029q63VaiVJqATDJTBgTlmW+QMM5A00apyk+W5X6HwS+wbI2H+/39PgAun9vSKnmCKmuqwaRT/fX+eX18rOreVyKWISNk1zPB5FjEaUMo1+ErOqUtr1iucnXXr/kz0DPt9JQSCHkRRybR7pMXZUyA6T+K4xPOlFjCBUKjS4x0YchqXWXDCK40kMSe4hgEpl7HwqZFx4TsQKkYHFTkmacipI4iI/MzMQktxZcknDgajWPFPiycz5cQZv5BeKhfR/fgDdm4DbAe8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5 5&quot;
+        title=&quot;ic5 5&quot;
+        src=&quot;/static/906f83d1d3b6a3adacd3cf2d28a7590e/5a190/ic5-5.png&quot;
+        srcset=&quot;/static/906f83d1d3b6a3adacd3cf2d28a7590e/772e8/ic5-5.png 200w,
+/static/906f83d1d3b6a3adacd3cf2d28a7590e/e17e5/ic5-5.png 400w,
+/static/906f83d1d3b6a3adacd3cf2d28a7590e/5a190/ic5-5.png 800w,
+/static/906f83d1d3b6a3adacd3cf2d28a7590e/c1b63/ic5-5.png 1200w,
+/static/906f83d1d3b6a3adacd3cf2d28a7590e/29007/ic5-5.png 1600w,
+/static/906f83d1d3b6a3adacd3cf2d28a7590e/bf8c1/ic5-5.png 1722w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;파일 사이즈는 1.54KB로 저장되었습니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 572px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dc24fb34f22d4d80b5dc840c81474848/a805e/ic5-6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABfElEQVQoz21RS07DMBDNXbrsmXqJnoJFpe4qdYnUDbDpJZAqgbpCgJq09ANpcZImjn/j2I6ZJlCKxJNlP43fzDyPg+jlfrV4ArYBXRljnPPOyby43myvuLzjnBlj/Q/qBkopa03GZDAcDm9vb7iQUjBWUi4EUgBTFKyqLEqdq611iGZHjkftaxcREbQlja1BHECQeE+SJGGMKVAYR7nWWkpZVRUA5HlelqU7VcStDnJp9sdSA0gFv96cxePH5gn+AudgUGoTU1ZytYmTmGS4MirAeWW9tN647zRsFYbhfD6Pogidt8FAGZdS/lmo2YI8hORxmcxe4+cDrKhfHD2FU3/UUUoHg8F0Oh2NRjiWtn+gdbVcvrWKP+YuHCLBl3e73U6n0+v18FO+k0mWb0n+b2araAlaHY/H/X5/Mpm0ySfb2/gQvhPBWZod0zRFS3hXNcDxnnVnC5fzC5SCjz0pCrpab1frXXxI0mPBmxKg9Xk2bXPT/DXyKGW7jH0B8FAySAg3xEgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic5 6&quot;
+        title=&quot;ic5 6&quot;
+        src=&quot;/static/dc24fb34f22d4d80b5dc840c81474848/a805e/ic5-6.png&quot;
+        srcset=&quot;/static/dc24fb34f22d4d80b5dc840c81474848/772e8/ic5-6.png 200w,
+/static/dc24fb34f22d4d80b5dc840c81474848/e17e5/ic5-6.png 400w,
+/static/dc24fb34f22d4d80b5dc840c81474848/a805e/ic5-6.png 572w&quot;
+        sizes=&quot;(max-width: 572px) 100vw, 572px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;혹시 변환해주는 다른 사이트에서는 사이즈가 어느정도 나오는지 궁금해서&lt;br&gt;
+구글에 svg to png 를 검색해보았습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://svgtopng.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이곳&lt;/a&gt; 에서는 235 B 가 나오고
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABUklEQVQY002Qy07CUBCG+3A8Ae8lERYmJsqiujMaY2IgrtCNG4wbTDBKAZFAbWmbc7/OcWq9/ZmczpnON5cTee+lkISJikoqbDJ7Xi2mSnFrA+fTsrxhbGeMwzTnnNa6ooxbz5MlFEXkrJNCKG2ldlK5ydNkPnsNXkhOCSkIzZCyxqKEEMiXhDOlRV54QiKAYIz5SNPtdqO18gG4C4P7yejxBULAhgDQnKgQAjbHEuhgKMLPw3i83+12Op3hcIDhrKLvGV3vWJ0bQsOUZZkkCTpKKWsdRnGNGr67HbVarXa7HZ+c4tUoEn702xBnzvP8rzOyWtcwRuM4Pu73F4ulMaqqCsqEkMo6B1887oVA46QFsc3YHiIPEP4JfzPOMfX88nqvd9g7ODq7uEJMStWIcNHMUu/sPFjn8bXR0PGAJesqmzSbzd/QVutt/XLwbQgi0tgn/lK/8i2ZglIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic6&quot;
+        title=&quot;ic6&quot;
+        src=&quot;/static/3902d570d33f7e46cd56becde0d4647c/5a190/ic6.png&quot;
+        srcset=&quot;/static/3902d570d33f7e46cd56becde0d4647c/772e8/ic6.png 200w,
+/static/3902d570d33f7e46cd56becde0d4647c/e17e5/ic6.png 400w,
+/static/3902d570d33f7e46cd56becde0d4647c/5a190/ic6.png 800w,
+/static/3902d570d33f7e46cd56becde0d4647c/159fb/ic6.png 1019w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ezgif.com/svg-to-png&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이곳&lt;/a&gt; 에서는 291 B 가 나왔습니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABu0lEQVQoz5VSSbLTMBD1ZbkCN+AerNmyT1WovwKKYvgDSf0Ez5ZlyZqHSB5oOaFY59WT9dQlvW7JnVlrnXWY4RM6GW2UVuPILj4QSVrexjD7CyDEEBnjjIsQIizXDdk8zzCVtNgddsu8xClyobyJ3/Lv+8MnbychNdD58Ovx+fHpBYRUZlmXdDiEZKOsLEh+9XOQy8eGdue+BGGdg+Igd9t1QBDW+VvmkY6ccyh4nZb1TmRSCkoJY8w458K0MSZeor3Em/4Xcf8jkw9T9vNMvhzRU0k9vESc7mL29kP+5v3ru48VOK3rclfpmdFKSi45V1IxzmOM4HAFiBkII80J8w23DVlZVsNAldJSgQt8ABoglR6FMdpaY42BB/fWBWd9onOpI5TOEMJN03U97ikdCMMD6VFXAZqurBvCxMiVYGwkPUWnijYdRXBEJ0ebDVQ0iFCmCTOYWYSH4s/vl8NrXpRdcawRLsCsrvPz8fnHw+64/3z8ut8/CCnTYYR6yFw3bVU3gLZFcAvOhTZOG596N7UvlHpJP89u9W9BY0xGCcV42AhjGPDIBdxcgzFc7Foe7NOg4S1AbZG01PovnQ/i/O32TwcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic7&quot;
+        title=&quot;ic7&quot;
+        src=&quot;/static/064da09be3a9b0eeea26e9d1b38443e8/5a190/ic7.png&quot;
+        srcset=&quot;/static/064da09be3a9b0eeea26e9d1b38443e8/772e8/ic7.png 200w,
+/static/064da09be3a9b0eeea26e9d1b38443e8/e17e5/ic7.png 400w,
+/static/064da09be3a9b0eeea26e9d1b38443e8/5a190/ic7.png 800w,
+/static/064da09be3a9b0eeea26e9d1b38443e8/620ae/ic7.png 1043w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;png 와 jpg 저장 사이즈에 대해 살펴보기 전에는&lt;/p&gt;
+&lt;p&gt;동일한 아이콘이더라도 figma 에서 svg 로 저장하는 것과, 일러스트에서 svg 로 저장하는 것이  &lt;/p&gt;
+&lt;p&gt;코드가 조금씩 차이가 있다는 것을 svg로 css 애니메이션을 만들면서 알았는데요.&lt;/p&gt;
+&lt;p&gt;이렇게 위에처럼 간단한 아이콘은 상관없지만 다른 svg 파일을 다룰때는  &lt;/p&gt;
+&lt;p&gt;피그마에서 svg로 저장할때가 훨씬 코드가 깔끔하고 수정하기 쉬웠습니다.&lt;/p&gt;
+&lt;p&gt;일러스트에서 svg로 저장하고 피그마에서 임포트 한다음 svg로 다시 저장해서 코드를 사용하던적도 있습니다.&lt;/p&gt;
+&lt;p&gt;일러스트와 피그마는 어떤식으로 SVG를 저장하는지 아래 적어두었습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;일러스트에서 svg를 ctrl + C로 복사해서 vscode에 그냥 붙여넣기하면 아래와 같이 보여집니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In  --&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;svg&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1.1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;xmlns&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://www.w3.org/2000/svg&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;xmlns:&lt;/span&gt;xlink&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://www.w3.org/1999/xlink&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0px&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0px&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;18px&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+	 &lt;span class=&quot;token attr-name&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;18px&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;viewBox&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0 0 18 18&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token style-attr language-css&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt; &lt;span class=&quot;token attr-name&quot;&gt;style&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&quot;&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token property&quot;&gt;enable-background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;new 0 0 18 18&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;xml:&lt;/span&gt;space&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;preserve&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;defs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;defs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;path&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;M2,8.1l2-2l5.5,5.5L13,8.1l3,3V2H2V8.1z M1,0h16c0.3,0,0.5,0.1,0.7,0.3C17.9,0.5,18,0.7,18,1v16c0,0.3-0.1,0.5-0.3,0.7
+	S17.3,18,17,18H1c-0.3,0-0.5-0.1-0.7-0.3C0.1,17.5,0,17.3,0,17V1c0-0.3,0.1-0.5,0.3-0.7C0.5,0.1,0.7,0,1,0L1,0z M12.5,7
+	c-0.4,0-0.8-0.2-1.1-0.4C11.2,6.3,11,5.9,11,5.5s0.2-0.8,0.4-1.1C11.7,4.2,12.1,4,12.5,4s0.8,0.2,1.1,0.4S14,5.1,14,5.5
+	s-0.2,0.8-0.4,1.1C13.3,6.8,12.9,7,12.5,7L12.5,7z&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;svg&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;일러스트에서 svg를 파일로 저장한다음 열면 아래와 같이 보여집니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token prolog&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;svg&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1.1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;레이어_1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;xmlns&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://www.w3.org/2000/svg&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;xmlns:&lt;/span&gt;xlink&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://www.w3.org/1999/xlink&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0px&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+	 &lt;span class=&quot;token attr-name&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0px&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;viewBox&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0 0 24 24&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token style-attr language-css&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt; &lt;span class=&quot;token attr-name&quot;&gt;style&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&quot;&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token property&quot;&gt;enable-background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;new 0 0 24 24&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;xml:&lt;/span&gt;space&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;preserve&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;path&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;M5,11.1l2-2l5.5,5.5l3.5-3.5l3,3V5H5V11.1z M4,3h16c0.3,0,0.5,0.1,0.7,0.3C20.9,3.5,21,3.7,21,4v16c0,0.3-0.1,0.5-0.3,0.7
+	S20.3,21,20,21H4c-0.3,0-0.5-0.1-0.7-0.3C3.1,20.5,3,20.3,3,20V4c0-0.3,0.1-0.5,0.3-0.7C3.5,3.1,3.7,3,4,3L4,3z M15.5,10
+	c-0.4,0-0.8-0.2-1.1-0.4C14.2,9.3,14,8.9,14,8.5s0.2-0.8,0.4-1.1C14.7,7.2,15.1,7,15.5,7s0.8,0.2,1.1,0.4S17,8.1,17,8.5
+	s-0.2,0.8-0.4,1.1C16.3,9.8,15.9,10,15.5,10L15.5,10z&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;svg&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;피그마에서 저장한 svg파일을 열면 아래와 같습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;svg&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;24&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;24&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;viewBox&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0 0 24 24&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;fill&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;none&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;xmlns&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://www.w3.org/2000/svg&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;path&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;M5 11.1L7 9.1L12.5 14.6L16 11.1L19 14.1V5H5V11.1ZM4 3H20C20.2652 3 20.5196 3.10536 20.7071 3.29289C20.8946 3.48043 21 3.73478 21 4V20C21 20.2652 20.8946 20.5196 20.7071 20.7071C20.5196 20.8946 20.2652 21 20 21H4C3.73478 21 3.48043 20.8946 3.29289 20.7071C3.10536 20.5196 3 20.2652 3 20V4C3 3.73478 3.10536 3.48043 3.29289 3.29289C3.48043 3.10536 3.73478 3 4 3V3ZM15.5 10C15.1022 10 14.7206 9.84196 14.4393 9.56066C14.158 9.27936 14 8.89782 14 8.5C14 8.10218 14.158 7.72064 14.4393 7.43934C14.7206 7.15804 15.1022 7 15.5 7C15.8978 7 16.2794 7.15804 16.5607 7.43934C16.842 7.72064 17 8.10218 17 8.5C17 8.89782 16.842 9.27936 16.5607 9.56066C16.2794 9.84196 15.8978 10 15.5 10V10Z&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;fill&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;black&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;svg&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;decoding&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#decoding&quot; aria-label=&quot;decoding permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;decoding&lt;/h2&gt;
+&lt;p&gt;이제 저장하기는 몇가지 실험했으니 디코딩으로 파일사이즈 변환이 있는지 보겠습니다.&lt;/p&gt;
+&lt;p&gt;디코딩도 마찬가지로&lt;br&gt;
+figma에서 export한 png 와 jpg 를 먼저 디코딩 하면&lt;/p&gt;
+&lt;p&gt;png 는 239B 로 인코딩할때 사이즈와 동일합니다. (&lt;a href=&quot;https://base64.guru/converter/decode/image/png&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이곳&lt;/a&gt;에서 변환하였습니다.)
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAvElEQVQY05XOTWvEIBAGYP//Dys97bn0Epaa6Gp04kycfGBMVfawLBSa5zC8IDOvwhijtbYWEDeiSIRENMeZsIY6sJrnFuqI3jMRp5SFlFIpZcegNRrjyi3bmEeJxjkHAB5gamAC78laniAiLqIdDKWJI7XaUvFUHph5e7fu+7KuK/Mibt34+a0/vh4K+DzPdORXx99SSuL+0xvnR492PJzLIeR/KvtCDYNSw8K19pK63Pey6+QU9nxR+fYvLUyUEq46QqMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic8&quot;
+        title=&quot;ic8&quot;
+        src=&quot;/static/fd63e83b7baddccb580d192c929fd773/5a190/ic8.png&quot;
+        srcset=&quot;/static/fd63e83b7baddccb580d192c929fd773/772e8/ic8.png 200w,
+/static/fd63e83b7baddccb580d192c929fd773/e17e5/ic8.png 400w,
+/static/fd63e83b7baddccb580d192c929fd773/5a190/ic8.png 800w,
+/static/fd63e83b7baddccb580d192c929fd773/c1b63/ic8.png 1200w,
+/static/fd63e83b7baddccb580d192c929fd773/a8a6f/ic8.png 1516w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;jpg는 1.36KB 로 마찬가지로 인코딩 할때 사이즈와 동일합니다. (&lt;a href=&quot;https://base64.guru/converter/decode/file&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이곳&lt;/a&gt;에서 변환하였습니다.)
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 38.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA1ElEQVQY052P3W7DIAyFef8nmzbtIlLKTzrWpYSEAkUKYFXqQjOHar1e91k6PseWL0wGpdRRhRAAcvoF8uZjjNhz3kJMsc5SBsD9PGO4EOec976qe1CtPdmTrzhrPc68x25MDiHlBCkCEYx2nB2kpJQyxjjnQoi7Ivchmm1R2e0oatO0XfdJ2v3xrRUNl4MexlHjE1rroYJGVR4RFeM0TX3fG2PI+358oeGVJ3cuZVmfggRvl+t3wbreSrn9nVIKkR/y8NUDXNYnwXuCTzg3L8v6j+MfxOnDRgLO0XwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic9&quot;
+        title=&quot;ic9&quot;
+        src=&quot;/static/b8c2e76b336bdaeedf900f14be825621/5a190/ic9.png&quot;
+        srcset=&quot;/static/b8c2e76b336bdaeedf900f14be825621/772e8/ic9.png 200w,
+/static/b8c2e76b336bdaeedf900f14be825621/e17e5/ic9.png 400w,
+/static/b8c2e76b336bdaeedf900f14be825621/5a190/ic9.png 800w,
+/static/b8c2e76b336bdaeedf900f14be825621/c1b63/ic9.png 1200w,
+/static/b8c2e76b336bdaeedf900f14be825621/387f2/ic9.png 1518w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Figma에서 svg로 export 해서 &lt;code class=&quot;language-text&quot;&gt;일러스트&lt;/code&gt;에서 png로 저장한 파일을 인코딩하면&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIZJREFUeNpiYBgFJIL3QPyfQvwe2UBGNAv+U8mhcHNZCCkgEWA4kInWYU6JBeehLj5PVFiheZGRxOBgxKUfnw/mQzEucAGNJjqS/kMNRmaTqp+gAnQ8n0hfkm0BNkuw+ZIiC5ANmo9DjmILQPg+EWroV1QM6pw8Qi34QAUzPzCMAlIAQIABAC0tXr3zn/P7AAAAAElFTkSuQmCC&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Figma에서 svg로 export 해서 &lt;code class=&quot;language-text&quot;&gt;포토샵&lt;/code&gt;에서 png로 저장한 파일을 인코딩하면&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ4IDc5LjE2NDAzNiwgMjAxOS8wOC8xMy0wMTowNjo1NyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjAgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkIxNkVFRTI1RTZDQzExRUI5QjU5QzhFMzBCMTc2QTYzIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkIxNkVFRTI2RTZDQzExRUI5QjU5QzhFMzBCMTc2QTYzIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QjE2RUVFMjNFNkNDMTFFQjlCNTlDOEUzMEIxNzZBNjMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QjE2RUVFMjRFNkNDMTFFQjlCNTlDOEUzMEIxNzZBNjMiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5KJ75JAAACpUlEQVR42uzdj1HCMBiH4dRjADaAEeoGjMAIdQJlAtkANyhOoE6AGziCMAFsUJMznJwHNF9pkqZ9f3c5e14q8j2k/5I7sqqqFOlO7igBIAQQQAgggBBAACGAAEIAIZcyku6QZdlxc6pbodvEbhOltrrtdFvbbSV+Vmh2kDQbA7E3u9POtr2tkbi+mVRQjxAzGr50GzMgruag272u79b3OaQAwymmRvMQJ/UJtRaheAfhBM5lLyAEENLoxtD16ngg9asYIRyyCCCAEEAIIIAQQBwz063U7Vv9zV+82d9HvrORT1BtVP0ETZezqvnfDZTrU9q6Oiyl9R0NbGQsdXuq6VPYnw8csvxmqtuzY98i1uFrSCCPnvsDIkze4MQPSIcyBqRb2Q4JJMan70PY/3MoIKW9lwmNsla/a6Vc8zoEkNJeUuYRUAzGwrHvS6wREvJOvTzTL8YKyEJdXwa7lJSv7Tv1UCDllb4xUMb2jn1z0lZKvuYsSZDSoX+qa4VbB7kLdM5wuWnbKNYMewVxxQAlAIgUAxTPIMUN+8ZAGdvXzPsKcmtCohwxZl1A6fKzrBAo/0dG9JHS9YeLPlEuFT8qSgpPe32g1BU9Gkoqj9/bRHEtdhSUlOZD2kCRFjk4SmoTVLegNC1uUJQUZwyboNxa1GAoqU7hSlDaKmYQlJTn1F1Q2i6id5TUFzlcQ/FVPK8ofVh1cg7F9yf5+PcBcUAJdQL28kinT4ut85NPbZ7qm+jb6vc89TfAykVACCCAEEAAIYAAQgABhABCAAGEAAIIAQQQAgggBBACSG9BtpStWyA7yuacg3QHvjbPL0aQr80zL7Booj8wjEWTw3uTEXLcNCNlzkg5i/GuGn71qhiEcNkLCAGEAAIIAQQQAgggBBBASKT8CDAAv/GSng/bLB4AAAAASUVORK5CYII=&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;다시 디코딩 하면
+일러스트에서 png도 인코딩하기 전 파일 사이즈와 동일하게 228 B 가 나오고
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/65aa234d9aa436a297e2aa23fb2cef98/b0de5/ic10.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 37%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAsklEQVQY05XOwQ6DIAwGYN7/yZZd9gAeZiZOBAVKFcSgrphosssyvxDSAD8ta4kQShmHM6JHxAEHWlQ4Ag736twQR63pmU9pZZxzkcMgBEjZSdmqg82MPRhjLFhtsO+8tZSfGO7fj+iGAYg7UJcQQoxx+pIPYqSb4H1gj2d3L9pbIaUN27bRMKflp5QSK6u67Y3snVSL7leA9U+UZ++ai6aZQm57SQ5X1assa4B5vYjG/gBehpQ1BRbeBwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic10&quot;
+        title=&quot;ic10&quot;
+        src=&quot;/static/65aa234d9aa436a297e2aa23fb2cef98/5a190/ic10.png&quot;
+        srcset=&quot;/static/65aa234d9aa436a297e2aa23fb2cef98/772e8/ic10.png 200w,
+/static/65aa234d9aa436a297e2aa23fb2cef98/e17e5/ic10.png 400w,
+/static/65aa234d9aa436a297e2aa23fb2cef98/5a190/ic10.png 800w,
+/static/65aa234d9aa436a297e2aa23fb2cef98/c1b63/ic10.png 1200w,
+/static/65aa234d9aa436a297e2aa23fb2cef98/b0de5/ic10.png 1517w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;포토샵에서는 인코딩 하기 전에는 1.54KB 였는데 1.55 KB로 파일사이즈가 조금 더 켜졌습니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/58ab314afaf22f87dab4e076558104e0/fb4e7/ic11.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 42.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA1klEQVQoz53RwY7CIBQFUP7/m4xduZjNZNRJhLYgtCZNKQ8qrZmYiPh8bpy40hMK99LCpqzve2uHEAIAeBKIc857oOIDJoBxxBXHMYQjijGyAVnr8LF0zx3tUaF0n/Cdw49633XzOE7TPMc4saoUjdF7opTSWkspNcH62MeMszEGo1KtMa2UzeFg2fd687P95UKUQlRVJQgGznlJxBOqnOyaxrCvOizWXTv85ZSvT3L+V1+llNhyuTqfM7h0OuV3saIocMFr8vsY0C9J6frJ4bo2Di75IzcfwP0Aqs5bRwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic11&quot;
+        title=&quot;ic11&quot;
+        src=&quot;/static/58ab314afaf22f87dab4e076558104e0/5a190/ic11.png&quot;
+        srcset=&quot;/static/58ab314afaf22f87dab4e076558104e0/772e8/ic11.png 200w,
+/static/58ab314afaf22f87dab4e076558104e0/e17e5/ic11.png 400w,
+/static/58ab314afaf22f87dab4e076558104e0/5a190/ic11.png 800w,
+/static/58ab314afaf22f87dab4e076558104e0/c1b63/ic11.png 1200w,
+/static/58ab314afaf22f87dab4e076558104e0/fb4e7/ic11.png 1519w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;결론&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B2%B0%EB%A1%A0&quot; aria-label=&quot;결론 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;결론&lt;/h2&gt;
+&lt;p&gt;위에 실험한 내용은&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;벡터&lt;/code&gt;기반인 피그마에서 png, jpg 로 저장해서 각각 인코딩&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;벡터&lt;/code&gt;기반인 피그마에서 svg로 저장하고&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;픽셀&lt;/code&gt;기반인 포토샵에서 svg를 열어서 png로 저장&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;벡터&lt;/code&gt;기반인 일러스트에서 svg를 열어서 png로 저장&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;벡터기반&lt;/code&gt;인 피그마와 일러스트에서 저장한 png와 jpg를 인코딩하고 다시 디코딩 할 때 파일 사이즈에서 차이가 없지만&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;픽셀기반&lt;/code&gt;인 포토샵에서 저장한 png를 인코딩하고 다시 디코딩하면 파일사이즈가 조금 더 커진다는 것을 알 수 있었습니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(일러스트도 어떤 옵션으로 저장하는지에 따라 파일 사이즈에 차이가 있습니다.)&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;svg는 일러스트와 피그마에서 저장한 파일에 따라 코드 정리가 달라진다는 것을 볼 수 있습니다.&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[🎈 SVG Animation]]></title><description><![CDATA[안녕하세요! SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.   (IE 브라우저는 지원하지 않는 요소가 있습니다.) 기본 svg만 작성하였습니다. scss는 조금 다듬어서 작성할 예정 입니다. SVG Tutorials Basic You…]]></description><link>https://diary-blog.github.io/svg/</link><guid isPermaLink="false">https://diary-blog.github.io/svg/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -5585,53 +6234,4 @@ preventDefault()를 사용하면 페이지가 다시 로드되지 않음&lt;/p&g
 &lt;li&gt;&lt;a href=&quot;https://ko.javascript.info/optional-chaining&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;옵셔널 체이닝&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://reactjs-kr.firebaseapp.com/docs/fragments.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;React.Fragment&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://velog.io/@ashnamuh/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-rest-spread-%EB%AC%B8%EB%B2%95%EA%B3%BC-destructuring&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;자바스크립트 rest, spread 문법과 destructuring&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[✒️ JavaScript Object (Basic)]]></title><description><![CDATA[Objects in JavaScript JavaScript object is an entity having state and behavior (properties and method). JavaScript is an object-based…]]></description><link>https://diary-blog.github.io/js-object/</link><guid isPermaLink="false">https://diary-blog.github.io/js-object/</guid><pubDate>Sat, 02 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;objects-in-javascript&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objects-in-javascript&quot; aria-label=&quot;objects in javascript permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objects in JavaScript&lt;/h2&gt;
-&lt;p&gt;JavaScript object is an entity having state and behavior&lt;br&gt;
-(properties and method).&lt;br&gt;
-JavaScript is an object-based language.&lt;br&gt;
-Everything is an object in JavaScript&lt;/p&gt;
-&lt;p&gt;This is in the form of &quot;key : value&quot; pair&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; coffee &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  name&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  size&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token string&quot;&gt;&quot;Tall&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  hotcold&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;cold&quot;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;objects-can-be-created-in-3-different-ways&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objects-can-be-created-in-3-different-ways&quot; aria-label=&quot;objects can be created in 3 different ways permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objects can be created in 3 different ways&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;By object literal  &lt;/li&gt;
-&lt;li&gt;By creating instance of Object directly  &lt;/li&gt;
-&lt;li&gt;By using an object constructor  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;1-javascript-object-by-object-literal&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-javascript-object-by-object-literal&quot; aria-label=&quot;1 javascript object by object literal permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[1] Javascript Object by object literal&lt;/h3&gt;
-&lt;p&gt;리터럴 배열을 이용한 오브젝트 생성&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;coffee &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  id&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  name&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  price&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6000&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;2-by-creating-instance-of-object&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-by-creating-instance-of-object&quot; aria-label=&quot;2 by creating instance of object permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[2] By creating instance of Object&lt;/h3&gt;
-&lt;p&gt;The syntax of creating object directly is&lt;br&gt;
-new 생성자를 이용한 오브젝트 생성&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; coffee &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;3-using-constructor&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-using-constructor&quot; aria-label=&quot;3 using constructor permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[3] Using constructor&lt;/h3&gt;
-&lt;p&gt;In this you need to create function with arguments.&lt;br&gt;
-Each argument value can be assigned in the current object by using this keyword.&lt;br&gt;
-함수를 선언하여 new생성자로 생성한 오브젝트에 인자를 전달&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;coffee&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;id&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; price&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; id&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-c &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;coffee&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item></channel></rss>
