@@ -300,7 +300,7 @@ cover: ./img/ths4.png
 
 ### [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
 
+### [개발자들을 위한 테크니컬 라이팅 10계명](https://tech-kakaoenterprise.tistory.com/110)
 
-
-
+### [Slidev - 개발자를 위한 발표자료 작성 도구](https://news.hada.io/topic?id=4232)
 

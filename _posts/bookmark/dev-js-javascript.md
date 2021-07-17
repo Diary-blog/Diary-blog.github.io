@@ -79,7 +79,7 @@ cover: ./img/js.png
 
 ### [함수형 프로그래밍(functional programming)이란?](https://m.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4313717600)
 
-
+### [Vue와 Chart.js, Annotation 플러그인을 활용해 데이터 시각화 컴포넌트를 제작](https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html)
 
 <br/>
 <hr>

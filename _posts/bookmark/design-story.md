@@ -145,7 +145,7 @@ cover: ./img/dst1.png
 
 ### [디자이너가 데이터에 관심 가지면 보이는 것들](https://brunch.co.kr/@cliche-cliche/69)
 
-
+### [원래 모든 디자이너는 제너럴리스트였다](https://brunch.co.kr/@outlines/52)
 
 
 

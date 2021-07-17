@@ -124,3 +124,9 @@ cover: ./img/fe1.png
 
 ### [FE devtalk](https://github.com/NAVER-FEPlatform/FEDevtalk)
 
+### [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
+
+### [주니어 프론트엔드 개발자의 채용 프로세스 참여 후기](https://zuminternet.github.io/zum-front-recurit-review/)
+
+### [Github actions로 리액트 자동배포하기(S3, EC2, Code Deploy, Centos, Nginx, React.js)](https://namunamu1105.medium.com/github-actions%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9E%90%EB%8F%99%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-s3-ec2-code-deploy-centos-nginx-react-js-e6f54a6e69bc)
+

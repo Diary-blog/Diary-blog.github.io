@@ -36,3 +36,10 @@ cover: ./img/css.png
 
 ### [탭 모서리를 라운드로 만드는 방법](https://css-tricks.com/better-tabs-with-round-out-borders/)
 
+### [CSS 변수 합성의 강력함](https://ui.toast.com/weekly-pick/ko_20210402)
+
+### [야무님의 Graphics ARIA Guide](https://a11y.gitbook.io/graphics-aria/)
+
+### [야무님의 SVG Gitbook](https://a11y.gitbook.io/graphics-aria/svg-graphics)
+
+### [CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
