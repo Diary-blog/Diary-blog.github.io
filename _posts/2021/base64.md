@@ -1,5 +1,5 @@
 ---
-title: 💡 피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생깁니다.
+title: 💡 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생길까
 date: 2021-07-17
 update: 2021-07-19
 tags:
@@ -17,8 +17,10 @@ cover: ./img/ic0.png
 ![](img/ic0-1.png)
 
 
-피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 
+피그마, 일러스트, 포토샵에서 저장한 png와 jpg는  
+base64 인코딩과 디코딩에서 파일사이즈가 미묘한 차이가 있습니다.
 
+어떤 차이가 있는지 자세히 알아보겠습니다.
 
 ```
 1. 처리
@@ -263,15 +265,15 @@ iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFn
 
 ### 4. 결과 정리
 
-1. 피그마에서 svg, png, jpg 저장하고  
+1. 픽셀기반인 피그마에서 svg, png, jpg 저장하고  
 png와 jpg를 base64로 인코딩한 후 다시 디코딩하면  
 **파일 사이즈가 변하지 않는 것**을 볼 수 있습니다.
 
-2. SVG를 `일러스트`에서 PNG-8, PNG-24, JPG로 저장하였을 때  
+2. SVG를 벡터기반인 `일러스트`에서 PNG-8, PNG-24, JPG로 저장하였을 때  
 저장한 이미지를 base64로 인코딩한 후 다시 디코딩하면  
 **파일 사이즈가 변하지 않는 것**을 볼 수 있습니다.
 
-3. SVG를 `포토샵`에서 PNG-8, PNG-24, JPG로 저장하였을 때  
+3. SVG를 픽셀기반인 `포토샵`에서 PNG-8, PNG-24, JPG로 저장하였을 때  
 저장한 이미지를 base64로 인코딩한 후 다시 디코딩하면  
 **파일 사이즈가 변하는 것**을 볼 수 있습니다.
 
