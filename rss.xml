@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Jul 2021 22:10:53 GMT</lastBuildDate><item><title><![CDATA[💡 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생길까]]></title><description><![CDATA[피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈가 미묘한 차이가 있습니다. 어떤 차이가 있는지 자세히 알아보겠습니다. Icon을 svg로 준비 이 글에서 테스트해볼 picture icon…]]></description><link>https://diary-blog.github.io/base64/</link><guid isPermaLink="false">https://diary-blog.github.io/base64/</guid><pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Jul 2021 06:33:54 GMT</lastBuildDate><item><title><![CDATA[💡 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생길까]]></title><description><![CDATA[피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈가 미묘한 차이가 있습니다. 어떤 차이가 있는지 자세히 알아보겠습니다. Icon을 svg로 준비 이 글에서 테스트해볼 picture icon…]]></description><link>https://diary-blog.github.io/base64/</link><guid isPermaLink="false">https://diary-blog.github.io/base64/</guid><pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -103,8 +103,17 @@ png, jpg는 1x 로 원본 사이즈 그대로인 24x24로 테스트 해보려 �
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;테스트 시작 전에 배수를 선택한 이유는&lt;br&gt;
-이미지 사이즈에 따라 파일 사이즈가 달라지기 때문입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;일러스트에서는 &apos;화면에 맞게 내보내기&apos;를 통하여 png, jpg 배수를 선택할 수 있습니다.&lt;br&gt;
+&apos;화면에 맞게 내보내기&apos;로 저장할 시에는 png와 jpg 품질과 옵션을 자세하게 선택하기 어렵습니다.&lt;br&gt;
+이 글에서 테스트로 선택한 배수는 원본 그대로인 1x 라서 &apos;웹용으로 내보내기&apos;를 통해 png와 jpg를 내보내기할 예정입니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;테스트 시작 전에 배수를 선택한 이유는&lt;br&gt;
+이미지 사이즈에 따라 파일 사이즈가 달라지기 때문입니다.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;hr/&gt;
 &lt;h3 id=&quot;1-피그마에서-svg-png-jpg-저장&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%ED%94%BC%EA%B7%B8%EB%A7%88%EC%97%90%EC%84%9C-svg-png-jpg-%EC%A0%80%EC%9E%A5&quot; aria-label=&quot;1 피그마에서 svg png jpg 저장 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 피그마에서 svg, png, jpg 저장&lt;/h3&gt;
@@ -153,28 +162,28 @@ png, jpg는 1x 로 원본 사이즈 그대로인 24x24로 테스트 해보려 �
 &lt;strong&gt;파일 사이즈가 변하지 않는 것&lt;/strong&gt;을 볼 수 있습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 651px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 652px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4fc408c4c8685243faf57948cdd350db/1ac66/ba1-3.png&quot;
+    href=&quot;/static/7fae13e9ed60f41551ca5549f95a2eba/dba9a/ba1-3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 33.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA7UlEQVQY03WPy27CMBBF+f+vaaWukCq1ihCtWoS6CIg44OI0gYiE+EFi43HsOkFduZyFH+N7Z64n/Ygd0WCMlpbte+t8UQNorfrLwZ+NMS5gokb8m1dgjJtyT39iVhW+mOfFkSB+TFmVC8589/tm69JkVSfRKZnR7dtVA8myIn6h+F3guWqpDSd3XSelBBhS1Q3bfZP2ImTL/ZwzFxu0o4xxTgHgn9i37ZaoQB9f0cN2GZVlY3pXk3g1f0Kf0wynbafum8e1IjFaPB/SDePD9UTWy9dHtJjVpfS9/lSBOWDQXcGcqZBK2yFa+GX3C4GNkWz8Rcx9AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 34%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA5UlEQVQY032Q3U7CQBCFef/n8MJw4SN4ISFKYiiopQ3F/i0oBXF3Wuous91Z10ZDJei5OMlM8k3OnJ79JfoytbNYHUdd2Ubac+ppraWUSik3vHMxn035MtjEE/G2FuU+ePQ487fZjG+YQn0KI+I3TFRLxeZemd5DMsKy2EudRw8Q39X5WMPK0E+WLuxI56bVIsnYy1oAuHsuVBSnKVvtOAeAM7G73xopgkH/6foiC8NaWvwQi9ur8OYymQyhVET0F9weaA4Fi4r8GfgBG9ugivyx7422r1Xbyb/wae2uaUPaUHfT1ScROpKOg7FjAQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;ba1 3&quot;
         title=&quot;ba1 3&quot;
-        src=&quot;/static/4fc408c4c8685243faf57948cdd350db/1ac66/ba1-3.png&quot;
-        srcset=&quot;/static/4fc408c4c8685243faf57948cdd350db/772e8/ba1-3.png 200w,
-/static/4fc408c4c8685243faf57948cdd350db/e17e5/ba1-3.png 400w,
-/static/4fc408c4c8685243faf57948cdd350db/1ac66/ba1-3.png 651w&quot;
-        sizes=&quot;(max-width: 651px) 100vw, 651px&quot;
+        src=&quot;/static/7fae13e9ed60f41551ca5549f95a2eba/dba9a/ba1-3.png&quot;
+        srcset=&quot;/static/7fae13e9ed60f41551ca5549f95a2eba/772e8/ba1-3.png 200w,
+/static/7fae13e9ed60f41551ca5549f95a2eba/e17e5/ba1-3.png 400w,
+/static/7fae13e9ed60f41551ca5549f95a2eba/dba9a/ba1-3.png 652w&quot;
+        sizes=&quot;(max-width: 652px) 100vw, 652px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -340,28 +349,28 @@ iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFn
 &lt;p&gt;인코딩된 PNG-8과 PNG-24 base64 코드를 다시 &lt;strong&gt;디코딩&lt;/strong&gt; 해보겠습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 647px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 654px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d461d8534a15ef8d2ce24f6d45d1e506/ca12d/ba6.png&quot;
+    href=&quot;/static/5e694d5ce8eb4c9c2540d1b69d603880/68e9c/ba6.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACHklEQVQoz52R23LaMBCGef8HaTtt79KZTtNQJg0hDQkNSQgH4wNg8Em2ZUmWLVmWVBky08NlNb7w/trV7v9tT2Nfa6X/6/QYShirpZScN6vFPNqtI3/dVtDcra1lsFmGWyvYrJSUaZo7i6dkb++dF4KyYzEXjDFTLFrp2fN89Q3a1zx6kUpvXStZXpqw9H9KwUGab5+viPcDrkeCADNtr66quu46m5eCJLU3foExwsgoBaELy80LDCFsGk5otVx7IIMFQrzhXeffDpT0n/qzy3fOw3cAcCt15oyfBm+t8XkYJIwrArznwRvr5uywcau6+btYq9CdrabDcHNASJuxYeiupld7ew2h5kJTlFiPw531kiec8SMwwWkrhGi7o1THXSnVto3RpHrdglLS5JysvcbSJKueym3Jy5NCMC5LSit2qirLkhCKSUnKSkpluBaoMAkFIoZT17mqmfkzTzHGH+5usvlXf3JG/Ym5m97fJrN+MP0czvoNo4cwtu6+wGXfn3wiYNfRro60u5m1zmGeHFyGM/O1rcSEBDunLAAneSsaQzs67CgCDKdKHGmf/B79KGf1fH872rrLKImMGB+c8fDCiEG4rxmDWXw3vLAXD/u9Z1r+s6o2Xgys6/fbxzFItVkV9MbW9Qd3MohDXnNNU88efdzcn0fblHaW1Z+r0rikAABCW4PDEKpYE6cZKpkJW6F4I2KQQ0xrpoXo8n8B4WvYllYs5IAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 62%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB7UlEQVQoz52S6W6cMBSF5/0fpEqULuobVNOkmUxSNZkVGJYBs8wCNthgvOIaqkrp317Jso7vPb72Z88Mqw3JzH/FTHJKcckYs6KCyFk9nYNfCOyMkZdrdVgvL+Er2D/xvq0b4q2fy3iV7BZtAyez0pwLzrkxA+1ZEW1Itm3zrWa4IV0RvuFsa1e0oA1pi3BDi12TriUjk1lK21YIMQyDUmqz84I4gQjSntrUZu+FMaggtDUd7V43uyTLUY24EKP57/kHOySF3o+PzvdPsRcRaiQ+eQ93zv3nJABtb/q6cB/u3IevwE8o06N5mHy2rRVayTM4XNIjrhUXRgl2AodzGpFG206cdXnsXTOAm0HKCZjmRLdnJbma4s9e40Z6lOad1HrspqcVK+08U4zwOheM2gRCtb9/K4GHTqEtKCsYuusq83PLqWsxaQNnVaVe5q9xPdEWUtNeMGZpG0w64Lw0x2UdPBqOK4QzZ4mPz024UKxFTZsdflLwgsOFoPUw0Ras7+1TDXoMxwuOqeXZYEIsCNcPk7QoIepsULp3D8WlrFDTT//iH9qKIu/+1pnf5pHf9oOlvZ9/2H67yeMjZYbCzJnfHB6/nEHMuH5vnqhIDiInCd3qymlvFKdJuIt9F0HZM8MoOfqbNIpgqadbmt9mPaFINE3gLAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;ba6&quot;
         title=&quot;ba6&quot;
-        src=&quot;/static/d461d8534a15ef8d2ce24f6d45d1e506/ca12d/ba6.png&quot;
-        srcset=&quot;/static/d461d8534a15ef8d2ce24f6d45d1e506/772e8/ba6.png 200w,
-/static/d461d8534a15ef8d2ce24f6d45d1e506/e17e5/ba6.png 400w,
-/static/d461d8534a15ef8d2ce24f6d45d1e506/ca12d/ba6.png 647w&quot;
-        sizes=&quot;(max-width: 647px) 100vw, 647px&quot;
+        src=&quot;/static/5e694d5ce8eb4c9c2540d1b69d603880/68e9c/ba6.png&quot;
+        srcset=&quot;/static/5e694d5ce8eb4c9c2540d1b69d603880/772e8/ba6.png 200w,
+/static/5e694d5ce8eb4c9c2540d1b69d603880/e17e5/ba6.png 400w,
+/static/5e694d5ce8eb4c9c2540d1b69d603880/68e9c/ba6.png 654w&quot;
+        sizes=&quot;(max-width: 654px) 100vw, 654px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -567,23 +576,23 @@ JPG로 저장할 때 품질은 &lt;code class=&quot;language-text&quot;&gt;저 �
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7d5fbf3e6ae806a44820e3fd2375d297/9516f/ba12.png&quot;
+    href=&quot;/static/0d554b99f22af94352d45e2a331aa49f/9516f/ba12.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 160.50000000000003%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAIAAACdAM/hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAFNklEQVQ4y21ViXLbNhDV/39Gp+20OXqlSZM4cXzKsiNbsg6Khy4eoniLJEiAuMguKbvTdMrhaLgAFnh4+/apJ2JDBIrgrGkaQkgYBkWeVqSEkFIaBj4pUZ4dyrKQUoZBUKAM5SlCOYS9CkUk9QnBsDoIo/HtebC8C4xBU5P4kI8GZ5n54C6uQ3dNmbgfXEar4X5x5ZsK5bIHQ5RxOKSpa1JRb6tk9iQzR02VFRjCBXyj3ZyhoGLCs5ep9ZhbI5q6sml6VVUBWkgGGEKI8XSqr80wOaRZxhibzBV1ufXCOM1ymNWWy6mihUkaHw4t7Ob41DX8yCpf37w0Ln50l2pZNayMt7evtYufIMwLITl1Ht6oX75zlGGOZC1FD5Lat0sG2nRlrCuzKABADWfUWEzV2WMSsbKENWK70pTJfeChoiW07knkSeQKwYWQ7VM3ot2n6S4hYE8m6w5Z3YU1r5v6CLWueyxe01CntIKBNM2W2jx2V6m/BRywPxyU+Vvf1OJgz7jQVSV214Glh57NBbAt6orXLUpIztB6cp3o5+H8Y8PSFOH19KZYX6bLa5JYhAljenvQL5PF59LTuWx6BGNcFpAsO9jqcrO29ocMZcA25xAaaztKMgAFsDe2uzA20SE//A/btDBuf1evXu1Ws7yktDxshm+1/m/7zTxDWHBqTz4pFy922jDNStjrObljQfJKf7xShheek5W44VVhTPrzNkSogP25pd0/3py4Wz/LW8Z6UjAooJRPVCMMyqqAVimBEVkQmhUEYMEAlINQniLSlUO2ydAYPJhDhSHinIPcWIUFo7AAgIHIYHdGCYUPKUCNnJIKlyDK9s4UBjA+su0F4bh/4ioX5uhDI/Iwye+vP0b61WZ0EpgLQsXw+jTQrq3xR289bhuj6sTdsQ1Ckd7OLOIdy33JMBznOtvMN3kZ1xwiEQX7g7/lKKhpAYf1ABughd9OnnQ2Heua4u2dEhMI1cVMVZW9a2c5gkuuQEOzyX5vQ9+0yUdpP5cKGf2X2uULd7mrWMNxshq8Xly82hk2Am1LZj68Vc5+sObQJ0dtQ073wg5w/s62fM+jFJhuxezuHNdxoF9B18BQ4HuObeES4mOpUksma5maghHZnf+sGnhk8y8ZtKV8XtDN1j2auVW0oakDs2AB6nTkmcZahTb0QOqL6ShwVuZy7rs2sLCYTXxrudUe9/amoqwH5oKpqNoy11leGI9X+eoqN85kESRZqY+uMu0L2vR57uKKq+NBop3nxjmLN/WzDWGo9hHVamubjpfmKEcI7r2xHAiTFAYQLNh5PixIUQEm1cL+1oaQ3v9FvXzhgO+UgpbJ8vbX+cXPlq4csgoqt314Nz393pwN40Ori/80BlUfB8roBoymog2neDn/CmEclBi3NmQZE+UBbDjGpCuVYBXw/GRDUErRvjABjQE44RtIOfqQ7HrlKTzakIwW0r0XRQQDcH3o8jzL89YdG1BemqYYk7yloIADwCHKsoT+BMHBbA+6DBMGdg/Jfhg/9j+k+pk3ftuQODyg8fX7VP0cKZ9TV8/L6qEP36fh9K/UnuIKSgVd0XVV65ZSmpYVeC5GGSkQ/JPYu93edeAsghEDwe29nWOVKIMFT41xfNrGoGR692kxPN1vplAMipEyPJ3fndrGKIoTztl6djMZnDja1ygKwOG+KZWo0PLrn9rgnTNXSwKNcdg8vNcHb7aTOdiQ7DxscfOHObpLk9bN/ylVc7QWx/VtNyBVLXgb7rzQtF1MwWRafuFfam06JeFd2PwNnG74q85Qf+8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 159.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAIAAACdAM/hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAFA0lEQVQ4y5VVaXOjRhTU//8huTabqqyTbLyxHV9ry5ZkSwihg1tISAIEzDAwBwzkgb21R+2XTEkuvxqY6dfdr9VrMq/BblPXzf9fPYbDItkySqHAONOU4d5SdsZzU/MUEyhjb7ZZjcLdmotKU54O9nSzHAUbU1SyJ8qK8ZIx1jR1XlBTG6buM3KGDUtRVljaENkDvJ4IHFBemtoosYfIeeLpVrY3M0aLgjMmYdX1ynJNx0MYkSwrpVyZjuluEpTkeQ77puutTBdlmJCshf0Jf9tzXVLj8WR2/dbW1BiVnByt4R+zm98sbXZMqBS58/xhevWLNX2OYlrXsld379UdYbUsnfmjMblLQyLKphLU0R71yR2KKbQFu+vlkzG5Pe4TztvHezLbV9ivuiVlVcqalu1J8L+soGwKUb+c3j3xuvtyY0/EDosszoGwhuS5pc/TvY0CEK/KSK4vVBI4obdKj0FZVqa+SPdW7JtJtAeGeqJqmJAd2/ByYSh30fJ6r/zdsDjNqDV7wMZ1ot8Ux3XBSl3pH5dXwew8268AVA+oznNCKQWQAEV3NvY2QIRijEFFw/Esbx8jgoH8qrI9f2VvU0IRwtDIV2w3FTMGf6rXbza6gjLGSWIN/5rfvdsYaopz4M8dn81ufvWWoyQlcFnvK79JYSk3av9DsEmzvClZZio32uPFYQvCtruu1lf7p76zx9kL25WQJQcDdFzKnHJoVdYNEA/s51SkhMmWbWBfUlFB2bZXyxZ2FRtlqJWlgAr+Qv+CFYJzEASOA+dVovWg4OC3CnZ5SxIB3duXOee0W4AjSdH47uwwu3SGJ41Iwxg/ffyQLC/dp/ehtyhY9XR3Hs6vvOf3oaOATD2Yp6IoWOdtAH7Y++h4EHlSccq42PleGvklzeqKA/lhsE9CKHEt2st6gK0E+UGnrk9t+jxXxzt/DZoD4IU2XmjKzndxRqDr1Xw6U8f+1kHZ9wbD7L9dXP3oGx4VTVnE9sPbxfUb39iQAnYLd/TH4vKHzVyHsmW7tXH3qYFBCbD3QRACTeA+6GK3831/y3nrIGD0cDj42y2lYPvO2zJ1ZWzK2KgYll9kUd2tzw6Q7dGvXoKy2+3xPKHpgaU7gJXibDz4GDgzS+3HwfaYIGV4HzrqejGMdmvImfHwHkLK1Qahb3MhekBiG0OiBNjA73o1SZ0RdgYyj3DO1voEWQ/Em1QkhBha69PUHmTrpxL5gAF0BrHoi1TtYFiuYbspSrIMgwZLw4LyGEcZyeAB3XLmKzNOYoTS77H9+G7670+2ph3TNobswYl69cbStChhXQydqpc/W9PxMeHfxhAEAMA21CGKiy6GmKsrxmyI03beIUtgvEx1EIfoUwzRROahFEXVxqeEaYB8bl5iqP3WYOpPhLclPPA59MvEFcFckAgKMCrIiBGOohgYgKkIDgdCSALZmyRccCghBtoyTQBMD3guGAxOiwM8qD5eHBdXwfS0KcIoIZP7f5L5+XF5mQVWlvPn+/NQu4i0c7JbMlH1ijaGciD8JT5db7P3PVZgCrNZ1VD6G5flmNMcMG/8nedanGasIN+yDamwGJ1PH86M6SCMUpYjfXwJWPTp4yGMS05N5XZyf2Yq/d3uAOP0jVRcH76ffTzZLU2SN4Iic3Q6u/29nYQcjmb2+EK9feepKkbNlze/Lgi6KMGdX1r54IcSTFrJV6NjUkTwO1S+mvw/MVn9UzItUokAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;ba12&quot;
         title=&quot;ba12&quot;
-        src=&quot;/static/7d5fbf3e6ae806a44820e3fd2375d297/9516f/ba12.png&quot;
-        srcset=&quot;/static/7d5fbf3e6ae806a44820e3fd2375d297/772e8/ba12.png 200w,
-/static/7d5fbf3e6ae806a44820e3fd2375d297/e17e5/ba12.png 400w,
-/static/7d5fbf3e6ae806a44820e3fd2375d297/9516f/ba12.png 538w&quot;
+        src=&quot;/static/0d554b99f22af94352d45e2a331aa49f/9516f/ba12.png&quot;
+        srcset=&quot;/static/0d554b99f22af94352d45e2a331aa49f/772e8/ba12.png 200w,
+/static/0d554b99f22af94352d45e2a331aa49f/e17e5/ba12.png 400w,
+/static/0d554b99f22af94352d45e2a331aa49f/9516f/ba12.png 538w&quot;
         sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -665,28 +674,28 @@ iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFn
 &lt;p&gt;다시 디코딩 하면 파일 사이즈가 0.01 KB 달라졌습니다.
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 649px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 651px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1fb2a570f283107fb51cda7ed76126c2/7762d/ba14-1.png&quot;
+    href=&quot;/static/cbd03c91ef9d2d14aab11961f955bd51/1ac66/ba14-1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 33.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAx0lEQVQY06WOuw6CQBBF/f/v0NLG1kJjfMTCxJggC8hLRJYRASEo7mNWQiwsiBaeam4mJ/f21B/0Hi1SSs450bUkPMDJlves+ZlEjzyDHq26AKWwQ67rupWFlOg55pVMKn8tLjqiCgPvQmals+KgoWDYKTcIIZpAITFtL81vNAbGWF6UGrGSNI9iqKqqo/njxtNuvJ8OyGIEZypQXa3lfto350PqWk+O32UFoe0a28iP8gwlqiwODvomdNwEOOPqh/y54mt88wLSu5LMfx3cJgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 33.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAw0lEQVQY06WQ3QqCMBhAff/niK6CHiEDoSAIBHEOfyuduulM1HLDuYbeBBlddG4+Dh+Hb0yTf6A9J4YJ6NgkdvObN3Sl2rmui0Kg9FFlUo4Lcd/3czyO8hr5BdC76DhgSylCCAO9DQ8sNaXgy5dVL4RQQih1vJDe6zTHjLG6aW3okbLKMGmadiGex/wmZOvWbgWNLY4TLiQNTmC/hsYG+aDn4ms8U6SXEJppFFdUDELWRRI45zgISMYYlz/iN8YPXfiwF86fkscuYih9AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;ba14 1&quot;
         title=&quot;ba14 1&quot;
-        src=&quot;/static/1fb2a570f283107fb51cda7ed76126c2/7762d/ba14-1.png&quot;
-        srcset=&quot;/static/1fb2a570f283107fb51cda7ed76126c2/772e8/ba14-1.png 200w,
-/static/1fb2a570f283107fb51cda7ed76126c2/e17e5/ba14-1.png 400w,
-/static/1fb2a570f283107fb51cda7ed76126c2/7762d/ba14-1.png 649w&quot;
-        sizes=&quot;(max-width: 649px) 100vw, 649px&quot;
+        src=&quot;/static/cbd03c91ef9d2d14aab11961f955bd51/1ac66/ba14-1.png&quot;
+        srcset=&quot;/static/cbd03c91ef9d2d14aab11961f955bd51/772e8/ba14-1.png 200w,
+/static/cbd03c91ef9d2d14aab11961f955bd51/e17e5/ba14-1.png 400w,
+/static/cbd03c91ef9d2d14aab11961f955bd51/1ac66/ba14-1.png 651w&quot;
+        sizes=&quot;(max-width: 651px) 100vw, 651px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -743,28 +752,28 @@ iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFn
 &lt;p&gt;다시 디코딩하면 파일 사이즈가 0.01 KB 달라졌습니다.
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 642px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dbc0b2ec27eaff89254739b15fd8aa10/1bba8/ba16.png&quot;
+    href=&quot;/static/9427941f6a137649dbe2bf60433630ba/a6d36/ba16.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 68%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB7UlEQVQoz6VSaW/TQBDN//8tSEhUnKKhJCokqUKO2o3PHI6d+N742PWxFxMXqlIi8YH3YTXrmTdv54178j/Qqzpwztu2NXUNHW2CDpykkLMs87hZpYc1x4ng/AK57gBkxvh2rSPrtnCmLDGFlM52Heq32WZCI01yKv4mE0JAmTEGF/cYqLqV5bkfBJjgGGVLVUvQKQijLMsuKD+LxV65UYevtdH7w97DFQ2tsTJ4ZYzeurael+Qf5J0+W3z/tFZXKOFMyGC3mg7f2co89htKLxnGnyBE09K8xHVLHz80lJ3ysm4opGAuOKU4Dy7OSQZhD0xumqYzjCKESFVDFdQJwYuiKEtcYkLZ2WqMcYpQlpdV3XR9xK9VQTOQvZ9NTno/s4Y8WkG1svgRqtfB/cfam4Oe50fWrH/S+qn2RVaxeHQbAK+CZt7Rt3QlT8M0PDRtGyWpqas5irLYr6sKV7Vh6OHBKVCUo/RMZh1EN4xrzR+mg70xdb1dUeLA0Rajz9uHsesYp6yoilS961vLb3t7EUYhZeyZ24K76sAYXZmTr2lAuJCRNTZGb8zxtb8JwXyCPGN8Zd592C6VirxclQzj1LS3CYL/BlpJlBXqygjiE6klPA62YNgbZ3+ElTeNeEkG9d9nF4guEH9en7JS/gRZ4xmzECxZrQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 68.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB80lEQVQoz6VS23LTMBDN//8KA2WApzJDS0tI0iRAayeNYzux42ti+SpbkmVbYm1ggLQ8sQ/S7GrP7p6zGsn/sFHTNJTSuq7BSdLM0tcYuSwPpagLXJmaipwtjj3ZkGfAnHNCyAAWeVEaD+PCHFfWRLIkL5mhzjLtqrJnAocC0oU4B0NnOMGBKTa6YeztKE49P2R1rRmmZuwjlHh+wJvmvPPPeyjJy2h/d2GMX7ircUk4w8i6e2VOXroPH3BRtm33D7DswTWrNupS/Tr37AxjyWuyURar+7lrp3kuxVPO3S9r21ZIQVldlKTthBB9cHCrVvQuJEABMfRpB8gIQkC4GfhgXB5Dn1PccSpFSygNfK/KE4oz0fb5ruPEpwCnUdfUQPRPtWWSFfbqM9avsXEt6yQt6E6dFJtLtH4vScg7aWpKsb2K1Ms2WvdjA6wsS8YYTAYTgLz2wU3TPI4RqK3vLOvgwMKTJIHXg+drugFEEEIAHP0gB0evNinWX27V5e1BV1Cc0ipfLT4q8xtzvYiiE8y4f1zez651ZRr6DqHsbFXxfvlOn7xxVtsc1Cbpbv7WmL62vilZJkGx4PHGmF7sFp9QQLvu96p6A03CEwqOqOlXKjohwyPyw4j34vfl4zRz/ZAw3qsuxOjZHy/+/obyqTtEvgPUeBq1AHusrgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;ba16&quot;
         title=&quot;ba16&quot;
-        src=&quot;/static/dbc0b2ec27eaff89254739b15fd8aa10/1bba8/ba16.png&quot;
-        srcset=&quot;/static/dbc0b2ec27eaff89254739b15fd8aa10/772e8/ba16.png 200w,
-/static/dbc0b2ec27eaff89254739b15fd8aa10/e17e5/ba16.png 400w,
-/static/dbc0b2ec27eaff89254739b15fd8aa10/1bba8/ba16.png 642w&quot;
-        sizes=&quot;(max-width: 642px) 100vw, 642px&quot;
+        src=&quot;/static/9427941f6a137649dbe2bf60433630ba/a6d36/ba16.png&quot;
+        srcset=&quot;/static/9427941f6a137649dbe2bf60433630ba/772e8/ba16.png 200w,
+/static/9427941f6a137649dbe2bf60433630ba/e17e5/ba16.png 400w,
+/static/9427941f6a137649dbe2bf60433630ba/a6d36/ba16.png 650w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -786,13 +795,33 @@ png와 jpg를 base64로 인코딩한 후 다시 디코딩하면&lt;br&gt;
 &lt;strong&gt;파일 사이즈가 변하는 것&lt;/strong&gt;을 볼 수 있습니다.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;blockquote&gt;
-&lt;p&gt;위에 준비한 이미지는 SVG 파일을 갖고 테스트 하였습니다.&lt;br&gt;
-PNG와 JPG를 일러스트와 포토샵에서 저장하고&lt;br&gt;
-인코딩한 후 다시 디코딩하였을때에도 차이가 있었습니다.&lt;br&gt;
-본문이 길어지고 복잡해져서 내용은 추가하지 않았습니다.&lt;/p&gt;
+&lt;p&gt;위에 준비한 이미지는 SVG 파일을 갖고 테스트 하였습니다.  &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr/&gt;
-&lt;h3 id=&quot;참고자료&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C&quot; aria-label=&quot;참고자료 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고자료&lt;/h3&gt;
+&lt;h3 id=&quot;5-그-외-발견&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#5-%EA%B7%B8-%EC%99%B8-%EB%B0%9C%EA%B2%AC&quot; aria-label=&quot;5 그 외 발견 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. 그 외 발견&lt;/h3&gt;
+&lt;p&gt;위에 테스트 외에 이런 경우도 파일 사이즈가 달라졌습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;아래와 같이 인코딩한 후 다시 디코딩하였을때에도 파일사이즈에 차이가 있었습니다.  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;png -&gt; 일러스트에서 파일 오픈 -&gt; jpg로 저장 -&gt; 인코딩 -&gt; 디코딩&lt;/li&gt;
+&lt;li&gt;jpg -&gt; 일러스트에서 파일 오픈 -&gt; png로 저장 -&gt; 인코딩 -&gt; 디코딩&lt;/li&gt;
+&lt;li&gt;png -&gt; 포토샵에서 파일 오픈 -&gt; jpg로 저장 -&gt; 인코딩 -&gt; 디코딩&lt;/li&gt;
+&lt;li&gt;jpg -&gt; 포토샵에서 파일 오픈 -&gt; png로 저장 -&gt; 인코딩 -&gt; 디코딩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;제가 인코딩과 디코딩을 테스트하기 위하여  사용한 사이트는 참고자료에 적어두었습니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;동일한 이미지라도 &lt;strong&gt;어떻게 저장&lt;/strong&gt;되었는지에 따라 &lt;strong&gt;파일사이즈가 달라진다&lt;/strong&gt;는 것 외에&lt;/p&gt;
+&lt;p&gt;새로 알게된 사실은  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;어떤 사이트나 어떤 방법으로&lt;/strong&gt; 인코딩하고 디코딩 하였는지에 따라 파일사이즈가 &lt;strong&gt;조금씩 차이가&lt;/strong&gt; 있다는 걸 알 수 있었습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;해당 내용은 본문이 길어지고 복잡해져서 추가하지 않았습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h3 id=&quot;6-참고자료&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#6-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C&quot; aria-label=&quot;6 참고자료 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;6. 참고자료&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://base64.guru/converter/decode/image/png&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;png decode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://base64.guru/converter/decode/file&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;jpg decode&lt;/a&gt;&lt;/li&gt;
