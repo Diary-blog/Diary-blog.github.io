@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Sep 2021 22:46:05 GMT</lastBuildDate><item><title><![CDATA[💡 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생길까]]></title><description><![CDATA[피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈가 미묘한 차이가 있습니다. 어떤 차이가 있는지 자세히 알아보겠습니다. Icon을 svg로 준비 이 글에서 테스트해볼 picture icon…]]></description><link>https://diary-blog.github.io/base64/</link><guid isPermaLink="false">https://diary-blog.github.io/base64/</guid><pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌷 | Feed]]></title><description><![CDATA[Bookmark]]></description><link>https://diary-blog.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Sep 2021 01:12:39 GMT</lastBuildDate><item><title><![CDATA[💡 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈 차이가 생길까]]></title><description><![CDATA[피그마, 일러스트, 포토샵에서 저장한 png와 jpg는 base64 인코딩과 디코딩에서 파일사이즈가 미묘한 차이가 있습니다. 어떤 차이가 있는지 자세히 알아보겠습니다. Icon을 svg로 준비 이 글에서 테스트해볼 picture icon…]]></description><link>https://diary-blog.github.io/base64/</link><guid isPermaLink="false">https://diary-blog.github.io/base64/</guid><pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -1487,139 +1487,7 @@ SVG 기본 베이직부터 애니메이션을 간단히 정리하였습니다.  
 &lt;hr/&gt;
 &lt;h2 id=&quot;전체보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;전체보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;전체보기&lt;/h2&gt;
 &lt;p&gt;이곳에서 전체 내용을 확인하실 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://fe-w.github.io/svg-basic/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://fe-w.github.io/svg-basic/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🍊 JavaScript Problem solving 자바스크립트 문제 풀이]]></title><description><![CDATA[안녕하세요! 자바스크립트 문제 풀이 앱인 Enki…]]></description><link>https://diary-blog.github.io/javascript/</link><guid isPermaLink="false">https://diary-blog.github.io/javascript/</guid><pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/393dcf9a1f5a28face1bfbf4d1cc1dad/5a190/js3.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABcklEQVQoz2NgwAFeP6tj+P//NRD/Z1i/PZVp/bpoRtsQMQZNO2aGry86GUgGF4AGgYAMEE8/X8PQuyGXYcoMd4aZ830Y3sxRIt3A81ADfYB42plS/eqV+aIzp7syzJ/vyfh2rgbpBr7eUcD0Z28Nw99D9aYXlsf9f3Ag9MH//2sF/v9fz/D5Wi4jQQOebddieLoNgp8B8bvlWcxvZ+YzvFtYHPthbsznj+sTXn7a26b/eU87w4ddmUxPt4PUaYIxiI0BnoIkoBhk+JONcgxvToWCI+Xx20l87+7s5Z0HVPfmSBrD0y3KYDXIGIcLwQYyAtk8QJrr2XZd7scbxLgerubierSeg+/JRnH2Zzv0WYByfEA1XHhdiOLl7VryQOzwdLumPZA2BwaB07Pt2rZAtjPQMBsg7QHEGs+2g3yjid2FT6E2wV26XUsCyBYDYlEgVgRiISCWAhquBKRlkL2L04UwSTh7G5S9DVXsKdRSZD4MAAAwtO2QGqQxDQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;js3&quot;
-        title=&quot;js3&quot;
-        src=&quot;/static/393dcf9a1f5a28face1bfbf4d1cc1dad/5a190/js3.png&quot;
-        srcset=&quot;/static/393dcf9a1f5a28face1bfbf4d1cc1dad/772e8/js3.png 200w,
-/static/393dcf9a1f5a28face1bfbf4d1cc1dad/e17e5/js3.png 400w,
-/static/393dcf9a1f5a28face1bfbf4d1cc1dad/5a190/js3.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;안녕하세요!&lt;br&gt;
-자바스크립트 문제 풀이 앱인 &lt;a href=&quot;https://www.enki.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Enki&lt;/a&gt;를 이용하여&lt;br&gt;
-매일매일 문제풀이 코스를 진행하고 있는 중입니다.  &lt;/p&gt;
-&lt;p&gt;하지만 문제를 풀고 답만 맞출 뿐 문제에 대한 답이 &lt;u&gt;왜 이런 결과가 나오게 되었는지&lt;/u&gt;&lt;br&gt;
-답에 대한 해석이 따로 적혀있지 않아서 제가 풀어서 해석한 내용을 기록하고자 합니다.&lt;/p&gt;
-&lt;p&gt;대부분 기초적인 내용이지만 블로그에 따로 기록하는 이유는&lt;br&gt;
-&lt;u&gt;사용되는 용어와 의미 전달을 명확하게&lt;/u&gt; 하는것을 연습하기 위해서 입니다.  &lt;/p&gt;
-&lt;p&gt;잘못된 해석이 있다면 댓글로 말씀해주시면 감사하겠습니다 :)&lt;/p&gt;
-&lt;p&gt;+  &lt;/p&gt;
-&lt;p&gt;앱에서 계속 문제를 풀다보니 풀수있는 문제가 제한적이라서&lt;br&gt;
-7월 부터 leetCode로 바꿔서 작성하려 합니다.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;js-object-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#js-object-1&quot; aria-label=&quot;js object 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;JS object 1&lt;/h2&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Q. What will be logged by the following snippet&lt;/code&gt;    &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;#39;b&amp;#39;&lt;/code&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;{foo: &amp;#39;b&amp;#39;}&lt;/code&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;{foo: &amp;#39;a&amp;#39;}&lt;/code&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;#39;a&amp;#39;&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 291px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8c30d288ca5c4f4e2a97de61dd5a240b/78805/js2.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACRklEQVQ4y42U2W7TQBSG8xRcQFovs9oz41m8x05Ktyx0gSKVoko8C+KOC8QVD8yZxIQoLSXSkWVb8/n/zz9nPEIsj4gJiQ6RgorwcBNiM0b2CJmIaFgAFVO7uY5D8fXb98vl3QgeiJyI9jqpFmmz4uUiqZekmBfGrlo5LUzraiULpyvKLXwR1r8JxI+fv1Y39yOvTC1WHRSSDUpKLJqIV4xllc6k0DzNETc8sYSBQbNx8eo1GYdyDXurEsuW6j6ijps+q86RaGNiY+osKhtSC+q25MY81GjoGRtq34ruFokJt7N2+VlNFjJxLM0tLk5IY1SJmbcd7XxigH2to4J4gkiBSIBUgDJYHa7jxNjGxOyK/4VDlKn+Nu1ukvqdsLPq/K67/iLLM6NyztwpnpzhtsjqiPxDGdoD8YhYTA0ihvjwCkS9GoaXxJLEiz8P42yaVnPiTomZIX3CEydlEWD91O0TGGuiepZfUAvwCVZ9khZSAPw8tq8cxj4tquqY6gjDhOnwRXIXtpAZyybV/L67ekRpFWL9MrkXmIUOob2Yuf9i+3Dt6kyV3uoBmgOMWb5pT8lcivJAbIBjmsOuQLZHKAsO1hxgOAmgCaN7jPyWbj1vovbj+Sfz8Nnx9LZRBlgQq3VacOg1HIOjePgBHMMxhpljMGE6IHrHNrGJ7avL+3r+qVk+VBcfm8WD0s15JT70YtUV72fZVacbVzaumZYTkbptd14Z8Zyqloga9hmuMCeEO8p1obWWRiRGpt4I4w5+DJS5bSO/Aa/jyyJe2lIDAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;js2&quot;
-        title=&quot;js2&quot;
-        src=&quot;/static/8c30d288ca5c4f4e2a97de61dd5a240b/78805/js2.png&quot;
-        srcset=&quot;/static/8c30d288ca5c4f4e2a97de61dd5a240b/772e8/js2.png 200w,
-/static/8c30d288ca5c4f4e2a97de61dd5a240b/78805/js2.png 291w&quot;
-        sizes=&quot;(max-width: 291px) 100vw, 291px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.instagram.com/p/CO5S8WKg3X_/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;풀이 영상 보러가기 (1m 26s)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br style=&quot;margin-bottom: 50px&quot;&gt; &lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;풀이&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;1&lt;/u&gt;&lt;br&gt;
-let 키워드로 선언한 변수는 값이 변경될 수 있습니다.&lt;br&gt;
-만약 foo의 값을 변경하고 싶다면&lt;br&gt;
-bar 함수의 스코프 안에서 foo = &quot;c&quot; 값을 넣어주면 됩니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; foo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;foo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  foo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;c&quot;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; foo &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// { foo: &quot;c&quot; }&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;u&gt;2&lt;/u&gt;&lt;br&gt;
-this가 가리키는 것이 전역변수인지 지역변수인지를 먼저 알아야 합니다.  &lt;/p&gt;
-&lt;p&gt;일반 함수 내부에서 this를 호출했으므로&lt;br&gt;
-여기서 this는 전역 객체인 window를 가리킵니다.&lt;br&gt;
-따라서 this.foo는 window.foo를 가리킵니다.&lt;/p&gt;
-&lt;p&gt;let으로 선언된 foo와 this의 foo는&lt;br&gt;
-서로 다른 메모리 주소에 저장된 값을 가리키는 변수이므로&lt;br&gt;
-서로 다른 변수입니다.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;3&lt;/u&gt;  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(이부분 설명 정정했습니다.)&lt;br&gt;
-영상에 잘못 설명한 부분이 있습니다.&lt;br&gt;
-콘솔에 함수를 호출했을때 변수와 값을 리턴하는건데&lt;br&gt;
-키 밸류 라고 적은 부분을 정정합니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;return { foo }; 는 객체 리터럴 안에 foo 변수를 담아 리턴합니다.&lt;br&gt;
-객체(Object)는 키key와 value로 구성되어 있습니다.&lt;/p&gt;
-&lt;p&gt;bar() 함수 스코프 안에 선언된 foo 라는 변수가&lt;br&gt;
-프로퍼티로 추가된 객체{ 변수 : 값 }이 최종 리턴으로 내보내집니다.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;4. etc&lt;/u&gt;&lt;br&gt;
-만약 변수를 출력하지 않고 값인 &apos;b&apos; 만 출력하고 싶다면&lt;br&gt;
-객체 리터럴인 { } 에 담지 않고 return foo; 로 리턴하면 됩니다.&lt;br&gt;
-그럼 bar() 함수를 호출했을때 &apos;b&apos; 가 출력됩니다.&lt;/p&gt;
-&lt;p&gt;그리고 전역스코프에서 console.log( foo );를 실행하면&lt;br&gt;
-여기서의 foo는 함수안에 선언된 지역 변수인 foo가 아니라&lt;br&gt;
-전역변수인 window.foo 이므로 &apos;a&apos;가 출력됩니다.&lt;/p&gt;
-&lt;p&gt;window.foo 인 &apos;a&apos;가 bar() 함수의 아규먼트로 들어가더라도&lt;br&gt;
-실제 함수 bar는 파라미터를 갖고있지 않으므로&lt;br&gt;
-아규먼트로 넘겨진 foo는 무시됩니다.&lt;/p&gt;
-&lt;p&gt;그럼 원래대로 return foo;가 실행됩니다.&lt;br&gt;
-여기서의 foo는 마찬가지로 지역변수인 foo, 즉 &apos;b&apos; 입니다.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;5. etc&lt;/u&gt;&lt;br&gt;
-만약 {foo: &apos;a&apos;}를 출력하고 싶다면&lt;br&gt;
-this.foo를 this.foo1로 바꿔서 return에 foo1을 리턴하면&lt;br&gt;
-객체에 foo1이 담겨서 리턴됩니다.&lt;/p&gt;
-&lt;p&gt;여기서 foo1은 지역스코프에서 찾아지지 않기 때문에&lt;br&gt;
-전역 스코프까지 찾아가서 window.foo1을 참조했다고 볼 수 있습니다.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;정답&lt;/code&gt;&lt;br&gt;
-&lt;code class=&quot;language-text&quot;&gt;2. {foo: &amp;#39;b&amp;#39;}&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://fe-w.github.io/svg-basic/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://fe-w.github.io/svg-basic/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🍑 Dev, JS Article 자료 번역]]></title><description><![CDATA[안녕하세요. Dev.to 상위 아티클 관련 내용을 블로그에 따로 기록해두려 합니다. 이곳에 앞으로 리스트를 계속 업데이트 할 예정 입니다. 📝 List 다음 프로젝트를 위한 15 가지 무료 React 템플릿 당신이 알아야 할 유용한 VS Code…]]></description><link>https://diary-blog.github.io/devto/</link><guid isPermaLink="false">https://diary-blog.github.io/devto/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -6713,4 +6581,53 @@ preventDefault()를 사용하면 페이지가 다시 로드되지 않음&lt;/p&g
 &lt;li&gt;&lt;a href=&quot;https://ko.javascript.info/optional-chaining&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;옵셔널 체이닝&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://reactjs-kr.firebaseapp.com/docs/fragments.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;React.Fragment&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://velog.io/@ashnamuh/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-rest-spread-%EB%AC%B8%EB%B2%95%EA%B3%BC-destructuring&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;자바스크립트 rest, spread 문법과 destructuring&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[✒️ JavaScript Object (Basic)]]></title><description><![CDATA[Objects in JavaScript JavaScript object is an entity having state and behavior (properties and method). JavaScript is an object-based…]]></description><link>https://diary-blog.github.io/js-object/</link><guid isPermaLink="false">https://diary-blog.github.io/js-object/</guid><pubDate>Sat, 02 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;objects-in-javascript&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objects-in-javascript&quot; aria-label=&quot;objects in javascript permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objects in JavaScript&lt;/h2&gt;
+&lt;p&gt;JavaScript object is an entity having state and behavior&lt;br&gt;
+(properties and method).&lt;br&gt;
+JavaScript is an object-based language.&lt;br&gt;
+Everything is an object in JavaScript&lt;/p&gt;
+&lt;p&gt;This is in the form of &quot;key : value&quot; pair&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; coffee &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  name&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  size&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token string&quot;&gt;&quot;Tall&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  hotcold&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;cold&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;objects-can-be-created-in-3-different-ways&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objects-can-be-created-in-3-different-ways&quot; aria-label=&quot;objects can be created in 3 different ways permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objects can be created in 3 different ways&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;By object literal  &lt;/li&gt;
+&lt;li&gt;By creating instance of Object directly  &lt;/li&gt;
+&lt;li&gt;By using an object constructor  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-javascript-object-by-object-literal&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-javascript-object-by-object-literal&quot; aria-label=&quot;1 javascript object by object literal permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[1] Javascript Object by object literal&lt;/h3&gt;
+&lt;p&gt;리터럴 배열을 이용한 오브젝트 생성&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;coffee &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  id&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  name&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  price&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6000&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;2-by-creating-instance-of-object&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-by-creating-instance-of-object&quot; aria-label=&quot;2 by creating instance of object permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[2] By creating instance of Object&lt;/h3&gt;
+&lt;p&gt;The syntax of creating object directly is&lt;br&gt;
+new 생성자를 이용한 오브젝트 생성&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; coffee &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; coffee&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;3-using-constructor&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-using-constructor&quot; aria-label=&quot;3 using constructor permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[3] Using constructor&lt;/h3&gt;
+&lt;p&gt;In this you need to create function with arguments.&lt;br&gt;
+Each argument value can be assigned in the current object by using this keyword.&lt;br&gt;
+함수를 선언하여 new생성자로 생성한 오브젝트에 인자를 전달&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;coffee&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;id&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; price&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; id&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; price&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+c &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;coffee&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mocha&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;id &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;price&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
