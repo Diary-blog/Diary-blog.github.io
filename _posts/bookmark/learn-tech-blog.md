@@ -9,8 +9,10 @@ tags:
   - TechStory
 keywords: TechBlog, TechStory
 read: Random
-cover: ./img/tb1.png
+cover: ./img/tb2.png
 ---
+
+![](img/tb3.png)
 
 ## 📄 Tech Blog
 

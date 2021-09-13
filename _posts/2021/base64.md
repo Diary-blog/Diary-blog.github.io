@@ -11,10 +11,10 @@ tags:
   - story
 keywords: story, Frontend, Developer, JS, CSS, jpg, png
 read: 2m 10s
-cover: ./img/ic0.png
+cover: ./img/ic0-1.png
 ---
 
-![](img/ic0-1.png)
+![](img/ic0-2.png)
 
 
 피그마, 일러스트, 포토샵에서 저장한 png와 jpg는  
@@ -43,7 +43,11 @@ svg는 벡터파일이라서 배수를 선택하는 항목은 없고,
 png, jpg는 1x 로 원본 사이즈 그대로인 24x24로 테스트 해보려 합니다.
 ![](img/ba1-1.png)
 
-> 테스트 시작 전에 배수를 선택한 이유는  
+> - 일러스트에서는 '화면에 맞게 내보내기'를 통하여 png, jpg 배수를 선택할 수 있습니다.  
+> '화면에 맞게 내보내기'로 저장할 시에는 png와 jpg 품질과 옵션을 자세하게 선택하기 어렵습니다.  
+> 이 글에서 테스트로 선택한 배수는 원본 그대로인 1x 라서 '웹용으로 내보내기'를 통해 png와 jpg를 내보내기할 예정입니다.
+
+> - 테스트 시작 전에 배수를 선택한 이유는  
 > 이미지 사이즈에 따라 파일 사이즈가 달라지기 때문입니다.
 
 <hr/>
@@ -76,7 +80,6 @@ iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNS
 **파일 사이즈가 변하지 않는 것**을 볼 수 있습니다.
 
 ![](img/ba1-3.png)
-
 
 <hr/>
 
@@ -278,7 +281,42 @@ png와 jpg를 base64로 인코딩한 후 다시 디코딩하면
 **파일 사이즈가 변하는 것**을 볼 수 있습니다.
 
 > 위에 준비한 이미지는 SVG 파일을 갖고 테스트 하였습니다.  
-> PNG와 JPG를 일러스트와 포토샵에서 저장하고  
-> 인코딩한 후 다시 디코딩하였을때에도 차이가 있었습니다.  
-> 본문이 길어지고 복잡해져서 내용은 추가하지 않았습니다.
+> 
+
+<hr/>
+
+### 5. 그 외 발견
+
+위에 테스트 외에 이런 경우도 파일 사이즈가 달라졌습니다.
+
+1. 아래와 같이 인코딩한 후 다시 디코딩하였을때에도 파일사이즈에 차이가 있었습니다.  
+
+> - png -> 일러스트에서 파일 오픈 -> jpg로 저장 -> 인코딩 -> 디코딩
+> - jpg -> 일러스트에서 파일 오픈 -> png로 저장 -> 인코딩 -> 디코딩
+> - png -> 포토샵에서 파일 오픈 -> jpg로 저장 -> 인코딩 -> 디코딩
+> - jpg -> 포토샵에서 파일 오픈 -> png로 저장 -> 인코딩 -> 디코딩
+
+
+2. 제가 인코딩과 디코딩을 테스트하기 위하여  사용한 사이트는 참고자료에 적어두었습니다.
+
+동일한 이미지라도 **어떻게 저장**되었는지에 따라 **파일사이즈가 달라진다**는 것 외에
+
+새로 알게된 사실은  
+
+**어떤 사이트나 어떤 방법으로** 인코딩하고 디코딩 하였는지에 따라 파일사이즈가 **조금씩 차이가** 있다는 걸 알 수 있었습니다.
+
+> 해당 내용은 본문이 길어지고 복잡해져서 추가하지 않았습니다.
+
+
+<hr/>
+
+### 6. 참고자료
+
+- [png decode](https://base64.guru/converter/decode/image/png)
+- [jpg decode](https://base64.guru/converter/decode/file)
+
+- [png encode](https://codebeautify.org/png-to-base64-converter)
+- [jpg encode](https://onlinejpgtools.com/convert-jpg-to-base64)
+
+
 

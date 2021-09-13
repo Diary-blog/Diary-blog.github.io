@@ -147,5 +147,3 @@ cover: ./img/dst1.png
 
 ### [원래 모든 디자이너는 제너럴리스트였다](https://brunch.co.kr/@outlines/52)
 
-
-

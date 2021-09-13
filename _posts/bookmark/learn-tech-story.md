@@ -9,8 +9,10 @@ tags:
   - TechStory
 keywords: TechBlog, TechStory
 read: Random
-cover: ./img/ths4.png
+cover: ./img/ths5.png
 ---
+
+![](img/ths6.png)
 
 ## 📄 Tech storys
 
@@ -304,3 +306,8 @@ cover: ./img/ths4.png
 
 ### [Slidev - 개발자를 위한 발표자료 작성 도구](https://news.hada.io/topic?id=4232)
 
+### [개발자의 팀워크](https://soojin.ro/blog/teamwork)
+
+### [절판된 개발서적 합법적으로 구하는 방법](https://okky.kr/article/1016313)
+
+### [질문하는 방법](https://positivemh.tistory.com/297)

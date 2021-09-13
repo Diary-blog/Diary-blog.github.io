@@ -9,12 +9,10 @@ tags:
   - marketing
 keywords: motivation, Learn, startup
 read: Random
-cover: ./img/ls.png
+cover: ./img/ls1.png
 ---
 
-|   |   |
-|:---:|:---:|  
-|**[🔥 Learn 배움, 학습, 성장, 동기부여](./learn-startup)**|**[🚀 StartUp 스타트업, 조직문화, 기획](./#-startup)**|
+![](img/ls2.png)
 
 ## 📄 Learn
 
@@ -92,6 +90,25 @@ cover: ./img/ls.png
 
 ### [프로덕트 매니저의 커리어 성장에 대한 고찰](https://brunch.co.kr/@fromjayden/10)
 
+### [GTD 일처리(할일) 관리시스템이란? #2/ 일거리의 가공방법](https://nmain.tistory.com/84)
+
+### [문제해결의 3단계 접근방법](https://brunch.co.kr/@hvnpoet/14)
+
+### [이력서 작성 체크리스트](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
+
+### [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
+
+### [성장에 은탄환은 없다](https://so-so.dev/essay/no-silver-bullet/)
+<details><summary> └  📝 </summary>
+
+- 중요한 것은 ‘내가 생각하는 성장 단계’가 무엇인지 나만의 관점을 가지는 것
+- 다른 사람이 쉽게 프로젝트를 파악하려면 어떤 것들이 필요할까
+- 목표는 크게, 자세는 겸손하게
+- 멍청한 질문은 없으며, 오히려 그 질문에 답변하는 시간을 통해 한 번 더 정리할 수 있는 시간을 가질 수 있다.
+
+</details>
+
+
 ### [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 <details><summary> └  📝 </summary>
 
@@ -105,13 +122,14 @@ cover: ./img/ls.png
 
 </details>
 
-### [성장에 은탄환은 없다](https://so-so.dev/essay/no-silver-bullet/)
+### [달인이되는 비결](http://agile.egloos.com/m/5612585)
 <details><summary> └  📝 </summary>
 
-- 중요한 것은 ‘내가 생각하는 성장 단계’가 무엇인지 나만의 관점을 가지는 것
-- 다른 사람이 쉽게 프로젝트를 파악하려면 어떤 것들이 필요할까
-- 목표는 크게, 자세는 겸손하게
-- 멍청한 질문은 없으며, 오히려 그 질문에 답변하는 시간을 통해 한 번 더 정리할 수 있는 시간을 가질 수 있다.
+특정 영역에서 꾸준한 반복을 통해
+실력을 향상시키고 싶은 사람이라면
+1. 실력을 개선하려는 동기가 있어야 하고
+2. 구체적인 피드백을
+     적절한 시기에 받을 수 있는 상황을 찾아야 함
 
 </details>
 
@@ -146,29 +164,15 @@ cover: ./img/ls.png
 
 </details>
 
-### [GTD 일처리(할일) 관리시스템이란? #2/ 일거리의 가공방법](https://nmain.tistory.com/84)
-
-### [문제해결의 3단계 접근방법](https://brunch.co.kr/@hvnpoet/14)
-
-### [달인이되는 비결](http://agile.egloos.com/m/5612585)
-<details><summary> └  📝 </summary>
-
-특정 영역에서 꾸준한 반복을 통해
-실력을 향상시키고 싶은 사람이라면
-1. 실력을 개선하려는 동기가 있어야 하고
-2. 구체적인 피드백을
-     적절한 시기에 받을 수 있는 상황을 찾아야 함
-
-</details>
-
-### [이력서 작성 체크리스트](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
-
-### [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
 
 
 
 <br/>
 <hr>
+
+
+
+
 
 
 ## 📄 Startup
@@ -467,3 +471,12 @@ CCPM(Critical Chain Project Management),
 ### [The largest collection of startup pitch decks. 600+ decks from the world's best startups.](https://starthouse.xyz/)
 
 ### [실리콘 밸리의 나이 많은 사람들’을 소개](https://ppss.kr/archives/220455)
+
+### [IR 자료에 이 내용이 들어가면 투자자가 감동합니다](https://platum.kr/archives/167388)
+
+### [PitchDeckHunt](https://www.pitchdeckhunt.com/)
+
+### [자만심](https://www.thestartupbible.com/2021/08/the-fine-line-between-confidence-and-arrogance.html)
+
+### [창의성에는 왕도가 있다](https://brunch.co.kr/@soho-works/83)
+

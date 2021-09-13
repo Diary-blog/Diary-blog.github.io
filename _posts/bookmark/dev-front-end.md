@@ -8,8 +8,10 @@ tags:
   - interview
 keywords: front-end, interview
 read: Random
-cover: ./img/fe1.png
+cover: ./img/fe2.png
 ---
+
+![](img/fe3.png)
 
 ## 📄 Front-End
 
@@ -130,3 +132,14 @@ cover: ./img/fe1.png
 
 ### [Github actions로 리액트 자동배포하기(S3, EC2, Code Deploy, Centos, Nginx, React.js)](https://namunamu1105.medium.com/github-actions%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9E%90%EB%8F%99%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-s3-ec2-code-deploy-centos-nginx-react-js-e6f54a6e69bc)
 
+### [HTML을 정규 표현식만으로 파싱할 수 있을까(정규식의 한계)](https://evan-moon.github.io/2021/05/07/why-regexp-called-regexp/)
+
+### [headless UI](https://jbee.io/react/headless-concept/)
+
+### [dev.to처럼 포스팅 제목을 서버에서 이미지로 만들어 주는 방법](https://nabigraphics.medium.com/dev-to%EC%B2%98%EB%9F%BC-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-link-preview-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%84%A3%EC%96%B4%EB%B3%B4%EC%9E%90-ec9157a1ce8f)
+
+### [웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)
+
+### [three.js in Next.js](https://pr-o.medium.com/three-js-in-next-js-73d65c2dedb6)
+
+### [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=mar2-2017)

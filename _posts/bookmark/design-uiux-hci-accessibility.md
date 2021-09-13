@@ -256,5 +256,9 @@ cover: ./img/ac.png
 
 ### [10 Distinctive Features of Japanese-Style Web Design](https://designmodo.com/japanese-web-design/)
 
+### [구글의 HEART 프레임 워크로 UX 향상하기](https://brunch.co.kr/@blackindigo-red/14)
+
+### [화면 정의와 기능 정의 3부, 유용한 상세 가이드 꿀팁](https://yozm.wishket.com/magazine/detail/901/)
 
 
+### [HCI, Interaction, UX](https://subinium.github.io/introduction-to-hci-1/)

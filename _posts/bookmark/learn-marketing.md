@@ -1,19 +1,22 @@
 ---
-title: 📊 Marketing, AD, GA, SEO
+title: 📊 Data, Marketing, AD, GA, SEO
 date: 2020-04-27
-update: 2021-04-20
+update: 2021-09-13
 tags:
   - learn
-  - marketing
+  - Data
+  - Marketing
   - AD
   - GA
   - SEO
-keywords: Marketing, AD, GA, SEO
+keywords: Data, Marketing, AD, GA, SEO
 read: Random
-cover: ./img/mk.png
+cover: ./img/mk1.png
 ---
 
-## 📄 Marketing, AD, GA, SEO
+![](img/mk2.png)
+
+## 📄 Data, Marketing, AD, GA, SEO
 
 ### [Amazon의 광고방식](https://brunch.co.kr/@bizspring/24)
 <details><summary> └  📝 </summary>
@@ -178,7 +181,11 @@ cover: ./img/mk.png
 
 ### [이메일의 끝, 푸터를 마케팅 영역으로 활용하는 방법](https://blog.stibee.com/%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%98-%EB%81%9D-%ED%91%B8%ED%84%B0%EB%A5%BC-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%98%81%EC%97%AD%EC%9C%BC%EB%A1%9C-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5119576ca61)
 
+### [데이터 기반의 프로덕트 기획 및 개선](https://famelee.oopy.io/company/may-i)
 
 
+### [그래프 종류 : 데이터 시각화 속에 숨견진 그래프](https://www.finereport.com/kr/%ea%b7%b8%eb%9e%98%ed%94%84-%ec%a2%85%eb%a5%98-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%9c%ea%b0%81%ed%99%94-%ec%86%8d%ec%97%90-%ec%88%a8%ea%b2%ac%ec%a7%84-%ea%b7%b8%eb%9e%98%ed%94%84/)
+
+### [데이터 분석에 필수적인 5 가지 마인드](https://brunch.co.kr/@04925bf0d77f43e/3)
 
 

@@ -1,20 +1,24 @@
 ---
-title: 🎨 CSS
+title: 🎨 Graphics, CSS, Webgl, Opengl, Shader
 date: 2020-06-12
 update: 2021-04-20
 tags:
   - dev
   - front-end
   - css
+  - graphics
+  - webgl
+  - opengl
+  - Shader
   - svg
   - scss
   - styled-components
-keywords: css, scss, sass, styled-components, svg, animation
-read: 3m 10s
-cover: ./img/css.png
+keywords: css, scss, sass, styled-components, svg, animation, graphics, webgl, opengl, shader, threejs
+read: 1m 10s
+cover: ./img/gr1.png
 ---
 
-
+![](img/gr2.png)
 
 ## 📄 CSS
 
@@ -43,3 +47,7 @@ cover: ./img/css.png
 ### [야무님의 SVG Gitbook](https://a11y.gitbook.io/graphics-aria/svg-graphics)
 
 ### [CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
+
+### [스크린리더에서 content=''는 읽힌다](http://blog.hivelab.co.kr/%EA%B3%B5%EC%9C%A0before%EC%99%80after-%EA%B7%B8%EB%93%A4%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94)
+
+## 📄 Graphics, Webgl, Opengl, Shader

@@ -56,4 +56,6 @@ cover: ./img/dr.png
 
 ### [2019 가장 트렌디한 PPT 디자인 + 무료 소스](https://simplep.net/2019-ppt-design-trend-and-freebies/)
 
+### [웹디자이너를 위한 100가지 UI/UX 리소스](https://the-webdesigner.co/100-ui-ux-resources-for-web-designers)
 
+### [디자인 북마크 아카이브](https://xinkiru.notion.site/DesignMark-ee10738b91f144b9834c99abe85d471f)

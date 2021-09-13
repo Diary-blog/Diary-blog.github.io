@@ -15,7 +15,7 @@ tags:
   - Design resource
 keywords: Design, UI, UX
 read: Random
-cover: ./img/ds.png
+cover: ./img/ds1.png
 ---
 
 ## 📄 Design System
@@ -66,7 +66,7 @@ cover: ./img/ds.png
 
 ### [Zomato design system (2018)](https://uxdesign.cc/developing-the-zomato-design-system-438357188904)
 
-### 라인 아토믹 디자인 (3단계)
+### Line 아토믹 디자인 (3단계)
 <details><summary> └  🔗 </summary>
 
 - [영상](https://youtu.be/33yj-Q5v8mQ)
@@ -78,13 +78,20 @@ cover: ./img/ds.png
 
 ### [쏘카 디자인 시스템 구축 과정](https://tech.socarcorp.kr/design/2020/06/23/socar-design-system-01.html)
 
-### [Planning, designing, and developing Design Systems](https://uxdesign.cc/design-systems-4baa50172c5d?gi=465a109b2198)
-
 ### [쏘카의 디자인 시스템 맛보기](https://tech.socarcorp.kr/design/2020/06/23/socar-design-system-01.html)
+
+### [Planning, designing, and developing Design Systems](https://uxdesign.cc/design-systems-4baa50172c5d?gi=465a109b2198)
 
 ### [멜론 Admin 2.0 개편 프로젝트](https://brunch.co.kr/@design-melon/83#comment)
 
+### [Design Systems Gallery A to Z](https://designsystemsrepo.com/design-systems/)
 
+### [아우디 Audi 브랜드 가이드라인](https://www.audi.com/ci/en/intro/brand-appearance.html)
 
+### [Sparkbox의 2021년 디자인시스템 가이드 조사](https://designsystemssurvey.seesparkbox.com/2021/)
 
+### [Class 101 디자인시스템 (figma)](https://www.figma.com/community/file/995265899930701059)
 
+### [channel io design system](https://github.com/channel-io/bezier-react)
+
+### [스타트업의 디자인 시스템 구축 과정](https://present.do/decks/611317112bbbe81f6f83f31b)

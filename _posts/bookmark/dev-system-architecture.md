@@ -1,5 +1,5 @@
 ---
-title: 🧩 System architecture
+title: ⚖️ System architecture
 date : 2020-06-12
 update: 2021-04-20
 tags:
@@ -12,13 +12,8 @@ tags:
   - tech
 keywords: Algorithm, DB, SQL, Cloud, System architecture
 read: Random
-cover: ./img/sa.png
+cover: ./img/sa1.png
 ---
-
-|   |   |
-|:---:|:---:|  
-|**[🧶 Algorithm](./#-algorithm)**|**[📦 Database, SQL](./#-database-sql)**|
-|**[☁️ Cloud, deploy](./#-cloud-deploy)**|**[🧩 System architecture](./#-system-architecture)**|
 
 
 ## 📄 Algorithm
@@ -200,7 +195,7 @@ cover: ./img/sa.png
 
 ### [web architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
-
+### [대규모 인프라를 운영하기 위한 15가지 정보](https://brunch.co.kr/@topasvga/1510)
 
 
 
